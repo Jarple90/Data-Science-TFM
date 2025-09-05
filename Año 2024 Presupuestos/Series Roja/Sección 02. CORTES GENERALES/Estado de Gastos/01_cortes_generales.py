@@ -5,5 +5,8 @@ ruta = r"R:\Data Science TFM\Año 2024 Presupuestos\Series Roja\Sección 02. COR
 # Leer el CSV con punto y coma como separador
 df = pd.read_csv(ruta, encoding="latin1", sep=";")
 
-# Mostrar las primeras filas con alineación de columnas
-print(df.to_string(index=False))
+# Reemplazar los NaN
+df.fillna('', inplace=True)  # Los NaN se convierten en celdas vacías
+
+# Mostrar las primeras filas
+print(df.head())

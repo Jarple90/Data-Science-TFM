@@ -1,38 +1,38 @@
-Capítulo;Concepto;Importe (miles Euros);Importe (euros)
-10;Altos cargos;2.232,23;2.232.230,00
-11;Personal eventual;1.218,48;1.218.480,00
-12;Funcionarios;15.679,35;15.679.350,00
-13;Laborales;935,23;935.230,00
-15;Incentivos al rendimiento;234,38;234.380,00
-151;Gratificaciones;234,38;234.380,00
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;952,93;952.930,00
-16000;L Seguridad Social;703,81;703.810,00
-16200;L Formación y perfeccionamiento del personal;109,79;109.790,00
-16204;L Acción social;129,17;129.170,00
-—;TOTAL GASTOS DE PERSONAL;21.252,60;21.252.600,00
-20;Arrendamientos y cánones;31,88;31.880,00
-202;Arrendamientos de edificios y otras construcciones;20;20.000,00
-21;Reparaciones, mantenimiento y conservación;799;799.000,00
-22;Material, suministros y otros;5.524,68;5.524.680,00
-22502;L Locales;149;149.000,00
-22601;L Atenciones protocolarias y representativas;69;69.000,00
-23;Indemnizaciones por razón del servicio;232,4;232.400,00
-24;Gastos de publicaciones;70,9;70.900,00
-—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;6.658,86;6.658.860,00
-35;Intereses de demora y otros gastos financieros;3;3.000,00
-359;Otros gastos financieros;3;3.000,00
-—;TOTAL GASTOS FINANCIEROS;3;3.000,00
-48;A familias e instituciones sin fines de lucro;1.321,54;1.321.540,00
-480;Pensión exPresidentes del Tribunal Constitucional (Ley 21/86);134,29;134.290,00
-481;Remuneraciones de transición Magistrados (art. 25.1 Ley Orgánica del TC, 2/1979, de 3 de octubre);904,05;904.050,00
-482;A la Asociación de Letrados del Tribunal Constitucional;18;18.000,00
-487;Becas formación;259,2;259.200,00
-488;"Premio ""Tomás y Valiente""";6;6.000,00
-49;Al exterior;2;2.000,00
-490;Cuota a la Conferencia Mundial de Justicia Constitucional;2;2.000,00
-—;TOTAL TRANSFERENCIAS CORRIENTES;1.323,54;1.323.540,00
-6;Inversiones reales;1.200,00;1.200.000,00
-83;Concesión de préstamos fuera del Sector Público;48;48.000,00
-830;Préstamos a corto plazo;48;48.000,00
-—;TOTAL ACTIVOS FINANCIEROS;48;48.000,00
-—;TOTAL TRIBUNAL CONSTITUCIONAL / Control Constitucional;30.486,00;30.486.000,00
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+04.01;10;Altos cargos;2.232,23;2.232.230,00
+04.01;11;Personal eventual;1.218,48;1.218.480,00
+04.01;12;Funcionarios;15.679,35;15.679.350,00
+04.01;13;Laborales;935,23;935.230,00
+04.01;15;Incentivos al rendimiento;234,38;234.380,00
+04.01;151;Gratificaciones;234,38;234.380,00
+04.01;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;952,93;952.930,00
+04.01;16000;Seguridad Social;703,81;703.810,00
+04.01;16200;Formación y perfeccionamiento del personal;109,79;109.790,00
+04.01;16204;Acción social;129,17;129.170,00
+04.01;20;Arrendamientos y cánones;31,88;31.880,00
+04.01;202;Arrendamientos de edificios y otras construcciones;20;20.000,00
+04.01;21;Reparaciones, mantenimiento y conservación;799;799.000,00
+04.01;22;Material, suministros y otros;5.524,68;5.524.680,00
+04.01;22502;Locales;149;149.000,00
+04.01;22601;Atenciones protocolarias y representativas;69;69.000,00
+04.01;23;Indemnizaciones por razón del servicio;232,4;232.400,00
+04.01;24;Gastos de publicaciones;70,9;70.900,00
+04.01;35;Intereses de demora y otros gastos financieros;3;3.000,00
+04.01;359;Otros gastos financieros;3;3.000,00
+04.01;48;A familias e instituciones sin fines de lucro;1.321,54;1.321.540,00
+04.01;480;Pensión exPresidentes del Tribunal Constitucional (Ley 21/86);134,29;134.290,00
+04.01;481;Remuneraciones de transición Magistrados (art. 25.1 LOTC);904,05;904.050,00
+04.01;482;A la Asociación de Letrados del Tribunal Constitucional;18;18.000,00
+04.01;487;Becas formación;259,2;259.200,00
+04.01;488;"Premio ""Tomás y Valiente""";6;6.000,00
+04.01;49;Al exterior;2;2.000,00
+04.01;490;Cuota a la Conferencia Mundial de Justicia Constitucional;2;2.000,00
+04.01;6;Inversiones reales;1.200,00;1.200.000,00
+04.01;83;Concesión de préstamos fuera del Sector Público;48;48.000,00
+04.01;830;Préstamos a corto plazo;48;48.000,00
+04.01;—;Total Tribunal Constitucional;30.486,00;30.486.000,00
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;

@@ -1,69 +1,69 @@
-Unidad Orgánica;Explicación;Importe (miles euros);Importe (Euros)
-02.01;Funcionarios;51.525,12;51.525.120,00
-02.01;Incentivos al rendimiento;90;90.000,00
-02.01;Productividad;90;90.000,00
-02.01;Cuotas, prestaciones y gastos sociales;13.855,00;13.855.000,00
-02.01;Arrendamientos y cánones;0,64;640
-02.01;Material, suministros y otros;2.562,93;2.562.930,00
-02.01;Indemnizaciones por razón del servicio;151;151.000,00
-02.01;Gastos de publicaciones;172,3;172.300,00
-02.01;Intereses de depósitos;3,5;3.500,00
-02.01;A familias e instituciones sin fines de lucro;2.992,36;2.992.360,00
-02.01;Al exterior;700;700.000,00
-02.01;Total Cortes Generales;72.052,85;72.052.850,00
-02.02;Altos cargos;22.371,60;22.371.600,00
-02.02;Personal eventual;13.197,50;13.197.500,00
-02.02;Funcionarios;1.968,60;1.968.600,00
-02.02;Laborales;6.192,40;6.192.400,00
-02.02;Productividad;100;100.000,00
-02.02;Cuotas, prestaciones y gastos sociales;6.624,00;6.624.000,00
-02.02;Arrendamientos y cánones;505,05;505.050,00
-02.02;Reparaciones, mantenimiento y conservación;6.135,20;6.135.200,00
-02.02;Material, suministros y otros;27.777,55;27.777.550,00
-02.02;Indemnizaciones por razón del servicio;10.571,50;10.571.500,00
-02.02;Gastos de publicaciones;428,7;428.700,00
-02.02;Intereses de depósitos;4;4.000,00
-02.02;A familias e instituciones sin fines de lucro;11.854,30;11.854.300,00
-02.02;Inversiones reales;2.690,90;2.690.900,00
-02.02;Total Congreso de los Diputados;110.421,30;110.421.300,00
-02.03;Altos cargos;17.301,83;17.301.830,00
-02.03;Personal eventual;4.104,99;4.104.990,00
-02.03;Laborales;5.818,87;5.818.870,00
-02.03;Productividad;899,67;899.670,00
-02.03;Cuotas, prestaciones y gastos sociales;3.202,56;3.202.560,00
-02.03;Arrendamientos y cánones;553,95;553.950,00
-02.03;Reparaciones, mantenimiento y conservación;699,94;699.940,00
-02.03;Material, suministros y otros;11.981,11;11.981.110,00
-02.03;Indemnizaciones por razón del servicio;8.503,03;8.503.030,00
-02.03;Gastos de publicaciones;280,8;280.800,00
-02.03;Intereses de demora;388;388.000,00
-02.03;A otras entidades del sector público;37,5;37.500,00
-02.03;A familias e instituciones sin fines de lucro;7.786,75;7.786.750,00
-02.03;Al exterior;2,19;2.190,00
-02.03;Inversiones reales;2.525,26;2.525.260,00
-02.03;Préstamos fuera del sector público;25;25.000,00
-02.03;Devolución de fianzas;25;25.000,00
-02.03;Total Senado;64.136,45;64.136.450,00
-02.04;Cuotas, prestaciones y gastos sociales;3,9;3.900,00
-02.04;Arrendamientos y cánones;0,04;40
-02.04;Material, suministros y otros;46,2;46.200,00
-02.04;Indemnizaciones por razón del servicio;386,5;386.500,00
-02.04;Intereses de fianzas;0,2;200
-02.04;A familias e instituciones sin fines de lucro;41,93;41.930,00
-02.04;Total Junta Electoral Central;478,77;478.770,00
-02.05;Altos cargos;555,6;555.600,00
-02.05;Funcionarios;12.456,90;12.456.900,00
-02.05;Laborales;650;650.000,00
-02.05;Otro personal;325,5;325.500,00
-02.05;Productividad;1;1.000,00
-02.05;Cuotas, prestaciones y gastos sociales;2.976,50;2.976.500,00
-02.05;Arrendamientos y cánones;203,1;203.100,00
-02.05;Reparaciones, mantenimiento y conservación;678,5;678.500,00
-02.05;Material, suministros y otros;1.898,50;1.898.500,00
-02.05;Indemnizaciones por razón del servicio;98;98.000,00
-02.05;Gastos de publicaciones;10;10.000,00
-02.05;Intereses de depósitos;2,5;2.500,00
-02.05;A familias e instituciones sin fines de lucro;151,4;151.400,00
-02.05;Al exterior;13,3;13.300,00
-02.05;Inversiones reales;897;897.000,00
-02.05;Total Defensor del Pueblo;20.917,80;20.917.800,00
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+02.01;12;Funcionarios;51.525,12;51.525.120,00
+02.01;15;Incentivos al rendimiento;90;90.000,00
+02.01;150;Productividad;90;90.000,00
+02.01;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;13.855,00;13.855.000,00
+02.01;20;Arrendamientos y cánones;0,64;640,00
+02.01;22;Material, suministros y otros;2.562,93;2.562.930,00
+02.01;23;Indemnizaciones por razón del servicio;151;151.000,00
+02.01;24;Gastos de publicaciones;172,3;172.300,00
+02.01;34;De depósitos y fianzas;3,5;3.500,00
+02.01;340;Intereses de depósitos;3,5;3.500,00
+02.01;48;A familias e instituciones sin fines de lucro;2.992,36;2.992.360,00
+02.01;49;Al exterior;700;700.000,00
+02.02;10;Altos cargos;22.371,60;22.371.600,00
+02.02;11;Personal eventual;13.197,50;13.197.500,00
+02.02;12;Funcionarios;1.968,60;1.968.600,00
+02.02;13;Laborales;6.192,40;6.192.400,00
+02.02;15;Incentivos al rendimiento;100;100.000,00
+02.02;150;Productividad;100;100.000,00
+02.02;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;6.624,00;6.624.000,00
+02.02;20;Arrendamientos y cánones;505,05;505.050,00
+02.02;21;Reparaciones, mantenimiento y conservación;6.135,20;6.135.200,00
+02.02;22;Material, suministros y otros;27.777,55;27.777.550,00
+02.02;23;Indemnizaciones por razón del servicio;10.571,50;10.571.500,00
+02.02;24;Gastos de publicaciones;428,7;428.700,00
+02.02;34;De depósitos y fianzas;4;4.000,00
+02.02;48;A familias e instituciones sin fines de lucro;11.854,30;11.854.300,00
+02.02;6;Inversiones reales;2.690,90;2.690.900,00
+02.03;10;Altos cargos;17.301,83;17.301.830,00
+02.03;11;Personal eventual;4.104,99;4.104.990,00
+02.03;13;Laborales;5.818,87;5.818.870,00
+02.03;15;Incentivos al rendimiento;899,67;899.670,00
+02.03;150;Productividad;899,67;899.670,00
+02.03;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;3.202,56;3.202.560,00
+02.03;20;Arrendamientos y cánones;553,95;553.950,00
+02.03;21;Reparaciones, mantenimiento y conservación;699,94;699.940,00
+02.03;22;Material, suministros y otros;11.981,11;11.981.110,00
+02.03;23;Indemnizaciones por razón del servicio;8.503,03;8.503.030,00
+02.03;24;Gastos de publicaciones;280,8;280.800,00
+02.03;35;Intereses de demora y otros gastos financieros;388;388.000,00
+02.03;43;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;37,5;37.500,00
+02.03;48;A familias e instituciones sin fines de lucro;7.786,75;7.786.750,00
+02.03;49;Al exterior;2,19;2.190,00
+02.03;6;Inversiones reales;2.525,26;2.525.260,00
+02.03;8;Activos financieros;25;25.000,00
+02.03;9;Pasivos financieros;25;25.000,00
+02.04;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;3,9;3.900,00
+02.04;20;Arrendamientos y cánones;0,04;40,00
+02.04;22;Material, suministros y otros;46,2;46.200,00
+02.04;23;Indemnizaciones por razón del servicio;386,5;386.500,00
+02.04;34;De depósitos y fianzas;0,2;200,00
+02.04;48;A familias e instituciones sin fines de lucro;41,93;41.930,00
+02.05;10;Altos cargos;555,6;555.600,00
+02.05;12;Funcionarios;12.456,90;12.456.900,00
+02.05;13;Laborales;650;650.000,00
+02.05;14;Otro personal;325,5;325.500,00
+02.05;15;Incentivos al rendimiento;1;1.000,00
+02.05;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;2.976,50;2.976.500,00
+02.05;16;Cuotas, prestaciones y gastos sociales;2.976,50;2.976.500,00
+02.05;20;Arrendamientos y cánones;203,1;203.100,00
+02.05;21;Reparaciones, mantenimiento y conservación;678,5;678.500,00
+02.05;22;Material, suministros y otros;1.898,50;1.898.500,00
+02.05;23;Indemnizaciones por razón del servicio;98;98.000,00
+02.05;24;Gastos de publicaciones;10;10.000,00
+02.05;340;Intereses de depósitos;2,5;2.500,00
+02.05;480;A familias e instituciones sin fines de lucro;151,4;151.400,00
+02.05;490;Al exterior;13,3;13.300,00
+02.05;6;Inversiones reales;897;897.000,00
+02.05;—;Total Defensor del Pueblo;20.917,80;20.917.800,00

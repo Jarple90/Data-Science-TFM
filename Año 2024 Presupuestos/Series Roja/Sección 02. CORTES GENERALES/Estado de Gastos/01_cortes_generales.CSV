@@ -1,4 +1,4 @@
-Económica;Explicación;02.01;02.02;02.03;02.04;02.05;Importe (miles euros);Importe (Euros)
+Económica;Explicación;02.01;02.02;02.03;02.04;02.05;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;65.470,12;50.454,10;31.327,92;3,9;16.965,50;164.221,54;164.221.540,00
 10;Altos cargos;–;22.371,60;17.301,83;–;555,6;40.229,03;40.229.030,00
 11;Personal eventual;–;13.197,50;4.104,99;–;–;17.302,49;17.302.490,00
@@ -29,4 +29,4 @@ Económica;Explicación;02.01;02.02;02.03;02.04;02.05;Importe (miles euros);Import
 83;Préstamos fuera del sector público;–;–;25;–;–;25;25.000,00
 9;PASIVOS FINANCIEROS;–;–;25;–;–;25;25.000,00
 94;Devolución de fianzas;–;–;25;–;–;25;25.000,00
-;TOTAL GENERAL;72.052,85;110.421,30;64.136,45;478,77;20.917,80;268.007,17;
+;TOTAL GENERAL;72.052,85;110.421,30;64.136,45;478,77;20.917,80;268.007,17;268.007.170,00
