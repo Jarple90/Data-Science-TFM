@@ -1,0 +1,38 @@
+;PRESUPUESTOS GENERALES DEL ESTADO;
+;ESTADO;
+;;
+;;
+;Sección: 09 APORTACIONES AL MUTUALISMO ADMINISTRATIVO;
+;PRESUPUESTO 2023-P;
+;
+;(Miles de euros);
+;
+;Servicio;Programa;Económica;Explicación;;Total;
+v;01;;;DIRECCIÓN GENERAL DE PRESUPUESTOS;;;
+v;;923S;;Aportaciones al Mutualismo Administrativo;;;
+v;;;1;GASTOS DE PERSONAL;;;
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;2.281.136,60;
+;;;160;Cuotas sociales;;2.281.136,60;
+v;;;16001; MUFACE;1.487.704,46;;
+v;;;16002; ISFAS;699.991,84;;
+v;;;16003; MUGEJU;93.440,30;;
+;;;;TOTAL GASTOS DE PERSONAL;;2.281.136,60;
+ ; ;;;;;;
+;;;;TOTAL Aportaciones al Mutualismo Administrativo;;2.281.136,60;
+ ; ;;;;;;
+v;;000X;;Transferencias y libramientos internos;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;;
+v;;;41;A Organismos Autónomos;;98.330,95;
+v;;;411;Aportación del Estado a la Mutualidad General de Funcionarios Civiles del Estado, al Instituto Social de las Fuerzas Armadas y a la Mutualidad General Judicial, al amparo de las siguientes Disposiciones: artículo 30.3 del Real Decreto Legislativo 1/2000, de 9 de junio. artículo 24 y Disposición Adicional 3ª.3 del Real Decreto Legislativo 3/2000, de 23 de junio y artículo 35.3 del Real Decreto Legislativo 4/2000, de 23 de junio, incluidas obligaciones de ejercicios anteriores;;98.330,95;
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;98.330,95;
+ ; ;;;;;;
+;;;;TOTAL Transferencias y libramientos internos;;98.330,95;
+ ; ;;;;;;
+;;;;TOTAL DIRECCIÓN GENERAL DE PRESUPUESTOS;;2.379.467,55;
+ ; ;;;;;;
+ ; ;;;;;;
+;;;;TOTAL APORTACIONES AL MUTUALISMO ADMINISTRATIVO;;2.379.467,55;
+;;
+
+
+
