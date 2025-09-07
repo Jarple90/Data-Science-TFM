@@ -1,49 +1,29 @@
-Orgánica;Económica;Explicación;Total (miles €);Total (€)
-22.01;10;Altos cargos;269,6;269.600,00 €
-22.01;11;Personal eventual;530,53;530.530,00 €
-22.01;12;Funcionarios;21.530,93;21.530.930,00 €
-22.01;13;Laborales;650,43;650.430,00 €
-22.01;15;Incentivos al rendimiento;2.060,74;2.060.740,00 €
-22.01;150;Productividad;2.028,49;2.028.490,00 €
-22.01;151;Gratificaciones;32,25;32.250,00 €
-22.01;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;1.513,15;1.513.150,00 €
-22.01;16000;Seguridad Social;1.281,79;1.281.790,00 €
-22.01;16200;Formación y perfeccionamiento del personal;47,23;47.230,00 €
-22.01;16201;Economatos y comedores;0,79;790,00 €
-22.01;16204;Acción social;73,24;73.240,00 €
-;;TOTAL GASTOS DE PERSONAL;26.555,38;26.555.380,00 €
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+22.01;10;Altos cargos;269,6;269.600,00
+22.01;11;Personal eventual;530,53;530.530,00
+22.01;12;Funcionarios;21.530,93;21.530.930,00
+22.01;13;Laborales;650,43;650.430,00
+22.01;15;Incentivos al rendimiento;2.060,74;2.060.740,00
+22.01;150;Productividad;2.028,49;2.028.490,00
+22.01;151;Gratificaciones;32,25;32.250,00
+22.01;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;1.513,15;1.513.150,00
+22.01;16000;Seguridad Social;1.281,79;1.281.790,00
+22.01;16200;Formación y perfeccionamiento del personal;47,23;47.230,00
+22.01;16201;Economatos y comedores;0,79;790,00
+22.01;16204;Acción social;73,24;73.240,00
+;;TOTAL GASTOS DE PERSONAL;26.555,38;26.555.380,00
 22.01;20;Arrendamientos y cánones;2.894,77;2.894.770,00
-22.01;202;Arrendamientos de edificios y otras construcciones;2.868,69;2.868.690,00 €
+22.01;202;Arrendamientos de edificios y otras construcciones;2.868,69;2.868.690,00
 22.01;21;Reparaciones, mantenimiento y conservación;860,85;860.850,00
 22.01;22;Material, suministros y otros;3.064,56;3.064.560,00
-22.01;22502;Locales;275,66;275.660,00 €
+22.01;22502;Locales;275,66;275.660,00
 22.01;22601;Atenciones protocolarias y representativas;32,6;32.600,00
-22.01;23;Indemnizaciones por razón del servicio;356,62;356.620,00 €
-22.01;24;Gastos de publicaciones;53,1;53.100,00 €
-;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;7.229,90;7.229.900,00 €
-22.01;6;Inversiones reales;7.518,62;7.518.620,00 €
+22.01;23;Indemnizaciones por razón del servicio;356,62;356.620,00
+22.01;24;Gastos de publicaciones;53,1;53.100,00
+;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;7.229,90;7.229.900,00
+22.01;6;Inversiones reales;7.518,62;7.518.620,00
 22.01;83;Concesión de préstamos fuera del Sector Público;59,77;59.770,00
-22.01;830;Préstamos a corto plazo;17,93;17.930,00 €
-22.01;831;Préstamos a largo plazo;41,84;41.840,00 €
+22.01;830;Préstamos a corto plazo;17,93;17.930,00
+22.01;831;Préstamos a largo plazo;41,84;41.840,00
 ;;TOTAL ACTIVOS FINANCIEROS;59,77;59.770,00
 ;;TOTAL PROGRAMA 921M – Dirección y Servicios Generales;41.363,67;41.363.670,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

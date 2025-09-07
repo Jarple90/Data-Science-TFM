@@ -1,45 +1,22 @@
-Orgánica;Económica;Explicación;Total (miles €);Total (€)
-21.05;10;Altos cargos;61,02;61.020,00 €
-21.05;12;Funcionarios;4.546,44;4.546.440,00 €
-21.05;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;409,5;409.500,00 €
-21.05;16000;Seguridad Social;409,5;409.500,00 €
-;;TOTAL GASTOS DE PERSONAL;5.016,96;5.016.960,00 €
-21.05;44;A entidades del Sector Público Estatal (EXPASA AGRICULTURA Y GANADERÍA, S.A.);500;500.000,00 €
-21.05;47;A empresas privadas (sector equino y maquinaria agrícola);445,6;445.600,00 €
-21.05;470;Asociación de Sociedades Organizadoras de Carreras de Caballos;400;400.000,00 €
-21.05;471;Normalización de la maquinaria agrícola;45,6;45.600,00 €
-21.05;48;A familias e instituciones sin fines de lucro;150;150.000,00 €
-21.05;480;Programa técnico formativo en producciones y mercados agrarios;150;150.000,00 €
-;;TOTAL TRANSFERENCIAS CORRIENTES;1.095,60;1.095.600,00 €
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+21.05;10;Altos cargos;61,02;61.020,00
+21.05;12;Funcionarios;4.546,44;4.546.440,00
+21.05;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;409,5;409.500,00
+21.05;16000;Seguridad Social;409,5;409.500,00
+;;TOTAL GASTOS DE PERSONAL;5.016,96;5.016.960,00
+21.05;44;A entidades del Sector Público Estatal (EXPASA AGRICULTURA Y GANADERÍA, S.A.);500;500.000,00
+21.05;47;A empresas privadas (sector equino y maquinaria agrícola);445,6;445.600,00
+21.05;470;Asociación de Sociedades Organizadoras de Carreras de Caballos;400;400.000,00
+21.05;471;Normalización de la maquinaria agrícola;45,6;45.600,00
+21.05;48;A familias e instituciones sin fines de lucro;150;150.000,00
+21.05;480;Programa técnico formativo en producciones y mercados agrarios;150;150.000,00
+;;TOTAL TRANSFERENCIAS CORRIENTES;1.095,60;1.095.600,00
 21.05;6;Inversiones reales;7.454,71;7.454.710,00
-21.05;75;A Comunidades Autónomas;30.302,00;30.302.000,00 €
-21.05;750;Fomento de la innovación tecnológica;4.652,00;4.652.000,00 €
+21.05;75;A Comunidades Autónomas;30.302,00;30.302.000,00
+21.05;750;Fomento de la innovación tecnológica;4.652,00;4.652.000,00
 21.05;755;Mejora de la organización de la producción y reordenación de los sectores productivos;4.650,00;4.650.000,00
-21.05;756;Apoyo a la producción agrícola en el marco del Programa POSEI;21.000,00;21.000.000,00 €
-21.05;77;A empresas privadas (modernización tecnológica);9.550,00;9.550.000,00 €
-21.05;78;A familias e instituciones sin fines de lucro (biodiversidad ganadera);5.035,00;5.035.000,00 €
-;;TOTAL TRANSFERENCIAS DE CAPITAL;44.887,00;44.887.000,00 €
-;;TOTAL DIRECCIÓN GENERAL DE PRODUCCIONES Y MERCADOS AGRARIOS;58.454,27;58.454.270,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+21.05;756;Apoyo a la producción agrícola en el marco del Programa POSEI;21.000,00;21.000.000,00
+21.05;77;A empresas privadas (modernización tecnológica);9.550,00;9.550.000,00
+21.05;78;A familias e instituciones sin fines de lucro (biodiversidad ganadera);5.035,00;5.035.000,00
+;;TOTAL TRANSFERENCIAS DE CAPITAL;44.887,00;44.887.000,00
+;;TOTAL DIRECCIÓN GENERAL DE PRODUCCIONES Y MERCADOS AGRARIOS;58.454,27;58.454.270,00

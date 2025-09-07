@@ -1,35 +1,25 @@
-Económica;Explicación;20.103;Total (miles €);Total (€)
-1;GASTOS DE PERSONAL;3.870,01;3.870,01;3.870.010,00 €
-12;Funcionarios;1.568,66;1.568,66;1.568.660,00 €
-13;Laborales;1.200,19;1.200,19;1.200.190,00 €
-15;Incentivos al rendimiento;150,94;150,94;150.940,00 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;950,22;950,22;950.220,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;2.942,02;2.942,02;2.942.020,00 €
-20;Arrendamientos y cánones;3,2;3,2;3.200,00 €
-21;Reparaciones, mantenimiento y conservación;580,89;580,89;580.890,00 €
-22;Material, suministros y otros;2.249,03;2.249,03;2.249.030,00 €
-23;Indemnizaciones por razón del servicio;92;91,9;91.900,00 €
-24;Gastos de publicaciones;17,00;17;17.000,00
+Económica;Explicación;20.103;Total (miles  euros);Total (euros)
+1;GASTOS DE PERSONAL;3.870,01;3.870,01;3.870.010,00
+12;Funcionarios;1.568,66;1.568,66;1.568.660,00
+13;Laborales;1.200,19;1.200,19;1.200.190,00
+15;Incentivos al rendimiento;150,94;150,94;150.940,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;950,22;950,22;950.220,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;2.942,02;2.942,02;2.942.020,00
+20;Arrendamientos y cánones;3,2;3,2;3.200,00
+21;Reparaciones, mantenimiento y conservación;580,89;580,89;580.890,00
+22;Material, suministros y otros;2.249,03;2.249,03;2.249.030,00
+23;Indemnizaciones por razón del servicio;92;91,9;91.900,00
+24;Gastos de publicaciones;17;17;17.000,00
 3;GASTOS FINANCIEROS;0,88;0,88;880,00
 35;Intereses de demora y otros gastos financieros;0,88;0,88;880,00
-4;TRANSFERENCIAS CORRIENTES;252,62;252,62;252.620,00 €
-48;A familias e instituciones sin fines de lucro;30;30;30.000,00 €
+4;TRANSFERENCIAS CORRIENTES;252,62;252,62;252.620,00
+48;A familias e instituciones sin fines de lucro;30;30;30.000,00
 49;Al exterior;222,62;222,62;222.620,00
-6;INVERSIONES REALES;2.998,91;2.998,91;2.998.910,00 €
-62;Inversión nueva operativa;2.184,30;2.184,30;2.184.300,00 €
-63;Inversión de reposición operativa;331,00;331;331.000,00
-64;Inversiones inmateriales;483,61;483,61;483.610,00 €
-8;ACTIVOS FINANCIEROS;7,65;7,65;7.650,00 €
-83;Préstamos fuera del Sector Público;7,08;7,08;7.080,00 €
-84;Depósitos y fianzas;0,57;0,57;570,00 €
-—;TOTAL PROGRAMA 495C – Metrología;—;10.072,09;10.072.090,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+6;INVERSIONES REALES;2.998,91;2.998,91;2.998.910,00
+62;Inversión nueva operativa;2.184,30;2.184,30;2.184.300,00
+63;Inversión de reposición operativa;331;331;331.000,00
+64;Inversiones inmateriales;483,61;483,61;483.610,00
+8;ACTIVOS FINANCIEROS;7,65;7,65;7.650,00
+83;Préstamos fuera del Sector Público;7,08;7,08;7.080,00
+84;Depósitos y fianzas;0,57;0,57;570,00
+—;TOTAL PROGRAMA 495C – Metrología;—;10.072,09;10.072.090,00

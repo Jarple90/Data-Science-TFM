@@ -1,4 +1,4 @@
-Económica;Explicación;13.105;Total;Euros
+Económica;Explicación;13.105;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;59.914,58;59.914,58;59.914.580,00
 10;Altos cargos;132,23;132,23;132.230,00
 11;Personal eventual;1.660,83;1.660,83;1.660.830,00
@@ -29,12 +29,3 @@ Económica;Explicación;13.105;Total;Euros
 9;PASIVOS FINANCIEROS;50;50;50.000,00
 94;Devolución de depósitos y fianzas;50;50;50.000,00
 ;TOTAL Administración del Patrimonio Histórico-Nacional;121.131,72;121.131,72;121.131.720,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

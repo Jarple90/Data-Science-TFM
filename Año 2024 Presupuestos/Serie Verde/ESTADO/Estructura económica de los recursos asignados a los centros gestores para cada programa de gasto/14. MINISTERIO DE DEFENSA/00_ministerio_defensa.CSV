@@ -1,0 +1,677 @@
+Servicio;Programa;Económica;Explicación;Total (miles euros);Total (euros)
+1;121M;10000;Retribuciones básicas funcionarios;382,93;382.930 €
+1;121M;10001;Retribuciones complementarias funcionarios;758,97;758.970 €
+1;121M;11000;Retribuciones básicas personal eventual;364,67;364.670 €
+1;121M;11001;Retribuciones complementarias personal eventual;737,1;737.100 €
+1;121M;12000–12181;Retribuciones básicas y complementarias funcionarios y tropa;1.405.777,44;1.405.777.440 €
+1;121M;12201–12202;Retribuciones en especie;8.914,46;8.914.460 €
+1;121M;12300–12302;Indemnizaciones por destino en el extranjero;80.478,64;80.478.640 €
+1;121M;13000–131;Retribuciones laborales fijos y eventuales;71.477,70;71.477.700 €
+1;121M;150–153;Incentivos al rendimiento;180.168,06;180.168.060 €
+1;121M;16000;Seguridad Social;46.555,83;46.555.830 €
+1;121M;16200–16209;Formación, comedores, acción social, seguros, transporte, otros;23.179,60;23.179.600 €
+1;121M;—;TOTAL GASTOS DE PERSONAL;1.818.795,40;1.818.795.400 €
+1;121M;202–209;Arrendamientos y cánones;560,2;560.200 €
+1;121M;210–216;Reparaciones y mantenimiento;1.474,20;1.474.200 €
+1;121M;220–22199;Material y suministros;34.828,87;34.828.870 €
+1;121M;222–22799;Comunicaciones, transportes, seguros, tributos, gastos diversos, trabajos;10.372,32;10.372.320 €
+1;121M;230–233;Indemnizaciones por razón del servicio;10.022,32;10.022.320 €
+1;121M;240;Gastos de publicaciones;350;350.000 €
+1;121M;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;47.235,59;47.235.590 €
+1;121M;441–444;Transferencias a consorcios históricos;42;42.000 €
+1;121M;48500–48505;Transferencias a organismos y asociaciones relacionadas con FAS;1.137,00;1.137.000 €
+1;121M;48501;"Instituto ""Gutiérrez Mellado""";152;152.000 €
+1;121M;48502;Instituto de Estudios Internacionales y Estratégicos;176;176.000,00
+1;121M;486;Pensiones militares;200;200.000,00
+1;121M;489;Indemnizaciones por operaciones internacionales;1;1.000,00
+1;121M;49000–49018;Cuotas y contribuciones a organismos internacionales;24,16;24.160,00
+1;121M;—;TOTAL TRANSFERENCIAS CORRIENTES;1.404,16;1.404.160,00
+1;121M;630–660;Inversiones militares e infraestructura;1.620,69;1.620.690,00
+1;121M;83108;Préstamos a largo plazo a familias e instituciones sin fines de lucro;2.833,58;2.833.580,00
+1;121M;—;TOTAL ACTIVOS FINANCIEROS;2.833,58;2.833.580,00
+—;—;—;TOTAL Administración y Servicios Generales de Defensa;1.871.889,42;1.871.889.420,00
+1;121N;12000–12012;Retribuciones básicas funcionarios y tropa;210.175,31;210.175.310 €
+1;121N;12100–12112;Retribuciones complementarias;140.216,85;140.216.850,00
+1;121N;12201;Retribuciones en especie – Vestuario;3.399,93;3.399.930,00
+1;121N;12302;Indemnización por navegaciones en el extranjero;1.136,36;1.136.360,00
+1;121N;13000–131;Retribuciones laborales fijos y eventuales;30.900,92;30.900.920 €
+1;121N;16000;Seguridad Social;39.860,34;39.860.340,00
+—;—;—;TOTAL GASTOS DE PERSONAL;425.689,71;425.689.710,00
+1;121N;203–205;Arrendamientos de maquinaria y mobiliario;4;4.000,00
+1;121N;212–215;Reparaciones y mantenimiento;280,18;280.180,00
+1;121N;22000–22112;Material, suministros y otros;3.569,47;3.569.470,00
+1;121N;223;Transportes;150;150.000 €
+1;121N;22602–22699;Gastos diversos;788,5;788.500,00
+1;121N;22700–22799;Trabajos realizados por otras empresas;1.282,00;1.282.000,00
+1;121N;231;Indemnizaciones por razón del servicio – Locomoción;1.345,00;1.345.000 €
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;5.198,65;5.198.650,00
+1;121N;44001–44004;Transferencias a Centros Universitarios de la Defensa;13.348,88;13.348.880,00
+1;121N;450–452;Transferencias a Comunidades Autónomas;10.003,41;10.003.410 €
+1;121N;48500;Transferencias a organismos relacionados con las FAS;12,16;12.160 €
+1;121N;487;Becas de estudios para personal de las FAS;392,5;392.500 €
+1;121N;488;Ayudas a alumnos extranjeros en centros docentes;550;550.000,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;24.306,95;24.306.950,00
+1;121N;74001–74004;Transferencias de capital a Centros Universitarios de la Defensa;188;188.000 €
+—;—;—;TOTAL TRANSFERENCIAS DE CAPITAL;188;188.000 €
+—;—;—;TOTAL Formación del Personal de las Fuerzas Armadas;455.383,31;455.383.310 €
+1;121O;12000–12012;Retribuciones básicas funcionarios y tropa;317.480,68;317.480.680 €
+1;121O;12100–12110;Retribuciones complementarias;201.159,90;201.159.900 €
+1;121O;12201;Retribuciones en especie – Vestuario;2.893,57;2.893.570 €
+1;121O;143;Otro personal;58.465,22;58.465.220 €
+—;—;—;TOTAL Personal en reserva;579.999,37;
+1;122M;12000–12012;Retribuciones básicas funcionarios y tropa;737.472,42;737.472.420 €
+1;122M;12100–12112;Retribuciones complementarias;700.937,69;700.937.690 €
+1;122M;12201;Retribuciones en especie – Vestuario;23.049,39;23.049.390,00
+1;122M;12302;Indemnización por navegaciones en el extranjero;11.747,49;11.747.490 €
+1;122M;13000–131;Retribuciones laborales fijos y eventuales;40.719,39;40.719.390,00
+1;122M;16000;Seguridad Social;236.012,31;236.012.310,00
+—;—;—;TOTAL Gastos Operativos de las Fuerzas Armadas;1.749.938,69;1.749.938.690,00
+1;122N;12000–12012;Retribuciones básicas funcionarios y tropa;247.921,28;247.921.280 €
+1;122N;12100–12112;Retribuciones complementarias;243.925,36;243.925.360 €
+1;122N;12201–12202;Retribuciones en especie – Vestuario y bonificaciones;28.404,32;28.404.320 €
+1;122N;12302;Indemnización por navegaciones en el extranjero;550,33;550.330 €
+1;122N;13000–131;Retribuciones laborales fijos y eventuales;84.908,08;84.908.080 €
+1;122N;16000;Seguridad Social;33.183,10;33.183.100 €
+1;122N;212;Reparaciones – Edificios y construcciones;4.203,65;4.203.650 €
+—;—;—;TOTAL Apoyo Logístico;643.096,12;643.096.120 €
+1;312A;12000–12012;Retribuciones básicas funcionarios y tropa;45.611,31;45.611.310 €
+1;312A;12100–12112;Retribuciones complementarias;43.115,43;43.115.430 €
+1;312A;12201;Retribuciones en especie – Vestuario;188,35;188.350 €
+1;312A;12302;Indemnización por navegaciones en el extranjero;3,75;3.750 €
+1;312A;13000–131;Retribuciones laborales fijos y eventuales;17.920,26;17.920.260 €
+1;312A;16000;Seguridad Social;45.532,86;45.532.860 €
+—;—;—;TOTAL GASTOS DE PERSONAL;152.371,96;152.371.960 €
+1;312A;209;Cánones;8,18;8.180 €
+1;312A;212–215;Reparaciones y mantenimiento;3.170,00;3.170.000 €
+1;312A;22000–22199;Material, suministros y otros;21.431,30;21.431.300 €
+1;312A;222–22799;Comunicaciones, transportes, tributos, gastos diversos, trabajos externos;2.300,00;2.300.000 €
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;24.609,48;24.609.480 €
+1;312A;660;Inversiones militares operativas;1.255,31;1.255.310 €
+—;—;—;TOTAL INVERSIONES REALES;1.255,31;1.255.310 €
+—;—;—;TOTAL Asistencia hospitalaria en las Fuerzas Armadas;178.236,75;178.236.750,00
+1;464A;12000–12012;Retribuciones básicas funcionarios y tropa;2.201,28;2.201.280 €
+1;464A;12100–12110;Retribuciones complementarias;2.619,12;2.619.120 €
+1;464A;12201;Retribuciones en especie – Vestuario;27,01;27.010 €
+1;464A;12302;Indemnización por navegaciones en el extranjero;11,09;11.090 €
+1;464A;13000–13001;Retribuciones laborales fijos;568,71;568.710 €
+1;464A;16000;Seguridad Social;365,87;365.870 €
+—;—;—;TOTAL GASTOS DE PERSONAL;5.793,08;5.793.080 €
+—;—;—;TOTAL Investigación y estudios de las Fuerzas Armadas;5.793,08;5.793.080 €
+1;931P;22;Material, suministros y otros;62,13;62.130 €
+1;931P;220;Material de oficina;28,21;28.210,00
+1;931P;22000;Ordinario no inventariable;15,5;15.500 €
+1;931P;22001;Prensa, revistas, libros y otras publicaciones;12,71;12.710 €
+1;931P;221;Suministros;11,29;11.290 €
+1;931P;22199;Otros suministros;11,29;11.290 €
+1;931P;226;Gastos diversos;22,63;22.630 €
+1;931P;22606;Reuniones, conferencias y cursos;22,63;22.630 €
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;62,13;62.130 €
+—;—;—;TOTAL Control interno y Contabilidad Pública;62,13;62.130 €
+—;—;—;TOTAL MINISTERIO Y SUBSECRETARÍA;5.484.398,87;5.484.398.870 €
+2;121M;20;Arrendamientos y cánones;343,65;343.650,00
+2;121M;21;Reparaciones, mantenimiento y conservación;379,33;379.330,00
+2;121M;22;Material, suministros y otros;17.247,33;17.247.330 €
+2;121M;226;Gastos diversos;1.392,16;1.392.160 €
+2;121M;227;Trabajos realizados por otras empresas y profesionales;10.595,42;10.595.420 €
+2;121M;23;Indemnizaciones por razón del servicio;6.088,76;6.088.760 €
+2;121M;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;24.059,07;24.059.070 €
+2;121M;6;INVERSIONES REALES;2.458,18;2.458.180 €
+2;—;—;TOTAL Programa 121M;26.517,25;26.517.250 €
+2;121N;21;Reparaciones, mantenimiento y conservación;103,72;103.720 €
+2;121N;22;Material, suministros y otros;1.589,06;1.589.060 €
+2;121N;22502;Locales;25,27;25.270 €
+2;121N;226;Gastos diversos;740,71;740.710 €
+2;121N;227;Trabajos realizados por otras empresas y profesionales;547,71;547.710 €
+2;121N;23;Indemnizaciones por razón del servicio;2.638,82;2.638.820 €
+2;—;—;TOTAL Programa 121N;4.331,60;4.331.600 €
+;;;;;
+2;122A;6;INVERSIONES REALES;2.583,87;2.583.870 €
+2;—;—;TOTAL Programa 122A;2.583,87;2.583.870 €
+2;122M;20;Arrendamientos y cánones;79,2;79.200,00
+2;122M;21;Reparaciones, mantenimiento y conservación;464,38;464.380 €
+2;122M;22;Material, suministros y otros;15.041,69;15.041.690 €
+2;122M;226;Gastos diversos;81,21;81.210 €
+2;122M;227;Trabajos realizados por otras empresas y profesionales;936,99;936.990 €
+2;122M;23;Indemnizaciones por razón del servicio;4.910,00;4.910.000 €
+2;—;—;TOTAL Programa 122M;20.495,27;20.495.270 €
+2;122N;21;Reparaciones, mantenimiento y conservación;5.504,36;5.504.360 €
+2;122N;6;INVERSIONES REALES;16.482,45;16.482.450 €
+2;—;—;TOTAL Programa 122N;21.986,81;21.986.810 €
+2;—;—;121M, 121N, 122A, 122M, 122N;75.914,80;75.914.800 €
+3;121M;200;Arrendamientos de terrenos y bienes naturales;3.535,90;3.535.900,00
+3;121M;202;Arrendamientos de edificios y otras construcciones;975;975.000,00
+3;121M;204;Arrendamientos de medios de transporte;23,8;23.800,00
+3;121M;205;Arrendamientos de mobiliario y enseres;18;18.000,00
+3;121M;206;Arrendamientos de equipos para procesos de información;1;1.000,00
+3;121M;209;Cánones;118,7;118.700,00
+3;121M;212;Reparaciones en edificios y construcciones;3;3.000,00
+3;121M;214;Reparaciones en elementos de transporte;0,51;510
+3;121M;216;Reparaciones en equipos de información;653,64;653.640,00
+3;121M;218;Reparaciones en bienes situados en el exterior;140;140.000,00
+3;121M;22000;Material de oficina ordinario no inventariable;80,8;80.800,00
+3;121M;22001;Prensa, revistas, libros y publicaciones;431,13;431.130,00
+3;121M;22002;Material informático no inventariable;387,5;387.500,00
+3;121M;22015;Material de oficina en el exterior;115;115.000,00
+3;121M;22100;Energía eléctrica;88.410,42;88.410.420,00
+3;121M;22101;Agua;0,33;330
+3;121M;22103;Combustible;72,86;72.860,00
+3;121M;22105;Alimentación;8;8.000,00
+3;121M;22112;Material electrónico, eléctrico y comunicaciones;326,85;326.850,00
+3;121M;22115;Suministros en el exterior;180;180.000,00
+3;121M;22199;Otros suministros;59,75;59.750,00
+3;121M;22200;Servicios de telecomunicaciones;36.060,39;36.060.390,00
+3;121M;22201;Postales y mensajería;55;55.000,00
+3;121M;22215;Comunicaciones en el exterior;290;290.000,00
+3;121M;223;Transportes;24.909,38;24.909.380,00
+3;121M;224;Primas de seguros;85;85.000,00
+3;121M;22500;Tributos estatales;3,5;3.500,00
+3;121M;22502;Locales;95;95.000,00
+3;121M;22515;Tributos en el exterior;17;17.000,00
+3;121M;22601;Atenciones protocolarias y representativas;16,38;16.380,00
+3;121M;22602;Publicidad y propaganda;228,5;228.500,00
+3;121M;22603;Jurídicos y contenciosos;4.717,87;4.717.870,00
+3;121M;22606;Reuniones, conferencias y cursos;829,24;829.240,00
+3;121M;22608;Gastos reservados;500;500.000,00
+3;121M;22609;Actividades culturales y deportivas;2,12;2.120,00
+3;121M;22611;Gastos institucionales protocolarios;83,3;83.300,00
+3;121M;22615;Gastos diversos en el exterior;39,94;39.940,00
+3;121M;22699;Otros gastos diversos;13.608,38;13.608.380,00
+3;121M;22701;Seguridad;217;217.000,00
+3;121M;22706;Estudios y trabajos técnicos;61.951,27;61.951.270,00
+3;121M;22715;Trabajos en el exterior;258;258.000,00
+3;121M;230;Dietas;250;250.000,00
+3;121M;49002–49014;Contribuciones a organismos internacionales;116.430,20;116.430.200,00
+—;—;—;TOTAL Programa 121M;444.063,88;444.063.880,00
+3;121N;22606;Reuniones, conferencias y cursos;319,34;319.340,00
+—;—;—;TOTAL Programa 121N;319,34;319.340,00
+3;122A;650;Inversiones militares en infraestructura y otros bienes;246.322,66;246.322.660,00
+—;—;—;TOTAL Programa 122A;246.322,66;246.322.660,00
+;;;;;
+3;122B;655;Modernización del Ejército de Tierra;934.495,92;934.495.920,00
+3;122B;656;Modernización de la Armada;1.082.842,99;1.082.842.990,00
+3;122B;657;Modernización del Ejército del Aire;2.136.988,07;2.136.988.070,00
+3;122B;658;Modernización de interés conjunto;747.389,32;747.389.320,00
+—;—;—;TOTAL Programa 122B;4.901.716,30;4.901.716.300,00
+3;122M;1;GASTOS DE PERSONAL;4.000,00;4.000.000,00
+3;122M;128;Gastos por operaciones de mantenimiento de la paz;4.000,00;4.000.000,00
+3;122M;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;147.873,22;147.873.220,00
+3;122M;204;Arrendamientos de medios de transporte;15;15.000,00
+3;122M;205;Arrendamientos de mobiliario y enseres;75;75.000,00
+3;122M;206;Arrendamientos de equipos informáticos;25;25.000,00
+3;122M;209;Cánones;16.156,85;16.156.850,00
+3;122M;212;Reparaciones en edificios y construcciones;574;574.000,00
+3;122M;213;Reparaciones en maquinaria e instalaciones;1.010,00;1.010.000,00
+3;122M;214;Reparaciones en elementos de transporte;320;320.000,00
+3;122M;215;Reparaciones en mobiliario y enseres;150;150.000,00
+3;122M;22000;Material de oficina ordinario no inventariable;191,84;191.840,00
+3;122M;22001;Prensa, revistas, libros y publicaciones;72,13;72.130,00
+3;122M;22002;Material informático no inventariable;251;251.000,00
+3;122M;22101;Agua;211,1;211.100,00
+3;122M;22102;Gas;650;650.000,00
+3;122M;22103;Combustible;4.462,85;4.462.850,00
+3;122M;22104;Vestuario;3.405,65;3.405.650,00
+3;122M;22105;Alimentación;1.579,98;1.579.980,00
+3;122M;22106;Productos farmacéuticos y material sanitario;360;360.000,00
+3;122M;22107;Suministros militares y policiales;35;35.000,00
+3;122M;22108;Material deportivo, didáctico y cultural;30;30.000,00
+3;122M;22111;Repuestos de maquinaria y transporte;1.490,00;1.490.000,00
+3;122M;22112;Material electrónico, eléctrico y comunicaciones;25;25.000,00
+3;122M;22199;Otros suministros;2.011,50;2.011.500,00
+3;122M;22200;Servicios de telecomunicaciones;2,6;2.600,00
+3;122M;22201;Postales y mensajería;2,2;2.200,00
+3;122M;223;Transportes;350;350.000,00
+3;122M;22500;Tributos estatales;1;1.000,00
+3;122M;22501;Tributos autonómicos;1,1;1.100,00
+3;122M;22502;Locales;2;2.000,00
+3;122M;22602;Publicidad y propaganda;112,91;112.910,00
+3;122M;22606;Reuniones, conferencias y cursos;200,12;200.120,00
+3;122M;22609;Actividades culturales y deportivas;50;50.000,00
+3;122M;22611;Gastos institucionales protocolarios;44,82;44.820,00
+3;122M;22699;Otros gastos diversos;6.384,54;6.384.540,00
+3;122M;22700;Limpieza y aseo;1.195,00;1.195.000,00
+3;122M;22706;Estudios y trabajos técnicos;995,22;995.220,00
+3;122M;22799;Otros trabajos externos;827,09;827.090,00
+3;122M;228;Operaciones de mantenimiento de la paz (gastos corrientes);100.000,00;100.000.000,00
+3;122M;230;Dietas;4.020,00;4.020.000,00
+3;122M;231;Locomoción;520;520.000,00
+3;122M;232;Traslado;60;60.000,00
+3;122M;233;Otras indemnizaciones;2,72;2.720,00
+3;122M;6;INVERSIONES REALES;210.360,10;210.360.100,00
+3;122M;668;Operaciones de mantenimiento de la paz (inversiones);210.360,10;210.360.100,00
+—;—;—;TOTAL Programa 122M;362.233,32;362.233.320,00
+3;122N;21;Reparaciones, mantenimiento y conservación;15.303,97;15.303.970,00
+3;122N;212;Edificios y otras construcciones;11.053,13;11.053.130,00
+3;122N;216;Equipos para procesos de la información;4.250,84;4.250.840,00
+3;122N;66;Inversiones militares operativas;20.957,26;20.957.260,00
+3;122N;660;Inversiones militares operativas;20.957,26;20.957.260,00
+—;—;—;TOTAL Apoyo Logístico;36.261,23;36.261.230,00
+3;464A;65;Inversiones militares en infraestructura y otros bienes;3.526,76;3.526.760,00
+3;464A;650;Inversiones militares en infraestructura y otros bienes;3.526,76;3.526.760,00
+3;464A;67;Inversiones militares de carácter inmaterial;27.013,24;27.013.240,00
+3;464A;670;Inversiones militares de carácter inmaterial;27.013,24;27.013.240,00
+—;—;—;TOTAL Investigación y estudios de las Fuerzas Armadas;30.540,00;30.540.000,00
+;;;;;
+3;000X;41;A Organismos Autónomos;39.427,75;39.427.750,00
+3;000X;410;A organismos autónomos del Departamento;39.427,75;39.427.750,00
+3;000X;41003;Al INTA;37.427,75;37.427.750,00
+3;000X;41005;INTA – Proyecto Galileo-GSMC;2.000,00;2.000.000,00
+3;000X;43;A otras entidades del Sector Público Administrativo Estatal;272.751,60;272.751.600,00
+3;000X;435;A AESA para vuelos exonerados;0,25;250
+3;000X;436;A AEMET para vuelos exonerados;0,25;250
+3;000X;437;Al Centro Nacional de Inteligencia;272.751,10;272.751.100,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;312.179,35;312.179.350,00
+3;000X;71;A Organismos Autónomos;24.346,68;24.346.680,00
+3;000X;710;A organismos autónomos del Departamento;24.346,68;24.346.680,00
+3;000X;71003;Al INTA;19.530,27;19.530.270,00
+3;000X;71004;INTA – Proyecto Galileo;4.816,41;4.816.410,00
+3;000X;73;A otras entidades del Sector Público Administrativo Estatal;54.218,54;54.218.540,00
+3;000X;737;Al Centro Nacional de Inteligencia;54.218,54;54.218.540,00
+—;—;—;TOTAL TRANSFERENCIAS DE CAPITAL;78.565,22;78.565.220,00
+;;;TOTAL Transferencias y libramientos internos;390.744,57;390.744.570,00
+;;;TOTAL SECRETARÍA DE ESTADO DE DEFENSA;6.412.201,30;6.412.201.300,00
+3;;;122N, 464A, 000X, 121M, 121N, 122A, 122B, 122M;6.412.201,30;6.412.201.300,00
+2;121M;206;Arrendamientos de equipos informáticos;160,6;160.600,00
+12;121M;213;Reparaciones en maquinaria e instalaciones;393,9;393.900,00
+12;121M;215;Reparaciones en mobiliario y enseres;1.672,00;1.672.000,00
+12;121M;22000;Material de oficina ordinario no inventariable;1.993,35;1.993.350,00
+12;121M;22001;Prensa, revistas, libros y publicaciones;223,85;223.850,00
+12;121M;22002;Material informático no inventariable;2.313,32;2.313.320,00
+12;121M;22101;Agua;6.550,00;6.550.000,00
+12;121M;22102;Gas;14.200,00;14.200.000,00
+12;121M;22106;Productos farmacéuticos y material sanitario;45,2;45.200,00
+12;121M;22108;Material deportivo, didáctico y cultural;151,13;151.130,00
+12;121M;22111;Repuestos de maquinaria y transporte;542,93;542.930,00
+12;121M;22112;Material electrónico, eléctrico y comunicaciones;350;350.000,00
+12;121M;22199;Otros suministros;5.026,04;5.026.040,00
+12;121M;22200;Servicios de telecomunicaciones;1,55;1.550,00
+12;121M;22201;Postales y mensajería;67,1;67.100,00
+12;121M;22501;Tributos autonómicos;715,4;715.400,00
+12;121M;22502;Locales;1.550,00;1.550.000,00
+12;121M;22601;Atenciones protocolarias y representativas;3,86;3.860,00
+12;121M;22602;Publicidad y propaganda;345,71;345.710,00
+12;121M;22603;Jurídicos y contenciosos;420;420.000,00
+12;121M;22606;Reuniones, conferencias y cursos;1.842,55;1.842.550,00
+12;121M;22609;Actividades culturales y deportivas;764,38;764.380,00
+12;121M;22611;Gastos institucionales protocolarios;122,7;122.700,00
+12;121M;22699;Otros gastos diversos;86,25;86.250,00
+12;121M;22700;Limpieza y aseo;23.096,68;23.096.680,00
+12;121M;22701;Seguridad;10.569,31;10.569.310,00
+12;121M;22706;Estudios y trabajos técnicos;8.739,00;8.739.000,00
+12;121M;22799;Otros trabajos externos;8.431,57;8.431.570,00
+12;121M;230;Dietas;19.084,87;19.084.870,00
+12;121M;231;Locomoción;4.729,84;4.729.840,00
+12;121M;232;Traslado;4.570,00;4.570.000,00
+12;121M;48504;Premios Ejército;60;60.000,00
+12;121M;660;Inversiones militares operativas;7.452,28;7.452.280,00
+—;—;—;TOTAL Programa 121M;126.275,37;126.275.370,00
+12;121N;20;Arrendamientos y cánones;247,5;247.500,00
+12;121N;204;Arrendamientos de medios de transporte;159,2;159.200,00
+12;121N;206;Arrendamientos de equipos para procesos de información;72,8;72.800,00
+12;121N;208;Arrendamientos de otro inmovilizado material;15,5;15.500,00
+12;121N;22;Material, suministros y otros;3.303,25;3.303.250,00
+12;121N;220;Material de oficina;465,58;465.580,00
+12;121N;22000;Ordinario no inventariable;224,5;224.500,00
+12;121N;22001;Prensa, revistas, libros y otras publicaciones;162,73;162.730,00
+12;121N;22002;Material informático no inventariable;78,35;78.350,00
+12;121N;221;Suministros;84,1;84.100,00
+12;121N;22105;Alimentación;79,1;79.100,00
+12;121N;22107;Suministros de carácter militar y policial;5;5.000,00
+12;121N;226;Gastos diversos;1.574,87;1.574.870,00
+12;121N;22606;Reuniones, conferencias y cursos;1.574,87;1.574.870,00
+12;121N;227;Trabajos realizados por otras empresas y profesionales;1.178,70;1.178.700,00
+12;121N;22706;Estudios y trabajos técnicos;1.016,50;1.016.500,00
+12;121N;22799;Otros trabajos externos;162,2;162.200,00
+12;121N;23;Indemnizaciones por razón del servicio;14.475,93;14.475.930,00
+12;121N;230;Dietas;12.416,34;12.416.340,00
+12;121N;231;Locomoción;1.730,01;1.730.010,00
+12;121N;233;Otras indemnizaciones;329,58;329.580,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;18.026,68;18.026.680,00
+12;121N;48;A familias e instituciones sin fines de lucro;384,54;384.540,00
+12;121N;483;Alumnos de academias;384,54;384.540,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;384,54;384.540,00
+;;;TOTAL Programa 121N – Formación del Personal de las Fuerzas Armadas;18.411,22;18.411.220,00
+12;122A;65;Inversiones militares en infraestructura y otros bienes;22.463,58;22.463.580,00
+12;122A;650;Inversiones militares en infraestructura y otros bienes;22.463,58;22.463.580,00
+—;—;—;TOTAL INVERSIONES REALES;22.463,58;22.463.580,00
+—;—;—;TOTAL Modernización de las Fuerzas Armadas;22.463,58;22.463.580,00
+12;122M;22;Material, suministros y otros;84.530,26;84.530.260,00
+12;122M;221;Suministros;75.073,78;75.073.780,00
+12;122M;22103;Combustible;8.806,98;8.806.980,00
+12;122M;22104;Vestuario;29.042,50;29.042.500,00
+12;122M;22105;Alimentación;36.045,10;36.045.100,00
+12;122M;22106;Productos farmacéuticos y material sanitario;1.179,20;1.179.200,00
+12;122M;223;Transportes;9.456,48;9.456.480,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;84.530,26;84.530.260,00
+—;—;—;TOTAL Gastos Operativos de las Fuerzas Armadas;84.530,26;84.530.260,00
+12;122N;21;Reparaciones, mantenimiento y conservación;42.320,88;42.320.880,00
+12;122N;212;Edificios y otras construcciones;32.557,81;32.557.810,00
+12;122N;213;Maquinaria, instalaciones y utillaje;7.933,07;7.933.070,00
+12;122N;216;Equipos para procesos de la información;1.830,00;1.830.000,00
+12;122N;22;Material, suministros y otros;11.242,35;11.242.350,00
+12;122N;221;Suministros;11.242,35;11.242.350,00
+12;122N;22103;Combustible;4.439,00;4.439.000,00
+12;122N;22111;Repuestos de maquinaria y transporte;6.803,35;6.803.350,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;53.563,23;53.563.230,00
+12;122N;66;Inversiones militares operativas;32.850,24;32.850.240,00
+12;122N;660;Inversiones militares operativas;32.850,24;32.850.240,00
+—;—;—;TOTAL INVERSIONES REALES;32.850,24;32.850.240,00
+—;—;—;TOTAL Apoyo Logístico;86.413,47;86.413.470,00
+12;;;121M, 121N, 122A, 122M, 122N;338.093,90;338.093.900,00
+17;121M;202;Arrendamientos de edificios y construcciones;88;88.000,00
+17;121M;204;Arrendamientos de medios de transporte;37,7;37.700,00
+17;121M;206;Arrendamientos de equipos informáticos;7;7.000,00
+17;121M;212;Reparaciones en edificios y construcciones;80;80.000,00
+17;121M;213;Reparaciones en maquinaria e instalaciones;41;41.000,00
+17;121M;22000;Material de oficina ordinario no inventariable;138;138.000,00
+17;121M;22001;Prensa, revistas, libros y publicaciones;124;124.000,00
+17;121M;22100;Energía eléctrica;10.000,00;10.000.000,00
+17;121M;22101;Agua;1.000,00;1.000.000,00
+17;121M;22102;Gas;2.500,00;2.500.000,00
+17;121M;22103;Combustible;1.000,00;1.000.000,00
+17;121M;22105;Alimentación;767;767.000,00
+17;121M;22106;Productos farmacéuticos y material sanitario;615;615.000,00
+17;121M;22108;Material deportivo, didáctico y cultural;12;12.000,00
+17;121M;22199;Otros suministros;841;841.000,00
+17;121M;22200;Servicios de telecomunicaciones;170;170.000,00
+17;121M;22215;Comunicaciones en el exterior;5;5.000,00
+17;121M;22299;Otras comunicaciones;92;92.000,00
+17;121M;223;Transportes;40;40.000,00
+17;121M;22502;Tributos locales;261;261.000,00
+17;121M;22601;Atenciones protocolarias y representativas;4,68;4.680,00
+17;121M;22602;Publicidad y propaganda;405;405.000,00
+17;121M;22603;Jurídicos y contenciosos;500;500.000,00
+17;121M;22606;Reuniones, conferencias y cursos;328;328.000,00
+17;121M;22607;Oposiciones y pruebas selectivas;40;40.000,00
+17;121M;22609;Actividades culturales y deportivas;433,87;433.870,00
+17;121M;22611;Gastos institucionales protocolarios;170;170.000,00
+17;121M;22699;Otros gastos diversos;1.117,00;1.117.000,00
+17;121M;22700;Limpieza y aseo;9.182,00;9.182.000,00
+17;121M;22701;Seguridad;1.762,00;1.762.000,00
+17;121M;22706;Estudios y trabajos técnicos;3.573,00;3.573.000,00
+17;121M;22799;Otros trabajos externos;3.677,00;3.677.000,00
+17;121M;230;Dietas;3.628,80;3.628.800,00
+17;121M;231;Locomoción;1.370,00;1.370.000,00
+17;121M;232;Traslado;1.900,00;1.900.000,00
+17;121M;48504;Premios Armada;30;30.000,00
+17;121M;49000;Contribución a la Organización Hidrográfica Internacional;42;42.000,00
+17;121M;660;Inversiones militares operativas;3.860,00;3.860.000,00
+—;—;—;TOTAL Programa 121M;49.842,05;49.842.050,00
+17;121N;22;Material, suministros y otros;4.764,56;4.764.560,00
+17;121N;220;Material de oficina;65;65.000,00
+17;121N;22000;Ordinario no inventariable;34;34.000,00
+17;121N;22001;Prensa, revistas, libros y otras publicaciones;31;31.000,00
+17;121N;221;Suministros;2.685,04;2.685.040,00
+17;121N;22104;Vestuario;1.300,00;1.300.000,00
+17;121N;22105;Alimentación;1.385,04;1.385.040,00
+17;121N;226;Gastos diversos;1.501,52;1.501.520,00
+17;121N;22606;Reuniones, conferencias y cursos;1.501,52;1.501.520,00
+17;121N;227;Trabajos realizados por otras empresas y profesionales;513;513.000,00
+17;121N;22799;Otros trabajos externos;513;513.000,00
+17;121N;23;Indemnizaciones por razón del servicio;5.197,00;5.197.000,00
+17;121N;230;Dietas;4.717,00;4.717.000,00
+17;121N;233;Otras indemnizaciones;480;480.000,00
+—;—;—;TOTAL Programa 121N;9.961,56;9.961.560,00
+17;122A;65;Inversiones militares en infraestructura y otros bienes;47.802,47;47.802.470,00
+17;122A;650;Inversiones militares en infraestructura y otros bienes;47.802,47;47.802.470,00
+—;—;—;TOTAL Programa 122A;47.802,47;47.802.470,00
+17;122M;22;Material, suministros y otros;16.275,18;16.275.180,00
+17;122M;221;Suministros;13.945,72;13.945.720,00
+17;122M;22103;Combustible;5.300,00;5.300.000,00
+17;122M;22104;Vestuario;2.412,72;2.412.720,00
+17;122M;22105;Alimentación;3.813,00;3.813.000,00
+17;122M;22106;Productos farmacéuticos y material sanitario;440;440.000,00
+17;122M;22199;Otros suministros;1.980,00;1.980.000,00
+17;122M;223;Transportes;2.329,46;2.329.460,00
+—;—;—;TOTAL Programa 122M;16.275,18;16.275.180,00
+17;122N;21;Reparaciones, mantenimiento y conservación;17.934,14;17.934.140,00
+17;122N;212;Edificios y otras construcciones;14.545,65;14.545.650,00
+17;122N;213;Maquinaria, instalaciones y utillaje;1.600,00;1.600.000,00
+17;122N;214;Elementos de transporte;421;421.000,00
+17;122N;215;Mobiliario y enseres;430;430.000,00
+17;122N;216;Equipos para procesos de la información;937,49;937.490,00
+17;122N;22;Material, suministros y otros;12.209,21;12.209.210,00
+17;122N;22000;Material de oficina ordinario no inventariable;450;450.000,00
+17;122N;22002;Material informático no inventariable;438;438.000,00
+17;122N;22103;Combustible;1.300,00;1.300.000,00
+17;122N;22104;Vestuario;388;388.000,00
+17;122N;22105;Alimentación;4.487,36;4.487.360,00
+17;122N;22199;Otros suministros;390,19;390.190,00
+17;122N;22706;Estudios y trabajos técnicos;4.755,66;4.755.660,00
+17;122N;66;Inversiones militares operativas;25.902,20;25.902.200,00
+17;122N;660;Inversiones militares operativas;25.902,20;25.902.200,00
+—;—;—;TOTAL Programa 122N;56.045,55;56.045.550,00
+17;;;121M, 121N, 122A, 122M, 122N;179.926,81;179.926.810,00
+22;121M;205;Arrendamientos de mobiliario y enseres;40;40.000,00
+22;121M;212;Reparaciones en edificios y construcciones;364;364.000,00
+22;121M;213;Reparaciones en maquinaria e instalaciones;105;105.000,00
+22;121M;215;Reparaciones en mobiliario y enseres;30;30.000,00
+22;121M;22000;Material de oficina ordinario no inventariable;14,9;14.900,00
+22;121M;22001;Prensa, revistas, libros y publicaciones;2,85;2.850,00
+22;121M;22100;Energía eléctrica;4.171,30;4.171.300,00
+22;121M;22101;Agua;25,85;25.850,00
+22;121M;22102;Gas;758,22;758.220,00
+22;121M;22105;Alimentación;670,7;670.700,00
+22;121M;22108;Material deportivo, didáctico y cultural;54;54.000,00
+22;121M;22199;Otros suministros;891,67;891.670,00
+22;121M;22200;Servicios de telecomunicaciones;0,6;600
+22;121M;22601;Atenciones protocolarias y representativas;4;4.000,00
+22;121M;22602;Publicidad y propaganda;14;14.000,00
+22;121M;22606;Reuniones, conferencias y cursos;114,95;114.950,00
+22;121M;22609;Actividades culturales y deportivas;36,3;36.300,00
+22;121M;22611;Gastos institucionales protocolarios;150;150.000,00
+22;121M;22699;Otros gastos diversos;10,5;10.500,00
+22;121M;22700;Limpieza y aseo;642,73;642.730,00
+22;121M;22701;Seguridad;338,6;338.600,00
+22;121M;22706;Estudios y trabajos técnicos;4.021,50;4.021.500,00
+22;121M;22799;Otros trabajos externos;1.886,08;1.886.080,00
+22;121M;48504;Premios Ejército del Aire;46,5;46.500,00
+22;121M;660;Inversiones militares operativas;3.926,82;3.926.820,00
+—;—;—;TOTAL Programa 121M;18.321,07;18.321.070,00
+22;121N;205;Arrendamientos de mobiliario y enseres;40;40.000,00
+22;121N;215;Reparaciones en mobiliario y enseres;50;50.000,00
+22;121N;22000;Material de oficina ordinario no inventariable;21,35;21.350,00
+22;121N;22001;Prensa, revistas, libros y publicaciones;2,03;2.030,00
+22;121N;22101;Agua;45,22;45.220,00
+22;121N;22102;Gas;555,42;555.420,00
+22;121N;22105;Alimentación;14;14.000,00
+22;121N;22199;Otros suministros;154,57;154.570,00
+22;121N;22200;Servicios de telecomunicaciones;2;2.000,00
+22;121N;22602;Publicidad y propaganda;11,16;11.160,00
+22;121N;22606;Reuniones, conferencias y cursos;2.676,40;2.676.400,00
+22;121N;22607;Oposiciones y pruebas selectivas;10;10.000,00
+22;121N;22700;Limpieza y aseo;850;850.000,00
+22;121N;22706;Estudios y trabajos técnicos;2,27;2.270,00
+22;121N;22799;Otros trabajos externos;76;76.000,00
+22;121N;230;Dietas;1.160,70;1.160.700,00
+22;121N;233;Otras indemnizaciones;250;250.000,00
+—;—;—;TOTAL Programa 121N;5.921,12;5.921.120,00
+22;122A;65;Inversiones militares en infraestructura y otros bienes;21.708,46;21.708.460,00
+22;122A;650;Inversiones militares en infraestructura y otros bienes;21.708,46;21.708.460,00
+—;—;—;TOTAL Programa 122A;21.708,46;21.708.460,00
+22;122M;204;Arrendamientos de medios de transporte;1.763,10;1.763.100,00
+22;122M;205;Arrendamientos de mobiliario y enseres;310;310.000,00
+22;122M;213;Reparaciones en maquinaria e instalaciones;1.550,00;1.550.000,00
+22;122M;215;Reparaciones en mobiliario y enseres;270;270.000,00
+22;122M;22000;Material de oficina ordinario no inventariable;152,44;152.440,00
+22;122M;22001;Prensa, revistas, libros y publicaciones;14,41;14.410,00
+22;122M;22002;Material informático no inventariable;6,5;6.500,00
+22;122M;22100;Energía eléctrica;604,25;604.250,00
+22;122M;22101;Agua;800;800.000,00
+22;122M;22102;Gas;3.866,30;3.866.300,00
+22;122M;22103;Combustible;24.270,50;24.270.500,00
+22;122M;22104;Vestuario;5.430,81;5.430.810,00
+22;122M;22105;Alimentación;7.293,06;7.293.060,00
+22;122M;22106;Productos farmacéuticos y material sanitario;500;500.000,00
+22;122M;22199;Otros suministros;834,4;834.400,00
+22;122M;22200;Servicios de telecomunicaciones;33,26;33.260,00
+22;122M;223;Transportes;1.400,00;1.400.000,00
+22;122M;22500;Tributos estatales;9,4;9.400,00
+22;122M;22501;Tributos autonómicos;5,7;5.700,00
+22;122M;22502;Tributos locales;111,5;111.500,00
+22;122M;22602;Publicidad y propaganda;62,41;62.410,00
+22;122M;22603;Jurídicos y contenciosos;161,6;161.600,00
+22;122M;22606;Reuniones, conferencias y cursos;52,76;52.760,00
+22;122M;22699;Otros gastos diversos;5,3;5.300,00
+22;122M;22700;Limpieza y aseo;5.879,00;5.879.000,00
+22;122M;22706;Estudios y trabajos técnicos;3.994,56;3.994.560,00
+22;122M;22799;Otros trabajos externos;8.314,27;8.314.270,00
+22;122M;230;Dietas;2.641,33;2.641.330,00
+22;122M;231;Locomoción;1.478,82;1.478.820,00
+22;122M;232;Traslado;210;210.000,00
+22;122M;6;INVERSIONES REALES;65;65.000,00
+22;122M;660;Inversiones militares operativas;65;65.000,00
+—;—;—;TOTAL Programa 122M;72.090,68;72.090.680,00
+22;;;121M, 121N, 122A, 122M;118.041,33;118.041.330,00
+22;122N;21;Reparaciones, mantenimiento y conservación;16.174,80;16.174.800,00
+22;122N;212;Edificios y otras construcciones;16.174,80;16.174.800,00
+22;122N;22;Material, suministros y otros;1.400,00;1.400.000,00
+22;122N;227;Trabajos realizados por otras empresas y profesionales;1.400,00;1.400.000,00
+22;122N;22706;Estudios y trabajos técnicos;1.400,00;1.400.000,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;17.574,80;17.574.800,00
+22;122N;66;Inversiones militares operativas;30.432,85;30.432.850,00
+22;122N;660;Inversiones militares operativas;30.432,85;30.432.850,00
+—;—;—;TOTAL INVERSIONES REALES;30.432,85;30.432.850,00
+22;;;122N;48.007,65;48.007.650,00
+50;12SC;290;Gastos corrientes en bienes y servicios. MRR;500;500.000,00
+50;12SC;453;Convenios con universidades para proyectos MRR;10.000,00;10.000.000,00
+50;12SC;692;Inversión nueva asociada al funcionamiento operativo. MRR;500;500.000,00
+—;—;—;TOTAL Programa 12SC;11.000,00;11.000.000,00
+50;42KD;690;Inversión nueva en infraestructuras y bienes de uso general. MRR;112.891,67;112.891.670,00
+50;42KD;691;Inversión de reposición en infraestructuras y bienes de uso general. MRR;43.753,66;43.753.660,00
+—;—;—;TOTAL Programa 42KD;156.645,33;156.645.330,00
+50;000X;737;Transferencia de capital al Centro Nacional de Inteligencia;2.947,56;2.947.560,00
+—;—;—;TOTAL Programa 000X;2.947,56;2.947.560,00
+50;;;12SC, 42KD, 000X;170.592,89;170.592.890,00
+;;;Ministerio de Defensa;12.827.177,55;12.827.177.550,00
+;;230;Dietas;12.416,34;12.416.340,00
+;;231;Locomoción;1.730,01;1.730.010,00
+;;233;Otras indemnizaciones;329,58;329.580,00
+;;—;TOTAL GASTOS CORRIENTES;18.026,68;18.026.680,00
+12;122A;65;Inversiones militares en infraestructura y otros bienes;22.463,58;22.463.580,00
+12;122A;650;Inversiones militares en infraestructura y otros bienes;22.463,58;22.463.580,00
+—;—;—;TOTAL INVERSIONES REALES;22.463,58;22.463.580,00
+—;—;—;TOTAL Modernización de las Fuerzas Armadas;22.463,58;22.463.580,00
+12;122M;22;Material, suministros y otros;84.530,26;84.530.260,00
+12;122M;221;Suministros;75.073,78;75.073.780,00
+12;122M;22103;Combustible;8.806,98;8.806.980,00
+12;122M;22104;Vestuario;29.042,50;29.042.500,00
+12;122M;22105;Alimentación;36.045,10;36.045.100,00
+12;122M;22106;Productos farmacéuticos y material sanitario;1.179,20;1.179.200,00
+12;122M;223;Transportes;9.456,48;9.456.480,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;84.530,26;84.530.260,00
+—;—;—;TOTAL Gastos Operativos de las Fuerzas Armadas;84.530,26;84.530.260,00
+12;122N;21;Reparaciones, mantenimiento y conservación;42.320,88;42.320.880,00
+12;122N;212;Edificios y otras construcciones;32.557,81;32.557.810,00
+12;122N;213;Maquinaria, instalaciones y utillaje;7.933,07;7.933.070,00
+12;122N;216;Equipos para procesos de la información;1.830,00;1.830.000,00
+12;122N;22;Material, suministros y otros;11.242,35;11.242.350,00
+12;122N;221;Suministros;11.242,35;11.242.350,00
+12;122N;22103;Combustible;4.439,00;4.439.000,00
+12;122N;22111;Repuestos de maquinaria y transporte;6.803,35;6.803.350,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;53.563,23;53.563.230,00
+12;122N;66;Inversiones militares operativas;32.850,24;32.850.240,00
+12;122N;660;Inversiones militares operativas;32.850,24;32.850.240,00
+—;—;—;TOTAL INVERSIONES REALES;32.850,24;32.850.240,00
+—;—;—;TOTAL Apoyo Logístico;86.413,47;86.413.470,00
+12;;;122A, 122M, 122N;338.093,90;338.093.900,00
+17;121M;202;Arrendamientos de edificios y otras construcciones;88;88.000,00
+17;121M;204;Arrendamientos de medios de transporte;37,7;37.700,00
+17;121M;206;Arrendamientos de equipos informáticos;7;7.000,00
+17;121M;212;Reparaciones en edificios y construcciones;80;80.000,00
+17;121M;213;Reparaciones en maquinaria e instalaciones;41;41.000,00
+17;121M;22000;Material de oficina ordinario no inventariable;138;138.000,00
+17;121M;22001;Prensa, revistas, libros y publicaciones;124;124.000,00
+17;121M;22100;Energía eléctrica;10.000,00;10.000.000,00
+17;121M;22101;Agua;1.000,00;1.000.000,00
+17;121M;22102;Gas;2.500,00;2.500.000,00
+17;121M;22103;Combustible;1.000,00;1.000.000,00
+17;121M;22105;Alimentación;767;767.000,00
+17;121M;22106;Productos farmacéuticos y material sanitario;615;615.000,00
+17;121M;22108;Material deportivo, didáctico y cultural;12;12.000,00
+17;121M;22199;Otros suministros;841;841.000,00
+17;121M;22200;Servicios de telecomunicaciones;170;170.000,00
+17;121M;22215;Comunicaciones en el exterior;5;5.000,00
+17;121M;22299;Otras comunicaciones;92;92.000,00
+17;121M;223;Transportes;40;40.000,00
+17;121M;22502;Tributos locales;261;261.000,00
+17;121M;22601;Atenciones protocolarias y representativas;4,68;4.680,00
+17;121M;22602;Publicidad y propaganda;405;405.000,00
+17;121M;22603;Jurídicos y contenciosos;500;500.000,00
+17;121M;22606;Reuniones, conferencias y cursos;328;328.000,00
+17;121M;22607;Oposiciones y pruebas selectivas;40;40.000,00
+17;121M;22609;Actividades culturales y deportivas;433,87;433.870,00
+17;121M;22611;Gastos institucionales protocolarios;170;170.000,00
+17;121M;22699;Otros gastos diversos;1.117,00;1.117.000,00
+17;121M;22700;Limpieza y aseo;9.182,00;9.182.000,00
+17;121M;22701;Seguridad;1.762,00;1.762.000,00
+17;121M;22706;Estudios y trabajos técnicos;3.573,00;3.573.000,00
+17;121M;22799;Otros trabajos externos;3.677,00;3.677.000,00
+17;121M;230;Dietas;3.628,80;3.628.800,00
+17;121M;231;Locomoción;1.370,00;1.370.000,00
+17;121M;232;Traslado;1.900,00;1.900.000,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;45.910,05;45.910.050,00
+17;121M;48504;Premios Armada;30;30.000,00
+17;121M;49000;Contribución a la Organización Hidrográfica Internacional;42;42.000,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;72;72.000,00
+17;121M;660;Inversiones militares operativas;3.860,00;3.860.000,00
+—;—;—;TOTAL INVERSIONES REALES;3.860,00;3.860.000,00
+;;;TOTAL Programa 121M;49.842,05;49.842.050,00
+17;121N;22000;Material de oficina ordinario no inventariable;34;34.000,00
+17;121N;22001;Prensa, revistas, libros y otras publicaciones;31;31.000,00
+17;121N;22104;Vestuario;1.300,00;1.300.000,00
+17;121N;22105;Alimentación;1.385,04;1.385.040,00
+17;121N;22606;Reuniones, conferencias y cursos;1.501,52;1.501.520,00
+17;121N;22799;Otros trabajos realizados por empresas y profesionales;513;513.000,00
+17;121N;230;Dietas;4.717,00;4.717.000,00
+17;121N;233;Otras indemnizaciones;480;480.000,00
+—;—;—;TOTAL Programa 121N;9.961,56;9.961.560,00
+17;122A;650;Inversiones militares en infraestructura y otros bienes;47.802,47;47.802.470,00
+—;—;—;TOTAL Programa 122A;47.802,47;47.802.470,00
+17;122M;22103;Combustible;5.300,00;5.300.000,00
+17;122M;22104;Vestuario;2.412,72;2.412.720,00
+17;122M;22105;Alimentación;3.813,00;3.813.000,00
+17;122M;22106;Productos farmacéuticos y material sanitario;440;440.000,00
+17;122M;22199;Otros suministros;1.980,00;1.980.000,00
+17;122M;223;Transportes;2.329,46;2.329.460,00
+—;—;—;TOTAL Programa 122M;16.275,18;16.275.180,00
+17;122N;212;Edificios y otras construcciones;14.545,65;14.545.650,00
+17;122N;213;Maquinaria, instalaciones y utillaje;1.600,00;1.600.000,00
+17;122N;214;Elementos de transporte;421;421.000,00
+17;122N;215;Mobiliario y enseres;430;430.000,00
+17;122N;216;Equipos para procesos de la información;937,49;937.490,00
+17;122N;22000;Material de oficina ordinario no inventariable;450;450.000,00
+17;122N;22002;Material informático no inventariable;438;438.000,00
+17;122N;22103;Combustible;1.300,00;1.300.000,00
+17;122N;22104;Vestuario;388;388.000,00
+17;122N;22105;Alimentación;4.487,36;4.487.360,00
+17;122N;22199;Otros suministros;390,19;390.190,00
+17;122N;22706;Estudios y trabajos técnicos;4.755,66;4.755.660,00
+17;122N;660;Inversiones militares operativas;25.902,20;25.902.200,00
+—;—;—;TOTAL Programa 122N;56.045,55;56.045.550,00
+17;;;121M, 121N, 122A, 122M, 122N;179.926,81;179.926.810,00
+22;121M;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;14.347,75;14.347.750,00
+22;121M;4;TRANSFERENCIAS CORRIENTES;46,5;46.500,00
+22;121M;6;INVERSIONES REALES;3.926,82;3.926.820,00
+—;—;—;TOTAL Programa 121M;18.321,07;18.321.070,00
+22;121N;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;5.921,12;5.921.120,00
+—;—;—;TOTAL Programa 121N;5.921,12;5.921.120,00
+22;122A;6;INVERSIONES REALES;21.708,46;21.708.460,00
+—;—;—;TOTAL Programa 122A;21.708,46;21.708.460,00
+22;122M;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;72.025,68;72.025.680,00
+22;122M;6;INVERSIONES REALES;65;65.000,00
+—;—;—;TOTAL Programa 122M;72.090,68;72.090.680,00
+22;122N;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;17.574,80;17.574.800,00
+22;122N;6;INVERSIONES REALES;30.432,85;30.432.850,00
+—;—;—;TOTAL Programa 122N;48.007,65;48.007.650,00
+22;;;121M, 121N, 122A, 122M, 122N;166.048,98;166.048.980,00
+50;12SC;290;Gastos corrientes en bienes y servicios. MRR;500;500.000,00
+50;12SC;453;Convenios con universidades para proyectos MRR;10.000,00;10.000.000,00
+50;12SC;692;Inversión nueva asociada al funcionamiento operativo. MRR;500;500.000,00
+—;—;—;TOTAL Programa 12SC;11.000,00;11.000.000,00
+50;42KD;690;Inversión nueva en infraestructuras y bienes de uso general. MRR;112.891,67;112.891.670,00
+50;42KD;691;Inversión de reposición en infraestructuras y bienes de uso general. MRR;43.753,66;43.753.660,00
+—;—;—;TOTAL Programa 42KD;156.645,33;156.645.330,00
+50;000X;737;Transferencia de capital al Centro Nacional de Inteligencia;2.947,56;2.947.560,00
+—;—;—;TOTAL Programa 000X;2.947,56;2.947.560,00
+50;;;12SC, 42KD, 000X;170.592,89;170.592.890,00
+;;;Ministerio de Defensa;12.827.177,55;12.827.177.550,00

@@ -1,28 +1,18 @@
-Económica;Explicación;15.104;Total (miles Euros);Total (euros)
-1;GASTOS DE PERSONAL;3.193,99;3.193,99;3.193.990,00 €
-12;Funcionarios;2.488,38;2.488,38;2.488.380,00 €
-13;Laborales;45,3;45,3;45.300,00 €
-15;Incentivos al rendimiento;243,04;243,04;243.040,00 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;417,27;417,27;417.270,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;4.443,20;4.443,20;4.443.200,00 €
-21;Reparaciones, mantenimiento y conservación;719,9;719,9;719.900,00 €
-22;Material, suministros y otros;3.532,30;3.532,30;3.532.300,00 €
-23;Indemnizaciones por razón del servicio;185;185;185.000,00 €
-24;Gastos de publicaciones;6;6;6.000,00 €
-3;GASTOS FINANCIEROS;90,15;90,15;90.150,00 €
-35;Intereses de demora y otros gastos financieros;90,15;90,15;90.150,00 €
-6;INVERSIONES REALES;990,57;990,57;990.570,00 €
-62;Inversión nueva asociada al funcionamiento operativo de los servicios;200;200;200.000,00 €
-63;Inversión de reposición asociada al funcionamiento operativo de los servicios;136,57;136,57;136.570,00 €
-64;Gastos de inversiones de carácter inmaterial;654;654;654.000,00 €
-;TOTAL PROGRAMA 492N;—;8.717,91;8.717.910,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económica;Explicación;15.104;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;3.193,99;3.193,99;3.193.990,00
+12;Funcionarios;2.488,38;2.488,38;2.488.380,00
+13;Laborales;45,3;45,3;45.300,00
+15;Incentivos al rendimiento;243,04;243,04;243.040,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;417,27;417,27;417.270,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;4.443,20;4.443,20;4.443.200,00
+21;Reparaciones, mantenimiento y conservación;719,9;719,9;719.900,00
+22;Material, suministros y otros;3.532,30;3.532,30;3.532.300,00
+23;Indemnizaciones por razón del servicio;185;185;185.000,00
+24;Gastos de publicaciones;6;6;6.000,00
+3;GASTOS FINANCIEROS;90,15;90,15;90.150,00
+35;Intereses de demora y otros gastos financieros;90,15;90,15;90.150,00
+6;INVERSIONES REALES;990,57;990,57;990.570,00
+62;Inversión nueva asociada al funcionamiento operativo de los servicios;200;200;200.000,00
+63;Inversión de reposición asociada al funcionamiento operativo de los servicios;136,57;136,57;136.570,00
+64;Gastos de inversiones de carácter inmaterial;654;654;654.000,00
+;TOTAL PROGRAMA 492N;—;8.717,91;8.717.910,00

@@ -1,0 +1,605 @@
+Servicio;Programa;Económica;Explicación;Total (miles euros);Total (euros)
+1;451N;10;Altos cargos;533,52;533.520
+1;451N;100;Retribuciones básicas y otras remuneraciones;533,52;533.520
+1;451N;10000;Retribuciones básicas;192,14;192.140
+1;451N;10001;Retribuciones complementarias;341,38;341.380
+1;451N;11;Personal eventual;626,4;626.400
+1;451N;110;Retribuciones básicas y otras remuneraciones;626,4;626.400
+1;451N;11000;Retribuciones básicas;235,18;235.180
+1;451N;11001;Retribuciones complementarias;391,22;391.220
+1;451N;12;Funcionarios;37.514,75;37.514.750
+1;451N;120;Retribuciones básicas;12.644,63;12.644.630
+1;451N;12000;Sueldos del grupo A1 y grupo A;2.964,08;2.964.080
+1;451N;12001;Sueldos del grupo A2 y grupo B;2.334,61;2.334.610
+1;451N;12002;Sueldos del grupo C1 y grupo C;1.682,65;1.682.650
+1;451N;12003;Sueldos del grupo C2 y grupo D;1.475,35;1.475.350,00
+1;451N;12004;Sueldos personal de agrupaciones profesionales y grupo E;14,7;14.700,00
+1;451N;12005;Trienios;2.203,52;2.203.520,00
+1;451N;12006;Pagas extraordinarias;1.969,72;1.969.720,00
+1;451N;121;Retribuciones complementarias;23.835,72;23.835.720
+1;451N;12100;Complemento de destino;5.757,68;5.757.680,00
+1;451N;12101;Complemento específico;7.843,07;7.843.070,00
+1;451N;12102;Indemnización por residencia;16,53;16.530
+1;451N;12103;Otros complementos;1,53;1.530,00
+1;451N;12181;Necesidades adicionales;10.216,91;10.216.910,00
+1;451N;124;Retribuciones de funcionarios en prácticas;1.034,40;1.034.400
+1;451N;12400;Sueldos del grupo A1 y grupo A;574,54;574.540
+1;451N;12401;Sueldos del grupo A2 y grupo B;216,55;216.550,00
+1;451N;12402;Sueldos del grupo C1 y grupo C;95,64;95.640
+1;451N;12405;Trienios;10,36;10.360
+1;451N;12406;Pagas extraordinarias;97,25;97.250
+1;451N;12407;Retribuciones complementarias;40,06;40.060
+1;451N;13;Laborales;5.698,66;5.698.660
+1;451N;130;Laboral fijo;5.645,39;5.645.390
+1;451N;13000;Retribuciones básicas;5.160,63;5.160.630
+1;451N;13001;Otras remuneraciones;484,76;484.760
+1;451N;131;Laboral eventual;53,27;53.270
+1;451N;15;Incentivos al rendimiento;13.282,39;13.282.390,00
+1;451N;150;Productividad;12.436,23;12.436.230
+1;451N;151;Gratificaciones;846,16;846.160
+1;451N;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;5.833,14;5.833.140
+1;451N;160;Cuotas sociales;3.845,65;3.845.650
+1;451N;16000;Seguridad Social;3.845,65;3.845.650
+1;451N;162;Gastos sociales del personal;1.987,49;1.987.490
+1;451N;16200;Formación y perfeccionamiento del personal;624,1;624.100
+1;451N;16201;Economatos y comedores;40,65;40.650,00
+1;451N;16202;Transporte de personal;28,08;28.080
+1;451N;16204;Acción social;595,98;595.980
+1;451N;16205;Seguros;347,14;347.140
+1;451N;16206;Cuotas de asistencia a cursos, seminarios, reuniones, nacionales e internacionales;102,04;102.040
+1;451N;16209;Otros;249,5;249.500
+1;451N;20;Arrendamientos y cánones;898,37;898.370
+1;451N;202;Arrendamientos de edificios y otras construcciones;748;748.000
+1;451N;203;Arrendamientos de maquinaria, instalaciones y utillaje;18,15;18.150
+1;451N;205;Arrendamientos de mobiliario y enseres;4,22;4.220
+1;451N;209;Cánones;128;128.000
+1;451N;21;Reparaciones, mantenimiento y conservación;5.433,09;5.433.090
+1;451N;210;Infraestructura y bienes naturales;5;5.000
+1;451N;212;Edificios y otras construcciones;2.752,62;2.752.620
+1;451N;213;Maquinaria, instalaciones y utillaje;1.417,27;1.417.270
+1;451N;214;Elementos de transporte;466,08;466.080
+1;451N;215;Mobiliario y enseres;122,12;122.120
+1;451N;216;Equipos para procesos de la información;665;665.000
+1;451N;219;Otro inmovilizado material;5;5.000
+1;451N;22;Material, suministros y otros;11.500,09;11.500.090
+1;451N;220;Material de oficina;1.450,00;1.450.000
+1;451N;22000;Ordinario no inventariable;1.225,00;1.225.000
+1;451N;22001;Prensa, revistas, libros y otras publicaciones;60;60.000
+1;451N;22002;Material informático no inventariable;165;165.000
+1;451N;221;Suministros;2.494,59;2.494.590
+1;451N;22100;Energía eléctrica;1.346,50;1.346.500
+1;451N;22101;Agua;170;170.000
+1;451N;22102;Gas;400;400.000,00
+1;451N;22103;Combustible;50;50.000
+1;451N;22104;Vestuario;80;80.000
+1;451N;22106;Productos farmacéuticos y material sanitario;18,09;18.090
+1;451N;22109;Labores Fábrica Nacional Moneda y Timbre;130;130.000,00
+1;451N;22111;Suministros de repuestos de maquinaria, utillaje y elementos de transporte;125;125.000
+1;451N;22112;Suministros de material electrónico, eléctrico y de comunicaciones;25;25.000
+1;451N;22199;Otros suministros;150;150.000
+1;451N;222;Comunicaciones;8,42;8.420
+1;451N;22200;Servicios de telecomunicaciones;1,52;1.520
+1;451N;22201;Postales y mensajería;3,12;3.120
+1;451N;22299;Otras;3,78;3.780
+1;451N;223;Transportes;100;100.000
+1;451N;224;Primas de seguros;16,52;16.520
+1;451N;225;Tributos;1.771,25;1.771.250
+1;451N;22500;Estatales;3,55;3.550
+1;451N;22501;Autonómicos;2;2.000
+1;451N;22502;Locales;1.765,70;1.765.700
+1;451N;226;Gastos diversos;529,99;529.990
+1;451N;22601;Atenciones protocolarias y representativas;27,21;27.210
+1;451N;22602;Publicidad y propaganda;50;50.000
+1;451N;22603;Jurídicos, contenciosos;142,68;142.680
+1;451N;22606;Reuniones, conferencias y cursos;15;15.000
+1;451N;22607;Oposiciones y pruebas selectivas;294;294.000,00
+1;451N;22699;Otros;1,1;1.100
+1;451N;227;Trabajos realizados por otras empresas y profesionales;5.129,32;5.129.320
+1;451N;22700;Limpieza y aseo;2.051,15;2.051.150
+1;451N;22701;Seguridad;2.508,05;2.508.050
+1;451N;22704;Custodia, depósito y almacenaje;5;5.000
+1;451N;22706;Estudios y trabajos técnicos;150;150.000
+1;451N;22799;Otros;415,12;415.120
+1;451N;23;Indemnizaciones por razón del servicio;3.301,60;3.301.600
+1;451N;230;Dietas;2.424,77;2.424.770,00
+1;451N;231;Locomoción;437,66;437.660,00
+1;451N;232;Traslado;46,32;46.320
+1;451N;233;Otras indemnizaciones;392,85;392.850
+1;451N;35;Intereses de demora y otros gastos financieros;10,31;10.310
+1;451N;352;Intereses de demora;10,31;10.310
+1;451N;48;A familias e instituciones sin fines de lucro;1.196,77;1.196.770
+1;451N;480;Cuotas y contribuciones a Organismos e Instituciones Nacionales;61,48;61.480
+1;451N;481;Programa de formación en la metodología BIM;360;360.000
+1;451N;48100;A los Colegios profesionales y Consejos Generales de Colegios profesionales para formación en metodología BIM;300;300.000
+1;451N;48101;A Building Smart Spanish Chapter;60;60.000
+1;451N;482;Asociación Recreativo Cultural del MITMA;6,94;6.940
+1;451N;484;Asociación de Padres de la Guardería Jardín de Infancia del MITMA;180,25;180.250
+1;451N;485;Premio Nacional de Ingeniería Civil;31,47;31.470
+1;451N;486;Premios por jubilación al personal del Departamento;324,26;324.260
+1;451N;487;Becas de formación y perfeccionamiento;170,37;170.370
+1;451N;48700;Programa Becas Fulbright;95,37;95.370
+1;451N;48701;Programa Becas de formación y perfeccionamiento profesional;75;75.000
+1;451N;488;Premios Matilde Ucelay;45;45.000
+1;451N;489;Cuotas patronales de las becas para programas;17;17.000
+1;451N;49;Al exterior;68;68.000
+1;451N;492;Cuotas a Organismos Internacionales;68;68.000
+1;451N;49200;Conférence Européenne des Directeurs de Routes. CEDR;25;25.000
+1;451N;49201;Association Mondiale de la Route. AIPCR;23,3;23.300
+1;451N;49202;Organisation de Coopération et de Développement Économique - PARIS OCDE CCRT;19,7;19.700
+1;451N;62;Inversión nueva asociada al funcionamiento operativo de los servicios;1.676,10;1.676.100
+1;451N;620;Inversión nueva asociada al funcionamiento operativo de los servicios;1.676,10;1.676.100
+1;451N;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;4.618,73;4.618.730
+1;451N;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;4.618,73;4.618.730
+1;451N;64;Gastos de inversiones de carácter inmaterial;3.327,97;3.327.970
+1;451N;640;Gastos en inversiones de carácter inmaterial;3.327,97;3.327.970
+1;451N;76;A Entidades Locales;500;500.000
+1;451N;760;A la Fira de Barcelona para la celebración del Salón del Automóvil;500;500.000
+1;451N;83;Concesión de préstamos fuera del Sector Público;153,78;153.780
+1;451N;830;Préstamos a corto plazo;18,78;18.780
+1;451N;83008;Familias e instituciones sin fines de lucro;18,78;18.780
+1;451N;831;Préstamos a largo plazo;135;135.000
+1;451N;83108;Familias e instituciones sin fines de lucro;135;135.000
+;;;TOTAL ACTIVOS FINANCIEROS;153,78;153.780
+;;;TOTAL Dirección y Servicios Generales de Transportes y Movilidad Sostenible;96.173,67;96.173.670,00
+2;453O;12;Funcionarios;384,15;384.150
+2;453O;120;Retribuciones básicas;173,67;173.670
+2;453O;12000;Sueldos del grupo A1 y grupo A;59,46;59.460
+2;453O;12001;Sueldos del grupo A2 y grupo B;38,56;38.560
+2;453O;12002;Sueldos del grupo C1 y grupo C;19,3;19.300
+2;453O;12003;Sueldos del grupo C2 y grupo D;8,03;8.030
+2;453O;12005;Trienios;21,4;21.400
+2;453O;12006;Pagas extraordinarias;26,92;26.920
+2;453O;121;Retribuciones complementarias;210,48;210.480
+2;453O;12100;Complemento de destino;88,05;88.050
+2;453O;12101;Complemento específico;122,43;122.430
+2;453O;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;30;30.000
+2;453O;160;Cuotas sociales;30;30.000
+2;453O;16000;Seguridad Social;30;30.000
+2;453O;22;Material, suministros y otros;50;50.000
+2;453O;227;Trabajos realizados por otras empresas y profesionales;50;50.000
+2;453O;22706;Estudios y trabajos técnicos;50;50.000
+2;453O;23;Indemnizaciones por razón del servicio;52;52.000
+2;453O;230;Dietas;4,24;4.240
+2;453O;231;Locomoción;5,76;5.760
+2;453O;233;Otras indemnizaciones;42;42.000
+2;453O;12;Funcionarios;384,15;384.150
+2;453O;120;Retribuciones básicas;173,67;173.670
+2;453O;12000;Sueldos del grupo A1 y grupo A;59,46;59.460
+2;453O;12001;Sueldos del grupo A2 y grupo B;38,56;38.560
+2;453O;12002;Sueldos del grupo C1 y grupo C;19,3;19.300
+2;453O;12003;Sueldos del grupo C2 y grupo D;8,03;8.030
+2;453O;12005;Trienios;21,4;21.400
+2;453O;12006;Pagas extraordinarias;26,92;26.920
+2;453O;121;Retribuciones complementarias;210,48;210.480
+2;453O;12100;Complemento de destino;88,05;88.050
+2;453O;12101;Complemento específico;122,43;122.430
+2;453O;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;30;30.000
+2;453O;160;Cuotas sociales;30;30.000
+2;453O;16000;Seguridad Social;30;30.000
+2;453O;22;Material, suministros y otros;50;50.000
+2;453O;227;Trabajos realizados por otras empresas y profesionales;50;50.000
+2;453O;22706;Estudios y trabajos técnicos;50;50.000
+2;453O;23;Indemnizaciones por razón del servicio;52;52.000
+2;453O;230;Dietas;4,24;4.240
+2;453O;231;Locomoción;5,76;5.760
+2;453O;233;Otras indemnizaciones;42;42.000
+2;454O;12;Funcionarios;527,88;527.880
+2;454O;120;Retribuciones básicas;236;236.000
+2;454O;12000;Sueldos del grupo A1 y grupo A;163,5;163.500
+2;454O;12003;Sueldos del grupo C2 y grupo D;16,06;16.060
+2;454O;12005;Trienios;19,76;19.760
+2;454O;12006;Pagas extraordinarias;36,68;36.680
+2;454O;121;Retribuciones complementarias;291,88;291.880
+2;454O;12100;Complemento de destino;119,68;119.680
+2;454O;12101;Complemento específico;172,2;172.200
+2;454O;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;54;54.000
+2;454O;160;Cuotas sociales;54;54.000
+2;454O;16000;Seguridad Social;54;54.000
+2;454O;22;Material, suministros y otros;10;10.000
+2;454O;227;Trabajos realizados por otras empresas y profesionales;10;10.000
+2;454O;22706;Estudios y trabajos técnicos;10;10.000
+2;454O;23;Indemnizaciones por razón del servicio;55,3;55.300
+2;454O;230;Dietas;11,58;11.580
+2;454O;231;Locomoción;18,42;18.420
+2;454O;233;Otras indemnizaciones;25,3;25.300
+2;454O;64;Gastos de inversiones de carácter inmaterial;2.040,00;2.040.000
+2;454O;640;Gastos en inversiones de carácter inmaterial;2.040,00;2.040.000
+2;455O;12;Funcionarios;978,3;978.300
+2;455O;120;Retribuciones básicas;437,05;437.050
+2;455O;12000;Sueldos del grupo A1 y grupo A;148,64;148.640
+2;455O;12001;Sueldos del grupo A2 y grupo B;167,09;167.090
+2;455O;12005;Trienios;48,71;48.710
+2;455O;12006;Pagas extraordinarias;72,61;72.610
+2;455O;121;Retribuciones complementarias;541,25;541.250
+2;455O;12100;Complemento de destino;225,88;225.880
+2;455O;12101;Complemento específico;315,37;315.370
+2;455O;13;Laborales;24,74;24.740
+2;455O;130;Laboral fijo;24,74;24.740
+2;455O;13000;Retribuciones básicas;22,46;22.460
+2;455O;13001;Otras remuneraciones;2,28;2.280
+2;455O;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;91;91.000
+2;455O;160;Cuotas sociales;91;91.000
+2;455O;16000;Seguridad Social;91;91.000
+2;455O;22;Material, suministros y otros;20;20.000
+2;455O;227;Trabajos realizados por otras empresas y profesionales;20;20.000
+2;455O;22706;Estudios y trabajos técnicos;20;20.000
+2;455O;23;Indemnizaciones por razón del servicio;78,59;78.590
+2;455O;230;Dietas;13;13.000
+2;455O;231;Locomoción;13;13.000
+2;455O;233;Otras indemnizaciones;52,59;52.590
+2;455O;64;Gastos de inversiones de carácter inmaterial;570,22;570.220
+2;455O;640;Gastos en inversiones de carácter inmaterial;570,22;570.220
+2;467G;62;Inversión nueva asociada al funcionamiento operativo de los servicios;980;980.000
+2;467G;620;Inversión nueva asociada al funcionamiento operativo de los servicios;980;980.000
+2;451N;22;Material, suministros y otros;10;10.000
+2;451N;220;Material de oficina;3,12;3.120
+2;451N;22000;Ordinario no inventariable;0,94;940
+2;451N;22001;Prensa, revistas, libros y otras publicaciones;1,88;1.880
+2;451N;22002;Material informático no inventariable;0,3;300
+2;451N;226;Gastos diversos;3,25;3.250
+2;451N;22601;Atenciones protocolarias y representativas;2,25;2.250
+2;451N;22606;Reuniones, conferencias y cursos;1;1.000
+2;451N;227;Trabajos realizados por otras empresas y profesionales;3,63;3.630
+2;451N;22706;Estudios y trabajos técnicos;3,63;3.630
+2;451N;62;Inversión nueva asociada al funcionamiento operativo de los servicios;3,86;3.860
+2;451N;620;Inversión nueva asociada al funcionamiento operativo de los servicios;3,86;3.860
+2;451N;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;3,86;3.860
+2;451N;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;3,86;3.860
+2;451N;64;Gastos de inversiones de carácter inmaterial;1.960,28;1.960.280
+2;451N;640;Gastos en inversiones de carácter inmaterial;1.960,28;1.960.280
+2;451N;220;Material de oficina;3,12;3.120
+2;451N;22000;Ordinario no inventariable;0,94;940
+2;451N;22001;Prensa, revistas, libros y otras publicaciones;1,88;1.880
+2;451N;22002;Material informático no inventariable;0,3;300
+2;451N;226;Gastos diversos;3,25;3.250
+2;451N;22601;Atenciones protocolarias y representativas;2,25;2.250
+2;451N;22606;Reuniones, conferencias y cursos;1;1.000
+2;451N;227;Trabajos realizados por otras empresas y profesionales;3,63;3.630
+2;451N;22706;Estudios y trabajos técnicos;3,63;3.630
+2;451N;62;Inversión nueva asociada al funcionamiento operativo de los servicios;3,86;3.860
+2;451N;620;Inversión nueva asociada al funcionamiento operativo de los servicios;3,86;3.860
+2;451N;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;3,86;3.860
+2;451N;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;3,86;3.860
+2;451N;64;Gastos de inversiones de carácter inmaterial;1.960,28;1.960.280
+2;451N;640;Gastos en inversiones de carácter inmaterial;1.960,28;1.960.280
+3;451N;220;Material de oficina;10;10.000
+3;451N;22002;Material informático no inventariable;10;10.000
+3;451N;226;Gastos diversos;32,25;32.250
+3;451N;22601;Atenciones protocolarias y representativas;2,25;2.250
+3;451N;22606;Reuniones, conferencias y cursos;30;30.000
+3;451N;227;Trabajos realizados por otras empresas y profesionales;71,05;71.050
+3;451N;22706;Estudios y trabajos técnicos;71,05;71.050
+3;451N;240;Gastos de edición y distribución;262,17;262.170
+3;451N;35;Intereses de demora y otros gastos financieros;3;3.000
+3;451N;359;Otros gastos financieros;3;3.000
+3;451N;48;A familias e instituciones sin fines de lucro;200;200.000
+3;451N;480;A la Asociación Española de Normalización (UNE);200;200.000
+3;451N;49;Al exterior;810;810.000
+3;451N;493;Cuotas a Organismos Internacionales;810;810.000
+3;451N;49300;Unión Postal Universal;640;640.000
+3;451N;49301;Unión Postal de las Américas, España y Portugal;170;170.000
+3;451N;62;Inversión nueva asociada al funcionamiento operativo de los servicios;93;93.000
+3;451N;620;Inversión nueva asociada al funcionamiento operativo de los servicios;93;93.000
+3;451N;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;120;120.000
+3;451N;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;120;120.000
+3;000X;43;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;110.000,00;110.000.000
+3;000X;431;A la CNMC para el Fondo de financiación del Servicio Postal Universal;110.000,00;110.000.000
+18;495A;10;Altos cargos;61,04;61.040,00
+18;495A;100;Retribuciones básicas y otras remuneraciones;61,04;61.040
+18;495A;10000;Retribuciones básicas;18,91;18.910
+18;495A;10001;Retribuciones complementarias;42,13;42.130
+18;495A;12;Funcionarios;11.020,48;11.020.480
+18;495A;120;Retribuciones básicas;5.877,32;5.877.320
+18;495A;12000;Sueldos del grupo A1 y grupo A;1.753,95;1.753.950
+18;495A;12001;Sueldos del grupo A2 y grupo B;1.516,65;1.516.650
+18;495A;12002;Sueldos del grupo C1 y grupo C;685,15;685.150
+18;495A;12003;Sueldos del grupo C2 y grupo D;96,38;96.380
+18;495A;12005;Trienios;783,41;783.410
+18;495A;12006;Pagas extraordinarias;1.041,78;1.041.780
+18;495A;121;Retribuciones complementarias;5.066,77;5.066.770
+18;495A;12100;Complemento de destino;2.360,27;2.360.270,00
+18;495A;12101;Complemento específico;2.686,68;2.686.680,00
+18;495A;12102;Indemnización por residencia;18,8;18.800
+18;495A;12103;Otros complementos;1,02;1.020
+18;495A;123;Indemnizaciones percibidas por destino en el extranjero;76,39;76.390
+18;495A;12300;Indemnización por destino en el extranjero;76,39;76.390,00
+18;495A;13;Laborales;3.558,51;3.558.510
+18;495A;130;Laboral fijo;3.465,02;3.465.020,00
+18;495A;13000;Retribuciones básicas;3.149,75;3.149.750,00
+18;495A;13001;Otras remuneraciones;315,27;315.270
+18;495A;131;Laboral eventual;93,49;93.490
+18;495A;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;2.250,00;2.250.000
+18;495A;160;Cuotas sociales;2.250,00;2.250.000
+18;495A;16000;Seguridad Social;2.250,00;2.250.000
+18;495A;22;Material, suministros y otros;2.307,05;2.307.050
+18;495A;220;Material de oficina;66,32;66.320,00
+18;495A;22000;Ordinario no inventariable;14,42;14.420
+18;495A;22001;Prensa, revistas, libros y otras publicaciones;3,84;3.840
+18;495A;22002;Material informático no inventariable;48,06;48.060
+18;495A;221;Suministros;1.178,44;1.178.440
+18;495A;22100;Energía eléctrica;807,78;807.780,00
+18;495A;22101;Agua;28,83;28.830
+18;495A;22103;Combustible;283,72;283.720
+18;495A;22104;Vestuario;3,84;3.840
+18;495A;22106;Productos farmacéuticos y material sanitario;3,84;3.840
+18;495A;22112;Suministros electrónicos, eléctricos y de comunicaciones;21,6;21.600
+18;495A;22199;Otros suministros;28,83;28.830
+18;495A;222;Comunicaciones;55,81;55.810
+18;495A;22200;Servicios de telecomunicaciones;50,81;50.810
+18;495A;22201;Postales y mensajería;5;5.000
+18;495A;223;Transportes;9,61;9.610
+18;495A;224;Primas de seguros;7,89;7.890
+18;495A;225;Tributos;21,55;21.550
+18;495A;22500;Estatales;11,66;11.660
+18;495A;22501;Autonómicos;0,26;260
+18;495A;22502;Locales;9,63;9.630
+18;495A;226;Gastos diversos;20,31;20.310
+18;495A;22601;Atenciones protocolarias y representativas;2,25;2.250
+18;495A;22602;Publicidad y propaganda;14,42;14.420
+18;495A;22606;Reuniones, conferencias y cursos;3,64;3.640
+18;495A;227;Trabajos realizados por otras empresas y profesionales;947,12;947.120
+18;495A;22700;Limpieza y aseo;265,99;265.990
+18;495A;22701;Seguridad;673,83;673.830
+18;495A;22799;Otros;7,3;7.300
+18;495A;48;A familias e instituciones sin fines de lucro;618,59;618.590
+18;495A;480;Cuotas y contribuciones a Organismos e Instituciones Nacionales;3,62;3.620
+18;495A;482;Subvención a la Real Sociedad Geográfica;20;20.000
+18;495A;483;Subvención al Observatorio del Ebro;10;10.000
+18;495A;484;Becas y ayudas en áreas de astronomía, geofísica, geodesia, teledetección y documentación geográfica;584,97;584.970
+18;495A;49;Al exterior;1.395,81;1.395.810
+18;495A;491;Cuotas a Organismos Internacionales;1.395,81;1.395.810
+18;495A;49100;Instituto de Radioastronomía Milimétrica (IRAM);1.100,00;1.100.000
+18;495A;49101;Unión Internacional de Geodesia y Geofísica;16,79;16.790
+18;495A;49102;Unión Astronómica Internacional;20,7;20.700
+18;495A;49103;Centro Sismológico Europeo-Mediterráneo;1,23;1.230
+18;495A;49104;Unión Geográfica Internacional;3,6;3.600
+18;495A;49105;Joint Institute for VLBI in Europe (JIVE);161;161.000
+18;495A;49106;Investigación de Datos Espaciales Europeos (EURO SDR);6,69;6.690
+18;495A;49107;Asociación Cartográfica Internacional;0,82;820
+18;495A;49108;Open Geospatial Consortium;6,69;6.690
+18;495A;49109;Eurogeographics;37,09;37.090
+18;495A;49110;Comité de Frecuencias de Radioastronomía (CRAF);25,75;25.750
+18;495A;49111;International Seismological Centre (ISC);15,45;15.450
+18;495A;62;Inversión nueva asociada al funcionamiento operativo de los servicios;9.997,09;9.997.090
+18;495A;620;Inversión nueva asociada al funcionamiento operativo de los servicios;8.497,09;8.497.090,00
+18;495A;621;Red de vigilancia de gases tóxicos en La Palma (Puerto Naos y La Bombilla);1.500,00;1.500.000
+18;495A;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;1.071,85;1.071.850
+18;495A;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;1.071,85;1.071.850
+18;495A;75;A Comunidades Autónomas;350;350.000
+18;495A;752;Apoyo al funcionamiento del Sistema Cartográfico Nacional (SCN);350;350.000
+;;;TOTAL Desarrollo y aplicación de la información geográfica española;32.630,42;
+18;000X;41;A Organismos Autónomos;2.040,21;2.040.210
+18;000X;412;Centro Nacional de Información Geográfica (CNIG);2.040,21;2.040.210
+18;000X;71;A Organismos Autónomos;2.520,00;2.520.000
+18;000X;712;Centro Nacional de Información Geográfica (CNIG);2.520,00;2.520.000
+20;441M;44;A Sociedades, Entidades Públicas Empresariales…;800;800.000,00
+20;441M;443;Compensación a SEITTSA por modificación de tarifas;800;800.000
+20;441M;45;A Comunidades Autónomas;350;350.000
+20;441M;457;Subvenciones a Comunidades Autónomas;350;350.000
+20;441M;45700;Subvención directa a Xunta de Galicia;350;350.000
+20;441M;47;A empresas privadas;96.966,04;96.966.040
+20;441M;470;Compensación a concesionarias de autopistas;88.966,04;88.966.040
+20;441M;47000–47040;Detalle de compensaciones por peajes;—;—
+20;441M;473;Compensación por rebaja de tarifas de peaje;8.000,00;8.000.000
+20;441M;47302–47310;Detalle de compensaciones por reducción temporal;—;—
+20;441P;47;A empresas privadas;84.279,24;84.279.240
+20;441P;471;Transporte del plátano de Canarias;20.000,00;20.000.000
+20;441P;478;Subvención transporte marítimo/aéreo extrapeninsular;64.279,24;64.279.240
+20;441P;47801–47804;Detalle por territorios;—;—
+20;451N;22;Material, suministros y otros;469,08;469.080
+20;451N;226;Gastos diversos;219,08;219.080
+20;451N;22601–22699;Detalle de gastos diversos;—;—
+20;451N;227;Trabajos realizados por otras empresas;250;250.000
+20;451N;22706;Estudios y trabajos técnicos;250;250.000
+20;451N;35;Intereses de demora y otros gastos financieros;3.500,00;3.500.000
+20;451N;352;Intereses de demora;3.500,00;3.500.000
+20;451N;44–49;Transferencias corrientes (ENAIRE, Ucrania, etc.);8.066,13;8.066.130
+20;451N;64;Gastos de inversiones de carácter inmaterial;3.900,00;3.900.000
+20;451N;74–76;Transferencias de capital (SECEGSA, Cataluña, IFEMA…);270.676,10;270.676.100
+20;451N;85;Adquisición de acciones y participaciones;52.691,16;52.691.160
+20;000X;41;A Organismos Autónomos (CEDEX);12.897,90;12.897.900
+20;000X;43;A otras entidades del Sector Público Administrativo Estatal;6.585,41;6.585.410
+20;000X;71;Transferencias de capital (CEDEX, CNIG);5.900,00;5.900.000
+32;441N;35;Intereses de demora y otros gastos financieros;16,31;16.310
+32;441N;353;Intereses por sentencias y reclamaciones;16,31;16.310
+32;441N;44;A entidades del sector público estatal;15.433,34;15.433.340
+32;441N;442;Compensación por navegaciones de interés público;15.433,34;15.433.340
+32;441N;48;A familias e instituciones sin fines de lucro;168.499,27;168.499.270
+32;441N;481;Bonificación a residentes no peninsulares;158.499,27;158.499.270
+32;441N;48101;Baleares;50.726,54;50.726.540
+32;441N;48102;Canarias;75.114,37;75.114.370
+32;441N;48103;Ceuta y Melilla;32.658,36;32.658.360
+32;441N;484;Bonificaciones a familias numerosas;10.000,00;10.000.000
+32;454M;10;Altos cargos;61,04;61.040
+32;454M;100;Retribuciones básicas y otras remuneraciones;61,04;61.040
+32;454M;10000;Retribuciones básicas;18,91;18.910
+32;454M;10001;Retribuciones complementarias;42,13;42.130,00
+32;454M;12;Funcionarios;24.632,80;24.632.800,00
+32;454M;120;Retribuciones básicas;12.590,56;12.590.560,00
+32;454M;121;Retribuciones complementarias;11.603,74;11.603.740
+32;454M;123;Indemnización por destino en el extranjero;438,5;438.500
+32;454M;13;Laborales;1.656,60;1.656.600
+32;454M;16;Cuotas sociales;2.350,00;2.350.000
+32;454M;22;Material, suministros y otros;4.630,07;4.630.070
+32;454M;48;A familias e instituciones sin fines de lucro;1.100,00;1.100.000
+32;454M;483–486;Subvenciones a ANAVE, Correillo, ALBAOLA;1.100,00;1.100.000
+32;454M;49;Al exterior;99;99.000
+32;454M;491;Cuotas a organismos internacionales;99;99.000
+32;454M;62;Inversión nueva;1.325,55;1.325.550
+32;454M;63;Inversión de reposición;594,45;594.450
+32;454M;64;Gastos de inversiones inmateriales;380;380.000
+32;497M;44;A entidades del sector público estatal;157.720,00;157.720.000
+32;497M;441;Subvención a SASEMAR;157.720,00;157.720.000,00
+32;497M;44100;Actividad global de SASEMAR;157.570,00;157.570.000
+32;497M;44101;Proyectos de cooperación técnica;150;150.000,00
+32;497M;74;Transferencias de capital;32.040,00;32.040.000,00
+32;497M;741;A SASEMAR;32.040,00;32.040.000
+34;441O;47;A empresas privadas;8.600,00;8.600.000
+34;441O;470;Obligaciones de Servicio Público en Canarias;3.800,00;3.800.000
+34;441O;471;Obligaciones de Servicio Público en Menorca;1.800,00;1.800.000
+34;441O;472;Obligaciones de Servicio Público en Melilla;3.000,00;3.000.000
+34;441O;48;A familias e instituciones sin fines de lucro;565.260,05;565.260.050
+34;441O;483;Subvención al tráfico aéreo regular;560.810,05;560.810.050
+34;441O;48301;Península–Canarias y entre Islas Canarias;321.796,76;321.796.760
+34;441O;48302;Península–Baleares y entre Islas Baleares;215.013,29;215.013.290
+34;441O;48303;Ceuta, Melilla y resto del territorio nacional;24.000,00;24.000.000
+34;441O;487;Bonificaciones a familias numerosas;4.450,00;4.450.000
+34;455M;10;Altos cargos;61,04;61.040
+34;455M;100;Retribuciones básicas y otras remuneraciones;61,04;61.040,00
+34;455M;10000;Retribuciones básicas;18,91;18.910,00
+34;455M;10001;Retribuciones complementarias;42,13;42.130,00
+34;455M;12;Funcionarios;2.478,29;2.478.290
+34;455M;120;Retribuciones básicas;1.033,43;1.033.430
+34;455M;121;Retribuciones complementarias;1.188,76;1.188.760
+34;455M;123;Indemnizaciones por destino en el extranjero;256,1;256.100
+34;455M;13;Laborales;128,15;128.150
+34;455M;130;Laboral fijo;128,15;128.150
+34;455M;16;Cuotas sociales;330;330.000
+34;455M;16000;Seguridad Social;330;330.000
+34;455M;22;Material, suministros y otros;1.210,62;1.210.620
+34;455M;226;Gastos diversos;70,39;70.390
+34;455M;227;Trabajos realizados por otras empresas;978,52;978.520
+34;455M;35;Intereses de demora y otros gastos financieros;0,19;190
+34;455M;49;Al exterior;1.755,31;1.755.310
+34;455M;492;Cuotas a organismos internacionales;1.755,31;1.755.310
+34;455M;64;Gastos de inversiones de carácter inmaterial;4.346,68;4.346.680
+34;455M;640;Gastos en inversiones de carácter inmaterial;4.346,68;4.346.680
+38;453B;10;Altos cargos;61,04;61.040
+38;453B;12;Funcionarios;17.335,98;17.335.980
+38;453B;13;Laborales;13.430,38;13.430.380
+38;453B;16;Cuotas sociales;5.000,78;5.000.780
+38;453B;22;Material, suministros y otros;759,91;759.910
+38;453B;60;Inversión nueva en infraestructuras;848.484,22;848.484.220
+38;453B;61;Inversión de reposición en infraestructuras;215.809,00;215.809.000
+38;453B;64;Gastos de inversiones inmateriales;1.331,44;1.331.440
+38;453B;75–76;Transferencias de capital a CCAA y Entidades Locales;470.534,35;470.534.350
+38;453B;83;Concesión de préstamos fuera del Sector Público;20.800,00;20.800.000
+38;453C;12;Funcionarios;7.176,84;7.176.840
+38;453C;13;Laborales;9.507,44;9.507.440
+38;453C;16;Cuotas sociales;3.500,00;3.500.000
+38;453C;21;Reparaciones, mantenimiento y conservación;146,23;146.230
+38;453C;22;Material, suministros y otros;34.578,90;34.578.900
+38;453C;226;Gastos diversos;1.940,59;1.940.590
+38;453C;227;Trabajos realizados por otras empresas;2.133,41;2.133.410
+38;453C;61;Inversión de reposición en infraestructuras;1.153.090,01;1.153.090.010
+38;453C;63;Inversión de reposición asociada al funcionamiento;409,99;409.990
+39;441M;44;A entidades del sector público estatal;1.313.641,00;1.313.641.000
+39;441M;440;Fundación de los Ferrocarriles Españoles;40;40.000
+39;441M;442;Renfe Viajeros – Obligaciones de Servicio Público;1.009.000,00;1.009.000.000
+39;441M;443;Renfe Viajeros – Material rodante;1;1.000
+39;441M;445;Reducción de precio de abonos RENFE;3.600,00;3.600.000
+39;441M;447;Renfe – Servicios traspasados a Cataluña;301.000,00;301.000.000
+39;441M;45;A Comunidades Autónomas;451.445,52;451.445.520
+39;441M;451–459;Subvenciones a CCAA (Barcelona, Canarias, Madrid, etc.);—;—
+39;441M;46;A Entidades Locales;54.304,74;54.304.740
+39;441M;461–463;Subvenciones a Entidades Locales (Córdoba, etc.);—;—
+39;441M;47;A empresas privadas;15.100,00;15.100.000
+39;441M;471;Ayudas a empresas ferroviarias;100;100.000
+39;441M;473;Transporte regular por carretera;15.000,00;15.000.000
+39;441M;48;A familias e instituciones sin fines de lucro;10.200,00;10.200.000
+39;441M;482;Bonificaciones en billetes ferroviarios;10.000,00;10.000.000
+39;441M;483;Bonificaciones intermodales;200;200.000
+39;441M;49;Al exterior;234,59;234.590
+39;441M;492;Cuotas a organismos internacionales;234,59;234.590
+39;453M;10;Altos cargos;61,04;61.040
+39;453M;12;Funcionarios;4.680,45;4.680.450
+39;453M;13;Laborales;69,75;69.750
+39;453M;16;Cuotas sociales;525;525.000
+39;453M;22;Material, suministros y otros;2.275,55;2.275.550
+39;453M;48;A familias e instituciones sin fines de lucro;92;92.000
+39;453M;49;Al exterior;13;13.000
+39;453M;492;Cuotas a organismos internacionales;13;13.000
+39;453M;62;Inversión nueva;178;178.000
+39;453M;63;Inversión de reposición;1.720,00;1.720.000
+39;453M;64;Gastos de inversiones inmateriales;902;902.000,00
+39;453M;77;Transferencias de capital a empresas privadas;9.930,00;9.930.000
+39;453M;78;Transferencias de capital a familias e instituciones;3.858,00;3.858.000
+40;453A;10;Altos cargos;61,04;61.040
+40;453A;10000;Retribuciones básicas;18,91;18.910
+40;453A;10001;Retribuciones complementarias;42,13;42.130
+40;453A;12;Funcionarios;1.956,82;1.956.820
+40;453A;12000;Sueldos grupo A1 y A;401,33;401.330
+40;453A;12001;Sueldos grupo A2 y B;205,65;205.650
+40;453A;12002;Sueldos grupo C1 y C;38,6;38.600
+40;453A;12003;Sueldos grupo C2 y D;24,1;24.100
+40;453A;12005;Trienios;93,88;93.880
+40;453A;12006;Pagas extraordinarias;139,09;139.090
+40;453A;12100;Complemento de destino;442,83;442.830
+40;453A;12101;Complemento específico;611,34;611.340
+40;453A;16;Cuotas sociales;305;305.000
+40;453A;16000;Seguridad Social;305;305.000
+40;453A;22;Material, suministros y otros;549,25;549.250
+40;453A;22601;Atenciones protocolarias;2,25;2.250
+40;453A;22602;Publicidad y propaganda;30;30.000
+40;453A;22603;Jurídicos, contenciosos;64;64.000
+40;453A;22606;Reuniones y conferencias;3;3.000
+40;453A;22702;Valoraciones y peritajes;450;450.000
+40;453A;44;A entidades del sector público estatal;292.204,00;292.204.000
+40;453A;441;Línea Figueras–Perpiñán;3.200,00;3.200.000
+40;453A;443;ADIF – administración de red;194.238,00;194.238.000
+40;453A;444;ADIF-Alta Velocidad – reducción de tarifas;30.000,00;30.000.000
+40;453A;445;ADIF – reducción de tarifas;15.762,00;15.762.000
+40;453A;446;ADIF – resto de actividades;49.004,00;49.004.000
+40;453A;47;A empresas privadas;1.050,00;1.050.000
+40;453A;470;Ayudas por restricciones temporales;1.050,00;1.050.000
+40;453A;60;Inversión nueva en infraestructuras;16.200,00;16.200.000
+40;453A;64;Gastos de inversiones inmateriales;2.000,00;2.000.000
+40;453A;75;A Comunidades Autónomas;175.780,00;175.780.000
+40;453A;752;Euskadi – disposición adicional Ley 12/2002;135.590,00;135.590.000
+40;453A;755;Junta de Andalucía – Metro Sevilla;20.190,00;20.190.000
+40;453A;756;Illes Balears – Tranvía Bahía de Palma;20.000,00;20.000.000
+40;453A;87;Aportaciones patrimoniales;1.243.138,00;1.243.138.000
+40;453A;871;ADIF-Alta Velocidad;311.574,00;311.574.000
+40;453A;872;ADIF – amortización endeudamiento;35.938,00;35.938.000
+40;453A;873;ADIF – inversiones;895.626,00;895.626.000
+50;45AA;69;Inversiones reales. Mecanismo de Recuperación y Resiliencia;36.148,53;36.148.530
+50;45AA;691;Inversión de reposición en infraestructuras y bienes destinados al uso general;36.148,53;36.148.530
+50;45AA;75;A Comunidades Autónomas;76.000,00;76.000.000
+50;45AA;753;Plan de choque de movilidad sostenible… transformación de flotas;76.000,00;76.000.000
+50;45AA;76;A Entidades Locales;875.000,00;875.000.000
+50;45AA;762;Implantación de Zonas de bajas emisiones – EE.LL;863.386,60;863.386.600
+50;45AA;764;Mancomunidad Don Benito–Villanueva de la Serena;2.521,40;2.521.400
+50;45AA;767;Ayuntamiento de A Coruña;9.092,00;9.092.000
+50;45AC;74;A Sociedades, Entidades Públicas Empresariales…;358.989,77;358.989.770
+50;45AC;742;A ADIF;307.870,91;307.870.910
+50;45AC;744;A RENFE Viajeros, S.A.;27.558,00;27.558.000
+50;45AC;746;A ADIF-Alta Velocidad;23.560,86;23.560.860
+50;45FA;74;A Sociedades, Entidades Públicas Empresariales…;236.816,02;236.816.020
+50;45FA;742;A ADIF;50.607,20;50.607.200
+50;45FA;746;A ADIF-Alta Velocidad;186.208,82;186.208.820
+50;45FB;44;A Sociedades, Entidades Públicas Empresariales…;5.061,92;5.061.920
+50;45FB;447;A SEITTSA;5.061,92;5.061.920
+50;45FB;69;Inversiones reales. Mecanismo de Recuperación y Resiliencia;251.582,78;251.582.780
+50;45FB;690;Inversión nueva en infraestructuras;14.100,56;14.100.560
+50;45FB;691;Inversión de reposición en infraestructuras;237.482,22;237.482.220
+50;45FB;74;A Sociedades, Entidades Públicas Empresariales…;252.572,27;252.572.270
+50;45FB;742;A ADIF;204.561,63;204.561.630
+50;45FB;743;A ENAIRE;17.817,32;17.817.320
+50;45FB;746;A ADIF-Alta Velocidad;29.443,32;29.443.320
+50;45FB;748;A SECEGSA;0,75;750
+50;45FB;75;A Comunidades Autónomas;5.767,77;5.767.770
+50;45FB;755;Generalitat de Catalunya – cesión B-23;5.767,77;5.767.770
+50;45FC;69;Inversiones reales. Mecanismo de Recuperación y Resiliencia;19.810,86;19.810.860
+50;45FC;690;Inversión nueva en infraestructuras;19.810,86;19.810.860
+50;45FC;74;A Sociedades, Entidades Públicas Empresariales…;296.870,26;296.870.260
+50;45FC;742;A ADIF;157.138,26;157.138.260
+50;45FC;745;A Puertos del Estado;139.732,00;139.732.000
+50;45FD;44;A Sociedades, Entidades Públicas Empresariales…;8.000,00;8.000.000
+50;45FD;441;Eco incentivos al transporte – sector público;8.000,00;8.000.000
+50;45FD;47;A empresas privadas;32.000,00;32.000.000
+50;45FD;470;Eco incentivos al transporte – empresas;32.000,00;32.000.000
+50;45FD;74;A Sociedades, Entidades Públicas Empresariales…;51.000,00;51.000.000
+50;45FD;741;Ayudas a entidades públicas – digitalización;51.000,00;51.000.000
+50;45FD;77;A empresas privadas;41.000,00;41.000.000
+50;45FD;770;Ayudas a empresas – digitalización;41.000,00;41.000.000
+50;45SC;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;321,43;321.430
+50;45SC;440;Subvenciones a Universidades públicas estatales para programas y cursos de formación en competencias digitales;321,43;321.430
+50;45SC;45;A Comunidades Autónomas;5.678,57;5.678.570
+50;45SC;450;Subvenciones a Universidades públicas autonómicas para programas y cursos de formación en competencias digitales;5.678,57;5.678.570
+50;45SC;47;A empresas privadas;5.500,00;5.500.000
+50;45SC;472;Subvenciones a Universidades privadas para programas y cursos de formación en competencias digitales;5.500,00;5.500.000
+50;46AA;69;Inversiones reales. Mecanismo de Recuperación y Resiliencia;2.580,17;2.580.170
+50;46AA;694;Gastos de inversiones de carácter inmaterial. Mecanismo de Recuperación y Resiliencia;2.580,17;2.580.170
+50;46FB;69;Inversiones reales. Mecanismo de Recuperación y Resiliencia;30.284,54;30.284.540
+50;46FB;692;Inversión nueva asociada al funcionamiento operativo de los servicios. Mecanismo de Recuperación y Resiliencia;20.291,93;20.291.930
+50;46FB;694;Gastos de inversiones de carácter inmaterial. Mecanismo de Recuperación y Resiliencia;9.992,61;9.992.610

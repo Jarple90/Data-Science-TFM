@@ -1,22 +1,12 @@
-Económica;Explicación;14.301;Total (miles Euros);Total (euros)
-1;GASTOS DE PERSONAL;216.651,66;216.651,66;216.651.660 €
-12;Funcionarios;216.651,66;216.651,66;216.651.660 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;56.929,09;56.929,09;56.929.090 €
-22;Material, suministros y otros;56.929,09;56.929,09;56.929.090 €
-6;INVERSIONES REALES;60.177,29;60.177,29;60.177.290 €
-63;Inversión de reposición asociada al funcionamiento operativo de los servicios;60.177,29;60.177,29;60.177.290 €
-7;TRANSFERENCIAS DE CAPITAL;50;50;50.000 €
-79;Al exterior;50;50;50.000 €
-8;ACTIVOS FINANCIEROS;300;300;300.000 €
-83;Concesión de préstamos fuera del Sector Público;300;300;300.000 €
-;TOTAL GENERAL;334.108,04;334.108,04;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económica;Explicación;14.301;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;216.651,66;216.651,66;216.651.660,00
+12;Funcionarios;216.651,66;216.651,66;216.651.660,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;56.929,09;56.929,09;56.929.090,00
+22;Material, suministros y otros;56.929,09;56.929,09;56.929.090,00
+6;INVERSIONES REALES;60.177,29;60.177,29;60.177.290,00
+63;Inversión de reposición asociada al funcionamiento operativo de los servicios;60.177,29;60.177,29;60.177.290,00
+7;TRANSFERENCIAS DE CAPITAL;50;50;50.000,00
+79;Al exterior;50;50;50.000,00
+8;ACTIVOS FINANCIEROS;300;300;300.000,00
+83;Concesión de préstamos fuera del Sector Público;300;300;300.000,00
+;TOTAL GENERAL;334.108,04;334.108,04;334.108.040,00

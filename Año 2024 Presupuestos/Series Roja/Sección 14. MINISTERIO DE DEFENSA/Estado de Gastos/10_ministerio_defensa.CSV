@@ -1,47 +1,8 @@
-Orgánica;Centro Gestor;Económica;Tipo de Gasto;Total (miles Euros);Total (euros)
-14.02;Cuartel General del EMAD;6;Inversiones reales;2.583,87;2.583.870,00
-14.03;Secretaría de Estado de Defensa;6;Inversiones reales;246.322,66;246.322.660,00
-14.12;Ejército de Tierra;6;Inversiones reales;22.463,58;22.463.580,00
-14.17;Armada;6;Inversiones reales;47.802,47;47.802.470,00
-14.22;Ejército del Aire y del Espacio;6;Inversiones reales;21.708,46;21.708.460,00
-14.107;Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa;6;Inversiones reales;118.322,66;118.322.660,00
-;TOTAL PROGRAMA 122A;;;459.203,70;459.203.700,00
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
+Orgánica;Económica;Total (miles euros);Total (euros)
+14.02;6;2.583,87;2.583.870,00
+14.03;6;246.322,66;246.322.660,00
+14.12;6;22.463,58;22.463.580,00
+14.17;6;47.802,47;47.802.470,00
+14.22;6;21.708,46;21.708.460,00
+14.107;6;118.322,66;118.322.660,00
+—;Total;459.203,70;459.203.700,00

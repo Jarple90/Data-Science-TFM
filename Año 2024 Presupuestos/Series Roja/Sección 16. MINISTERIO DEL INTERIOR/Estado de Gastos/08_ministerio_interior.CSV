@@ -1,201 +1,45 @@
-Orgánica;Económica;Explicación;Importe (miles €);Importe (€)
-16.02;10;Altos cargos;212,41;212.410,00 €
-16.02;11;Personal eventual;250,13;250.130,00 €
-16.02;12000;Funcionarios;25.830,33;25.830.330,00 €
-16.02;13000;Laborales;366,57;366.570,00 €
-16.02;16000;Seguridad Social;772,39;772.390,00 €
-16.02;16200;Formación y perfeccionamiento del personal;433,27;433.270,00 €
-16.02;20000;Arrendamientos y cánones;40;40.000,00 €
-16.02;21000;Reparaciones, mantenimiento y conservación;11.815,00;11.815.000,00 €
-16.02;22000;Material, suministros y otros;164.842,78;164.842.780,00 €
-16.02;22601;Atenciones protocolarias y representativas;16,73;16.730,00 €
-16.02;23000;Indemnizaciones por razón del servicio;950;950.000,00 €
-16.02;35200;Intereses de demora;0,76;760,00 €
-16.02;48100;Atenciones derivadas de la inmigración;10;10.000,00 €
-16.02;48200;Cruz Roja Española – programas asistenciales en CIES;1.125,00;1.125.000,00 €
-16.02;48300;Fundación ANAR – ayuda a niños y adolescentes en riesgo;150;150.000,00 €
-16.02;49100;Contribución a Organismos Internacionales;630;630.000,00 €
-16.02;49400;Cooperación Internacional;44.765,63;44.765.630,00 €
-16.02;79200;Contribución a Organismos Internacionales (capital);10;10.000,00 €
-16.02;79400;Ayudas cooperación policial internacional;2.415,00;2.415.000,00 €
-16.02;—;Total Secretaría de Estado de Seguridad;363.883,04;363.883.040,00 €
-16.03;10;Altos cargos;74,84;74.840,00 €
-16.03;11;Personal eventual;51,07;51.070,00 €
-16.03;12000;Funcionarios;2.776.116,16;2.776.116.160,00 €
-16.03;13000;Laborales;14.567,98;14.567.980,00 €
-16.03;15000;Productividad;217.661,84;217.661.840,00 €
-16.03;15100;Gratificaciones;3.342,62;3.342.620,00 €
-16.03;16000;Seguridad Social;167.237,56;167.237.560,00 €
-16.03;16204;Acción social;11.176,73;11.176.730,00 €
-16.03;20200;Arrendamientos de edificios y otras construcciones;7.517,14;7.517.140,00 €
-16.03;21000;Reparaciones, mantenimiento y conservación;41.055,81;41.055.810,00 €
-16.03;22000;Material, suministros y otros;324.666,33;324.666.330,00 €
-16.03;22109;Labores Fábrica Nacional Moneda y Timbre;7.509,29;7.509.290,00 €
-16.03;22110;Tasas DNI y pasaportes – FNMT;98.668,43;98.668.430,00 €
-16.03;22502;Locales;170;170.000,00 €
-16.03;22611;Gastos protocolarios actos institucionales;102;102.000,00 €
-16.03;23000;Indemnizaciones por razón del servicio;52.766,44;52.766.440,00 €
-16.03;35200;Intereses de demora;167,2;167.200,00 €
-16.03;48100–48600;Ayudas y subvenciones a entidades policiales y sociales;359,75;359.750,00 €
-16.03;49100–49600;Cooperación internacional;2.227,41;2.227.410,00 €
-16.03;83000;Préstamos a corto plazo;100;100.000,00 €
-16.03;—;Total Dirección General de la Policía;3.702.029,78;3.702.029.780,00 €
-16.04;—;Total Dirección General de la Guardia Civil;3.335.729,61;3.335.729.610,00 €
-16.102;—;Total Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado;15.365,74;15.365.740,00 €
-—;—;TOTAL PROGRAMA 132A – SEGURIDAD CIUDADANA;7.417.008,17;7.417.008.170,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+16.02;10;Altos cargos;212,41;212.410,00
+16.02;11;Personal eventual;250,13;250.130,00
+16.02;12000;Funcionarios;25.830,33;25.830.330,00
+16.02;13000;Laborales;366,57;366.570,00
+16.02;16000;Seguridad Social;772,39;772.390,00
+16.02;16200;Formación y perfeccionamiento del personal;433,27;433.270,00
+16.02;20000;Arrendamientos y cánones;40;40.000,00
+16.02;21000;Reparaciones, mantenimiento y conservación;11.815,00;11.815.000,00
+16.02;22000;Material, suministros y otros;164.842,78;164.842.780,00
+16.02;22601;Atenciones protocolarias y representativas;16,73;16.730,00
+16.02;23000;Indemnizaciones por razón del servicio;950;950.000,00
+16.02;35200;Intereses de demora;0,76;760,00
+16.02;48100;Atenciones derivadas de la inmigración;10;10.000,00
+16.02;48200;Cruz Roja Española – programas asistenciales en CIES;1.125,00;1.125.000,00
+16.02;48300;Fundación ANAR – ayuda a niños y adolescentes en riesgo;150;150.000,00
+16.02;49100;Contribución a Organismos Internacionales;630;630.000,00
+16.02;49400;Cooperación Internacional;44.765,63;44.765.630,00
+16.02;79200;Contribución a Organismos Internacionales (capital);10;10.000,00
+16.02;79400;Ayudas cooperación policial internacional;2.415,00;2.415.000,00
+16.02;—;Total Secretaría de Estado de Seguridad;363.883,04;363.883.040,00
+16.03;10;Altos cargos;74,84;74.840,00
+16.03;11;Personal eventual;51,07;51.070,00
+16.03;12000;Funcionarios;2.776.116,16;2.776.116.160,00
+16.03;13000;Laborales;14.567,98;14.567.980,00
+16.03;15000;Productividad;217.661,84;217.661.840,00
+16.03;15100;Gratificaciones;3.342,62;3.342.620,00
+16.03;16000;Seguridad Social;167.237,56;167.237.560,00
+16.03;16204;Acción social;11.176,73;11.176.730,00
+16.03;20200;Arrendamientos de edificios y otras construcciones;7.517,14;7.517.140,00
+16.03;21000;Reparaciones, mantenimiento y conservación;41.055,81;41.055.810,00
+16.03;22000;Material, suministros y otros;324.666,33;324.666.330,00
+16.03;22109;Labores Fábrica Nacional Moneda y Timbre;7.509,29;7.509.290,00
+16.03;22110;Tasas DNI y pasaportes – FNMT;98.668,43;98.668.430,00
+16.03;22502;Locales;170;170.000,00
+16.03;22611;Gastos protocolarios actos institucionales;102;102.000,00
+16.03;23000;Indemnizaciones por razón del servicio;52.766,44;52.766.440,00
+16.03;35200;Intereses de demora;167,2;167.200,00
+16.03;48100–48600;Ayudas y subvenciones a entidades policiales y sociales;359,75;359.750,00
+16.03;49100–49600;Cooperación internacional;2.227,41;2.227.410,00
+16.03;83000;Préstamos a corto plazo;100;100.000,00
+16.03;—;Total Dirección General de la Policía;3.702.029,78;3.702.029.780,00
+16.04;—;Total Dirección General de la Guardia Civil;3.335.729,61;3.335.729.610,00
+16.102;—;Total Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado;15.365,74;15.365.740,00
+—;—;TOTAL PROGRAMA 132A – SEGURIDAD CIUDADANA;7.417.008,17;7.417.008.170,00

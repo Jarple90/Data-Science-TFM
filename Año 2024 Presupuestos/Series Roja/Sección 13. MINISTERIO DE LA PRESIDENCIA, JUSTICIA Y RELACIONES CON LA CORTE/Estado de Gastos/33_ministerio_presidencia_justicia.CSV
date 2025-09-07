@@ -1,4 +1,4 @@
-Económica;Explicación;13.07;Miles €;Euros (€)
+Económica;Explicación;13.07;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;16.890,08;16.890,08;16.890.080,00
 10;Altos cargos;385,41;385,41;385.410,00
 11;Personal eventual;1.916,68;1.916,68;1.916.680,00
@@ -15,14 +15,4 @@ Económica;Explicación;13.07;Miles €;Euros (€)
 62;Inversión nueva asociada al funcionamiento operativo de los servicios;195;195;195.000,00
 63;Inversión de reposición asociada al funcionamiento operativo de los servicios;325;325;325.000,00
 64;Gastos de inversiones de carácter inmaterial;1.200,00;1.200,00;1.200.000,00
-;TOTAL Programa 921Q Cobertura informativa;78.363,60;78.363,60;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+;TOTAL Programa 921Q Cobertura informativa;78.363,60;78.363,60;78.363.600,00

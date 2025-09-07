@@ -1,4 +1,4 @@
-Económica;Explicación;13.103;13.104;Total;Euros
+Económica;Explicación;13.103;13.104;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;2.618,31;4.771,20;7.389,51;7.389.510,00
 10;Altos cargos;61,05;61,05;122,1;122.100,00
 11;Personal eventual;;207,94;207,94;207.940,00
@@ -21,14 +21,4 @@ Económica;Explicación;13.103;13.104;Total;Euros
 64;Gastos de inversiones de carácter inmaterial;;250;250;250.000,00
 8;ACTIVOS FINANCIEROS;10,03;12,02;22,05;22.050,00
 83;Concesión de préstamos fuera del Sector Público;10,03;12,02;22,05;22.050,00
-;TOTAL Investigación y estudios sociológicos y constitucionales;4.518,64;12.659,11;17.177,75;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
+;TOTAL Investigación y estudios sociológicos y constitucionales;4.518,64;12.659,11;17.177,75;17.177.750,00

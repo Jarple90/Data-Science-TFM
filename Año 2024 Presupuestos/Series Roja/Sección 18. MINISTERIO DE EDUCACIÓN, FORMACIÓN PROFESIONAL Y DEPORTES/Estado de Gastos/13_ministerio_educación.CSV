@@ -1,16 +1,6 @@
-Grupo Económico;Detalle;Importe (mil €);Importe (€);
-4;Transferencias corrientes;11.500,00;11.500.000,00 €;
-44;A entidades del Sector Público Estatal;321,43;321.430,00 €;
-45;A Comunidades Autónomas;5.678,57;5.678.570,00 €;
-47;A empresas privadas;5.500,00;5.500.000,00 €;
-;TOTAL PROGRAMA C19.I03;11.500,00;11.500.000,00 €;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+ Económico;Explicación;Total (miles  euros);Total (euros)
+4;Transferencias corrientes;11.500,00;11.500.000,00
+44;A entidades del Sector Público Estatal;321,43;321.430,00
+45;A Comunidades Autónomas;5.678,57;5.678.570,00
+47;A empresas privadas;5.500,00;5.500.000,00
+;TOTAL PROGRAMA C19.I03;11.500,00;11.500.000,00

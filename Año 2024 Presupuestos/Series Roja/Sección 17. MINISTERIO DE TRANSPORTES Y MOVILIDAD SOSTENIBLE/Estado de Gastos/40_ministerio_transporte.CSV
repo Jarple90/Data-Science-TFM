@@ -1,28 +1,18 @@
-Económica;Explicación;17.38 (miles €);Total (miles €);Total (€)
-1;GASTOS DE PERSONAL;35.828,18;35.828,18;35.828.180,00 €
-10;Altos cargos;61,04;61,04;61.040,00 €
-12;Funcionarios;17.335,98;17.335,98;17.335.980,00 €
-13;Laborales;13.430,38;13.430,38;13.430.380,00 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;5.000,78;5.000,78;5.000.780,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;759,91;759,91;759.910,00 €
-22;Material, suministros y otros;759,91;759,91;759.910,00 €
-6;INVERSIONES REALES;1.065.624,66;1.065.624,66;1.065.624.660,00 €
-60;Inversión nueva en infraestructuras y bienes destinados al uso general;848.484,22;848.484,22;848.484.220,00 €
-61;Inversión de reposición en infraestructuras y bienes destinados al uso general;215.809,00;215.809,00;215.809.000,00 €
-64;Gastos de inversiones de carácter inmaterial;1.331,44;1.331,44;1.331.440,00 €
-7;TRANSFERENCIAS DE CAPITAL;470.534,35;470.534,35;470.534.350,00 €
-75;A Comunidades Autónomas;453.735,00;453.735,00;453.735.000,00 €
-76;A Entidades Locales;16.799,35;16.799,35;16.799.350,00 €
-8;ACTIVOS FINANCIEROS;20.800,00;20.800,00;20.800.000,00 €
-83;Concesión de préstamos fuera del Sector Público;20.800,00;20.800,00;20.800.000,00 €
-—;TOTAL GENERAL PROGRAMA 453B;1.593.547,10;1.593.547,10;1.593.547.100,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económica;Explicación;17.38 ;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;35.828,18;35.828,18;35.828.180,00
+10;Altos cargos;61,04;61,04;61.040,00
+12;Funcionarios;17.335,98;17.335,98;17.335.980,00
+13;Laborales;13.430,38;13.430,38;13.430.380,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;5.000,78;5.000,78;5.000.780,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;759,91;759,91;759.910,00
+22;Material, suministros y otros;759,91;759,91;759.910,00
+6;INVERSIONES REALES;1.065.624,66;1.065.624,66;1.065.624.660,00
+60;Inversión nueva en infraestructuras y bienes destinados al uso general;848.484,22;848.484,22;848.484.220,00
+61;Inversión de reposición en infraestructuras y bienes destinados al uso general;215.809,00;215.809,00;215.809.000,00
+64;Gastos de inversiones de carácter inmaterial;1.331,44;1.331,44;1.331.440,00
+7;TRANSFERENCIAS DE CAPITAL;470.534,35;470.534,35;470.534.350,00
+75;A Comunidades Autónomas;453.735,00;453.735,00;453.735.000,00
+76;A Entidades Locales;16.799,35;16.799,35;16.799.350,00
+8;ACTIVOS FINANCIEROS;20.800,00;20.800,00;20.800.000,00
+83;Concesión de préstamos fuera del Sector Público;20.800,00;20.800,00;20.800.000,00
+—;TOTAL GENERAL PROGRAMA 453B;1.593.547,10;1.593.547,10;1.593.547.100,00

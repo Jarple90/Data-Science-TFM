@@ -1,81 +1,24 @@
-Económica;Explicación;Órgano gestor;Importe (mil €);Importe (€)
-1;GASTOS DE PERSONAL;Instituto Geográfico Nacional (IGN);16.890,03;16.890.030,00 €
-10;Altos cargos;IGN;61,04;61.040,00 €
-12;Funcionarios;IGN;11.020,48;11.020.480,00 €
-13;Laborales;IGN;3.558,51;3.558.510,00 €
-16;Cuotas y prestaciones sociales;IGN;2.250,00;2.250.000,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;IGN;2.307,05;2.307.050,00 €
-22;Material, suministros y otros;IGN;2.307,05;2.307.050,00 €
-4;TRANSFERENCIAS CORRIENTES;IGN;2.014,40;2.014.400,00 €
-48;A familias e instituciones sin fines de lucro;IGN;618,59;618.590,00 €
-49;Al exterior (cuotas a organismos internacionales);IGN;1.395,81;1.395.810,00 €
-6;INVERSIONES REALES;IGN;11.068,94;11.068.940,00 €
-7;TRANSFERENCIAS DE CAPITAL;IGN;350;350.000,00 €
-—;TOTAL IGN;—;32.630,42;32.630.420,00
-1;GASTOS DE PERSONAL;Centro Nacional de Información Geográfica (CNIG);2.929,92;2.929.920,00
-15;Incentivos al rendimiento;CNIG;252,07;252.070,00
-16000;Seguridad Social;CNIG;197,99;197.990,00 €
-16200–16204;Formación, comedores, acción social;CNIG;57,6;57.600,00
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;CNIG;2.523,30;2.523.300,00 €
-3;GASTOS FINANCIEROS;CNIG;12,78;12.780,00 €
-4;TRANSFERENCIAS CORRIENTES;CNIG;26;26.000,00
-6;INVERSIONES REALES;CNIG;7.839,36;7.839.360,00 €
-—;TOTAL CNIG;—;13.331,36;13.331.360,00 €
-—;TOTAL PROGRAMA 495A – Información geográfica española;—;45.961,78;45.961.780,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económica;Explicación;Total (miles  euros);Total (euros)
+1;GASTOS DE PERSONAL;16.890,03;16.890.030,00
+10;Altos cargos;61,04;61.040,00
+12;Funcionarios;11.020,48;11.020.480,00
+13;Laborales;3.558,51;3.558.510,00
+16;Cuotas y prestaciones sociales;2.250,00;2.250.000,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;2.307,05;2.307.050,00
+22;Material, suministros y otros;2.307,05;2.307.050,00
+4;TRANSFERENCIAS CORRIENTES;2.014,40;2.014.400,00
+48;A familias e instituciones sin fines de lucro;618,59;618.590,00
+49;Al exterior (cuotas a organismos internacionales);1.395,81;1.395.810,00
+6;INVERSIONES REALES;11.068,94;11.068.940,00
+7;TRANSFERENCIAS DE CAPITAL;350;350.000,00
+—;TOTAL IGN;32.630,42;32.630.420,00
+1;GASTOS DE PERSONAL;2.929,92;2.929.920,00
+15;Incentivos al rendimiento;252,07;252.070,00
+16000;Seguridad Social;197,99;197.990,00
+16200–16204;Formación, comedores, acción social;57,6;57.600,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;2.523,30;2.523.300,00
+3;GASTOS FINANCIEROS;12,78;12.780,00
+4;TRANSFERENCIAS CORRIENTES;26;26.000,00
+6;INVERSIONES REALES;7.839,36;7.839.360,00
+—;TOTAL CNIG;13.331,36;13.331.360,00
+—;TOTAL PROGRAMA 495A – Información geográfica española;45.961,78;45.961.780,00

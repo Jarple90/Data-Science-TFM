@@ -1,71 +1,21 @@
-Económica;Explicación;Órgano gestor;Importe (mil €);Importe (€)
-4;TRANSFERENCIAS CORRIENTES;Secretaría General Técnica (17.03);110.000,00;110.000.000,00 €
-431;A la CNMC para el Fondo de financiación del Servicio Postal Universal;Secretaría General Técnica;110.000,00;110.000.000,00 €
-4;TRANSFERENCIAS CORRIENTES;Dirección General del IGN (17.18);2.040,21;2.040.210,00 €
-412;Al CNIG;Dirección General del IGN;2.040,21;2.040.210,00 €
-7;TRANSFERENCIAS DE CAPITAL;Dirección General del IGN;2.520,00;2.520.000,00 €
-712;Al CNIG;Dirección General del IGN;2.520,00;2.520.000,00 €
-4;TRANSFERENCIAS CORRIENTES;Secretaría de Estado de Transportes (17.20);19.483,31;19.483.310,00 €
-410;Al CEDEX;Secretaría de Estado de Transportes;12.897,90;12.897.900,00 €
-431;A la Agencia Estatal de Seguridad Ferroviaria;Secretaría de Estado de Transportes;6.585,41;6.585.410,00 €
-7;TRANSFERENCIAS DE CAPITAL;Secretaría de Estado de Transportes;5.900,00;5.900.000,00 €
-710;Al CEDEX;Secretaría de Estado de Transportes;5.840,00;5.840.000,00 €
-713;Al CNIG;Secretaría de Estado de Transportes;60;60.000,00
-4;TRANSFERENCIAS CORRIENTES;CNIG (17.102);15;15.000,00
-430;Al CSIC. Aportación EPOS-ERIC;CNIG;15;15.000,00
-9;PASIVOS FINANCIEROS;CNIG;27,6;27.600,00 €
-911;Amortización de préstamos a largo plazo;CNIG;27,6;27.600,00
-4;TRANSFERENCIAS CORRIENTES;Agencia Estatal de Seguridad Aérea (17.301);1.094,63;1.094.630,00 €
-402;Al Estado para compensar gastos de gestión centralizada;AESA;1.025,40;1.025.400,00 €
-403;Al Estado para cofinanciación del Centro de Educación Infantil;AESA;69,23;69.230,00 €
-—;TOTAL PROGRAMA 000X – Transferencias y libramientos internos;—;141.080,75;141.080.750,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económica;Explicación;Total (miles  euros);Total (euros)
+4;TRANSFERENCIAS CORRIENTES;110.000,00;110.000.000,00
+431;A la CNMC para el Fondo de financiación del Servicio Postal Universal;110.000,00;110.000.000,00
+4;TRANSFERENCIAS CORRIENTES;2.040,21;2.040.210,00
+412;Al CNIG;2.040,21;2.040.210,00
+7;TRANSFERENCIAS DE CAPITAL;2.520,00;2.520.000,00
+712;Al CNIG;2.520,00;2.520.000,00
+4;TRANSFERENCIAS CORRIENTES;19.483,31;19.483.310,00
+410;Al CEDEX;12.897,90;12.897.900,00
+431;A la Agencia Estatal de Seguridad Ferroviaria;6.585,41;6.585.410,00
+7;TRANSFERENCIAS DE CAPITAL;5.900,00;5.900.000,00
+710;Al CEDEX;5.840,00;5.840.000,00
+713;Al CNIG;60;60.000,00
+4;TRANSFERENCIAS CORRIENTES;15;15.000,00
+430;Al CSIC. Aportación EPOS-ERIC;15;15.000,00
+9;PASIVOS FINANCIEROS;27,6;27.600,00
+911;Amortización de préstamos a largo plazo;27,6;27.600,00
+4;TRANSFERENCIAS CORRIENTES;1.094,63;1.094.630,00
+402;Al Estado para compensar gastos de gestión centralizada;1.025,40;1.025.400,00
+403;Al Estado para cofinanciación del Centro de Educación Infantil;69,23;69.230,00
+—;TOTAL PROGRAMA 000X – Transferencias y libramientos internos;141.080,75;141.080.750,00

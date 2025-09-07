@@ -1,54 +1,18 @@
-Órgano;Capítulo Económico;Explicación;Importe (miles €);Importe (€)
-16.01 Ministerio, Subsecretaría y Servicios Generales;4;A otras entidades del Sector Público Administrativo Estatal;107,6;107.600,00 €
-;435;A la AEAT por gastos comunes del edificio en calle del Plomo (Madrid);107,6;107.600,00 €
-;—;Total Ministerio, Subsecretaría y Servicios Generales;107,6;107.600,00 €
-16.02 Secretaría de Estado de Seguridad;4;A Organismos Autónomos;2.038,70;2.038.700,00 €
-;410;A la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado;2.038,70;2.038.700,00 €
-;—;Total Secretaría de Estado de Seguridad;2.038,70;2.038.700,00 €
-16.03 Dirección General de la Policía;4;A Organismos Autónomos;3.750,00;3.750.000,00 €
-;410;Al Centro Universitario de Formación de la Policía Nacional;3.750,00;3.750.000,00 €
-;7;Transferencias de capital;250;250.000,00 €
-;710;Al Centro Universitario de Formación de la Policía Nacional;250;250.000,00 €
-;—;Total Dirección General de la Policía;4.000,00;4.000.000,00 €
-16.101 Jefatura Central de Tráfico;4;A la Administración del Estado;136.154,92;136.154.920,00 €
-;400;Para generar crédito según Ley Orgánica 6/2011;1.270,00;1.270.000,00 €
-;401;Transferencia directa al Estado;116.218,84;116.218.840,00 €
-;402;Compensación por gastos de gestión centralizada;18.666,08;18.666.080,00 €
-;—;Total Jefatura Central de Tráfico;136.154,92;136.154.920,00 €
-—;—;TOTAL PROGRAMA 000X – TRANSFERENCIAS Y LIBRAMIENTOS INTERNOS;142.301,22;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Orgánico; Económico;Explicación;Total (miles euros);Total (euros)
+16.01 ;4;A otras entidades del Sector Público Administrativo Estatal;107,6;107.600,00
+;435;A la AEAT por gastos comunes del edificio en calle del Plomo (Madrid);107,6;107.600,00
+;—;Total Ministerio, Subsecretaría y Servicios Generales;107,6;107.600,00
+16.02 ;4;A Organismos Autónomos;2.038,70;2.038.700,00
+;410;A la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado;2.038,70;2.038.700,00
+;—;Total Secretaría de Estado de Seguridad;2.038,70;2.038.700,00
+16.03 ;4;A Organismos Autónomos;3.750,00;3.750.000,00
+;410;Al Centro Universitario de Formación de la Policía Nacional;3.750,00;3.750.000,00
+;7;Transferencias de capital;250;250.000,00
+;710;Al Centro Universitario de Formación de la Policía Nacional;250;250.000,00
+;—;Total Dirección General de la Policía;4.000,00;4.000.000,00
+16.101;4;A la Administración del Estado;136.154,92;136.154.920,00
+;400;Para generar crédito según Ley Orgánica 6/2011;1.270,00;1.270.000,00
+;401;Transferencia directa al Estado;116.218,84;116.218.840,00
+;402;Compensación por gastos de gestión centralizada;18.666,08;18.666.080,00
+;—;Total Jefatura Central de Tráfico;136.154,92;136.154.920,00
+—;—;TOTAL PROGRAMA 000X – TRANSFERENCIAS Y LIBRAMIENTOS INTERNOS;142.301,22;142.301.220,00

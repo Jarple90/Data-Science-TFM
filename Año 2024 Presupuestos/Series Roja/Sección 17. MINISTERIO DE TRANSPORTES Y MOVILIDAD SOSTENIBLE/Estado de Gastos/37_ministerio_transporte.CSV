@@ -1,54 +1,30 @@
-Orgánica;Económica;Explicación;Total (miles €);Total (€)
-17.40;10;Altos cargos;61,04;61.040,00 €
-17.40;12;Funcionarios;1.956,82;1.956.820,00 €
-17.40;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;305;305.000,00 €
-17.40;16000;Seguridad Social;305;305.000,00 €
-17.40;—;TOTAL GASTOS DE PERSONAL;2.322,86;2.322.860,00 €
-17.40;22;Material, suministros y otros;549,25;549.250,00 €
-17.40;22601;Atenciones protocolarias y representativas;2,25;2.250,00 €
-17.40;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;549,25;549.250,00 €
-17.40;44;A entidades del Sector Público Estatal;292.204,00;292.204.000,00 €
-17.40;441;Línea Figueras–Perpiñán S.A;3.200,00;3.200.000,00 €
-17.40;443;ADIF – administración de red;194.238,00;194.238.000,00 €
-17.40;444;ADIF-Alta Velocidad – reducción de tarifas;30.000,00;30.000.000,00 €
-17.40;445;ADIF – reducción de tarifas;15.762,00;15.762.000,00 €
-17.40;446;ADIF – resto de actividades;49.004,00;49.004.000,00 €
-17.40;47;A empresas privadas;1.050,00;1.050.000,00 €
-17.40;470;Ayudas a empresas ferroviarias por restricciones temporales;1.050,00;1.050.000,00 €
-17.40;—;TOTAL TRANSFERENCIAS CORRIENTES;293.254,00;293.254.000,00 €
-17.40;6;INVERSIONES REALES;18.200,00;18.200.000,00 €
-17.40;75;A Comunidades Autónomas;175.780,00;175.780.000,00 €
-17.40;752;Euskadi – disposición adicional Ley 12/2002;135.590,00;135.590.000,00 €
-17.40;755;Andalucía – Línea 3 Metro Sevilla;20.190,00;20.190.000,00 €
-17.40;756;Illes Balears – Tranvía Bahía de Palma;20.000,00;20.000.000,00 €
-17.40;—;TOTAL TRANSFERENCIAS DE CAPITAL;175.780,00;175.780.000,00 €
-17.40;87;Aportaciones patrimoniales;1.243.138,00;1.243.138.000,00 €
-17.40;871;ADIF-Alta Velocidad;311.574,00;311.574.000,00 €
-17.40;872;ADIF – amortización de endeudamiento;35.938,00;35.938.000,00 €
-17.40;873;ADIF – inversiones;895.626,00;895.626.000,00 €
-17.40;—;TOTAL ACTIVOS FINANCIEROS;1.243.138,00;1.243.138.000,00 €
-17.40;—;TOTAL DIRECCIÓN GENERAL DEL SECTOR FERROVIARIO;1.733.244,11;1.733.244.110,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+17.40;10;Altos cargos;61,04;61.040,00
+17.40;12;Funcionarios;1.956,82;1.956.820,00
+17.40;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;305;305.000,00
+17.40;16000;Seguridad Social;305;305.000,00
+17.40;—;TOTAL GASTOS DE PERSONAL;2.322,86;2.322.860,00
+17.40;22;Material, suministros y otros;549,25;549.250,00
+17.40;22601;Atenciones protocolarias y representativas;2,25;2.250,00
+17.40;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;549,25;549.250,00
+17.40;44;A entidades del Sector Público Estatal;292.204,00;292.204.000,00
+17.40;441;Línea Figueras–Perpiñán S.A;3.200,00;3.200.000,00
+17.40;443;ADIF – administración de red;194.238,00;194.238.000,00
+17.40;444;ADIF-Alta Velocidad – reducción de tarifas;30.000,00;30.000.000,00
+17.40;445;ADIF – reducción de tarifas;15.762,00;15.762.000,00
+17.40;446;ADIF – resto de actividades;49.004,00;49.004.000,00
+17.40;47;A empresas privadas;1.050,00;1.050.000,00
+17.40;470;Ayudas a empresas ferroviarias por restricciones temporales;1.050,00;1.050.000,00
+17.40;—;TOTAL TRANSFERENCIAS CORRIENTES;293.254,00;293.254.000,00
+17.40;6;INVERSIONES REALES;18.200,00;18.200.000,00
+17.40;75;A Comunidades Autónomas;175.780,00;175.780.000,00
+17.40;752;Euskadi – disposición adicional Ley 12/2002;135.590,00;135.590.000,00
+17.40;755;Andalucía – Línea 3 Metro Sevilla;20.190,00;20.190.000,00
+17.40;756;Illes Balears – Tranvía Bahía de Palma;20.000,00;20.000.000,00
+17.40;—;TOTAL TRANSFERENCIAS DE CAPITAL;175.780,00;175.780.000,00
+17.40;87;Aportaciones patrimoniales;1.243.138,00;1.243.138.000,00
+17.40;871;ADIF-Alta Velocidad;311.574,00;311.574.000,00
+17.40;872;ADIF – amortización de endeudamiento;35.938,00;35.938.000,00
+17.40;873;ADIF – inversiones;895.626,00;895.626.000,00
+17.40;—;TOTAL ACTIVOS FINANCIEROS;1.243.138,00;1.243.138.000,00
+17.40;—;TOTAL DIRECCIÓN GENERAL DEL SECTOR FERROVIARIO;1.733.244,11;1.733.244.110,00

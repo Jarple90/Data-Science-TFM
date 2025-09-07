@@ -1,39 +1,25 @@
-Orgánica;Económica;Explicación;Total;Euros
-13.07;;PRESIDENTE DEL GOBIERNO;;
-;1;GASTOS DE PERSONAL;;
-;10;Altos cargos;385,41;385.410,00
-;11;Personal eventual;1.916,68;1.916.680,00
-;12;Funcionarios;7.665,97;7.665.970,00
-;13;Laborales;4.174,07;4.174.070,00
-;15;Incentivos al rendimiento;772,68;772.680,00
-;150;Productividad;772,68;772.680,00
-;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;1.975,27;1.975.270,00
-;16000;Seguridad Social;1.865,27;1.865.270,00
-;;TOTAL GASTOS DE PERSONAL;16.890,08;16.890.080,00
-;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;;
-;20;Arrendamientos y cánones;106,4;106.400,00
-;202;Arrendamientos de edificios y otras construcciones;12,5;12.500,00
-;21;Reparaciones, mantenimiento y conservación;560,7;560.700,00
-;22;Material, suministros y otros;58.629,95;58.629.950,00
-;22502;Locales;6;6.000,00
-;22601;Atenciones protocolarias y representativas;40,95;40.950,00
-;22707;Para la contratación del servicio de cobertura informativa nacional e internacional;48.100,00;48.100.000,00
-;22708;Compensación a la Agencia EFE, S.A.U. por obligaciones de servicio público;5.800,00;5.800.000,00
-;23;Indemnizaciones por razón del servicio;456,47;456.470,00
-;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;59.753,52;59.753.520,00
-;6;INVERSIONES REALES;1.720,00;1.720.000,00
-;;TOTAL Cobertura informativa;78.363,60;78.363.600,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+13.07;10;Altos cargos;385,41;385.410,00
+13.07;11;Personal eventual;1.916,68;1.916.680,00
+13.07;12;Funcionarios;7.665,97;7.665.970,00
+13.07;13;Laborales;4.174,07;4.174.070,00
+13.07;15;Incentivos al rendimiento;772,68;772.680,00
+13.07;150;Productividad;772,68;772.680,00
+13.07;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;1.975,27;1.975.270,00
+13.07;16000;Seguridad Social;1.865,27;1.865.270,00
+—;—;TOTAL GASTOS DE PERSONAL;16.890,08;16.890.080,00
+13.07;20;Arrendamientos y cánones;106,40;106.400,00
+13.07;202;Arrendamientos de edificios y otras construcciones;12,50;12.500,00
+13.07;21;Reparaciones, mantenimiento y conservación;560,7;560.700,00
+13.07;22;Material, suministros y otros;58.629,95;58.629.950,00
+13.07;22502;Locales;6;6.000,00
+13.07;22601;Atenciones protocolarias y representativas;40,95;40.950,00
+13.07;22707;Servicio de cobertura informativa nacional e internacional;48.100,00;48.100.000,00
+13.07;22708;Compensación a la Agencia EFE por servicio público;5.800,00;5.800.000,00
+13.07;23;Indemnizaciones por razón del servicio;456,47;456.470,00
+—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;59.753,52;59.753.520,00
+13.07;6;Inversiones reales;1.720,00;1.720.000,00
+—;—;TOTAL Cobertura informativa;78.363,60;78.363.600,00
 ;;;;
 ;;;;
 ;;;;

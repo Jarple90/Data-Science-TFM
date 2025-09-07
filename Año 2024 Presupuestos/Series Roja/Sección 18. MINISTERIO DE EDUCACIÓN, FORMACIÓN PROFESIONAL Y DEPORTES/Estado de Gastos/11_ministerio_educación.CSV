@@ -1,18 +1,8 @@
-Económica;Detalle;Importe (mil €);Importe (€);
-4;Transferencias corrientes;40.000,00;40.000.000,00 €;
-44;A entidades del Sector Público Estatal;8.000,00;8.000.000,00 €;
-47;A empresas privadas;32.000,00;32.000.000,00 €;
-7;Transferencias de capital;92.000,00;92.000.000,00 €;
-74;A entidades del Sector Público Estatal;51.000,00;51.000.000,00 €;
-77;A empresas privadas;41.000,00;41.000.000,00 €;
-;TOTAL PROGRAMA C06.I04;132.000,00;132.000.000,00 €;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económica;Explicación;Total (miles  euros);Total (euros)
+4;Transferencias corrientes;40.000,00;40.000.000,00
+44;A entidades del Sector Público Estatal;8.000,00;8.000.000,00
+47;A empresas privadas;32.000,00;32.000.000,00
+7;Transferencias de capital;92.000,00;92.000.000,00
+74;A entidades del Sector Público Estatal;51.000,00;51.000.000,00
+77;A empresas privadas;41.000,00;41.000.000,00
+;TOTAL PROGRAMA C06.I04;132.000,00;132.000.000,00

@@ -1,4 +1,4 @@
-Económica;Explicación;13.08;Total;Euros
+Económica;Explicación;13.08;Total (miles euros) ;Total (euros)
 1;GASTOS DE PERSONAL;32.234,88;32.234,88;32.234.880,00
 10;Altos cargos;604,19;604,19;604.190,00
 11;Personal eventual;749,14;749,14;749.140,00
@@ -22,12 +22,3 @@ Económica;Explicación;13.08;Total;Euros
 8;ACTIVOS FINANCIEROS;72,12;72,12;72.120,00
 83;Concesión de préstamos fuera del Sector Público;72,12;72,12;72.120,00
 ;TOTAL Relaciones con las Cortes Generales, Secretariado del Gobierno y apoyo a la Alta Dirección;48.341,99;48.341,99;48.341.990,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

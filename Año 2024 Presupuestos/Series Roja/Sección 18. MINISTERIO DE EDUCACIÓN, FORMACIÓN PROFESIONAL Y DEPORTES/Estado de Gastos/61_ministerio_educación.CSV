@@ -1,20 +1,10 @@
-Económica;Explicación;Secretaría / Organismo;Importe (mil €);Importe (€);;;
-4;TRANSFERENCIAS CORRIENTES;Total capítulo 4;132.633,15;132.633.150,00 €;;;
-40;A la Administración del Estado;Agencia Estatal de Seguridad Aérea (17.301);1.094,63;1.094.630,00 €;;;
-41;A Organismos Autónomos;IGN (17.18), Secretaría Estado (17.20);14.938,11;14.938.110,00 €;;;
-43;A otras entidades del Sector Público Administrativo Estatal;Secretaría Técnica (17.03), CNIG (17.102), 17.20;116.600,41;116.600.410,00 €;;;
-7;TRANSFERENCIAS DE CAPITAL;IGN (17.18), Secretaría Estado (17.20);8.420,00;8.420.000,00 €;;;
-71;A Organismos Autónomos;IGN, CNIG, CEDEX;8.420,00;8.420.000,00 €;;;
-9;PASIVOS FINANCIEROS;CNIG (17.102);27,6;27.600,00 €;;;
-91;Amortización de préstamos en euros;CNIG;27,6;27.600,00 €;;;
-—;TOTAL PROGRAMA 000X – Transferencias y libramientos internos;—;141.080,75;141.080.750,00 €;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
+Económica;Explicación;Total (miles  euros);Total (euros)
+4;TRANSFERENCIAS CORRIENTES;132.633,15;132.633.150,00
+40;A la Administración del Estado;1.094,63;1.094.630,00
+41;A Organismos Autónomos;14.938,11;14.938.110,00
+43;A otras entidades del Sector Público Administrativo Estatal;116.600,41;116.600.410,00
+7;TRANSFERENCIAS DE CAPITAL;8.420,00;8.420.000,00
+71;A Organismos Autónomos;8.420,00;8.420.000,00
+9;PASIVOS FINANCIEROS;27,6;27.600,00
+91;Amortización de préstamos en euros;27,6;27.600,00
+—;TOTAL PROGRAMA 000X – Transferencias y libramientos internos;141.080,75;141.080.750,00

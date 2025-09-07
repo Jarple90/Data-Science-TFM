@@ -1,109 +1,37 @@
 Orgánica;Económica;Explicación;Total (miles Euros);Total (euros)
-14.01;1;GASTOS DE PERSONAL;;
-;12;Funcionarios;354.928,45;354.928.450,00
-;13;Laborales;30.900,92;30.900.920,00
-;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;39.860,34;39.860.340,00
-;16000;Seguridad Social;39.860,34;39.860.340,00
-;;TOTAL GASTOS DE PERSONAL;425.689,71;425.689.710,00
-;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;;
-;20;Arrendamientos y cánones;4;4.000,00
-;21;Reparaciones, mantenimiento y conservación;280,18;280.180,00
-;22;Material, suministros y otros;3.569,47;3.569.470,00
-;23;Indemnizaciones por razón del servicio;1.345,00;1.345.000,00
-;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;5.198,65;5.198.650,00
-;4;TRANSFERENCIAS CORRIENTES;;
-;44;A entidades del Sector Público Estatal – Centros Universitarios de la Defensa;13.348,88;13.348.880,00
-;44001–44004;Detalle por centro universitario;13.348,88;13.348.880,00
-;45;A Comunidades Autónomas – Formación Escuelas de Suboficiales y convenios;10.003,41;10.003.410,00
-;48;A familias e instituciones sin fines de lucro;954,66;954.660,00
-;485–488;Becas, ayudas y aportaciones específicas;954,66;954.660,00
-;;TOTAL TRANSFERENCIAS CORRIENTES;24.306,95;24.306.950,00
-;7;TRANSFERENCIAS DE CAPITAL;;
-;74;A entidades del Sector Público Estatal – Centros Universitarios de la Defensa;188;188.000,00
-;74001–74004;Detalle por centro universitario;188;188.000,00
-;;TOTAL TRANSFERENCIAS DE CAPITAL;188;188.000,00
-;;TOTAL MINISTERIO Y SUBSECRETARÍA (14.01);455.383,31;455.383.310,00
+14.01;1;GASTOS DE PERSONAL;—;—
+14.01;12;Funcionarios;354.928,45;354.928.450,00
+14.01;13;Laborales;30.900,92;30.900.920,00
+14.01;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;39.860,34;39.860.340,00
+14.01;16000;Seguridad Social;39.860,34;39.860.340,00
+14.01;—;TOTAL GASTOS DE PERSONAL;425.689,71;425.689.710,00
+14.01;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;—;—
+14.01;20;Arrendamientos y cánones;4;4.000,00
+14.01;21;Reparaciones, mantenimiento y conservación;280,18;280.180,00
+14.01;22;Material, suministros y otros;3.569,47;3.569.470,00
+14.01;23;Indemnizaciones por razón del servicio;1.345,00;1.345.000,00
+14.01;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;5.198,65;5.198.650,00
+14.01;4;TRANSFERENCIAS CORRIENTES;—;—
+14.01;44;A entidades del Sector Público Estatal – Centros Universitarios de la Defensa;13.348,88;13.348.880,00
+14.01;44001–44004;Detalle por centro universitario;13.348,88;13.348.880,00
+14.01;45;A Comunidades Autónomas – Formación Escuelas de Suboficiales y convenios;10.003,41;10.003.410,00
+14.01;48;A familias e instituciones sin fines de lucro;954,66;954.660,00
+14.01;485–488;Becas, ayudas y aportaciones específicas;954,66;954.660,00
+14.01;—;TOTAL TRANSFERENCIAS CORRIENTES;24.306,95;24.306.950,00
+14.01;7;TRANSFERENCIAS DE CAPITAL;—;—
+14.01;74;A entidades del Sector Público Estatal – Centros Universitarios de la Defensa;188;188.000,00
+14.01;74001–74004;Detalle por centro universitario;188;188.000,00
+14.01;—;TOTAL TRANSFERENCIAS DE CAPITAL;188;188.000,00
+14.01;—;TOTAL MINISTERIO Y SUBSECRETARÍA (14.01);455.383,31;455.383.310,00
 14.02;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;4.331,60;4.331.600,00
-;;TOTAL CUARTEL GENERAL DEL EMAD;4.331,60;4.331.600,00
+14.02;—;TOTAL CUARTEL GENERAL DEL EMAD;4.331,60;4.331.600,00
 14.03;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;319,34;319.340,00
-;;TOTAL SECRETARÍA DE ESTADO DE DEFENSA;319,34;319.340,00
+14.03;—;TOTAL SECRETARÍA DE ESTADO DE DEFENSA;319,34;319.340,00
 14.12;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;18.026,68;18.026.680,00
-;4;TRANSFERENCIAS CORRIENTES;384,54;384.540,00
-;;TOTAL EJÉRCITO DE TIERRA;18.411,22;18.411.220,00
+14.12;4;TRANSFERENCIAS CORRIENTES;384,54;384.540,00
+14.12;—;TOTAL EJÉRCITO DE TIERRA;18.411,22;18.411.220,00
 14.17;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;9.961,56;9.961.560,00
-;;TOTAL ARMADA;9.961,56;9.961.560,00
+14.17;—;TOTAL ARMADA;9.961,56;9.961.560,00
 14.22;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;5.921,12;5.921.120,00
-;;TOTAL EJÉRCITO DEL AIRE Y DEL ESPACIO;5.921,12;5.921.120,00
-;;TOTAL PROGRAMA 121N – FORMACIÓN DEL PERSONAL DE LAS FUERZAS ARMADAS;494.328,15;494.328.150,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+14.22;—;TOTAL EJÉRCITO DEL AIRE Y DEL ESPACIO;5.921,12;5.921.120,00
+—;—;TOTAL PROGRAMA 121N – FORMACIÓN DEL PERSONAL DE LAS FUERZAS ARMADAS;494.328,15;494.328.150,00

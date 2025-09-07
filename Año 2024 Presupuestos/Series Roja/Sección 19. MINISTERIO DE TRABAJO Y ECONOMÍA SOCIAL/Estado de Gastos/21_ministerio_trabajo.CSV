@@ -1,4 +1,4 @@
-Económica;Explicación;19.03 Secretaría de Estado;19.104 INSST;Total (miles €);Total (€)
+Económica;Explicación;19.03;19.104;Total (miles  euros);Total (euros)
 1;Gastos de personal;3.250,75;19.291,57;22.542,32;22.542.320,00
 10;Altos cargos;61,02;—;61,02;61.020,00
 12;Funcionarios;2.909,73;13.341,54;16.251,27;16.251.270,00
@@ -9,10 +9,10 @@ Económica;Explicación;19.03 Secretaría de Estado;19.104 INSST;Total (miles €);To
 20;Arrendamientos y cánones;—;34;34;34.000,00
 21;Reparaciones, mantenimiento y conservación;—;1.555,00;1.555,00;1.555.000,00
 22;Material, suministros y otros;—;18.299;18.298,91;18.298.910,00
-23;Indemnizaciones por razón del servicio;—;153,00;153,00;153.000,00
+23;Indemnizaciones por razón del servicio;—;153;153;153.000,00
 24;Gastos de publicaciones;—;100;100;100.000,00
-3;Gastos financieros;—;0,46;0,46;460
-35;Intereses de demora y otros gastos financieros;—;0,46;0,46;460
+3;Gastos financieros;—;0,46;0,46;460,00
+35;Intereses de demora y otros gastos financieros;—;0,46;0,46;460,00
 4;Transferencias corrientes;9.725,10;26.628,01;36.353,11;36.353.110,00
 44;A entidades del Sector Público Estatal;1.186,50;26.000,00;27.186,50;27.186.500,00
 48;A familias e instituciones sin fines de lucro;8.388,60;532,91;8.921,51;8.921.510,00
@@ -25,13 +25,3 @@ Económica;Explicación;19.03 Secretaría de Estado;19.104 INSST;Total (miles €);To
 8;Activos financieros;—;86,71;86,71;86.710,00
 83;Concesión de préstamos fuera del Sector Público;—;86,71;86,71;86.710,00
 —;TOTAL PROGRAMA 494M – Administración de las relaciones laborales;13.065,85;67.502,66;80.568,51;80.568.510,00
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;

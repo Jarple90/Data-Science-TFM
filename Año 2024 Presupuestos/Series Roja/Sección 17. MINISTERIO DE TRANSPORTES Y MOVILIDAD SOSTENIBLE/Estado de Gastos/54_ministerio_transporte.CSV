@@ -1,35 +1,25 @@
-Económica;Explicación;17.34 (miles €);17.301 (miles €);Total (miles €);Total (€)
-1;GASTOS DE PERSONAL;2.997,48;23.308,18;26.305,66;26.305.660,00 €
-10;Altos cargos;61,04;93,86;154,9;154.900,00 €
-12;Funcionarios;2.478,29;17.549,06;20.027,35;20.027.350,00 €
-13;Laborales;128,15;321,92;450,07;450.070,00 €
-15;Incentivos al rendimiento;—;1.622,99;1.622,99;1.622.990,00 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;330;3.720,35;4.050,35;4.050.350,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.210,62;53.774,94;54.985,56;54.985.560,00 €
-20;Arrendamientos y cánones;—;75,94;75,94;75.940,00 €
-21;Reparaciones, mantenimiento y conservación;—;6.977,70;6.977,70;6.977.700,00 €
-22;Material, suministros y otros;1.210,62;45.571,30;46.781,92;46.781.920,00 €
-23;Indemnizaciones por razón del servicio;—;1.150,00;1.150,00;1.150.000,00 €
-3;GASTOS FINANCIEROS;0,19;10;10,19;10.190,00 €
-35;Intereses de demora y otros gastos financieros;0,19;10;10,19;10.190,00 €
-4;TRANSFERENCIAS CORRIENTES;1.755,31;125,97;1.881,28;1.881.280,00 €
-47;A empresas privadas;—;2,1;2,1;2.100,00 €
-48;A familias e instituciones sin fines de lucro;—;123,87;123,87;123.870,00 €
-49;Al exterior;1.755,31;—;1.755,31;1.755.310,00 €
-6;INVERSIONES REALES;4.346,68;5.397,49;9.744,17;9.744.170,00 €
-62;Inversión nueva asociada al funcionamiento operativo de los servicios;—;149,37;149,37;149.370,00 €
-63;Inversión de reposición asociada al funcionamiento operativo de los servicios;—;1.948,33;1.948,33;1.948.330,00 €
-64;Gastos de inversiones de carácter inmaterial;4.346,68;3.299,79;7.646,47;7.646.470,00 €
-8;ACTIVOS FINANCIEROS;—;5,77;5,77;5.770,00 €
-83;Concesión de préstamos fuera del Sector Público;—;5,77;5,77;5.770,00 €
-—;TOTAL PROGRAMA 455M – Regulación y supervisión de la aviación civil;10.310,28;82.622,35;92.932,63;92.932.630,00 €
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
+Económica;Explicación;17.34;17.301;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;2.997,48;23.308,18;26.305,66;26.305.660,00
+10;Altos cargos;61,04;93,86;154,9;154.900,00
+12;Funcionarios;2.478,29;17.549,06;20.027,35;20.027.350,00
+13;Laborales;128,15;321,92;450,07;450.070,00
+15;Incentivos al rendimiento;—;1.622,99;1.622,99;1.622.990,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;330;3.720,35;4.050,35;4.050.350,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.210,62;53.774,94;54.985,56;54.985.560,00
+20;Arrendamientos y cánones;—;75,94;75,94;75.940,00
+21;Reparaciones, mantenimiento y conservación;—;6.977,70;6.977,70;6.977.700,00
+22;Material, suministros y otros;1.210,62;45.571,30;46.781,92;46.781.920,00
+23;Indemnizaciones por razón del servicio;—;1.150,00;1.150,00;1.150.000,00
+3;GASTOS FINANCIEROS;0,19;10;10,19;10.190,00
+35;Intereses de demora y otros gastos financieros;0,19;10;10,19;10.190,00
+4;TRANSFERENCIAS CORRIENTES;1.755,31;125,97;1.881,28;1.881.280,00
+47;A empresas privadas;—;2,1;2,1;2.100,00
+48;A familias e instituciones sin fines de lucro;—;123,87;123,87;123.870,00
+49;Al exterior;1.755,31;—;1.755,31;1.755.310,00
+6;INVERSIONES REALES;4.346,68;5.397,49;9.744,17;9.744.170,00
+62;Inversión nueva asociada al funcionamiento operativo de los servicios;—;149,37;149,37;149.370,00
+63;Inversión de reposición asociada al funcionamiento operativo de los servicios;—;1.948,33;1.948,33;1.948.330,00
+64;Gastos de inversiones de carácter inmaterial;4.346,68;3.299,79;7.646,47;7.646.470,00
+8;ACTIVOS FINANCIEROS;—;5,77;5,77;5.770,00
+83;Concesión de préstamos fuera del Sector Público;—;5,77;5,77;5.770,00
+—;TOTAL PROGRAMA 455M – Regulación y supervisión de la aviación civil;10.310,28;82.622,35;92.932,63;92.932.630,00

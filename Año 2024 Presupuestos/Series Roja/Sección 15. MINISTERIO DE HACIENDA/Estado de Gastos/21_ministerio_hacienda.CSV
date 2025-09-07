@@ -1,31 +1,21 @@
 Económica;Explicación;15.04 ;Total (miles Euros);Total (euros)
-1;GASTOS DE PERSONAL;6.684,44;6.684,44;6.684.440,00 €
-10;Altos cargos;61,05;61,05;61.050,00 €
-12;Funcionarios;6.075,09;6.075,09;6.075.090,00 €
-13;Laborales;48,3;48,3;48.300,00 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;500;500;500.000,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;5.829,54;5.829,54;5.829.540,00 €
-21;Reparaciones, mantenimiento y conservación;993,84;993,84;993.840,00 €
-22;Material, suministros y otros;4.835,70;4.835,70;4.835.700,00 €
-3;GASTOS FINANCIEROS;90;90;90.000,00 €
-35;Intereses de demora y otros gastos financieros;90;90;90.000,00 €
-4;TRANSFERENCIAS CORRIENTES;17,31;17,31;17.310,00 €
-48;A familias e instituciones sin fines de lucro;8;8;8.000,00 €
-49;Al exterior;9,31;9,31;9.310,00 €
-6;INVERSIONES REALES;43.911,00;43.911,00;43.911.000,00 €
-63;Inversión de reposición asociada al funcionamiento operativo de los servicios;43.656,50;43.656,50;43.656.500,00 €
-64;Gastos de inversiones de carácter inmaterial;254,5;254,5;254.500,00 €
-8;ACTIVOS FINANCIEROS;170.250,00;170.250,00;170.250.000,00 €
-85;Adquisición de acciones y participaciones del Sector Público;170.000,00;170.000,00;170.000.000,00 €
-86;Adquisición de acciones y participaciones de fuera del Sector Público;250;250;250.000,00 €
-;TOTAL PROGRAMA 923A;—;226.782,29;226.782.290,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+1;GASTOS DE PERSONAL;6.684,44;6.684,44;6.684.440,00
+10;Altos cargos;61,05;61,05;61.050,00
+12;Funcionarios;6.075,09;6.075,09;6.075.090,00
+13;Laborales;48,3;48,3;48.300,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;500;500;500.000,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;5.829,54;5.829,54;5.829.540,00
+21;Reparaciones, mantenimiento y conservación;993,84;993,84;993.840,00
+22;Material, suministros y otros;4.835,70;4.835,70;4.835.700,00
+3;GASTOS FINANCIEROS;90;90;90.000,00
+35;Intereses de demora y otros gastos financieros;90;90;90.000,00
+4;TRANSFERENCIAS CORRIENTES;17,31;17,31;17.310,00
+48;A familias e instituciones sin fines de lucro;8;8;8.000,00
+49;Al exterior;9,31;9,31;9.310,00
+6;INVERSIONES REALES;43.911,00;43.911,00;43.911.000,00
+63;Inversión de reposición asociada al funcionamiento operativo de los servicios;43.656,50;43.656,50;43.656.500,00
+64;Gastos de inversiones de carácter inmaterial;254,5;254,5;254.500,00
+8;ACTIVOS FINANCIEROS;170.250,00;170.250,00;170.250.000,00
+85;Adquisición de acciones y participaciones del Sector Público;170.000,00;170.000,00;170.000.000,00
+86;Adquisición de acciones y participaciones de fuera del Sector Público;250;250;250.000,00
+;TOTAL PROGRAMA 923A;—;226.782,29;226.782.290,00

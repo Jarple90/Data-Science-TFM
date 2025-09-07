@@ -1,39 +1,29 @@
-Económica;Explicación;15.01;15.02;15.05;15.06;Total (miles Euros);Total (euros)
-1;GASTOS DE PERSONAL;130.217,17;9.414,25;11.006,66;3.693,95;154.332,03;154.332.030,00 €
-10;Altos cargos;269,6;61,05;80,31;61,05;472,01;472.010,00 €
-11;Personal eventual;321,42;—;235,54;—;556,96;556.960,00 €
-12;Funcionarios;101.715,79;8.242,47;2.436,73;3.280,00;115.674,99;115.674.990,00 €
-13;Laborales;5.330,49;430,73;52,12;27,9;5.841,24;5.841.240,00 €
-15;Incentivos al rendimiento;16.742,12;—;8.071,96;—;24.814,08;24.814.080,00 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;5.837,75;680;130;325;6.972,75;6.972.750,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;73.087,06;904,27;213,82;372,71;74.577,86;74.577.860,00 €
-20;Arrendamientos y cánones;27.418,32;19;—;—;27.437,32;27.437.320,00 €
-21;Reparaciones, mantenimiento y conservación;5.451,11;20;15,35;—;5.486,46;5.486.460,00 €
-22;Material, suministros y otros;38.969,85;647,04;55,62;372,71;40.045,22;40.045.220,00 €
-23;Indemnizaciones por razón del servicio;1.247,78;—;142,85;—;1.390,63;1.390.630,00 €
-24;Gastos de publicaciones;—;218,23;—;—;218,23;218.230,00 €
-3;GASTOS FINANCIEROS;3.890,00;—;—;—;3.890,00;3.890.000,00 €
-35;Intereses de demora y otros gastos financieros;3.890,00;—;—;—;3.890,00;3.890.000,00 €
-4;TRANSFERENCIAS CORRIENTES;841.375,97;—;363,74;—;841.739,71;841.739.710,00 €
-44;A entidades del Sector Público Estatal;490.842,24;—;—;—;490.842,24;490.842.240,00 €
-47;A empresas privadas;320.000,00;—;—;—;320.000,00;320.000.000,00 €
-48;A familias e instituciones sin fines de lucro;30.533,73;—;—;—;30.533,73;30.533.730,00 €
-49;Al exterior;—;—;363,74;—;363,74;363.740,00 €
-6;INVERSIONES REALES;10.931,80;575,72;—;—;11.507,52;11.507.520,00 €
-62;Inversión nueva asociada al funcionamiento operativo;20;42,34;—;—;62,34;62.340,00 €
-63;Inversión de reposición asociada al funcionamiento operativo;10.911,80;47,5;—;—;10.959,30;10.959.300,00 €
-64;Gastos de inversiones de carácter inmaterial;—;485,88;—;—;485,88;485.880,00 €
-8;ACTIVOS FINANCIEROS;3.604,35;—;—;—;3.604,35;3.604.350,00 €
-83;Concesión de préstamos fuera del Sector Público;604,35;—;—;—;604,35;604.350,00 €
-87;Aportaciones patrimoniales;3.000,00;—;—;—;3.000,00;3.000.000,00 €
-;TOTAL PROGRAMA 923M;1.063.106,35;10.894,24;11.584,22;4.066,66;1.089.651,47;1.089.651.470,00 €
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
+Económica;Explicación;15.01;15.02;15.05;15.06;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;130.217,17;9.414,25;11.006,66;3.693,95;154.332,03;154.332.030,00
+10;Altos cargos;269,6;61,05;80,31;61,05;472,01;472.010,00
+11;Personal eventual;321,42;—;235,54;—;556,96;556.960,00
+12;Funcionarios;101.715,79;8.242,47;2.436,73;3.280,00;115.674,99;115.674.990,00
+13;Laborales;5.330,49;430,73;52,12;27,9;5.841,24;5.841.240,00
+15;Incentivos al rendimiento;16.742,12;—;8.071,96;—;24.814,08;24.814.080,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;5.837,75;680;130;325;6.972,75;6.972.750,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;73.087,06;904,27;213,82;372,71;74.577,86;74.577.860,00
+20;Arrendamientos y cánones;27.418,32;19;—;—;27.437,32;27.437.320,00
+21;Reparaciones, mantenimiento y conservación;5.451,11;20;15,35;—;5.486,46;5.486.460,00
+22;Material, suministros y otros;38.969,85;647,04;55,62;372,71;40.045,22;40.045.220,00
+23;Indemnizaciones por razón del servicio;1.247,78;—;142,85;—;1.390,63;1.390.630,00
+24;Gastos de publicaciones;—;218,23;—;—;218,23;218.230,00
+3;GASTOS FINANCIEROS;3.890,00;—;—;—;3.890,00;3.890.000,00
+35;Intereses de demora y otros gastos financieros;3.890,00;—;—;—;3.890,00;3.890.000,00
+4;TRANSFERENCIAS CORRIENTES;841.375,97;—;363,74;—;841.739,71;841.739.710,00
+44;A entidades del Sector Público Estatal;490.842,24;—;—;—;490.842,24;490.842.240,00
+47;A empresas privadas;320.000,00;—;—;—;320.000,00;320.000.000,00
+48;A familias e instituciones sin fines de lucro;30.533,73;—;—;—;30.533,73;30.533.730,00
+49;Al exterior;—;—;363,74;—;363,74;363.740,00
+6;INVERSIONES REALES;10.931,80;575,72;—;—;11.507,52;11.507.520,00
+62;Inversión nueva asociada al funcionamiento operativo;20;42,34;—;—;62,34;62.340,00
+63;Inversión de reposición asociada al funcionamiento operativo;10.911,80;47,5;—;—;10.959,30;10.959.300,00
+64;Gastos de inversiones de carácter inmaterial;—;485,88;—;—;485,88;485.880,00
+8;ACTIVOS FINANCIEROS;3.604,35;—;—;—;3.604,35;3.604.350,00
+83;Concesión de préstamos fuera del Sector Público;604,35;—;—;—;604,35;604.350,00
+87;Aportaciones patrimoniales;3.000,00;—;—;—;3.000,00;3.000.000,00
+;TOTAL PROGRAMA 923M;1.063.106,35;10.894,24;11.584,22;4.066,66;1.089.651,47;1.089.651.470,00

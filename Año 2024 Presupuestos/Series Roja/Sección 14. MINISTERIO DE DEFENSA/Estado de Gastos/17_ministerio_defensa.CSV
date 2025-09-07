@@ -1,24 +1,24 @@
-Económica;Explicación;14.01;14.02;14.03;14.12;14.17;14.22;14.107;Total (miles Euros);Total (euros)
-1;GASTOS DE PERSONAL;638.892,47;;;;;;14.568,44;653.460,91;653.460.910 €
-12;Funcionarios;520.801,29;;;;;;10.219,22;531.020,51;531.020.510 €
-13;Laborales;84.908,08;;;;;;1.513,42;86.421,50;86.421.500 €
-15;Incentivos al rendimiento;;;;;;;1.127,45;1.127,45;1.127.450 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;33.183,10;;;;;;1.708,35;34.891,45;34.891.450 €
+Económica;Explicación;14.01;14.02;14.03;14.12;14.17;14.22;14.107;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;638.892,47;—;—;—;—;—;14.568,44;653.460,91;653.460.910 €
+12;Funcionarios;520.801,29;—;—;—;—;—;10.219,22;531.020,51;531.020.510 €
+13;Laborales;84.908,08;—;—;—;—;—;1.513,42;86.421,50;86.421.500 €
+15;Incentivos al rendimiento;;—;—;—;—;—;1.127,45;1.127,45;1.127.450 €
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;33.183,10;—;—;—;—;—;1.708,35;34.891,45;34.891.450 €
 2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;4.203,65;5.504,36;15.303,97;53.563,23;30.143,35;17.574,80;34.940,25;161.233,61;161.233.610 €
 21;Reparaciones, mantenimiento y conservación;4.203,65;5.504,36;15.303,97;42.320,88;17.934,14;16.174,80;8.981,24;110.423,04;110.423.040 €
-22;Material, suministros y otros;;;;11.242,35;12.209,21;1.400,00;25.503,36;50.354,92;50.354.920 €
-23;Indemnizaciones por razón del servicio;;;;;;;445,25;445,25;445.250 €
-24;Gastos de publicaciones;;;;;;;10,4;10,4;10.400 €
-3;GASTOS FINANCIEROS;;;;;;;70;70;70.000 €
-35;Intereses de demora y otros gastos financieros;;;;;;;70;70;70.000 €
-4;TRANSFERENCIAS CORRIENTES;;;;;;;55.000,00;55.000,00;55.000.000 €
-48;A familias e instituciones sin fines de lucro;;;;;;;55.000,00;55.000,00;55.000.000 €
+22;Material, suministros y otros;;—;—;11.242,35;12.209,21;1.400,00;25.503,36;50.354,92;50.354.920 €
+23;Indemnizaciones por razón del servicio;;—;—;—;—;—;445,25;445,25;445.250 €
+24;Gastos de publicaciones;;—;—;—;—;—;10,4;10,4;10.400 €
+3;GASTOS FINANCIEROS;;—;—;—;—;—;70;70;70.000 €
+35;Intereses de demora y otros gastos financieros;;—;—;—;—;—;70;70;70.000 €
+4;TRANSFERENCIAS CORRIENTES;;—;—;—;—;—;55.000,00;55.000,00;55.000.000 €
+48;A familias e instituciones sin fines de lucro;;—;—;—;—;—;55.000,00;55.000,00;55.000.000 €
 6;INVERSIONES REALES;;16.482,45;20.957,26;32.850,24;25.902,20;30.432,85;31.589,59;158.214,59;158.214.590 €
-62;Inversión nueva asociada al funcionamiento operativo de los servicios;;;;;;;263;263;263.000 €
-63;Inversión de reposición asociada al funcionamiento operativo de los servicios;;;;;;;31.161,59;31.161,59;31.161.590 €
-64;Gastos de inversiones de carácter inmaterial;;;;;;;165;165;165.000 €
+62;Inversión nueva asociada al funcionamiento operativo de los servicios;;—;—;—;—;—;263;263;263.000 €
+63;Inversión de reposición asociada al funcionamiento operativo de los servicios;;—;—;—;—;—;31.161,59;31.161,59;31.161.590 €
+64;Gastos de inversiones de carácter inmaterial;;—;—;—;—;—;165;165;165.000 €
 66;Inversiones militares asociadas al funcionamiento operativo de los servicios;;16.482,45;20.957,26;32.850,24;25.902,20;30.432,85;;126.625,00;126.625.000 €
-8;ACTIVOS FINANCIEROS;;;;;;;130;130;130.000 €
-83;Concesión de préstamos fuera del Sector Público;;;;;;;120;120;120.000 €
-84;Constitución de depósitos y fianzas;;;;;;;10;10;10.000 €
-;TOTAL GENERAL;643.096,12;21.986,81;36.261,23;86.413,47;56.045,55;48.007,65;136.298,28;1.028.109,11;1.028.109.110 €
+8;ACTIVOS FINANCIEROS;;—;—;—;—;—;130;130;130.000 €
+83;Concesión de préstamos fuera del Sector Público;;—;—;—;—;—;120;120;120.000 €
+84;Constitución de depósitos y fianzas;;—;—;—;—;—;10;10;10.000 €
+—;TOTAL GENERAL;643.096,12;21.986,81;36.261,23;86.413,47;56.045,55;48.007,65;136.298,28;1.028.109,11;1.028.109.110 €

@@ -1,58 +1,41 @@
-Orgánica;Económica;Explicación;Total;Euros
-13.08;;SECRETARIADO DEL GOBIERNO Y RELACIONES CON LAS CORTES;;
-;1;GASTOS DE PERSONAL;;
-;10;Altos cargos;604,19;604.190,00
-;11;Personal eventual;749,14;749.140,00
-;12;Funcionarios;21.384,10;21.384.100,00
-;13;Laborales;2.571,18;2.571.180,00
-;15;Incentivos al rendimiento;3.770,59;3.770.590,00
-;150;Productividad;3.701,80;3.701.800,00
-;151;Gratificaciones;68,79;68.790,00
-;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;3.155,68;3.155.680,00
-;16000;Seguridad Social;2.466,32;2.466.320,00
-;16200;Formación y perfeccionamiento del personal;80,79;80.790,00
-;16201;Economatos y comedores;275;275.000,00
-;16204;Acción social;161,49;161.490,00
-;;TOTAL GASTOS DE PERSONAL;32.234,88;32.234.880,00
-;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;;
-;20;Arrendamientos y cánones;42,8;42.800,00
-;21;Reparaciones, mantenimiento y conservación;949,43;949.430,00
-;22;Material, suministros y otros;6.250,45;6.250.450,00
-;22502;Locales;180;180.000,00
-;22601;Atenciones protocolarias y representativas;95,56;95.560,00
-;22611;Gastos protocolarios y representativos derivados de actos institucionales;30;30.000,00
-;23;Indemnizaciones por razón del servicio;555;555.000,00
-;24;Gastos de publicaciones;140;140.000,00
-;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;7.937,68;7.937.680,00
-;4;TRANSFERENCIAS CORRIENTES;;
-;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones…;2.437,00;2.437.000,00
-;441;A la Fundación Pluralismo y Convivencia;1.980,00;1.980.000,00
-;447;Al Consorcio para la conmemoración del Bicentenario de la Constitución de 1812;457;457.000,00
-;48;A familias e instituciones sin fines de lucro;1.453,31;1.453.310,00
-;482;Indemnizaciones;950,71;950.710,00
-;484;A la Fundación Príncesa de Asturias;300;300.000,00
-;485;Compensación estatal de gastos por Iniciativa Legislativa Popular;200;200.000,00
-;486;"Premio Mujer y Parlamento ""Clara Campoamor""";2,6;2.600,00
-;;TOTAL TRANSFERENCIAS CORRIENTES;3.890,31;3.890.310,00
-;6;INVERSIONES REALES;4.207,00;4.207.000,00
-;8;ACTIVOS FINANCIEROS;;
-;83;Concesión de préstamos fuera del Sector Público;72,12;72.120,00
-;830;Préstamos a corto plazo;14,42;14.420,00
-;831;Préstamos a largo plazo;57,7;57.700,00
-;;TOTAL ACTIVOS FINANCIEROS;72,12;72.120,00
-;;TOTAL Relaciones con las Cortes Generales, Secretariado del Gobierno y apoyo a la Alta Dirección;48.341,99;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+13.08;10;Altos cargos;604,19;604.190,00
+13.08;11;Personal eventual;749,14;749.140,00
+13.08;12;Funcionarios;21.384,10;21.384.100,00
+13.08;13;Laborales;2.571,18;2.571.180,00
+13.08;15;Incentivos al rendimiento;3.770,59;3.770.590,00
+13.08;150;Productividad;3.701,80;3.701.800,00
+13.08;151;Gratificaciones;68,79;68.790,00
+13.08;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;3.155,68;3.155.680,00
+13.08;16000;Seguridad Social;2.466,32;2.466.320,00
+13.08;16200;Formación y perfeccionamiento del personal;80,79;80.790,00
+13.08;16201;Economatos y comedores;275,00;275.000,00
+13.08;16204;Acción social;161,49;161.490,00
+—;—;TOTAL GASTOS DE PERSONAL;32.234,88;32.234.880,00
+13.08;20;Arrendamientos y cánones;42,8;42.800,00
+13.08;21;Reparaciones, mantenimiento y conservación;949,43;949.430,00
+13.08;22;Material, suministros y otros;6.250,45;6.250.450,00
+13.08;22502;Locales;180;180.000,00
+13.08;22601;Atenciones protocolarias y representativas;95,56;95.560,00
+13.08;22611;Gastos protocolarios derivados de actos institucionales;30,00;30.000,00
+13.08;23;Indemnizaciones por razón del servicio;555;555.000,00
+13.08;24;Gastos de publicaciones;140;140.000,00
+—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;7.937,68;7.937.680,00
+13.08;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones…;2.437,00;2.437.000,00
+13.08;441;Fundación Pluralismo y Convivencia;1.980,00;1.980.000,00
+13.08;447;Consorcio Bicentenario Constitución 1812;457,00;457.000,00
+13.08;48;A familias e instituciones sin fines de lucro;1.453,31;1.453.310,00
+13.08;482;Indemnizaciones;950,71;950.710,00
+13.08;484;Fundación Princesa de Asturias;300,00;300.000,00
+13.08;485;Compensación por Iniciativa Legislativa Popular;200;200.000,00
+13.08;486;"Premio Mujer y Parlamento ""Clara Campoamor""";2,60;2.600,00
+—;—;TOTAL TRANSFERENCIAS CORRIENTES;3.890,31;3.890.310,00
+13.08;6;Inversiones reales;4.207,00;4.207.000,00
+13.08;83;Concesión de préstamos fuera del Sector Público;72,12;72.120,00
+13.08;830;Préstamos a corto plazo;14,42;14.420,00
+13.08;831;Préstamos a largo plazo;57,70;57.700,00
+—;—;TOTAL ACTIVOS FINANCIEROS;72,12;72.120,00
+—;—;TOTAL Relaciones con las Cortes Generales, Secretariado del Gobierno y apoyo a la Alta Dirección;48.341,99;48.341.990,00
 ;;;;
 ;;;;
 ;;;;

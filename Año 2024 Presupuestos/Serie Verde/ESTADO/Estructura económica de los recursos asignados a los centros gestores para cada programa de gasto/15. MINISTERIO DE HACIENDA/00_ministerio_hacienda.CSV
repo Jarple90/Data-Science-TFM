@@ -1,0 +1,586 @@
+Servicio;Programa;Económica;Explicación;Total (miles euros);Total (euros)
+1;337B;443;"Al Consorcio ""Ciudad de Santiago de Compostela""";4.783,16;4.783.160,00
+1;337B;444;Al Consorcio de la Ciudad de Toledo;1.621,99;1.621.990,00
+1;337B;445;Al Consorcio de la Ciudad de Cuenca;1.621,99;1.621.990,00
+1;337B;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones, etc.;8.027,14;8.027.140,00
+1;467G;22706;Estudios y trabajos técnicos;1.668,00;1.668.000,00
+1;467G;630;Inversión de reposición asociada al funcionamiento operativo;2.311,89;2.311.890,00
+1;467G;640;Gastos en inversiones de carácter inmaterial;1.671,87;1.671.870,00
+1;923M;10000;Retribuciones básicas (Altos cargos);133,52;133.520,00
+1;923M;10001;Retribuciones complementarias (Altos cargos);136,08;136.080,00
+1;923M;11000;Retribuciones básicas (Personal eventual);102,64;102.640,00
+1;923M;11001;Retribuciones complementarias (Personal eventual);218,78;218.780,00
+1;923M;12000;Sueldos grupo A1 y A;1.322,91;1.322.910,00
+1;923M;12001;Sueldos grupo A2 y B;3.174,63;3.174.630,00
+1;923M;12100;Complemento de destino;6.317,33;6.317.330,00
+1;923M;12101;Complemento específico;8.305,91;8.305.910,00
+1;923M;12181;Necesidades adicionales;68.879,00;68.879.000,00
+1;923M;10000;Retribuciones básicas (Altos cargos);133,52;133.520,00
+1;923M;10001;Retribuciones complementarias (Altos cargos);136,08;136.080,00
+1;923M;11000;Retribuciones básicas (Personal eventual);102,64;102.640,00
+1;923M;11001;Retribuciones complementarias (Personal eventual);218,78;218.780,00
+1;923M;12000;Sueldos grupo A1 y A;1.322,91;1.322.910,00
+1;923M;12001;Sueldos grupo A2 y B;3.174,63;3.174.630,00
+1;923M;12002;Sueldos grupo C1 y C;3.141,18;3.141.180,00
+1;923M;12003;Sueldos grupo C2 y D;1.827,19;1.827.190,00
+1;923M;12005;Trienios;2.753,32;2.753.320,00
+1;923M;12006;Pagas extraordinarias;2.713,85;2.713.850,00
+1;923M;12100;Complemento de destino;6.317,33;6.317.330,00
+1;923M;12101;Complemento específico;8.305,91;8.305.910,00
+1;923M;12102;Indemnización por residencia;209,47;209.470,00
+1;923M;12103;Otros complementos;3.071,00;3.071.000,00
+1;923M;12181;Necesidades adicionales;68.879,00;68.879.000,00
+1;923M;13000;Retribuciones básicas (Laboral fijo);4.945,55;4.945.550,00
+1;923M;13001;Otras remuneraciones (Laboral fijo);309,27;309.270,00
+1;923M;150;Productividad;16.081,88;16.081.880,00
+1;923M;151;Gratificaciones;660,24;660.240,00
+1;923M;16000;Seguridad Social;3.703,49;3.703.490,00
+1;923M;16200;Formación y perfeccionamiento del personal;642,38;642.380,00
+1;923M;16201;Economatos y comedores;32,1;32.100,00
+1;923M;16204;Acción social;1.080,44;1.080.440,00
+1;923M;16205;Seguros;94,79;94.790,00
+1;923M;16209;Otros;284,55;284.550,00
+1;923M;202;Arrendamientos de edificios y otras construcciones;27.401,68;27.401.680,00
+1;923M;205;Arrendamientos de mobiliario y enseres;7,64;7.640,00
+1;923M;208;Arrendamientos de otro inmovilizado material;9;9.000,00
+1;923M;212;Reparaciones en edificios y construcciones;3.529,40;3.529.400,00
+1;923M;213;Reparaciones en maquinaria e instalaciones;1.235,34;1.235.340,00
+1;923M;215;Reparaciones en mobiliario y enseres;217,9;217.900,00
+1;923M;216;Reparaciones en equipos informáticos;468,47;468.470,00
+1;923M;22000;Material de oficina ordinario no inventariable;466,45;466.450,00
+1;923M;22001;Prensa, revistas, libros y publicaciones;151,46;151.460,00
+1;923M;22002;Material informático no inventariable;148;148.000,00
+1;923M;22100;Energía eléctrica;7.604,26;7.604.260,00
+1;923M;22101;Agua;143,62;143.620,00
+1;923M;22102;Gas;253,48;253.480,00
+1;923M;22103;Combustible;1.489,73;1.489.730,00
+1;923M;22104;Vestuario;15,84;15.840,00
+1;923M;22106;Productos farmacéuticos y material sanitario;18,49;18.490,00
+1;923M;22109;Labores Fábrica Nacional Moneda y Timbre;30;30.000,00
+1;923M;22111;Repuestos de maquinaria y transporte;98,69;98.690,00
+1;923M;22112;Material electrónico, eléctrico y comunicaciones;62,88;62.880,00
+1;923M;22199;Otros suministros;939,66;939.660,00
+1;923M;22200;Servicios de telecomunicaciones;900;900.000,00
+1;923M;22299;Otras comunicaciones;20,6;20.600,00
+1;923M;223;Transportes;38,9;38.900,00
+1;923M;22502;Tributos locales;3.686,27;3.686.270,00
+1;923M;22503;Tasa de supervisión (L.O. 6/2013);3.574,23;3.574.230,00
+1;923M;22601;Atenciones protocolarias y representativas;88,58;88.580,00
+1;923M;22602;Publicidad y propaganda;46,09;46.090,00
+1;923M;22603;Jurídicos, contenciosos;6.906,49;6.906.490,00
+1;923M;22606;Reuniones, conferencias y cursos;102,26;102.260,00
+1;923M;22607;Oposiciones y pruebas selectivas;9,37;9.370,00
+1;923M;22699;Otros gastos diversos;14,18;14.180,00
+1;923M;22700;Limpieza y aseo;3.626,83;3.626.830,00
+1;923M;22701;Seguridad;3.372,79;3.372.790,00
+1;923M;22704;Custodia, depósito y almacenaje;50;50.000,00
+1;923M;22706;Estudios y trabajos técnicos;2.216,42;2.216.420,00
+1;923M;22716;Para AIREF por revisión de áreas de gasto público;1.295,28;1.295.280,00
+1;923M;22799;Otros trabajos realizados por empresas y profesionales;1.599,00;1.599.000,00
+1;923M;230;Dietas;293,99;293.990,00
+1;923M;231;Locomoción;297,38;297.380,00
+1;923M;232;Traslado;46,41;46.410,00
+1;923M;233;Otras indemnizaciones;610;
+1;923M;240;Gastos de edición y distribución;218,23;218.230,00
+1;923M;352;Intereses de demora;3.890,00;3.890.000,00
+1;923M;44200;Prestación del servicio público de radio y televisión (RTVE);478.229,28;478.229.280,00
+1;923M;44201;Actividades ordinarias de la Orquesta y Coro de RTVE;11.322,96;11.322.960,00
+1;923M;448;Al Consorcio de la Zona Especial Canaria;1.290,00;1.290.000,00
+1;923M;471;Reclamaciones y sentencias por responsabilidad patrimonial del Estado;320.000,00;320.000.000,00
+1;923M;48000;Becas, congresos, cursos, seminarios y otras subvenciones;515,85;515.850,00
+1;923M;481;Hermandad de Jubilados del Ministerio de Economía y Hacienda;17,88;17.880,00
+1;923M;483;Reclamaciones y sentencias por responsabilidad patrimonial del Estado;30.000,00;30.000.000,00
+1;923M;620;Inversión nueva asociada al funcionamiento operativo;20;20.000,00
+1;923M;630;Inversión de reposición asociada al funcionamiento operativo;10.911,80;10.911.800,00
+1;923M;640;Gastos en inversiones de carácter inmaterial;254,5;254.500,00
+1;923M;83008;Préstamos a corto plazo a familias e instituciones sin fines de lucro;604,35;604.350,00
+1;923M;871;Aportación patrimonial al Consorcio Zona Franca de Gran Canaria;450;450.000,00
+1;923M;874;Aportación patrimonial al Consorcio Zona Franca de Santa Cruz de Tenerife;450;450.000,00
+1;923M;875;Aportación patrimonial al Consorcio Zona Franca de Santander;450;450.000,00
+1;923M;876;Aportación patrimonial al Consorcio Zona Franca de Sevilla;1.650,00;1.650.000,00
+;;;TOTAL ACTIVOS FINANCIEROS;3.604,35;3.604.350,00
+;;;TOTAL Dirección y Servicios Generales de Hacienda y Función Pública;1.063.106,35;1.063.106.350,00
+2;923M;10000;Retribuciones básicas (Altos cargos);18,92;18.920,00
+2;923M;10001;Retribuciones complementarias (Altos cargos);42,13;42.130,00
+2;923M;12000;Sueldos grupo A1 y A;847,26;847.260,00
+2;923M;12001;Sueldos grupo A2 y B;462,7;462.700,00
+2;923M;12002;Sueldos grupo C1 y C;332,94;332.940,00
+2;923M;12003;Sueldos grupo C2 y D;273,08;273.080,00
+2;923M;12005;Trienios;509,02;509.020,00
+2;923M;12006;Pagas extraordinarias;532,47;532.470,00
+2;923M;12100;Complemento de destino;1.389,55;1.389.550,00
+2;923M;12101;Complemento específico;2.068,13;2.068.130,00
+2;923M;12300;Indemnización por destino en el extranjero;1.827,32;1.827.320,00
+2;923M;13000;Retribuciones básicas (Laboral fijo);146,05;146.050,00
+2;923M;13001;Otras remuneraciones (Laboral fijo);10,54;10.540,00
+2;923M;16000;Seguridad Social;680;680.000,00
+2;923M;202;Arrendamientos de edificios y otras construcciones;15;15.000,00
+2;923M;206;Arrendamientos de equipos para procesos de información;3;3.000,00
+2;923M;20615;Arrendamientos de equipos en el exterior;3;3.000,00
+2;923M;208;Arrendamientos de otro inmovilizado material;1;1.000,00
+2;923M;20815;Arrendamientos de inmovilizado en el exterior;1;1.000,00
+2;923M;218;Reparaciones en bienes situados en el exterior;20;20.000,00
+2;923M;220;Material de oficina;166,32;166.320,00
+2;923M;22001;Prensa, revistas, libros y publicaciones;145,98;145.980,00
+2;923M;22002;Material informático no inventariable;7;7.000,00
+2;923M;22015;Material de oficina en el exterior;13,34;13.340,00
+2;923M;22115;Suministros en el exterior;10;10.000,00
+2;923M;22215;Comunicaciones en el exterior;17;17.000,00
+2;923M;22601;Atenciones protocolarias y representativas;8,16;8.160,00
+2;923M;22615;Gastos diversos en el exterior;7,83;7.830,00
+2;923M;22706;Estudios y trabajos técnicos;422,73;422.730,00
+2;923M;22715;Trabajos realizados en el exterior;15;15.000,00
+2;923M;240;Gastos de edición y distribución;218,23;218.230,00
+2;923M;62;Inversión nueva asociada al funcionamiento operativo de los servicios;42,34;42.340,00
+2;923M;620;Inversión nueva asociada al funcionamiento operativo de los servicios;42,34;42.340,00
+2;923M;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;47,5;47.500,00
+2;923M;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;47,5;47.500,00
+2;923M;64;Gastos de inversiones de carácter inmaterial;485,88;485.880,00
+2;923M;640;Gastos en inversiones de carácter inmaterial;485,88;485.880,00
+4;467G;630;Inversión de reposición asociada al funcionamiento operativo;760;760.000,00
+4;467G;640;Gastos en inversiones de carácter inmaterial;8.440,00;8.440.000,00
+4;923A;10000;Retribuciones básicas (Altos cargos);18,92;18.920,00
+4;923A;10001;Retribuciones complementarias (Altos cargos);42,13;42.130,00
+4;923A;12000;Sueldos grupo A1 y A;743,21;743.210,00
+4;923A;12001;Sueldos grupo A2 y B;700,48;700.480,00
+4;923A;12002;Sueldos grupo C1 y C;188,19;188.190,00
+4;923A;12003;Sueldos grupo C2 y D;140,56;140.560,00
+4;923A;12005;Trienios;518,15;518.150,00
+4;923A;12006;Pagas extraordinarias;487,8;487.800,00
+4;923A;12100;Complemento de destino;1.285,99;1.285.990,00
+4;923A;12101;Complemento específico;2.010,71;2.010.710,00
+4;923A;13000;Retribuciones básicas (Laboral fijo);45,4;45.400,00
+4;923A;13001;Otras remuneraciones (Laboral fijo);2,9;2.900,00
+4;923A;16000;Seguridad Social;500;500.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;6.684,44;6.684.440,00
+4;923A;212;Reparaciones en edificios y construcciones;783,12;783.120,00
+4;923A;215;Reparaciones en mobiliario y enseres;18,58;18.580,00
+4;923A;216;Reparaciones en equipos informáticos;192,14;192.140,00
+4;923A;22100;Energía eléctrica;64,62;64.620,00
+4;923A;22101;Agua;117,2;117.200,00
+4;923A;22502;Tributos locales;1.184,03;1.184.030,00
+4;923A;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+4;923A;22602;Publicidad y propaganda;26,14;26.140,00
+4;923A;22603;Jurídicos, contenciosos;147,37;147.370,00
+4;923A;22606;Reuniones, conferencias y cursos;5,9;5.900,00
+4;923A;22700;Limpieza y aseo;141,83;141.830,00
+4;923A;22701;Seguridad;357,61;357.610,00
+4;923A;22702;Valoraciones y peritajes;3,45;3.450,00
+4;923A;22704;Custodia, depósito y almacenaje;2,54;2.540,00
+4;923A;22706;Estudios y trabajos técnicos;2.757,58;2.757.580,00
+4;923A;22799;Otros trabajos realizados por empresas y profesionales;25,09;25.090,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;5.829,54;5.829.540,00
+4;923A;352;Intereses de demora;90;90.000,00
+—;—;—;TOTAL GASTOS FINANCIEROS;90;90.000,00
+4;923A;482;Cuota al Foro de Contratación Socialmente Responsable;8;8.000,00
+4;923A;494;Cuota Organización PuRE-net;2,5;2.500,00
+4;923A;496;Cuota a la Asociación XBRL España;2;2.000,00
+4;923A;497;Cuota al Centro Europeo de Empresas Públicas (CEEP);4,81;4.810,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;17,31;17.310,00
+4;923A;630;Inversión de reposición asociada al funcionamiento operativo;43.656,50;43.656.500,00
+4;923A;640;Gastos en inversiones de carácter inmaterial;254,5;254.500,00
+—;—;—;TOTAL INVERSIONES REALES;43.911,00;43.911.000,00
+4;923A;85010;Adquisición de acciones y participaciones del Sector Público;170.000,00;170.000.000,00
+4;923A;863;Pago de otros justiprecios;250;250.000,00
+—;—;—;TOTAL ACTIVOS FINANCIEROS;170.250,00;170.250.000,00
+ ; ;;Gestión del Patrimonio del Estado;226.782,29;226.782.290,00
+;;;Dirección General del Patrimonio del Estado;235.982,29;235.982.290,00
+5;923M;10000;Retribuciones básicas (Altos cargos);19,92;19.920,00
+5;923M;10001;Retribuciones complementarias (Altos cargos);60,39;60.390,00
+5;923M;11000;Retribuciones básicas (Personal eventual);80,13;80.130,00
+5;923M;11001;Retribuciones complementarias (Personal eventual);155,41;155.410,00
+5;923M;12000;Sueldos grupo A1 y A;118,92;118.920,00
+5;923M;12001;Sueldos grupo A2 y B;51,42;51.420,00
+5;923M;12002;Sueldos grupo C1 y C;91,69;91.690,00
+5;923M;12003;Sueldos grupo C2 y D;96,38;96.380,00
+5;923M;12005;Trienios;105,6;105.600,00
+5;923M;12006;Pagas extraordinarias;105,63;105.630,00
+5;923M;12100;Complemento de destino;257,81;257.810,00
+5;923M;12101;Complemento específico;381,28;381.280,00
+5;923M;12103;Otros complementos;1.228,00;1.228.000,00
+5;923M;13000;Retribuciones básicas (Laboral fijo);40,79;40.790,00
+5;923M;13001;Otras remuneraciones (Laboral fijo);11,33;11.330,00
+5;923M;150;Productividad;8.046,12;8.046.120,00
+5;923M;151;Gratificaciones;25,84;25.840,00
+5;923M;16000;Seguridad Social;130;130.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;11.006,66;11.006.660,00
+5;923M;215;Reparaciones en mobiliario y enseres;9,27;9.270,00
+5;923M;216;Reparaciones en equipos informáticos;6,08;6.080,00
+5;923M;22001;Prensa, revistas, libros y publicaciones;10,55;10.550,00
+5;923M;22601;Atenciones protocolarias y representativas;9,36;9.360,00
+5;923M;22606;Reuniones, conferencias y cursos;28,82;28.820,00
+5;923M;22706;Estudios y trabajos técnicos;6,89;6.890,00
+5;923M;230;Dietas;28,93;28.930,00
+5;923M;231;Locomoción;29,74;29.740,00
+5;923M;233;Otras indemnizaciones;84,18;84.180,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;213,82;213.820,00
+5;923M;490;Aportación a la OCDE – Foro Global y Red Fiscal;164,5;164.500,00
+5;923M;492;Aportación a la OCDE – Secretaría del Acuerdo Multilateral;7,24;7.240,00
+5;923M;493;Contribución al Protocolo sobre comercio ilícito de tabaco;192;192.000,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;363,74;363.740,00
+000X;—;410;Al Instituto de Estudios Fiscales;25.078,60;25.078.600,00
+000X;—;43500;A la AEAT para gastos de funcionamiento;1.160.876,92;1.160.876.920,00
+000X;—;43502;AEAT – compensación de gastos de otros servicios;2.931,45;2.931.450,00
+000X;—;43503;AEAT – premio de cobranza de recursos UE;67.770,73;67.770.730,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;1.256.657,70;1.256.657.700,00
+000X;—;710;Al Instituto de Estudios Fiscales;1.430,00;1.430.000,00
+000X;—;73500;A la AEAT para gastos de inversiones;102.991,79;102.991.790,00
+—;—;—;TOTAL TRANSFERENCIAS DE CAPITAL;104.421,79;104.421.790,00
+;;;Dirección y Servicios Generales;11.584,22;11.584.220,00
+;;;Transferencias y libramientos internos;1.361.079,49;1.361.079.490,00
+;;;TOTAL SECRETARÍA DE ESTADO DE HACIENDA;1.372.663,71;1.372.663.710,00
+6;923M;10000;Retribuciones básicas (Altos cargos);18,92;18.920,00
+6;923M;10001;Retribuciones complementarias (Altos cargos);42,13;42.130,00
+6;923M;12000;Sueldos grupo A1 y A;356,75;356.750,00
+6;923M;12001;Sueldos grupo A2 y B;392,02;392.020,00
+6;923M;12002;Sueldos grupo C1 y C;173,71;173.710,00
+6;923M;12003;Sueldos grupo C2 y D;88,35;88.350,00
+6;923M;12005;Trienios;229,95;229.950,00
+6;923M;12006;Pagas extraordinarias;275,26;275.260,00
+6;923M;12100;Complemento de destino;711,95;711.950,00
+6;923M;12101;Complemento específico;1.052,01;1.052.010,00
+6;923M;13000;Retribuciones básicas (Laboral fijo);25,87;25.870,00
+6;923M;13001;Otras remuneraciones (Laboral fijo);2,03;2.030,00
+6;923M;16000;Seguridad Social;325;325.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;3.693,95;3.693.950,00
+6;923M;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+6;923M;22606;Reuniones, conferencias y cursos;10;10.000,00
+6;923M;22706;Estudios y trabajos técnicos;360,37;360.370,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;372,71;372.710,00
+;;;Dirección y Servicios Generales;4.066,66;4.066.660,00
+;;;Dirección General de Racionalización y Centralización de la Contratación;4.066,66;4.066.660,00
+7;931O;10000;Retribuciones básicas (Altos cargos);18,92;18.920,00
+7;931O;10001;Retribuciones complementarias (Altos cargos);42,13;42.130,00
+7;931O;12000;Sueldos grupo A1 y A;795,24;795.240,00
+7;931O;12001;Sueldos grupo A2 y B;359,87;359.870,00
+7;931O;12002;Sueldos grupo C1 y C;110,99;110.990,00
+7;931O;12003;Sueldos grupo C2 y D;184,73;184.730,00
+7;931O;12004;Sueldos agrupaciones profesionales y grupo E;7,36;7.360,00
+7;931O;12005;Trienios;437,07;437.070,00
+7;931O;12006;Pagas extraordinarias;406,83;406.830,00
+7;931O;12100;Complemento de destino;1.079,68;1.079.680,00
+7;931O;12101;Complemento específico;1.915,97;1.915.970,00
+7;931O;13000;Retribuciones básicas (Laboral fijo);24,83;24.830,00
+7;931O;13001;Otras remuneraciones (Laboral fijo);2,44;2.440,00
+7;931O;16000;Seguridad Social;270;270.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;5.656,06;5.656.060,00
+7;931O;215;Reparaciones en mobiliario y enseres;0,31;310
+7;931O;216;Reparaciones en equipos informáticos;17,84;17.840,00
+7;931O;22001;Prensa, revistas, libros y publicaciones;1,28;1.280,00
+7;931O;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+7;931O;22606;Reuniones, conferencias y cursos;14,42;14.420,00
+7;931O;22706;Estudios y trabajos técnicos;2,36;2.360,00
+7;931O;230;Dietas;69,57;69.570,00
+7;931O;231;Locomoción;168,49;168.490,00
+7;931O;232;Traslado;2,23;2.230,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;278,84;278.840,00
+7;931O;630;Inversión de reposición asociada al funcionamiento operativo;34,31;34.310,00
+—;—;—;TOTAL INVERSIONES REALES;34,31;34.310,00
+;;;Dirección General de Tributos;5.969,21;5.969.210,00
+8;932M;10000;Retribuciones básicas (Altos cargos);18,92;18.920,00
+8;932M;10001;Retribuciones complementarias (Altos cargos);42,13;42.130,00
+8;932M;12000;Sueldos grupo A1 y A;8.615,27;8.615.270,00
+8;932M;12001;Sueldos grupo A2 y B;8.393,78;8.393.780,00
+8;932M;12002;Sueldos grupo C1 y C;5.244,04;5.244.040,00
+8;932M;12003;Sueldos grupo C2 y D;2.973,63;2.973.630,00
+8;932M;12004;Sueldos agrupaciones profesionales y grupo E;7,36;7.360,00
+8;932M;12005;Trienios;6.194,88;6.194.880,00
+8;932M;12006;Pagas extraordinarias;6.728,36;6.728.360,00
+8;932M;12100;Complemento de destino;16.199,21;16.199.210,00
+8;932M;12101;Complemento específico;21.735,20;21.735.200,00
+8;932M;12102;Indemnización por residencia;340,38;340.380,00
+8;932M;13000;Retribuciones básicas (Laboral fijo);1.499,45;1.499.450,00
+8;932M;13001;Otras remuneraciones (Laboral fijo);103,61;103.610,00
+8;932M;16000;Seguridad Social;6.700,00;6.700.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;84.796,22;84.796.220,00
+8;932M;215;Reparaciones en mobiliario y enseres;18,54;18.540,00
+8;932M;216;Reparaciones en equipos informáticos;2.714,61;2.714.610,00
+8;932M;22001;Prensa, revistas, libros y publicaciones;2,54;2.540,00
+8;932M;22002;Material informático no inventariable;218,58;218.580,00
+8;932M;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+8;932M;22602;Publicidad y propaganda;61,22;61.220,00
+8;932M;22603;Jurídicos, contenciosos;11,52;11.520,00
+8;932M;22606;Reuniones, conferencias y cursos;25;25.000,00
+8;932M;22706;Estudios y trabajos técnicos;3.392,15;3.392.150,00
+8;932M;230;Dietas;144,81;144.810,00
+8;932M;231;Locomoción;187,45;187.450,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;6.778,76;6.778.760,00
+8;932M;352;Intereses de demora;50,67;50.670,00
+8;932M;493;Cuota a EUROGEOGRAPHICS;24,94;24.940,00
+8;932M;630;Inversión de reposición asociada al funcionamiento operativo;5.286,18;5.286.180,00
+8;932M;640;Gastos en inversiones de carácter inmaterial;17.101,16;17.101.160,00
+—;—;—;TOTAL INVERSIONES REALES;22.387,34;22.387.340,00
+;;;Dirección General del Catastro;114.037,93;114.037.930,00
+9;932N;10000;Retribuciones básicas (Altos cargos);18,92;18.920,00
+9;932N;10001;Retribuciones complementarias (Altos cargos);42,13;42.130,00
+9;932N;12000;Sueldos grupo A1 y A;2.311,38;2.311.380,00
+9;932N;12001;Sueldos grupo A2 y B;2.853,32;2.853.320,00
+9;932N;12002;Sueldos grupo C1 y C;1.524,75;1.524.750,00
+9;932N;12003;Sueldos grupo C2 y D;1.088,29;1.088.290,00
+9;932N;12004;Sueldos agrupaciones profesionales y grupo E;7,36;7.360,00
+9;932N;12005;Trienios;2.357,03;2.357.030,00
+9;932N;12006;Pagas extraordinarias;2.192,26;2.192.260,00
+9;932N;12100;Complemento de destino;5.434,34;5.434.340,00
+9;932N;12101;Complemento específico;9.325,70;9.325.700,00
+9;932N;12102;Indemnización por residencia;106,34;106.340,00
+9;932N;13000;Retribuciones básicas (Laboral fijo);519,39;519.390,00
+9;932N;13001;Otras remuneraciones (Laboral fijo);33,28;33.280,00
+9;932N;16000;Seguridad Social;1.450,00;1.450.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;29.264,49;29.264.490,00
+9;932N;215;Reparaciones en mobiliario y enseres;48,97;48.970,00
+9;932N;216;Reparaciones en equipos informáticos;80,52;80.520,00
+9;932N;22001;Prensa, revistas, libros y publicaciones;40;40.000,00
+9;932N;22002;Material informático no inventariable;22,24;22.240,00
+9;932N;22601;Atenciones protocolarias y representativas;11,75;11.750,00
+9;932N;22606;Reuniones, conferencias y cursos;16;16.000,00
+9;932N;22706;Estudios y trabajos técnicos;300;300.000,00
+9;932N;230;Dietas;33,45;33.450,00
+9;932N;231;Locomoción;46,4;46.400,00
+9;932N;233;Otras indemnizaciones;1,88;1.880,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;601,21;601.210,00
+9;932N;495;Cuota a la Asociación Iberoamericana de Tribunales de Justicia Fiscal;1;1.000,00
+9;932N;630;Inversión de reposición asociada al funcionamiento operativo;1.430,56;1.430.560,00
+11;931N;12000;Sueldos grupo A1 y A;646,6;646.600,00
+11;931N;12001;Sueldos grupo A2 y B;1.268,15;1.268.150,00
+11;931N;12002;Sueldos grupo C1 y C;583,85;583.850,00
+11;931N;12003;Sueldos grupo C2 y D;56,23;56.230,00
+11;931N;12005;Trienios;567,1;567.100,00
+11;931N;12006;Pagas extraordinarias;695,8;695.800,00
+11;931N;12100;Complemento de destino;1.789,74;1.789.740,00
+11;931N;12101;Complemento específico;2.908,55;2.908.550,00
+11;931N;13000;Retribuciones básicas (Laboral fijo);299,64;299.640,00
+11;931N;13001;Otras remuneraciones (Laboral fijo);93,59;93.590,00
+11;931N;16000;Seguridad Social;690;690.000,00
+11;931N;16200;Formación y perfeccionamiento del personal;86,39;86.390,00
+—;—;—;TOTAL GASTOS DE PERSONAL;9.685,64;9.685.640,00
+11;931N;206;Arrendamientos de equipos informáticos;25;25.000,00
+11;931N;212;Reparaciones en edificios y construcciones;316,61;316.610,00
+11;931N;213;Reparaciones en maquinaria e instalaciones;195,66;195.660,00
+11;931N;216;Reparaciones en equipos informáticos;3.249,44;3.249.440,00
+11;931N;22001;Prensa, revistas, libros y publicaciones;23,9;23.900,00
+11;931N;22002;Material informático no inventariable;62,03;62.030,00
+11;931N;22111;Repuestos de maquinaria y transporte;5,62;5.620,00
+11;931N;22112;Material electrónico, eléctrico y comunicaciones;21,71;21.710,00
+11;931N;22200;Servicios de telecomunicaciones;220;220.000,00
+11;931N;22706;Estudios y trabajos técnicos;5.007,28;5.007.280,00
+11;931N;230;Dietas;7,63;7.630,00
+11;931N;231;Locomoción;15,7;15.700,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;9.150,58;9.150.580,00
+11;931N;630;Inversión de reposición asociada al funcionamiento operativo;22.760,00;22.760.000,00
+—;—;—;TOTAL INVERSIONES REALES;22.760,00;22.760.000,00
+;;;Intervención General de la Administración del Estado;41.596,22;41.596.220,00
+11;931P;10000;Retribuciones básicas (Altos cargos);19,34;19.340,00
+11;931P;10001;Retribuciones complementarias (Altos cargos);51,83;51.830,00
+11;931P;12000;Sueldos grupo A1 y A;4.818,46;4.818.460,00
+11;931P;12001;Sueldos grupo A2 y B;13.223,30;13.223.300,00
+11;931P;12002;Sueldos grupo C1 y C;1.941,32;1.941.320,00
+11;931P;12003;Sueldos grupo C2 y D;1.320,53;1.320.530,00
+11;931P;12005;Trienios;5.365,39;5.365.390,00
+11;931P;12006;Pagas extraordinarias;5.706,72;5.706.720,00
+11;931P;12100;Complemento de destino;14.468,75;14.468.750,00
+11;931P;12101;Complemento específico;23.522,06;23.522.060,00
+11;931P;12102;Indemnización por residencia;263,98;263.980,00
+11;931P;13000;Retribuciones básicas (Laboral fijo);984,86;984.860,00
+11;931P;13001;Otras remuneraciones (Laboral fijo);48,66;48.660,00
+11;931P;150;Productividad;12.368,67;12.368.670,00
+11;931P;16000;Seguridad Social;4.750,00;4.750.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;88.853,87;88.853.870,00
+11;931P;212;Reparaciones en edificios y construcciones;562,02;562.020,00
+11;931P;213;Reparaciones en maquinaria e instalaciones;236,99;236.990,00
+11;931P;215;Reparaciones en mobiliario y enseres;119,81;119.810,00
+11;931P;22000;Material de oficina ordinario no inventariable;104;104.000,00
+11;931P;22001;Prensa, revistas, libros y publicaciones;14,27;14.270,00
+11;931P;22002;Material informático no inventariable;32,82;32.820,00
+11;931P;22200;Servicios de telecomunicaciones;1,28;1.280,00
+11;931P;22601;Atenciones protocolarias y representativas;4,68;4.680,00
+11;931P;22602;Publicidad y propaganda;0,62;620
+11;931P;22606;Reuniones, conferencias y cursos;39,57;39.570,00
+11;931P;22702;Valoraciones y peritajes;2,01;2.010,00
+11;931P;22706;Estudios y trabajos técnicos;8,91;8.910,00
+11;931P;230;Dietas;288;288.000,00
+11;931P;231;Locomoción;296,75;296.750,00
+11;931P;232;Traslado;13,03;13.030,00
+11;931P;233;Otras indemnizaciones;10,7;10.700,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.735,46;1.735.460,00
+11;931P;630;Inversión de reposición asociada al funcionamiento operativo;53,13;53.130,00
+11;931P;640;Gastos en inversiones de carácter inmaterial;1.646,56;1.646.560,00
+—;—;—;TOTAL INVERSIONES REALES;1.699,69;1.699.690,00
+12;931N;10000;Retribuciones básicas (Altos cargos);19,92;19.920,00
+12;931N;10001;Retribuciones complementarias (Altos cargos);60,39;60.390,00
+12;931N;11000;Retribuciones básicas (Personal eventual);80,13;80.130,00
+12;931N;11001;Retribuciones complementarias (Personal eventual);155,41;155.410,00
+12;931N;12000;Sueldos grupo A1 y A;148,66;148.660,00
+12;931N;12001;Sueldos grupo A2 y B;64,27;64.270,00
+12;931N;12002;Sueldos grupo C1 y C;67,56;67.560,00
+12;931N;12003;Sueldos grupo C2 y D;100,4;100.400,00
+12;931N;12004;Sueldos agrupaciones profesionales y grupo E;7,36;7.360,00
+12;931N;12005;Trienios;110,46;110.460,00
+12;931N;12006;Pagas extraordinarias;113,13;113.130,00
+12;931N;12100;Complemento de destino;281,87;281.870,00
+12;931N;12101;Complemento específico;446,68;446.680,00
+12;931N;12103;Otros complementos;1.265,00;1.265.000,00
+12;931N;150;Productividad;3.765,30;3.765.300,00
+12;931N;151;Gratificaciones;29,64;29.640,00
+12;931N;16000;Seguridad Social;175;175.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;6.891,18;6.891.180,00
+12;931N;22001;Prensa, revistas, libros y publicaciones;8,75;8.750,00
+12;931N;22601;Atenciones protocolarias y representativas;9,36;9.360,00
+12;931N;22606;Reuniones, conferencias y cursos;29,36;29.360,00
+12;931N;22698;Gastos de edición y difusión de los PGE;10;10.000,00
+12;931N;22706;Estudios y trabajos técnicos;6;6.000,00
+12;931N;230;Dietas;28,93;28.930,00
+12;931N;231;Locomoción;29,73;29.730,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;122,13;122.130,00
+12;931N;620;Inversión nueva asociada al funcionamiento operativo;5,61;5.610,00
+—;—;—;TOTAL INVERSIONES REALES;5,61;5.610,00
+13;931N;10000;Retribuciones básicas (Altos cargos);18,92;18.920,00
+13;931N;10001;Retribuciones complementarias (Altos cargos);42,13;42.130,00
+13;931N;12000;Sueldos grupo A1 y A;564,84;564.840,00
+13;931N;12001;Sueldos grupo A2 y B;475,56;475.560,00
+13;931N;12002;Sueldos grupo C1 y C;318,46;318.460,00
+13;931N;12003;Sueldos grupo C2 y D;188,75;188.750,00
+13;931N;12005;Trienios;545,54;545.540,00
+13;931N;12006;Pagas extraordinarias;449,19;449.190,00
+13;931N;12100;Complemento de destino;1.126,74;1.126.740,00
+13;931N;12101;Complemento específico;1.615,23;1.615.230,00
+13;931N;13000;Retribuciones básicas (Laboral fijo);244,73;244.730,00
+13;931N;13001;Otras remuneraciones (Laboral fijo);16,98;16.980,00
+13;931N;16000;Seguridad Social;703,42;703.420,00
+—;—;—;TOTAL GASTOS DE PERSONAL;6.310,49;6.310.490,00
+13;931N;212;Reparaciones en edificios y construcciones;1,3;1.300,00
+13;931N;215;Reparaciones en mobiliario y enseres;2,92;2.920,00
+13;931N;22001;Prensa, revistas, libros y publicaciones;46,14;46.140,00
+13;931N;22111;Repuestos de maquinaria y transporte;2,9;2.900,00
+13;931N;22112;Material electrónico, eléctrico y comunicaciones;2,5;2.500,00
+13;931N;22199;Otros suministros;1,23;1.230,00
+13;931N;22200;Servicios de telecomunicaciones;0,6;600
+13;931N;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+13;931N;22606;Reuniones, conferencias y cursos;2,95;2.950,00
+13;931N;230;Dietas;3,86;3.860,00
+13;931N;231;Locomoción;2,87;2.870,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;69,61;69.610,00
+13;931N;630;Inversión de reposición asociada al funcionamiento operativo;8,23;8.230,00
+—;—;—;TOTAL INVERSIONES REALES;8,23;8.230,00
+;;;Dirección General de Costes de Personal;6.388,33;6.388.330,00
+14;422A;12000;Sueldos grupo A1 y A;282,42;282.420,00
+14;422A;12001;Sueldos grupo A2 y B;179,94;179.940,00
+14;422A;12002;Sueldos grupo C1 y C;19,31;19.310,00
+14;422A;12003;Sueldos grupo C2 y D;16,07;16.070,00
+14;422A;12005;Trienios;157,21;157.210,00
+14;422A;12006;Pagas extraordinarias;136,72;136.720,00
+14;422A;12100;Complemento de destino;374,03;374.030,00
+14;422A;12101;Complemento específico;575,09;575.090,00
+14;422A;13000;Retribuciones básicas (Laboral fijo);99,93;99.930,00
+14;422A;13001;Otras remuneraciones (Laboral fijo);7,23;7.230,00
+14;422A;16000;Seguridad Social;169,68;169.680,00
+—;—;—;TOTAL GASTOS DE PERSONAL;2.017,63;2.017.630,00
+14;422A;22606;Reuniones, conferencias y cursos;2,8;2.800,00
+14;422A;22706;Estudios y trabajos técnicos;2,09;2.090,00
+14;422A;230;Dietas;8,72;8.720,00
+14;422A;231;Locomoción;14,02;14.020,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;27,63;27.630,00
+14;422A;352;Intereses de demora;10;10.000,00
+14;422A;771;Subvenciones a empresas localizadas en zonas de promoción económica;142.000,00;142.000.000,00
+14;931N;10000;Retribuciones básicas (Altos cargos);57,17;57.170,00
+14;931N;10001;Retribuciones complementarias (Altos cargos);136,08;136.080,00
+14;931N;11000;Retribuciones básicas (Personal eventual);18,56;18.560,00
+14;931N;11001;Retribuciones complementarias (Personal eventual);34,91;34.910,00
+14;931N;12000;Sueldos grupo A1 y A;906,71;906.710,00
+14;931N;12001;Sueldos grupo A2 y B;1.298,13;1.298.130,00
+14;931N;12002;Sueldos grupo C1 y C;796,17;796.170,00
+14;931N;12003;Sueldos grupo C2 y D;100,41;100.410,00
+14;931N;12005;Trienios;605,36;605.360,00
+14;931N;12006;Pagas extraordinarias;852,66;852.660,00
+14;931N;12100;Complemento de destino;2.130,11;2.130.110,00
+14;931N;12101;Complemento específico;3.120,67;3.120.670,00
+14;931N;13000;Retribuciones básicas (Laboral fijo);154,48;154.480,00
+14;931N;13001;Otras remuneraciones (Laboral fijo);13,84;13.840,00
+14;931N;150;Productividad;2.080,67;2.080.670,00
+14;931N;16000;Seguridad Social;835;835.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;13.140,93;13.140.930,00
+14;931N;22001;Prensa, revistas, libros y publicaciones;0,86;860
+14;931N;22601;Atenciones protocolarias y representativas;9,36;9.360,00
+14;931N;22606;Reuniones, conferencias y cursos;25,99;25.990,00
+14;931N;22706;Estudios y trabajos técnicos;17,22;17.220,00
+14;931N;230;Dietas;57,6;57.600,00
+14;931N;231;Locomoción;122,5;122.500,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;233,53;233.530,00
+14;931N;493;Aportación española al programa Interreg Europe II 2021–2027;106,14;106.140,00
+14;931N;494;Aportación española al programa Interact IV 2021–2027;153,17;153.170,00
+14;931N;496;Aportación española al programa Urbact IV 2021–2027;124,58;124.580,00
+14;931N;497;Aportación española al programa Interreg EuroMED 2021–2027;34,69;34.690,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;418,58;418.580,00
+14;931N;630;Inversión de reposición asociada al funcionamiento operativo;0,52;520
+14;931N;640;Gastos en inversiones de carácter inmaterial;2.270,87;2.270.870,00
+—;—;—;TOTAL INVERSIONES REALES;2.271,39;2.271.390,00
+;;;Incentivos regionales a la localización industrial;144.055,26;144.055.260,00
+ ; ;;Política presupuestaria;16.064,43;16.064.430,00
+;;;TOTAL Secretaría General de Fondos Europeos;160.119,69;160.119.690,00
+15;931N;10000;Retribuciones básicas (Altos cargos);18,92;18.920,00
+15;931N;10001;Retribuciones complementarias (Altos cargos);42,13;42.130,00
+15;931N;12000;Sueldos grupo A1 y A;691,18;691.180,00
+15;931N;12001;Sueldos grupo A2 y B;584,8;584.800,00
+15;931N;12002;Sueldos grupo C1 y C;154,41;154.410,00
+15;931N;12003;Sueldos grupo C2 y D;116,47;116.470,00
+15;931N;12005;Trienios;495,9;495.900,00
+15;931N;12006;Pagas extraordinarias;428,31;428.310,00
+15;931N;12100;Complemento de destino;1.119,95;1.119.950,00
+15;931N;12101;Complemento específico;1.778,72;1.778.720,00
+15;931N;13000;Retribuciones básicas (Laboral fijo);21,35;21.350,00
+15;931N;13001;Otras remuneraciones (Laboral fijo);0,46;460
+15;931N;16000;Seguridad Social;449,95;449.950,00
+—;—;—;TOTAL GASTOS DE PERSONAL;5.902,55;5.902.550,00
+15;931N;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+15;931N;22606;Reuniones, conferencias y cursos;3,62;3.620,00
+15;931N;22698;Gastos de edición y difusión de los PGE;8,47;8.470,00
+15;931N;230;Dietas;20,03;20.030,00
+15;931N;231;Locomoción;64,4;64.400,00
+15;931N;233;Otras indemnizaciones;2,29;2.290,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;101,15;101.150,00
+;;;;;
+15;931N;630;Inversión de reposición asociada al funcionamiento operativo;8,63;8.630,00
+15;931N;640;Gastos en inversiones de carácter inmaterial;9;9.000,00
+—;—;—;TOTAL INVERSIONES REALES;17,63;17.630,00
+;;;Dirección General de Presupuestos;6.021,33;6.021.330,00
+22;922N;10000;Retribuciones básicas (Altos cargos);38,25;38.250,00
+22;922N;10001;Retribuciones complementarias (Altos cargos);93,96;93.960,00
+22;922N;12000;Sueldos grupo A1 y A;824,96;824.960,00
+22;922N;12001;Sueldos grupo A2 y B;700,48;700.480,00
+22;922N;12002;Sueldos grupo C1 y C;202,66;202.660,00
+22;922N;12003;Sueldos grupo C2 y D;124,5;124.500,00
+22;922N;12005;Trienios;538,96;538.960,00
+22;922N;12006;Pagas extraordinarias;514,78;514.780,00
+22;922N;12100;Complemento de destino;1.385,65;1.385.650,00
+22;922N;12101;Complemento específico;2.248,86;2.248.860,00
+22;922N;13000;Retribuciones básicas (Laboral fijo);22,43;22.430,00
+22;922N;13001;Otras remuneraciones (Laboral fijo);3,03;3.030,00
+22;922N;16000;Seguridad Social;760;760.000,00
+—;—;—;TOTAL GASTOS DE PERSONAL;7.458,52;7.458.520,00
+22;922N;215;Reparaciones en mobiliario y enseres;24,09;24.090,00
+22;922N;216;Reparaciones en equipos informáticos;29,12;29.120,00
+22;922N;22001;Prensa, revistas, libros y publicaciones;18;18.000,00
+22;922N;22002;Material informático no inventariable;8;8.000,00
+22;922N;22199;Otros suministros;1;1.000,00
+22;922N;22502;Tributos locales;14;14.000,00
+22;922N;22601;Atenciones protocolarias y representativas;7,02;7.020,00
+22;922N;22606;Reuniones, conferencias y cursos;6;6.000,00
+22;922N;22706;Estudios y trabajos técnicos;193,92;193.920,00
+22;922N;230;Dietas;10,66;10.660,00
+22;922N;231;Locomoción;16;16.000,00
+22;922N;233;Otras indemnizaciones;36;36.000,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;363,81;363.810,00
+22;922N;630;Inversión de reposición asociada al funcionamiento operativo;258,37;258.370,00
+22;922N;640;Gastos en inversiones de carácter inmaterial;818;818.000,00
+—;—;—;TOTAL INVERSIONES REALES;1.076,37;1.076.370,00
+22;922N;877;Aportación patrimonial al Fondo de Financiación a Comunidades Autónomas;15.000.000,00;15.000.000.000,00
+22;922N;878;Aportación patrimonial al Fondo de Financiación a Entidades Locales;1.000.000,00;1.000.000.000,00
+—;—;—;TOTAL ACTIVOS FINANCIEROS;16.000.000,00;16.000.000.000,00
+;;;Secretaría General de Financiación Autonómica y Local;16.008.898,70;16.008.898.700,00
+50;42KD;859;Adquisición de acciones y participaciones del Sector Público (MRR);30.410,76;30.410.760,00
+—;—;—;TOTAL ACTIVOS FINANCIEROS;30.410,76;30.410.760,00
+50;93KE;290;Gastos corrientes en bienes y servicios (MRR);467;467.000,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;467;467.000,00
+50;000X;410;Al Instituto de Estudios Fiscales (MRR);2.941,00;2.941.000,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;2.941,00;2.941.000,00
+;;;Mecanismo de Recuperación y Resiliencia;33.818,76;33.818.760,00
+;;;TOTAL MINISTERIO DE HACIENDA;19.244.352,52;19.244.352.520,00

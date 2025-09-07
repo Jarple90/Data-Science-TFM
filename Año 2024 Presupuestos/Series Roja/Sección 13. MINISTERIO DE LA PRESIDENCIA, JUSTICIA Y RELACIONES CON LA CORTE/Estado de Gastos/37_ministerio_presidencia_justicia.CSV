@@ -1,4 +1,4 @@
-Económica;Explicación;13.04;Total;Euros (€)
+Económica;Explicación;13.04;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;38.600,57;38.600,57;38.600.570,00
 10;Altos cargos;193,2;193,2;193.200,00
 12;Funcionarios;31.757,45;31.757,45;31.757.450,00
@@ -18,12 +18,3 @@ Económica;Explicación;13.04;Total;Euros (€)
 8;ACTIVOS FINANCIEROS;20,28;20,28;20.280,00
 83;Concesión de préstamos fuera del Sector Público;20,28;20,28;20.280,00
 ;TOTAL Programa 921S Asesoramiento y defensa de los intereses del Estado;44.657,51;44.657,51;44.657.510,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

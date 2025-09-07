@@ -1,21 +1,17 @@
 Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
-13.102;;MUTUALIDAD GENERAL JUDICIAL;;
-;1;GASTOS DE PERSONAL;;
-;15;Incentivos al rendimiento;283,99;283.990,00
-;150;Productividad;93,03;93.030,00
-;151;Gratificaciones;30,92;30.920,00
-;152;Otros incentivos al rendimiento;160,04;160.040,00
-;16000;Seguridad Social;638,22;638.220,00
-;16200;Formación y perfeccionamiento del personal;10;10.000,00
-;16201;Economatos y comedores;86,66;86.660,00
-;16204;Acción social;9,23;9.230,00
+13.102;15;Incentivos al rendimiento;283,99;283.990,00
+13.102;150;Productividad;93,03;93.030,00
+13.102;151;Gratificaciones;30,92;30.920,00
+13.102;152;Otros incentivos al rendimiento;160,04;160.040,00
+13.102;16000;Seguridad Social;638,22;638.220,00
+13.102;16200;Formación y perfeccionamiento del personal;10;10.000,00
+13.102;16201;Economatos y comedores;86,66;86.660,00
+13.102;16204;Acción social;9,23;9.230,00
 ;;TOTAL GASTOS DE PERSONAL;6.272,16;6.272.160,00
-;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;;
-;202;Arrendamientos de edificios y otras construcciones;13,6;13.600,00
-;22502;Locales;43,26;43.260,00
-;22601;Atenciones protocolarias y representativas;2,34;2.340,00
-;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;812,79;812.790,00
-;3;GASTOS FINANCIEROS;;
-;35;Intereses de demora y otros gastos financieros;0,57;570
-;359;Otros gastos financieros;0,57;570
-;;TOTAL GASTOS FINANCIEROS;0,57;570
+13.102;202;Arrendamientos de edificios y otras construcciones;13,6;13.600,00
+13.102;22502;Locales;43,26;43.260,00
+13.102;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+;;TOTAL GASTOS CORRIENTES EN B. Y S.;812,79;812.790,00
+13.102;35;Intereses de demora y otros gastos financieros;0,57;570,00
+13.102;359;Otros gastos financieros;0,57;570,00
+;;TOTAL GASTOS FINANCIEROS;0,57;570,00

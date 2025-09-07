@@ -1,127 +1,50 @@
-Orgánica;Económica;Explicación;Total (miles €);Total (€)
-20.01;10;Altos cargos;208,56;208.560,00 €
-20.01;11;Personal eventual;519,92;519.920,00 €
-20.01;12;Funcionarios;17.391,85;17.391.850,00 €
-20.01;13;Laborales;2.487,73;2.487.730,00 €
-20.01;15;Incentivos al rendimiento;3.957,50;3.957.500,00 €
-20.01;150;Productividad;3.873,22;3.873.220,00 €
-20.01;151;Gratificaciones;84,28;84.280,00 €
-20.01;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;3.534,65;3.534.650,00 €
-20.01;16000;Seguridad Social;1.737,74;1.737.740,00 €
-20.01;16200;Formación y perfeccionamiento del personal;369,17;369.170,00 €
-20.01;16201;Economatos y comedores;87,12;87.120,00 €
-20.01;16204;Acción social;370,93;370.930,00 €
-20.01;20;Arrendamientos y cánones;406,77;406.770,00 €
+Orgánica;Económica;Explicación;Total (miles  euros);Total (euros)
+20.01;10;Altos cargos;208,56;208.560,00
+20.01;11;Personal eventual;519,92;519.920,00
+20.01;12;Funcionarios;17.391,85;17.391.850,00
+20.01;13;Laborales;2.487,73;2.487.730,00
+20.01;15;Incentivos al rendimiento;3.957,50;3.957.500,00
+20.01;150;Productividad;3.873,22;3.873.220,00
+20.01;151;Gratificaciones;84,28;84.280,00
+20.01;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;3.534,65;3.534.650,00
+20.01;16000;Seguridad Social;1.737,74;1.737.740,00
+20.01;16200;Formación y perfeccionamiento del personal;369,17;369.170,00
+20.01;16201;Economatos y comedores;87,12;87.120,00
+20.01;16204;Acción social;370,93;370.930,00
+20.01;20;Arrendamientos y cánones;406,77;406.770,00
 20.01;202;Arrendamientos de edificios y otras construcciones;390,55;390.550,00
 20.01;21;Reparaciones, mantenimiento y conservación;4.107,23;4.107.230,00
 20.01;22;Material, suministros y otros;7.839,26;7.839.260,00
 20.01;22109;Labores Fábrica Nacional Moneda y Timbre;22,08;22.080,00
-20.01;22502;Locales;2.125,47;2.125.470,00 €
+20.01;22502;Locales;2.125,47;2.125.470,00
 20.01;22601;Atenciones protocolarias y representativas;45,8;45.800,00
-20.01;23;Indemnizaciones por razón del servicio;801,34;801.340,00 €
-20.01;35;Intereses de demora;1;1.000,00 €
-20.01;443;Fundación Centro Nacional del Vidrio;178,35;178.350,00 €
-20.01;480;Becas, asistencia a congresos, cursos, seminarios;237,37;237.370,00 €
+20.01;23;Indemnizaciones por razón del servicio;801,34;801.340,00
+20.01;35;Intereses de demora;1;1.000,00
+20.01;443;Fundación Centro Nacional del Vidrio;178,35;178.350,00
+20.01;480;Becas, asistencia a congresos, cursos, seminarios;237,37;237.370,00
 20.01;481;Premios a la innovación;13,38;13.380,00
-20.01;6;Inversiones reales;12.654,28;12.654.280,00 €
-20.01;830;Préstamos a corto plazo;13,75;13.750,00 €
-20.01;831;Préstamos a largo plazo;160,19;160.190,00 €
-20.02;10;Altos cargos;61,04;61.040,00 €
+20.01;6;Inversiones reales;12.654,28;12.654.280,00
+20.01;830;Préstamos a corto plazo;13,75;13.750,00
+20.01;831;Préstamos a largo plazo;160,19;160.190,00
+20.02;10;Altos cargos;61,04;61.040,00
 20.02;12;Funcionarios;3.603,72;3.603.720,00
 20.02;13;Laborales;172,86;172.860,00
-20.02;16000;Seguridad Social;332,7;332.700,00 €
-20.02;22601;Atenciones protocolarias y representativas;1,81;1.810,00 €
-20.03;10;Altos cargos;71,16;71.160,00 €
-20.03;11;Personal eventual;289,32;289.320,00 €
+20.02;16000;Seguridad Social;332,7;332.700,00
+20.02;22601;Atenciones protocolarias y representativas;1,81;1.810,00
+20.03;10;Altos cargos;71,16;71.160,00
+20.03;11;Personal eventual;289,32;289.320,00
 20.03;12;Funcionarios;1.044,64;1.044.640,00
-20.03;15;Incentivos al rendimiento;776,98;776.980,00 €
-20.03;150;Productividad;765,81;765.810,00 €
-20.03;151;Gratificaciones;11,17;11.170,00 €
-20.03;16000;Seguridad Social;100,52;100.520,00 €
-20.03;22601;Atenciones protocolarias y representativas;3,74;3.740,00 €
-20.03;23;Indemnizaciones por razón del servicio;80,3;80.300,00 €
-20.03;440–444;Transferencias a Fundación EOI (digitalización, sectores creativos, fondos comunitarios, etc.);4.512,96;4.512.960,00 €
-20.10;10;Altos cargos;63,79;63.790,00 €
-20.10;12;Funcionarios;1.260,80;1.260.800,00 €
-20.10;13;Laborales;109,12;109.120,00 €
-20.10;16000;Seguridad Social;240,64;240.640,00 €
-20.10;22601;Atenciones protocolarias y representativas;1;1.000,00 €
-20.10;23;Indemnizaciones por razón del servicio;20;20.000,00 €
-—;—;TOTAL PROGRAMA 421M – Dirección y Servicios Generales de Industria y Turismo;67.297,23;67.297.230,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+20.03;15;Incentivos al rendimiento;776,98;776.980,00
+20.03;150;Productividad;765,81;765.810,00
+20.03;151;Gratificaciones;11,17;11.170,00
+20.03;16000;Seguridad Social;100,52;100.520,00
+20.03;22601;Atenciones protocolarias y representativas;3,74;3.740,00
+20.03;23;Indemnizaciones por razón del servicio;80,3;80.300,00
+20.03;440–444;Transferencias a Fundación EOI (digitalización, sectores creativos, fondos comunitarios, etc.);4.512,96;4.512.960,00
+20.10;10;Altos cargos;63,79;63.790,00
+20.10;12;Funcionarios;1.260,80;1.260.800,00
+20.10;13;Laborales;109,12;109.120,00
+20.10;16000;Seguridad Social;240,64;240.640,00
+20.10;22601;Atenciones protocolarias y representativas;1;1.000,00
+20.10;23;Indemnizaciones por razón del servicio;20;20.000,00
+—;—;TOTAL PROGRAMA 421M – Dirección y Servicios Generales de Industria y Turismo;67.297,23;67.297.230,00

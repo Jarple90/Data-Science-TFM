@@ -1,4 +1,4 @@
-Económica;Explicación;13.105;Total;Euros
+Económica;Explicación;13.105;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;997,2;997,2;997.200,00
 13;Laborales;671,9;671,9;671.900,00
 16;Cuotas, prestaciones y gastos sociales a cargo del empleador;325,3;325,3;325.300,00
@@ -18,14 +18,4 @@ Económica;Explicación;13.105;Total;Euros
 83;Concesión de préstamos fuera del Sector Público;7,5;7,5;7.500,00
 9;PASIVOS FINANCIEROS;10;10;10.000,00
 94;Devolución de depósitos y fianzas;10;10;10.000,00
-;TOTAL Administración de los Reales Patronatos;5.511,51;5.511,51;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+;TOTAL Administración de los Reales Patronatos;5.511,51;5.511,51;5.511.510,00

@@ -1,125 +1,76 @@
-Orgánica;Económica;Explicación;Total (miles Euros);Total (euros)
-15.11;12;Funcionarios;8.516,02;8.516.020,00 €
-15.11;13;Laborales;393,23;393.230,00 €
-15.11;16000;Seguridad Social;690;690.000,00 €
-15.11;16200;Formación y perfeccionamiento del personal;86,39;86.390,00 €
-15.11;16;Cuotas, prestaciones y gastos sociales del empleador;776,39;776.390,00 €
-15.11;—;TOTAL GASTOS DE PERSONAL;9.685,64;9.685.640,00 €
-15.11;20;Arrendamientos y cánones;25;25.000,00 €
-15.11;21;Reparaciones, mantenimiento y conservación;3.761,71;3.761.710,00 €
-15.11;22;Material, suministros y otros;5.340,54;5.340.540,00 €
-15.11;23;Indemnizaciones por razón del servicio;23,33;23.330,00 €
-15.11;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;9.150,58;9.150.580,00 €
-15.11;6;INVERSIONES REALES;22.760,00;22.760.000,00 €
-15.11;—;TOTAL INTERVENCIÓN GENERAL DE LA ADMINISTRACIÓN DEL ESTADO;41.596,22;41.596.220,00 €
-15.12;10;Altos cargos;80,31;80.310,00 €
-15.12;11;Personal eventual;235,54;235.540,00 €
-15.12;12;Funcionarios;2.605,39;2.605.390,00 €
-15.12;150;Productividad;3.765,30;3.765.300,00 €
-15.12;151;Gratificaciones;29,64;29.640,00 €
-15.12;15;Incentivos al rendimiento;3.794,94;3.794.940,00 €
-15.12;16000;Seguridad Social;175;175.000,00 €
-15.12;16;Cuotas, prestaciones y gastos sociales del empleador;175;175.000,00 €
-15.12;—;TOTAL GASTOS DE PERSONAL;6.891,18;6.891.180,00 €
-15.12;22;Material, suministros y otros;63,47;63.470,00 €
-15.12;22601;Atenciones protocolarias y representativas;9,36;9.360,00 €
-15.12;23;Indemnizaciones por razón del servicio;58,66;58.660,00 €
-15.12;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;122,13;122.130,00 €
-15.12;6;INVERSIONES REALES;5,61;5.610,00 €
-15.12;—;TOTAL SECRETARÍA DE ESTADO DE PRESUPUESTOS Y GASTOS;7.018,92;7.018.920,00 €
-15.13;10;Altos cargos;61,05;61.050,00 €
-15.13;12;Funcionarios;5.284,31;5.284.310,00 €
-15.13;13;Laborales;261,71;261.710,00 €
-15.13;16000;Seguridad Social;703,42;703.420,00 €
-15.13;16;Cuotas, prestaciones y gastos sociales del empleador;703,42;703.420,00 €
-15.13;—;TOTAL GASTOS DE PERSONAL;6.310,49;6.310.490,00 €
-15.13;21;Reparaciones, mantenimiento y conservación;4,22;4.220,00 €
-15.13;22;Material, suministros y otros;58,66;58.660,00 €
-15.13;22601;Atenciones protocolarias y representativas;2,34;2.340,00 €
-15.13;23;Indemnizaciones por razón del servicio;6,73;6.730,00 €
-15.13;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;69,61;69.610,00 €
-15.13;6;INVERSIONES REALES;8,23;8.230,00 €
-15.13;—;TOTAL DIRECCIÓN GENERAL DE COSTES DE PERSONAL;6.388,33;6.388.330,00 €
-15.14;10;Altos cargos;193,25;193.250,00 €
-15.14;11;Personal eventual;53,47;53.470,00 €
-15.14;12;Funcionarios;9.810,22;9.810.220,00 €
-15.14;13;Laborales;168,32;168.320,00 €
-15.14;150;Productividad;2.080,67;2.080.670,00 €
-15.14;15;Incentivos al rendimiento;2.080,67;2.080.670,00 €
-15.14;16000;Seguridad Social;835;835.000,00 €
-15.14;16;Cuotas, prestaciones y gastos sociales del empleador;835;835.000,00 €
-15.14;—;TOTAL GASTOS DE PERSONAL;13.140,93;13.140.930,00 €
-15.14;22;Material, suministros y otros;53,43;53.430,00 €
-15.14;22601;Atenciones protocolarias y representativas;9,36;9.360,00 €
-15.14;23;Indemnizaciones por razón del servicio;180,1;180.100,00 €
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+15.11;12;Funcionarios;8.516,02;8.516.020,00
+15.11;13;Laborales;393,23;393.230,00
+15.11;16000;Seguridad Social;690;690.000,00
+15.11;16200;Formación y perfeccionamiento del personal;86,39;86.390,00
+15.11;16;Cuotas, prestaciones y gastos sociales del empleador;776,39;776.390,00
+15.11;—;TOTAL GASTOS DE PERSONAL;9.685,64;9.685.640,00
+15.11;20;Arrendamientos y cánones;25;25.000,00
+15.11;21;Reparaciones, mantenimiento y conservación;3.761,71;3.761.710,00
+15.11;22;Material, suministros y otros;5.340,54;5.340.540,00
+15.11;23;Indemnizaciones por razón del servicio;23,33;23.330,00
+15.11;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;9.150,58;9.150.580,00
+15.11;6;INVERSIONES REALES;22.760,00;22.760.000,00
+15.11;—;TOTAL INTERVENCIÓN GENERAL DE LA ADMINISTRACIÓN DEL ESTADO;41.596,22;41.596.220,00
+15.12;10;Altos cargos;80,31;80.310,00
+15.12;11;Personal eventual;235,54;235.540,00
+15.12;12;Funcionarios;2.605,39;2.605.390,00
+15.12;150;Productividad;3.765,30;3.765.300,00
+15.12;151;Gratificaciones;29,64;29.640,00
+15.12;15;Incentivos al rendimiento;3.794,94;3.794.940,00
+15.12;16000;Seguridad Social;175;175.000,00
+15.12;16;Cuotas, prestaciones y gastos sociales del empleador;175;175.000,00
+15.12;—;TOTAL GASTOS DE PERSONAL;6.891,18;6.891.180,00
+15.12;22;Material, suministros y otros;63,47;63.470,00
+15.12;22601;Atenciones protocolarias y representativas;9,36;9.360,00
+15.12;23;Indemnizaciones por razón del servicio;58,66;58.660,00
+15.12;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;122,13;122.130,00
+15.12;6;INVERSIONES REALES;5,61;5.610,00
+15.12;—;TOTAL SECRETARÍA DE ESTADO DE PRESUPUESTOS Y GASTOS;7.018,92;7.018.920,00
+15.13;10;Altos cargos;61,05;61.050,00
+15.13;12;Funcionarios;5.284,31;5.284.310,00
+15.13;13;Laborales;261,71;261.710,00
+15.13;16000;Seguridad Social;703,42;703.420,00
+15.13;16;Cuotas, prestaciones y gastos sociales del empleador;703,42;703.420,00
+15.13;—;TOTAL GASTOS DE PERSONAL;6.310,49;6.310.490,00
+15.13;21;Reparaciones, mantenimiento y conservación;4,22;4.220,00
+15.13;22;Material, suministros y otros;58,66;58.660,00
+15.13;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+15.13;23;Indemnizaciones por razón del servicio;6,73;6.730,00
+15.13;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;69,61;69.610,00
+15.13;6;INVERSIONES REALES;8,23;8.230,00
+15.13;—;TOTAL DIRECCIÓN GENERAL DE COSTES DE PERSONAL;6.388,33;6.388.330,00
+15.14;10;Altos cargos;193,25;193.250,00
+15.14;11;Personal eventual;53,47;53.470,00
+15.14;12;Funcionarios;9.810,22;9.810.220,00
+15.14;13;Laborales;168,32;168.320,00
+15.14;150;Productividad;2.080,67;2.080.670,00
+15.14;15;Incentivos al rendimiento;2.080,67;2.080.670,00
+15.14;16000;Seguridad Social;835;835.000,00
+15.14;16;Cuotas, prestaciones y gastos sociales del empleador;835;835.000,00
+15.14;—;TOTAL GASTOS DE PERSONAL;13.140,93;13.140.930,00
+15.14;22;Material, suministros y otros;53,43;53.430,00
+15.14;22601;Atenciones protocolarias y representativas;9,36;9.360,00
+15.14;23;Indemnizaciones por razón del servicio;180,1;180.100,00
 15.14;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;233,53;233.530,00
-15.14;49;Al exterior;418,58;418.580,00 €
-15.14;493;Aportación española al programa Interreg Europe II 2021-2027;106,14;106.140,00 €
-15.14;494;Aportación española al programa Interact IV 2021-2027;153,17;153.170,00 €
-15.14;496;Aportación española al programa Urbact IV 2021-2027;124,58;124.580,00 €
-15.14;497;Aportación española al programa Interreg EuroMED 2021-2027;34,69;34.690,00 €
-15.14;—;TOTAL TRANSFERENCIAS CORRIENTES;418,58;418.580,00 €
-15.14;6;INVERSIONES REALES;2.271,39;2.271.390,00 €
-15.14;—;TOTAL SECRETARÍA GENERAL DE FONDOS EUROPEOS;16.064,43;16.064.430,00 €
-15.15;10;Altos cargos;61,05;61.050,00 €
-15.15;12;Funcionarios;5.369,74;5.369.740,00 €
-15.15;13;Laborales;21,81;21.810,00 €
-15.15;16000;Seguridad Social;449,95;449.950,00 €
-15.15;16;Cuotas, prestaciones y gastos sociales del empleador;449,95;449.950,00 €
-15.15;—;TOTAL GASTOS DE PERSONAL;5.902,55;5.902.550,00 €
-15.15;22;Material, suministros y otros;14,43;14.430,00 €
-15.15;22601;Atenciones protocolarias y representativas;2,34;2.340,00 €
-15.15;23;Indemnizaciones por razón del servicio;86,72;86.720,00 €
-15.15;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;101,15;101.150,00 €
-15.15;6;INVERSIONES REALES;17,63;17.630,00 €
-15.15;—;TOTAL DIRECCIÓN GENERAL DE PRESUPUESTOS;6.021,33;6.021.330,00 €
-—;—;TOTAL PROGRAMA 931N — POLÍTICA PRESUPUESTARIA;77.089,23;77.089.230,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+15.14;49;Al exterior;418,58;418.580,00
+15.14;493;Aportación española al programa Interreg Europe II 2021-2027;106,14;106.140,00
+15.14;494;Aportación española al programa Interact IV 2021-2027;153,17;153.170,00
+15.14;496;Aportación española al programa Urbact IV 2021-2027;124,58;124.580,00
+15.14;497;Aportación española al programa Interreg EuroMED 2021-2027;34,69;34.690,00
+15.14;—;TOTAL TRANSFERENCIAS CORRIENTES;418,58;418.580,00
+15.14;6;INVERSIONES REALES;2.271,39;2.271.390,00
+15.14;—;TOTAL SECRETARÍA GENERAL DE FONDOS EUROPEOS;16.064,43;16.064.430,00
+15.15;10;Altos cargos;61,05;61.050,00
+15.15;12;Funcionarios;5.369,74;5.369.740,00
+15.15;13;Laborales;21,81;21.810,00
+15.15;16000;Seguridad Social;449,95;449.950,00
+15.15;16;Cuotas, prestaciones y gastos sociales del empleador;449,95;449.950,00
+15.15;—;TOTAL GASTOS DE PERSONAL;5.902,55;5.902.550,00
+15.15;22;Material, suministros y otros;14,43;14.430,00
+15.15;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+15.15;23;Indemnizaciones por razón del servicio;86,72;86.720,00
+15.15;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;101,15;101.150,00
+15.15;6;INVERSIONES REALES;17,63;17.630,00
+15.15;—;TOTAL DIRECCIÓN GENERAL DE PRESUPUESTOS;6.021,33;6.021.330,00
+—;—;TOTAL PROGRAMA 931N — POLÍTICA PRESUPUESTARIA;77.089,23;77.089.230,00

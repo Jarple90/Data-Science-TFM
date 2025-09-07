@@ -1,59 +1,35 @@
-Orgánica;Económica;Explicación;Total (miles €);Total (€)
-20.102;15;Incentivos al rendimiento;1.865,24;1.865.240,00 €
-20.102;150;Productividad;1.400,89;1.400.890,00 €
-20.102;151;Gratificaciones;464,35;464.350,00 €
-20.102;16000;Seguridad Social;3.800,00;3.800.000,00 €
-20.102;16200;Formación y perfeccionamiento del personal;129,07;129.070,00 €
-20.102;16204;Acción social;66,15;66.150,00 €
-;;TOTAL GASTOS DE PERSONAL;23.690,00;23.690.000,00 €
-20.102;22601;Atenciones protocolarias y representativas;2,34;2.340,00 €
-;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;11.111,74;11.111.740,00 €
-20.102;35;Intereses de demora y otros gastos financieros;27,36;27.360,00 €
-20.102;352;Intereses de demora;22,36;22.360,00 €
+Orgánica;Económica;Explicación;Total (miles  euros);Total (euros)
+20.102;15;Incentivos al rendimiento;1.865,24;1.865.240,00
+20.102;150;Productividad;1.400,89;1.400.890,00
+20.102;151;Gratificaciones;464,35;464.350,00
+20.102;16000;Seguridad Social;3.800,00;3.800.000,00
+20.102;16200;Formación y perfeccionamiento del personal;129,07;129.070,00
+20.102;16204;Acción social;66,15;66.150,00
+;;TOTAL GASTOS DE PERSONAL;23.690,00;23.690.000,00
+20.102;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;11.111,74;11.111.740,00
+20.102;35;Intereses de demora y otros gastos financieros;27,36;27.360,00
+20.102;352;Intereses de demora;22,36;22.360,00
 20.102;359;Otros gastos financieros;5;5.000,00
 ;;TOTAL GASTOS FINANCIEROS;27,36;27.360,00
-20.102;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto del Sector Público Estatal;227,55;227.550,00 €
-20.102;440;Aportación a Fundación EOI;227,55;227.550,00 €
-20.102;47;A empresas privadas;7.467,33;7.467.330,00 €
-20.102;471;Fomento de solicitudes en el exterior (empresa/persona física);7.136,60;7.136.600,00 €
+20.102;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto del Sector Público Estatal;227,55;227.550,00
+20.102;440;Aportación a Fundación EOI;227,55;227.550,00
+20.102;47;A empresas privadas;7.467,33;7.467.330,00
+20.102;471;Fomento de solicitudes en el exterior (empresa/persona física);7.136,60;7.136.600,00
 20.102;472;Fomento de solicitudes en España (PYMES/persona física);330,73;330.730,00
-20.102;48;A familias e instituciones sin fines de lucro;644,51;644.510,00 €
-20.102;481;Funcionarios oficinas iberoamericanas (Programa CIBIT);133;133.000,00 €
-20.102;482;Formación y colaboración con oficinas iberoamericanas;26,51;26.510,00 €
+20.102;48;A familias e instituciones sin fines de lucro;644,51;644.510,00
+20.102;481;Funcionarios oficinas iberoamericanas (Programa CIBIT);133;133.000,00
+20.102;482;Formación y colaboración con oficinas iberoamericanas;26,51;26.510,00
 20.102;484;Fomento de solicitudes en el exterior (instituciones sin fines de lucro);180;180.000,00
-20.102;485;Premio a la mejor invención protegida;30;30.000,00 €
-20.102;487;Subvención a ANDEMA;175;175.000,00 €
-20.102;489;Subvención a Fundación Foro de Marcas Renombradas Españolas;100;100.000,00 €
-20.102;49;Al exterior;237,5;237.500,00 €
-20.102;492;Cuotas y participación en organismos internacionales;237,5;237.500,00 €
-;;TOTAL TRANSFERENCIAS CORRIENTES;8.576,89;8.576.890,00 €
-20.102;6;INVERSIONES REALES;9.945,00;9.945.000,00 €
-20.102;83;Concesión de préstamos fuera del Sector Público;73,75;73.750,00 €
-20.102;830;Préstamos a corto plazo;13;13.000,00 €
-20.102;831;Préstamos a largo plazo;60,75;60.750,00 €
+20.102;485;Premio a la mejor invención protegida;30;30.000,00
+20.102;487;Subvención a ANDEMA;175;175.000,00
+20.102;489;Subvención a Fundación Foro de Marcas Renombradas Españolas;100;100.000,00
+20.102;49;Al exterior;237,5;237.500,00
+20.102;492;Cuotas y participación en organismos internacionales;237,5;237.500,00
+;;TOTAL TRANSFERENCIAS CORRIENTES;8.576,89;8.576.890,00
+20.102;6;INVERSIONES REALES;9.945,00;9.945.000,00
+20.102;83;Concesión de préstamos fuera del Sector Público;73,75;73.750,00
+20.102;830;Préstamos a corto plazo;13;13.000,00
+20.102;831;Préstamos a largo plazo;60,75;60.750,00
 ;;TOTAL ACTIVOS FINANCIEROS;73,75;73.750,00
 ;;TOTAL OFICINA ESPAÑOLA DE PATENTES Y MARCAS (PROGRAMA 421N);53.424,74;53.424.740,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

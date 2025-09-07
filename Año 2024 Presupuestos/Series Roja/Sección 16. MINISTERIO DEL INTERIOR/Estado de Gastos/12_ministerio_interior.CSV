@@ -1,63 +1,30 @@
-Órgano;Capítulo Económico;Explicación;Importe (miles €);Importe (€)
-16.02 Secretaría de Estado de Seguridad;12;Funcionarios;3.633,74;3.633.740,00 €
-;13;Laborales;128,55;128.550,00 €
-;16;Cuotas, prestaciones y gastos sociales;103,78;103.780,00 €
-;16000;Seguridad Social;86,7;86.700,00 €
-;—;Total Gastos de Personal;3.866,07;3.866.070,00 €
-;21;Reparaciones, mantenimiento y conservación;182,13;182.130,00 €
-;22;Material, suministros y otros;932,1;932.100,00 €
-;23;Indemnizaciones por razón del servicio;91,95;91.950,00 €
-;—;Total Gastos Corrientes en Bienes y Servicios;1.206,18;1.206.180,00 €
-;6;Inversiones reales;780,27;780.270,00 €
-;—;Total Secretaría de Estado de Seguridad;5.852,52;5.852.520,00 €
-16.03 Dirección General de la Policía;12;Funcionarios;66.919,77;66.919.770,00 €
-;16;Cuotas, prestaciones y gastos sociales;4.263,24;4.263.240,00 €
-;16000;Seguridad Social;4.263,24;4.263.240,00 €
-;—;Total Gastos de Personal;71.183,01;71.183.010,00 €
-;22;Material, suministros y otros;1,16;1.160,00 €
-;23;Indemnizaciones por razón del servicio;367,73;367.730,00 €
-;—;Total Gastos Corrientes en Bienes y Servicios;368,89;368.890,00 €
-;6;Inversiones reales;750;750.000,00 €
-;—;Total Dirección General de la Policía;72.301,90;72.301.900,00 €
-16.04 Dirección General de la Guardia Civil;12;Funcionarios;29.705,47;29.705.470,00 €
-;—;Total Gastos de Personal;29.705,47;29.705.470,00 €
-;21;Reparaciones, mantenimiento y conservación;15;15.000,00 €
-;22;Material, suministros y otros;292;292.000,00 €
-;23;Indemnizaciones por razón del servicio;202;202.000,00 €
-;—;Total Gastos Corrientes en Bienes y Servicios;509;509.000,00 €
-;6;Inversiones reales;100;100.000,00 €
-;—;Total Dirección General de la Guardia Civil;30.314,47;30.314.470,00 €
-—;—;TOTAL PROGRAMA 132C – ACTUACIONES POLICIALES EN MATERIA DE DROGA;108.468,89;108.468.890,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Órgano;Económica;Explicación;Total (miles euros);Total (euros)
+16.02 ;12;Funcionarios;3.633,74;3.633.740,00
+;13;Laborales;128,55;128.550,00
+;16;Cuotas, prestaciones y gastos sociales;103,78;103.780,00
+;16000;Seguridad Social;86,7;86.700,00
+;—;Total Gastos de Personal;3.866,07;3.866.070,00
+;21;Reparaciones, mantenimiento y conservación;182,13;182.130,00
+;22;Material, suministros y otros;932,1;932.100,00
+;23;Indemnizaciones por razón del servicio;91,95;91.950,00
+;—;Total Gastos Corrientes en Bienes y Servicios;1.206,18;1.206.180,00
+;6;Inversiones reales;780,27;780.270,00
+;—;Total Secretaría de Estado de Seguridad;5.852,52;5.852.520,00
+16.03 ;12;Funcionarios;66.919,77;66.919.770,00
+;16;Cuotas, prestaciones y gastos sociales;4.263,24;4.263.240,00
+;16000;Seguridad Social;4.263,24;4.263.240,00
+;—;Total Gastos de Personal;71.183,01;71.183.010,00
+;22;Material, suministros y otros;1,16;1.160,00
+;23;Indemnizaciones por razón del servicio;367,73;367.730,00
+;—;Total Gastos Corrientes en Bienes y Servicios;368,89;368.890,00
+;6;Inversiones reales;750;750.000,00
+;—;Total Dirección General de la Policía;72.301,90;72.301.900,00
+16.04 ;12;Funcionarios;29.705,47;29.705.470,00
+;—;Total Gastos de Personal;29.705,47;29.705.470,00
+;21;Reparaciones, mantenimiento y conservación;15;15.000,00
+;22;Material, suministros y otros;292;292.000,00
+;23;Indemnizaciones por razón del servicio;202;202.000,00
+;—;Total Gastos Corrientes en Bienes y Servicios;509;509.000,00
+;6;Inversiones reales;100;100.000,00
+;—;Total Dirección General de la Guardia Civil;30.314,47;30.314.470,00
+—;—;TOTAL PROGRAMA 132C – ACTUACIONES POLICIALES EN MATERIA DE DROGA;108.468,89;108.468.890,00

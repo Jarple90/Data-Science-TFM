@@ -1,46 +1,24 @@
-Económica;Explicación;Orgánica;Importe (mil €);Importe (€)
-1;GASTOS DE PERSONAL;17.101;21.118,43;21.118.430,00 €
-15;Incentivos al rendimiento;17.101;1.320,55;1.320.550,00 €
-150;Productividad;17.101;1.167,95;1.167.950,00 €
-151;Gratificaciones;17.101;152,6;152.600,00 €
-16000;Seguridad Social;17.101;3.592,54;3.592.540,00 €
-16200;Formación y perfeccionamiento del personal;17.101;50;50.000,00 €
-16204;Acción social;17.101;63,65;63.650,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;17.101;6.179,08;6.179.080,00 €
-202;Arrendamientos de edificios y otras construcciones;17.101;2,22;2.220,00 €
-22601;Atenciones protocolarias y representativas;17.101;1,64;1.640,00 €
-4;TRANSFERENCIAS CORRIENTES;17.101;319,72;319.720,00 €
-48;A familias e instituciones sin fines de lucro;17.101;244,1;244.100,00 €
-481;Becas del CEDEX;17.101;180;180.000,00 €
-482;Cuotas a asociaciones técnicas nacionales;17.101;14,1;14.100,00 €
-486;Ayudas por jubilación al personal del CEDEX;17.101;50;50.000,00 €
-49;Al exterior;17.101;75,62;75.620,00 €
-492;Cuotas a Organismos Internacionales;17.101;75,62;75.620,00 €
-6;INVERSIONES REALES;17.101;5.740,00;5.740.000,00 €
-8;ACTIVOS FINANCIEROS;17.101;38,32;38.320,00 €
-83;Concesión de préstamos fuera del Sector Público;17.101;38,32;38.320,00 €
-830;Préstamos a corto plazo;17.101;19;19.000,00 €
-831;Préstamos a largo plazo;17.101;19,32;19.320,00 €
-—;TOTAL PROGRAMA 451M – CEDEX;—;33.395,55;33.395.550,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económica;Explicación;Orgánica;Total (miles  euros);Total (euros)
+1;GASTOS DE PERSONAL;17.101;21.118,43;21.118.430,00
+15;Incentivos al rendimiento;17.101;1.320,55;1.320.550,00
+150;Productividad;17.101;1.167,95;1.167.950,00
+151;Gratificaciones;17.101;152,6;152.600,00
+16000;Seguridad Social;17.101;3.592,54;3.592.540,00
+16200;Formación y perfeccionamiento del personal;17.101;50;50.000,00
+16204;Acción social;17.101;63,65;63.650,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;17.101;6.179,08;6.179.080,00
+202;Arrendamientos de edificios y otras construcciones;17.101;2,22;2.220,00
+22601;Atenciones protocolarias y representativas;17.101;1,64;1.640,00
+4;TRANSFERENCIAS CORRIENTES;17.101;319,72;319.720,00
+48;A familias e instituciones sin fines de lucro;17.101;244,1;244.100,00
+481;Becas del CEDEX;17.101;180;180.000,00
+482;Cuotas a asociaciones técnicas nacionales;17.101;14,1;14.100,00
+486;Ayudas por jubilación al personal del CEDEX;17.101;50;50.000,00
+49;Al exterior;17.101;75,62;75.620,00
+492;Cuotas a Organismos Internacionales;17.101;75,62;75.620,00
+6;INVERSIONES REALES;17.101;5.740,00;5.740.000,00
+8;ACTIVOS FINANCIEROS;17.101;38,32;38.320,00
+83;Concesión de préstamos fuera del Sector Público;17.101;38,32;38.320,00
+830;Préstamos a corto plazo;17.101;19;19.000,00
+831;Préstamos a largo plazo;17.101;19,32;19.320,00
+—;TOTAL PROGRAMA 451M – CEDEX;—;33.395,55;33.395.550,00

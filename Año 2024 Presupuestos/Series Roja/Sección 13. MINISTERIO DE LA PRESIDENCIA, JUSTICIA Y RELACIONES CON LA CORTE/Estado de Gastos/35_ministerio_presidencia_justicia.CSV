@@ -1,4 +1,4 @@
-Económica;Explicación;13.303;Total;Euros (€)
+Económica;Explicación;13.303;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;20.696,39;20.696,39;20.696.390,00
 10;Altos cargos;104,47;104,47;104.470,00
 12;Funcionarios;4.625,90;4.625,90;4.625.900,00
@@ -23,12 +23,3 @@ Económica;Explicación;13.303;Total;Euros (€)
 8;ACTIVOS FINANCIEROS;140;140;140.000,00
 83;Concesión de préstamos fuera del Sector Público;140;140;140.000,00
 ;TOTAL Programa 921R Publicidad de las normas legales;32.124,74;32.124,74;32.124.740,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

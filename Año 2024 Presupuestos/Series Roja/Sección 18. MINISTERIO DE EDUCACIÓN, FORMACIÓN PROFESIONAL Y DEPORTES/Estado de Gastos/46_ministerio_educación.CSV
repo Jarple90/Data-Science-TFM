@@ -1,28 +1,9 @@
-Capítulo Económico;Detalle;Importe (mil €);Importe (€);
-1 – Gastos de Personal;Funcionarios, cuotas sociales;581,88;581.880,00 €;
-12;Funcionarios;527,88;527.880,00 €;
-16;Cuotas y prestaciones sociales;54;54.000,00 €;
-2 – Gastos Corrientes;Material, suministros, indemnizaciones;65,3;65.300,00 €;
-22;Material, suministros y otros;10;10.000,00 €;
-23;Indemnizaciones por razón del servicio;55,3;55.300,00 €;
-6 – Inversiones Reales;Funcionamiento operativo e inversiones inmateriales;2.040,00;2.040.000,00 €;
-—;TOTAL PROGRAMA 454O;2.687,18;2.687.180,00 €;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económico;Explicación;Total (miles  euros);Total (euros)
+1;Funcionarios, cuotas sociales;581,88;581.880,00
+12;Funcionarios;527,88;527.880,00
+16;Cuotas y prestaciones sociales;54;54.000,00
+2;Material, suministros, indemnizaciones;65,3;65.300,00
+22;Material, suministros y otros;10;10.000,00
+23;Indemnizaciones por razón del servicio;55,3;55.300,00
+6;Funcionamiento operativo e inversiones inmateriales;2.040,00;2.040.000,00
+—;TOTAL PROGRAMA 454O;2.687,18;2.687.180,00

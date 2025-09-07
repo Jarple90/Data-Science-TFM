@@ -1,24 +1,24 @@
-Orgánica;Centro Gestor;Económica;Explicación;Total (miles Euros);Total (euros)
-14.01;Ministerio y Subsecretaría;12;Funcionarios;1.473.206,99;1.473.206.990,00
-14.01;Ministerio y Subsecretaría;13;Laborales;40.719,39;40.719.390,00
-14.01;Ministerio y Subsecretaría;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;236.012,31;236.012.310,00
-14.01;Ministerio y Subsecretaría;16000;Seguridad Social;236.012,31;236.012.310,00
-14.02;Cuartel General del EMAD;20;Arrendamientos y cánones;79,2;79.200,00
-14.02;Cuartel General del EMAD;21;Reparaciones, mantenimiento y conservación;464,38;464.380,00
-14.02;Cuartel General del EMAD;22;Material, suministros y otros;15.041,69;15.041.690,00
-14.02;Cuartel General del EMAD;22611;Gastos protocolarios y representativos (actos institucionales);6,6;6.600,00
-14.02;Cuartel General del EMAD;23;Indemnizaciones por razón del servicio;4.910,00;4.910.000,00
-14.03;Secretaría de Estado de Defensa;12;Funcionarios;4.000,00;4.000.000,00
-14.03;Secretaría de Estado de Defensa;128;Operaciones de mantenimiento de la paz (personal);4.000,00;4.000.000,00
-14.03;Secretaría de Estado de Defensa;20;Arrendamientos y cánones;16.271,85;16.271.850,00
-14.03;Secretaría de Estado de Defensa;21;Reparaciones, mantenimiento y conservación;2.054,00;2.054.000,00
-14.03;Secretaría de Estado de Defensa;22;Material, suministros y otros;124.944,65;124.944.650,00
-14.03;Secretaría de Estado de Defensa;22502;Locales;2;2.000,00
-14.03;Secretaría de Estado de Defensa;22611;Gastos protocolarios y representativos (actos institucionales);44,82;44.820,00
-14.03;Secretaría de Estado de Defensa;228;Operaciones de mantenimiento de la paz (corrientes);100.000,00;100.000.000,00
-14.03;Secretaría de Estado de Defensa;23;Indemnizaciones por razón del servicio;4.602,72;4.602.720,00
-14.03;Secretaría de Estado de Defensa;668;Operaciones de mantenimiento de la paz (inversiones);210.360,10;210.360.100,00
-14.12;Ejército de Tierra;22;Material, suministros y otros;84.530,26;84.530.260,00
-14.17;Armada;22;Material, suministros y otros;16.275,18;16.275.180,00
-14.22;Ejército del Aire y del Espacio;20;Arrendamientos y cánones;2.073,10;2.073.100,00
-14.22;Ejército del Aire y del Espacio;21;Reparaciones, mantenimiento y conservación;1.820,00;1.820.000,00
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+14.01;12;Funcionarios;1.473.206,99;1.473.206.990,00
+14.01;13;Laborales;40.719,39;40.719.390,00
+14.01;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;236.012,31;236.012.310,00
+14.01;16000;Seguridad Social;236.012,31;236.012.310,00
+14.02;20;Arrendamientos y cánones;79,2;79.200,00
+14.02;21;Reparaciones, mantenimiento y conservación;464,38;464.380,00
+14.02;22;Material, suministros y otros;15.041,69;15.041.690,00
+14.02;22611;Gastos protocolarios y representativos (actos institucionales);6,6;6.600,00
+14.02;23;Indemnizaciones por razón del servicio;4.910,00;4.910.000,00
+14.03;12;Funcionarios;4.000,00;4.000.000,00
+14.03;128;Operaciones de mantenimiento de la paz (personal);4.000,00;4.000.000,00
+14.03;20;Arrendamientos y cánones;16.271,85;16.271.850,00
+14.03;21;Reparaciones, mantenimiento y conservación;2.054,00;2.054.000,00
+14.03;22;Material, suministros y otros;124.944,65;124.944.650,00
+14.03;22502;Locales;2;2.000,00
+14.03;22611;Gastos protocolarios y representativos (actos institucionales);44,82;44.820,00
+14.03;228;Operaciones de mantenimiento de la paz (corrientes);100.000,00;100.000.000,00
+14.03;23;Indemnizaciones por razón del servicio;4.602,72;4.602.720,00
+14.03;668;Operaciones de mantenimiento de la paz (inversiones);210.360,10;210.360.100,00
+14.12;22;Material, suministros y otros;84.530,26;84.530.260,00
+14.17;22;Material, suministros y otros;16.275,18;16.275.180,00
+14.22;20;Arrendamientos y cánones;2.073,10;2.073.100,00
+14.22;21;Reparaciones, mantenimiento y conservación;1.820,00;1.820.000,00

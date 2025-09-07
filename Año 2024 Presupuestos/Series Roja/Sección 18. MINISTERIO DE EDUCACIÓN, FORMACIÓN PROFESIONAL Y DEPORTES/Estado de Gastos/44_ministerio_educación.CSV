@@ -1,17 +1,17 @@
-Capítulo Económico;Detalle;Importe (mil €);Importe (€)
-1 – Gastos de Personal;Altos cargos, funcionarios, laborales, cuotas sociales;28.700,44;28.700.440,00 €
-10;Altos cargos;61,04;61.040,00 €
-12;Funcionarios;24.632,80;24.632.800,00 €
-13;Laborales;1.656,60;1.656.600,00 €
-16;Cuotas y prestaciones sociales;2.350,00;2.350.000,00 €
-2 – Gastos Corrientes;Material, FNMT, locales, protocolo;4.630,07;4.630.070,00 €
-22;Material, suministros y otros;4.630,07;4.630.070,00 €
-22109;Labores Fábrica Nacional de Moneda y Timbre;71;71.000,00 €
-22502;Locales;12,26;12.260,00 €
-22601;Atenciones protocolarias y representativas;2,25;2.250,00 €
-4 – Transferencias Corrientes;A familias, instituciones sin ánimo de lucro y organismos internacionales;1.199,00;1.199.000,00 €
-48;ANAVE, Fundación Correillo, ALBAOLA;1.100,00;1.100.000,00 €
-49;Cuotas a organismos internacionales;99;99.000,00 €
-6 – Inversiones Reales;Infraestructura y funcionamiento operativo;2.300,00;2.300.000,00 €
-—;TOTAL PROGRAMA 454M;36.829,51;36.829.510,00 €
+Económico;Explicación;Total (miles  euros);Total (euros)
+1;Altos cargos, funcionarios, laborales, cuotas sociales;28.700,44;28.700.440,00
+10;Altos cargos;61,04;61.040,00
+12;Funcionarios;24.632,80;24.632.800,00
+13;Laborales;1.656,60;1.656.600,00
+16;Cuotas y prestaciones sociales;2.350,00;2.350.000,00
+2;Material, FNMT, locales, protocolo;4.630,07;4.630.070,00
+22;Material, suministros y otros;4.630,07;4.630.070,00
+22109;Labores Fábrica Nacional de Moneda y Timbre;71;71.000,00
+22502;Locales;12,26;12.260,00
+22601;Atenciones protocolarias y representativas;2,25;2.250,00
+4;A familias, instituciones sin ánimo de lucro y organismos internacionales;1.199,00;1.199.000,00
+48;ANAVE, Fundación Correillo, ALBAOLA;1.100,00;1.100.000,00
+49;Cuotas a organismos internacionales;99;99.000,00
+6;Infraestructura y funcionamiento operativo;2.300,00;2.300.000,00
+—;TOTAL PROGRAMA 454M;36.829,51;36.829.510,00
 ;16000; Seguridad Social;2.350,00

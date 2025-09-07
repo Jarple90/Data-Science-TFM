@@ -1,34 +1,13 @@
-Económica;Explicación;Orgánica (21.10);Total (miles €);Total (€)
-1;GASTOS DE PERSONAL;21.10;2.313,08;2.313.080,00 €
-10;Altos cargos;21.10;61,02;61.020,00 €
-12;Funcionarios;21.10;2.002,09;2.002.090,00 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;21.10;249,97;249.970,00 €
-4;TRANSFERENCIAS CORRIENTES;21.10;119,56;119.560,00 €
-48;A familias e instituciones sin fines de lucro;21.10;119,56;119.560,00 €
-485;Becas de formación técnica y práctica en pesca marítima;21.10;119,56;119.560,00 €
-6;INVERSIONES REALES;21.10;21.638,00;21.638.000,00 €
-7;TRANSFERENCIAS DE CAPITAL;21.10;300;300.000,00 €
-78;A familias e instituciones sin fines de lucro;21.10;300;300.000,00 €
-781;Fundación AZTI – investigación en alimentación, pesca y oceanografía;21.10;300;300.000,00 €
-—;TOTAL PROGRAMA 415A – Protección de los recursos pesqueros y desarrollo sostenible;21.10;24.370,64;24.370.640,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+21.10;1;GASTOS DE PERSONAL;2.313,08;2.313.080,00
+21.10;10;Altos cargos;61,02;61.020,00
+21.10;12;Funcionarios;2.002,09;2.002.090,00
+21.10;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;249,97;249.970,00
+21.10;4;TRANSFERENCIAS CORRIENTES;119,56;119.560,00
+21.10;48;A familias e instituciones sin fines de lucro;119,56;119.560,00
+21.10;485;Becas de formación técnica y práctica en pesca marítima;119,56;119.560,00
+21.10;6;INVERSIONES REALES;21.638,00;21.638.000,00
+21.10;7;TRANSFERENCIAS DE CAPITAL;300;300.000,00
+21.10;78;A familias e instituciones sin fines de lucro;300;300.000,00
+21.10;781;Fundación AZTI – investigación en alimentación, pesca y oceanografía;300;300.000,00
+21.10;—;TOTAL PROGRAMA 415A – Protección de los recursos pesqueros y desarrollo sostenible;24.370,64;24.370.640,00

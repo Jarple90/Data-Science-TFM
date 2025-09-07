@@ -1,56 +1,30 @@
-Económica;Explicación;Órgano gestor;Importe (mil €);Importe (€)
-1;Gastos de personal;19.101;16.912,58;16.912.580,00 €
-15;Incentivos al rendimiento;19.101;2.042,77;2.042.770,00 €
-150;Productividad;19.101;2.001,26;2.001.260,00 €
-151;Gratificaciones;19.101;41,51;41.510,00 €
-16000;Seguridad Social;19.101;2.288,52;2.288.520,00 €
-16200;Formación y perfeccionamiento del personal;19.101;60;60.000,00 €
-16204;Acción social;19.101;38,2;38.200,00 €
-2;Gastos corrientes en bienes y servicios;19.101;14.958,12;14.958.120,00 €
-22109;Labores Fábrica Nacional Moneda y Timbre;19.101;10;10.000,00 €
-22.502;Locales;19.101;200;200.000,00 €
-22601;Atenciones protocolarias y representativas;19.101;1;1.000,00 €
-4;Transferencias corrientes;19.101;2.092.702,83;2.092.702.830,00
-44;A entidades del Sector Público Estatal;19.101;56.774,17;56.774.170,00
-443;Fundación Estatal para la Formación en el Empleo (gastos corrientes);19.101;51.818,41;51.818.410,00 €
-445;Gestión directa SEPE (formación no certificada, becas, seguros, etc.);19.101;4.955,76;4.955.760,00 €
-45;A Comunidades Autónomas;19.101;1.078.722,20;1.078.722.200,00 €
-452;Gestión autonómica del Sistema de FP para el Empleo;19.101;1.074.160,78;1.074.160.780,00 €
-456;Servicios y programas del R.D. 1224/2009 y contrato de formación;19.101;4.561,42;4.561.420,00
-48;A familias e instituciones sin fines de lucro;19.101;957.206,46;957.206.460,00 €
-482;Gestión directa SEPE (programas de fomento de empleo);19.101;394.653,89;394.653.890,00 €
-483;A centros y entidades de formación;19.101;7.619,81;7.619.810,00 €
-485;Gestión en territorio no transferido;19.101;4.932,76;4.932.760,00 €
-487;Cuotas, subvenciones y bonificaciones a la Seguridad Social;19.101;550.000,00;550.000.000,00 €
-6;Inversiones reales;19.101;978,89;978.890,00
-7;Transferencias de capital;19.101;678,89;678.890,00 €
-74 / 743;Fundación Estatal para la Formación en el Empleo (gastos de capital);19.101;678,89;678.890,00 €
-8;Activos financieros;19.101;79,4;79.400,00
-83 / 831;Préstamos a largo plazo fuera del Sector Público;19.101;79,4;79.400,00
-—;TOTAL PROGRAMA 241B – Formación Profesional para el Empleo;—;2.126.310,71;2.126.310.710,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económica;Explicación;Total (miles  euros);Total (euros)
+1;Gastos de personal;16.912,58;16.912.580,00
+15;Incentivos al rendimiento;2.042,77;2.042.770,00
+150;Productividad;2.001,26;2.001.260,00
+151;Gratificaciones;41,51;41.510,00
+16000;Seguridad Social;2.288,52;2.288.520,00
+16200;Formación y perfeccionamiento del personal;60;60.000,00
+16204;Acción social;38,2;38.200,00
+2;Gastos corrientes en bienes y servicios;14.958,12;14.958.120,00
+22109;Labores Fábrica Nacional Moneda y Timbre;10;10.000,00
+22.502;Locales;200;200.000,00
+22601;Atenciones protocolarias y representativas;1;1.000,00
+4;Transferencias corrientes;2.092.702,83;2.092.702.830,00
+44;A entidades del Sector Público Estatal;56.774,17;56.774.170,00
+443;Fundación Estatal para la Formación en el Empleo (gastos corrientes);51.818,41;51.818.410,00
+445;Gestión directa SEPE (formación no certificada, becas, seguros, etc.);4.955,76;4.955.760,00
+45;A Comunidades Autónomas;1.078.722,20;1.078.722.200,00
+452;Gestión autonómica del Sistema de FP para el Empleo;1.074.160,78;1.074.160.780,00
+456;Servicios y programas del R.D. 1224/2009 y contrato de formación;4.561,42;4.561.420,00
+48;A familias e instituciones sin fines de lucro;957.206,46;957.206.460,00
+482;Gestión directa SEPE (programas de fomento de empleo);394.653,89;394.653.890,00
+483;A centros y entidades de formación;7.619,81;7.619.810,00
+485;Gestión en territorio no transferido;4.932,76;4.932.760,00
+487;Cuotas, subvenciones y bonificaciones a la Seguridad Social;550.000,00;550.000.000,00
+6;Inversiones reales;978,89;978.890,00
+7;Transferencias de capital;678,89;678.890,00
+74 / 743;Fundación Estatal para la Formación en el Empleo (gastos de capital);678,89;678.890,00
+8;Activos financieros;79,4;79.400,00
+83 / 831;Préstamos a largo plazo fuera del Sector Público;79,4;79.400,00
+—;TOTAL PROGRAMA 241B – Formación Profesional para el Empleo;2.126.310,71;2.126.310.710,00

@@ -1,32 +1,22 @@
-Económica;Explicación;Órgano Gestor (19.101);Importe (miles de €);Importe Total (€)
-1;Gastos de personal;SEPE;330.739,95;330.739.950,00
-12;Funcionarios;SEPE;215.851,68;215.851.680,00
-13;Laborales;SEPE;42.298,58;42.298.580,00
-15;Incentivos al rendimiento;SEPE;22.266,77;22.266.770,00
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;SEPE;50.322,92;50.322.920,00
-2;Gastos corrientes en bienes y servicios;SEPE;37.809,83;37.809.830,00
-20;Arrendamientos y cánones;SEPE;3.373,91;3.373.910,00
-21;Reparaciones, mantenimiento y conservación;SEPE;3.550,29;3.550.290,00
-22;Material, suministros y otros;SEPE;28.468,73;28.468.730,00
-23;Indemnizaciones por razón del servicio;SEPE;2.416,49;2.416.490,00
-24;Gastos de publicaciones;SEPE;0,41;410,00
-3;Gastos financieros;SEPE;79,2;79.200,00
-35;Intereses de demora y otros gastos financieros;SEPE;79,2;79.200,00
-4;Transferencias corrientes;SEPE;20.901.431,19;20.901.431.190,00
-48;A familias e instituciones sin fines de lucro;SEPE;20.901.431,19;20.901.431.190,00
-6;Inversiones reales;SEPE;7.324,51;7.324.510,00
-62;Inversión nueva asociada al funcionamiento operativo de los servicios;SEPE;1.276,88;1.276.880,00
-63;Inversión de reposición asociada al funcionamiento operativo de los servicios;SEPE;6.047,63;6.047.630,00
-8;Activos financieros;SEPE;635,2;635.200,00
-83;Concesión de préstamos fuera del Sector Público;SEPE;635,2;635.200,00
-—;TOTAL PROGRAMA 251M – Prestaciones a los desempleados;SEPE;21.278.019,88;21.278.019.880,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Económica;Explicación;Total (miles  euros);Total (euros)
+1;Gastos de personal;330.739,95;330.739.950,00
+12;Funcionarios;215.851,68;215.851.680,00
+13;Laborales;42.298,58;42.298.580,00
+15;Incentivos al rendimiento;22.266,77;22.266.770,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;50.322,92;50.322.920,00
+2;Gastos corrientes en bienes y servicios;37.809,83;37.809.830,00
+20;Arrendamientos y cánones;3.373,91;3.373.910,00
+21;Reparaciones, mantenimiento y conservación;3.550,29;3.550.290,00
+22;Material, suministros y otros;28.468,73;28.468.730,00
+23;Indemnizaciones por razón del servicio;2.416,49;2.416.490,00
+24;Gastos de publicaciones;0,41;410
+3;Gastos financieros;79,2;79.200,00
+35;Intereses de demora y otros gastos financieros;79,2;79.200,00
+4;Transferencias corrientes;20.901.431,19;20.901.431.190,00
+48;A familias e instituciones sin fines de lucro;20.901.431,19;20.901.431.190,00
+6;Inversiones reales;7.324,51;7.324.510,00
+62;Inversión nueva asociada al funcionamiento operativo de los servicios;1.276,88;1.276.880,00
+63;Inversión de reposición asociada al funcionamiento operativo de los servicios;6.047,63;6.047.630,00
+8;Activos financieros;635,2;635.200,00
+83;Concesión de préstamos fuera del Sector Público;635,2;635.200,00
+—;TOTAL PROGRAMA 251M – Prestaciones a los desempleados;21.278.019,88;21.278.019.880,00

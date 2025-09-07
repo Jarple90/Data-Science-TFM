@@ -1,34 +1,24 @@
- Económico;Explicación;Importe (miles €);Importe (€)
-1;GASTOS DE PERSONAL;6.854,35;6.854.350,00 €
-10;Altos cargos;64,01;64.010,00 €
-12;Funcionarios;3.229,00;3.229.000,00 €
-13;Laborales;2.377,39;2.377.390,00 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;1.183,95;1.183.950,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;4.628,02;4.628.020,00 €
-20;Arrendamientos y cánones;13,6;13.600,00 €
-21;Reparaciones, mantenimiento y conservación;2.594,38;2.594.380,00 €
-22;Material, suministros y otros;1.675,04;1.675.040,00 €
-23;Indemnizaciones por razón del servicio;345;345.000,00 €
-4;TRANSFERENCIAS CORRIENTES;775,9;775.900,00 €
-46;A Entidades Locales;240,4;240.400,00 €
-47;A empresas privadas;40,1;40.100,00 €
-48;A familias e instituciones sin fines de lucro;495,4;495.400,00 €
-6;INVERSIONES REALES;1.294,36;1.294.360,00 €
-62;Inversión nueva asociada al funcionamiento operativo;71,02;71.020,00 €
-63;Reposición asociada al funcionamiento operativo;861,23;861.230,00 €
-64;Gastos de inversiones de carácter inmaterial;362,11;362.110,00 €
-7;TRANSFERENCIAS DE CAPITAL;3.197,08;3.197.080,00 €
-76;A Entidades Locales;3.066,93;3.066.930,00 €
-77;A empresas privadas;40;40.000,00 €
-78;A familias e instituciones sin fines de lucro;90,15;90.150,00 €
-—;TOTAL PROGRAMA 134M – PROTECCIÓN CIVIL;16.749,71;16.749.710,00 €
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
-;;;
+ Económico;Explicación;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;6.854,35;6.854.350,00
+10;Altos cargos;64,01;64.010,00
+12;Funcionarios;3.229,00;3.229.000,00
+13;Laborales;2.377,39;2.377.390,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;1.183,95;1.183.950,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;4.628,02;4.628.020,00
+20;Arrendamientos y cánones;13,6;13.600,00
+21;Reparaciones, mantenimiento y conservación;2.594,38;2.594.380,00
+22;Material, suministros y otros;1.675,04;1.675.040,00
+23;Indemnizaciones por razón del servicio;345;345.000,00
+4;TRANSFERENCIAS CORRIENTES;775,9;775.900,00
+46;A Entidades Locales;240,4;240.400,00
+47;A empresas privadas;40,1;40.100,00
+48;A familias e instituciones sin fines de lucro;495,4;495.400,00
+6;INVERSIONES REALES;1.294,36;1.294.360,00
+62;Inversión nueva asociada al funcionamiento operativo;71,02;71.020,00
+63;Reposición asociada al funcionamiento operativo;861,23;861.230,00
+64;Gastos de inversiones de carácter inmaterial;362,11;362.110,00
+7;TRANSFERENCIAS DE CAPITAL;3.197,08;3.197.080,00
+76;A Entidades Locales;3.066,93;3.066.930,00
+77;A empresas privadas;40;40.000,00
+78;A familias e instituciones sin fines de lucro;90,15;90.150,00
+—;TOTAL PROGRAMA 134M – PROTECCIÓN CIVIL;16.749,71;16.749.710,00
