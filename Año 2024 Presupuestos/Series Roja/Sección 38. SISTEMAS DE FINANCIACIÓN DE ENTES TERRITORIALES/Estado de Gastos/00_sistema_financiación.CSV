@@ -1,141 +1,23 @@
-Orgánica;Económica;Explicación;Comunidad Autónoma;Total (mil €);Total (€)
-38.02;451;Fondo de Suficiencia Global;Cataluña;1.079.014,27;1.079.014.270
-38.02;452;Regularización Mossos d'Esquadra;Cataluña;336.332,10;336.332.100
-—;—;Total Cataluña;—;1.415.346,37;1.415.346.370
-38.03;451;Fondo de Suficiencia Global;Galicia;725.491,70;725.491.700
-38.04;451;Fondo de Suficiencia Global;Andalucía;609.610,05;609.610.050
-38.05;451;Fondo de Suficiencia Global;Asturias;226.489,97;226.489.970
-38.06;451;Fondo de Suficiencia Global;Cantabria;596.593,64;596.593.640
-38.07;451;Fondo de Suficiencia Global;La Rioja;258.348,59;258.348.590
-38.10;451;Fondo de Suficiencia Global;Aragón;336.673,08;336.673.080
-38.11;451;Fondo de Suficiencia Global;Castilla-La Mancha;96.109,99;96.109.990
-38.12;451;Fondo de Suficiencia Global;Canarias;91.317,49;91.317.490
-38.14;451;Fondo de Suficiencia Global;Extremadura;541.685,94;541.685.940
-38.17;451;Fondo de Suficiencia Global;Castilla y León;526.831,04;526.831.040
-38.18;451;Fondo de Suficiencia Global;Melilla;34.462,29;34.462.290
-38.19;451;Fondo de Suficiencia Global;Ceuta;43.038,93;43.038.930
-38.20;452;Liquidación ejercicios anteriores;Varias CC. AA.;6.880.202,30;6.880.202.300
-38.20;45200;Fondo de Competitividad;Varias CC. AA.;4.079.152,55;4.079.152.550
-38.20;45201;Fondo de Cooperación;Varias CC. AA.;2.418.068,67;2.418.068.670
-38.20;45202;Otros conceptos de liquidación;Varias CC. AA.;382.981,08;382.981.080
-38.20;453;Fondo de Garantía;Varias CC. AA.;11.170.674,00;11.170.674.000
-—;—;Total Varias CC. AA.;—;18.050.876,30;18.050.876.300
-;;Transferencias a Comunidades Autónomas;;23.552.875,38;23.552.875.380
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
+Orgánica;Económica;Explicación;Comunidad Autónoma;Total (miles euros);Total (euros)
+38.02;451;Fondo de Suficiencia Global;Cataluña;1.079.014,27;1.079.014.270,00
+38.02;452;Regularización Mossos d'Esquadra;Cataluña;336.332,10;336.332.100,00
+—;—;Total Cataluña;—;1.415.346,37;1.415.346.370,00
+38.03;451;Fondo de Suficiencia Global;Galicia;725.491,70;725.491.700,00
+38.04;451;Fondo de Suficiencia Global;Andalucía;609.610,05;609.610.050,00
+38.05;451;Fondo de Suficiencia Global;Asturias;226.489,97;226.489.970,00
+38.06;451;Fondo de Suficiencia Global;Cantabria;596.593,64;596.593.640,00
+38.07;451;Fondo de Suficiencia Global;La Rioja;258.348,59;258.348.590,00
+38.10;451;Fondo de Suficiencia Global;Aragón;336.673,08;336.673.080,00
+38.11;451;Fondo de Suficiencia Global;Castilla-La Mancha;96.109,99;96.109.990,00
+38.12;451;Fondo de Suficiencia Global;Canarias;91.317,49;91.317.490,00
+38.14;451;Fondo de Suficiencia Global;Extremadura;541.685,94;541.685.940,00
+38.17;451;Fondo de Suficiencia Global;Castilla y León;526.831,04;526.831.040,00
+38.18;451;Fondo de Suficiencia Global;Melilla;34.462,29;34.462.290,00
+38.19;451;Fondo de Suficiencia Global;Ceuta;43.038,93;43.038.930,00
+38.20;452;Liquidación ejercicios anteriores;Varias CC. AA.;6.880.202,30;6.880.202.300,00
+38.20;45200;Fondo de Competitividad;Varias CC. AA.;4.079.152,55;4.079.152.550,00
+38.20;45201;Fondo de Cooperación;Varias CC. AA.;2.418.068,67;2.418.068.670,00
+38.20;45202;Otros conceptos de liquidación;Varias CC. AA.;382.981,08;382.981.080,00
+38.20;453;Fondo de Garantía;Varias CC. AA.;11.170.674,00;11.170.674.000,00
+—;—;Total Varias CC. AA.;—;18.050.876,30;18.050.876.300,00
+;;Transferencias a Comunidades Autónomas;;23.552.875,38;23.552.875.380,00
