@@ -1,0 +1,13 @@
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+06.01;32;De deuda pública en moneda extranjera;38.300,00;38.300.000,00
+06.01;320;Intereses;38.300,00;38.300.000,00
+06.02;33;De préstamos en moneda extranjera;10.250,00;10.250.000,00
+06.02;330;Intereses;10.100,00;10.100.000,00
+06.02;339;Otros gastos financieros;150;150.000,00
+06.05;32;De deuda pública en moneda extranjera;10.000,00;10.000.000,00
+06.05;321;Gastos de emisión, modificación y cancelación;10.000,00;10.000.000,00
+06.05;33;De préstamos en moneda extranjera;6;6.000,00
+06.05;331;Gastos de emisión, modificación y cancelación;6;6.000,00
+06.05;35;Intereses de demora y otros gastos financieros;6;6.000,00
+06.05;352;Intereses de demora;6;6.000,00
+—;—;TOTAL Amortización y gastos financieros (moneda extranjera);58.562,00;58.562.000,00
