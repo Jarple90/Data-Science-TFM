@@ -1,4 +1,4 @@
-Económica;Explicación;27.15 (miles €);Total (miles €);Total (€)
+Económica;Explicación;27.15 ;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;7.085,44;7.085,44;7.085.440,00
 10;Altos cargos;61,04;61,04;61.040,00
 12;Funcionarios;6.070,34;6.070,34;6.070.340,00
@@ -9,20 +9,10 @@ Económica;Explicación;27.15 (miles €);Total (miles €);Total (€)
 23;Indemnizaciones por razón del servicio;70;70;70.000,00
 4;TRANSFERENCIAS CORRIENTES;134;134;134.000,00
 47;A empresas privadas;25;25;25.000,00
-48;A familias e instituciones sin fines de lucro;109,00;109;109.000,00
+48;A familias e instituciones sin fines de lucro;109;109;109.000,00
 6;INVERSIONES REALES;5;5;5.000,00
-64;Gastos de inversiones de carácter inmaterial;5,00;5;5.000,00
+64;Gastos de inversiones de carácter inmaterial;5;5;5.000,00
 7;TRANSFERENCIAS DE CAPITAL;2.727,50;2.727,50;2.727.500,00
 76;A Entidades Locales;600;600;600.000,00
 78;A familias e instituciones sin fines de lucro;2.127,50;2.127,50;2.127.500,00
 —;TOTAL GENERAL;10.604,07;10.604,07;10.604.070,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

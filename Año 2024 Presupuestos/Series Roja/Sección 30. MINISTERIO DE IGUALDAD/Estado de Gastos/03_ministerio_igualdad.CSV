@@ -1,4 +1,4 @@
-Económica;Explicación;30.02 (K€);30.03 (K€);Total (K€);Total (€)
+Económica;Explicación;30.02 ;30.03 ;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;—;2.556,06;2.556,06;2.556.060,00
 10;Altos cargos;—;61,04;61,04;61.040,00
 12;Funcionarios;—;2.138,89;2.138,89;2.138.890,00
@@ -17,13 +17,3 @@ Económica;Explicación;30.02 (K€);30.03 (K€);Total (K€);Total (€)
 7;TRANSFERENCIAS DE CAPITAL;10.000,00;—;10.000,00;10.000.000,00
 75;A Comunidades Autónomas;10.000,00;—;10.000,00;10.000.000,00
 —;TOTAL PROGRAMA 232C;180.202,02;79.514,87;259.716,89;259.716.890,00
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;

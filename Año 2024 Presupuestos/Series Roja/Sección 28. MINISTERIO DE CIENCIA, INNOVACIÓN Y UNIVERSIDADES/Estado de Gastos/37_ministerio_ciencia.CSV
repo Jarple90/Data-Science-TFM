@@ -1,4 +1,4 @@
-Económica;Explicación;28.01 (miles €);28.02 (miles €);Total (miles €);Total (€)
+Económica;Explicación;28.01 ;28.02 ;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;41.334,30;2.327,22;43.661,52;43.661.520,00
 10;Altos cargos;279,72;61,04;340,76;340.760,00
 11;Personal eventual;685,56;—;685,56;685.560,00
@@ -9,23 +9,13 @@ Económica;Explicación;28.01 (miles €);28.02 (miles €);Total (miles €);Total (€)
 2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;8.328,91;766,27;9.095,18;9.095.180,00
 20;Arrendamientos y cánones;622,43;—;622,43;622.430,00
 21;Reparaciones, mantenimiento y conservación;507,26;—;507,26;507.260,00
-22;Material, suministros y otros;6.733,23;561,80;7.295,03;7.295.030,00
+22;Material, suministros y otros;6.733,23;561,8;7.295,03;7.295.030,00
 23;Indemnizaciones por razón del servicio;465,99;1,47;467,46;467.460,00
 24;Gastos de publicaciones;—;203;203;203.000,00
 6;INVERSIONES REALES;4.850,59;—;4.850,59;4.850.590,00
 62;Inversión nueva asociada al funcionamiento operativo de los servicios;1.850,59;—;1.850,59;1.850.590,00
 63;Inversión de reposición asociada al funcionamiento operativo de los servicios;2.500,00;—;2.500,00;2.500.000,00
-64;Gastos de inversiones de carácter inmaterial;500,00;—;500,00;500.000,00
-8;ACTIVOS FINANCIEROS;20,00;—;20,00;20.000,00
+64;Gastos de inversiones de carácter inmaterial;500;—;500;500.000,00
+8;ACTIVOS FINANCIEROS;20;—;20;20.000,00
 83;Concesión de préstamos fuera del Sector Público;20;—;20;20.000,00
 —;TOTAL PROGRAMA 461M;54.533,80;3.093,49;57.627,29;57.627.290,00
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;

@@ -1,41 +1,31 @@
-Clasificación Económica;Explicación Económica;Orgánica (23.302);Total (miles €);Total (€)
-1;GASTOS DE PERSONAL;23.302;28.205,07;28.205.070,00 €
-10;Altos cargos;23.302;795,6;795.600,00 €
-11;Personal eventual;23.302;1.291,70;1.291.700,00 €
-12;Funcionarios;23.302;17.538,52;17.538.520,00 €
-13;Laborales;23.302;1.562,11;1.562.110,00 €
-15;Incentivos al rendimiento;23.302;2.201,51;2.201.510,00 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;23.302;4.815,63;4.815.630,00 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;23.302;12.292,50;12.292.500,00 €
-20;Arrendamientos y cánones;23.302;170;170.000,00 €
-21;Reparaciones, mantenimiento y conservación;23.302;2.010,00;2.010.000,00 €
+Económica;Explicación;Orgánica;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;23.302;28.205,07;28.205.070,00
+10;Altos cargos;23.302;795,6;795.600,00
+11;Personal eventual;23.302;1.291,70;1.291.700,00
+12;Funcionarios;23.302;17.538,52;17.538.520,00
+13;Laborales;23.302;1.562,11;1.562.110,00
+15;Incentivos al rendimiento;23.302;2.201,51;2.201.510,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;23.302;4.815,63;4.815.630,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;23.302;12.292,50;12.292.500,00
+20;Arrendamientos y cánones;23.302;170;170.000,00
+21;Reparaciones, mantenimiento y conservación;23.302;2.010,00;2.010.000,00
 22;Material, suministros y otros;23.302,00;9.072,50;9.072.500,00
-23;Indemnizaciones por razón del servicio;23.302;840;840.000,00 €
+23;Indemnizaciones por razón del servicio;23.302;840;840.000,00
 24;Gastos de publicaciones;23.302,00;200;200.000,00
 3;GASTOS FINANCIEROS;23.302,00;421;421.000,00
 35;Intereses de demora y otros gastos financieros;23.302,00;421;421.000,00
 4;TRANSFERENCIAS CORRIENTES;23.302,00;1.244,12;1.244.120,00
 45;A Comunidades Autónomas;23.302,00;265;265.000,00
 48;A familias e instituciones sin fines de lucro;23.302,00;435;435.000,00
-49;Al exterior;23.302;544,12;544.120,00 €
+49;Al exterior;23.302;544,12;544.120,00
 6;INVERSIONES REALES;23.302,00;4.271,00;4.271.000,00
 62;Inversión nueva asociada al funcionamiento operativo de los servicios;23.302,00;2.000,00;2.000.000,00
-63;Inversión de reposición asociada al funcionamiento operativo de los servicios;23.302;971;971.000,00 €
-64;Gastos de inversiones de carácter inmaterial;23.302;1.300,00;1.300.000,00 €
-7;TRANSFERENCIAS DE CAPITAL;23.302;1.430,00;1.430.000,00 €
-75;A Comunidades Autónomas;23.302;1.420,00;1.420.000,00 €
+63;Inversión de reposición asociada al funcionamiento operativo de los servicios;23.302;971;971.000,00
+64;Gastos de inversiones de carácter inmaterial;23.302;1.300,00;1.300.000,00
+7;TRANSFERENCIAS DE CAPITAL;23.302;1.430,00;1.430.000,00
+75;A Comunidades Autónomas;23.302;1.420,00;1.420.000,00
 79;Al exterior;23.302,00;10;10.000,00
-8;ACTIVOS FINANCIEROS;23.302;68;68.000,00 €
-83;Concesión de préstamos fuera del Sector Público;23.302;67;67.000,00 €
-84;Constitución de depósitos y fianzas;23.302;1;1.000,00 €
+8;ACTIVOS FINANCIEROS;23.302;68;68.000,00
+83;Concesión de préstamos fuera del Sector Público;23.302;67;67.000,00
+84;Constitución de depósitos y fianzas;23.302;1;1.000,00
 —;TOTAL PROGRAMA 424M – Seguridad Nuclear y Protección Radiológica;—;47.931,69;47.931.690,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

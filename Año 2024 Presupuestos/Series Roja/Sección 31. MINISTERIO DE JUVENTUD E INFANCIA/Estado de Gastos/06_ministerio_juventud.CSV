@@ -1,54 +1,30 @@
-Unidad Orgánica;Capítulo Económico;Explicación;Importe (miles €);Importe (€)
-31.01;10;Altos cargos;208,56;208.560,00 €
-31.01;11;Personal eventual;518,37;518.370,00 €
-31.01;12;Funcionarios;3.741,11;3.741.110,00 €
-31.01;15;Incentivos al rendimiento;2.601,16;2.601.160,00 €
-31.01;150;Productividad;2.582,59;2.582.590,00 €
-31.01;151;Gratificaciones;18,57;18.570,00 €
-31.01;16;Cuotas y gastos sociales;971,29;971.290,00 €
-31.01;16000;Seguridad Social;865,57;865.570,00 €
-31.01;16200;Formación del personal;38,72;38.720,00 €
-31.01;16204;Acción social;45;45.000,00 €
-31.01;Total gastos de personal;—;8.040,49;8.040.490,00 €
-31.01;20;Arrendamientos y cánones;773;773.000,00 €
-31.01;202;Arrendamientos de edificios;768;768.000,00 €
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+31.01;10;Altos cargos;208,56;208.560,00
+31.01;11;Personal eventual;518,37;518.370,00
+31.01;12;Funcionarios;3.741,11;3.741.110,00
+31.01;15;Incentivos al rendimiento;2.601,16;2.601.160,00
+31.01;150;Productividad;2.582,59;2.582.590,00
+31.01;151;Gratificaciones;18,57;18.570,00
+31.01;16;Cuotas y gastos sociales;971,29;971.290,00
+31.01;16000;Seguridad Social;865,57;865.570,00
+31.01;16200;Formación del personal;38,72;38.720,00
+31.01;16204;Acción social;45;45.000,00
+31.01;Total gastos de personal;—;8.040,49;8.040.490,00
+31.01;20;Arrendamientos y cánones;773;773.000,00
+31.01;202;Arrendamientos de edificios;768;768.000,00
 31.01;22;Material, suministros y otros;114,68;114.680,00
 31.01;22601;Atenciones protocolarias;64,68;64.680,00
 31.01;Total gastos corrientes;—;887,68;887.680,00
-31.01;6;Inversiones reales;5;5.000,00 €
-31.01;Total Ministerio, Subsecretaría y Servicios Generales;—;8.933,17;8.933.170,00 €
-31.02;10;Altos cargos;61,04;61.040,00 €
-31.02;12;Funcionarios;679,97;679.970,00 €
-31.02;16;Cuotas y gastos sociales;212;212.000,00 €
+31.01;6;Inversiones reales;5;5.000,00
+31.01;Total Ministerio, Subsecretaría y Servicios Generales;—;8.933,17;8.933.170,00
+31.02;10;Altos cargos;61,04;61.040,00
+31.02;12;Funcionarios;679,97;679.970,00
+31.02;16;Cuotas y gastos sociales;212;212.000,00
 31.02;16000;Seguridad Social;212;212.000,00
-31.02;Total gastos de personal;—;953,01;953.010,00 €
-31.02;22;Material, suministros y otros;12,34;12.340,00 €
-31.02;22601;Atenciones protocolarias;2,34;2.340,00 €
-31.02;23;Indemnizaciones por servicio;22,5;22.500,00 €
-31.02;Total gastos corrientes;—;34,84;34.840,00 €
-31.02;Total Secretaría General Técnica;—;987,85;987.850,00 €
-—;—;TOTAL PROGRAMA 232N;9.921,02;9.921.020,00 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+31.02;Total gastos de personal;—;953,01;953.010,00
+31.02;22;Material, suministros y otros;12,34;12.340,00
+31.02;22601;Atenciones protocolarias;2,34;2.340,00
+31.02;23;Indemnizaciones por servicio;22,5;22.500,00
+31.02;Total gastos corrientes;—;34,84;34.840,00
+31.02;Total Secretaría General Técnica;—;987,85;987.850,00
+—;—;TOTAL PROGRAMA 232N;9.921,02;9.921.020,00

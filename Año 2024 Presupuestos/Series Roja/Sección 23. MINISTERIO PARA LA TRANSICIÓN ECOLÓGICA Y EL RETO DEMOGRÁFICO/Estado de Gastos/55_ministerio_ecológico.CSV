@@ -1,4 +1,4 @@
-Económica;Explicación;23.04 (miles €);23.05 (miles €);Total (miles €);Total (€)
+Económica;Explicación;23.04;23.05 ;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;1.174,48;–;1.174,48;1.174.480,00
 10;Altos cargos;80,3;–;80,3;80.300,00
 11;Personal eventual;251,09;–;251,09;251.090,00
@@ -9,12 +9,3 @@ Económica;Explicación;23.04 (miles €);23.05 (miles €);Total (miles €);Total (€)
 8;ACTIVOS FINANCIEROS;–;386.820,49;386.820,49;386.820.490,00
 85;Adquisición de acciones y participaciones del Sector Público;–;386.820,49;386.820,49;386.820.490,00
 TOTAL;TOTAL GENERAL;9.674,48;386.820,49;396.494,97;396.494.970,00
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;

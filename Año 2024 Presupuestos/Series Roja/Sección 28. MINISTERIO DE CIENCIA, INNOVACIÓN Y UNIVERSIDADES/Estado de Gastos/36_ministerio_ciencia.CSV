@@ -1,4 +1,4 @@
-Orgánica;Económica;Explicación;Importe (miles €);Total (€)
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
 28.01;;MINISTERIO, SUBSECRETARÍA Y SERVICIOS GENERALES;;
 28.01;10;Altos cargos;279,72;279.720,00
 28.01;11;Personal eventual;685,56;685.560,00
@@ -18,7 +18,7 @@ Orgánica;Económica;Explicación;Importe (miles €);Total (€)
 28.01;21;Reparaciones, mantenimiento y conservación;507,26;507.260,00
 28.01;22;Material, suministros y otros;6.733,23;6.733.230,00
 28.01;22502;Locales;483,4;483.400,00
-28.01;22601;Atenciones protocolarias y representativas;10,00;10.000,00
+28.01;22601;Atenciones protocolarias y representativas;10;10.000,00
 28.01;23;Indemnizaciones por razón del servicio;465,99;465.990,00
 ;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;8.328,91;8.328.910,00
 28.01;6;INVERSIONES REALES;4.850,59;4.850.590,00
@@ -40,27 +40,3 @@ Orgánica;Económica;Explicación;Importe (miles €);Total (€)
 ;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;766,27;766.270,00
 ;;TOTAL SECRETARÍA GENERAL TÉCNICA;3.093,49;3.093.490,00
 ;;TOTAL PROGRAMA 461M;57.627,29;57.627.290,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

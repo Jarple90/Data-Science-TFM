@@ -1,4 +1,4 @@
-Económica;Explicación;27.07 (miles €);Total (miles €);Total (€)
+Económica;Explicación;27.07 ;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;11.044,95;11.044,95;11.044.950,00
 10;Altos cargos;61,04;61,04;61.040,00
 12;Funcionarios;9.219,64;9.219,64;9.219.640,00
@@ -11,16 +11,6 @@ Económica;Explicación;27.07 (miles €);Total (miles €);Total (€)
 4;TRANSFERENCIAS CORRIENTES;1.999,93;1.999,93;1.999.930,00
 49;Al exterior;1.999,93;1.999,93;1.999.930,00
 6;INVERSIONES REALES;3.267,47;3.267,47;3.267.470,00
-63;Inversión de reposición asociada al funcionamiento operativo de los servicios;929,00;929;929.000,00
+63;Inversión de reposición asociada al funcionamiento operativo de los servicios;929;929;929.000,00
 64;Gastos de inversiones de carácter inmaterial;2.338,47;2.338,47;2.338.470,00
 —;TOTAL PROGRAMA 493M – Dirección, control y gestión de seguros;—;18.938,42;18.938.420,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

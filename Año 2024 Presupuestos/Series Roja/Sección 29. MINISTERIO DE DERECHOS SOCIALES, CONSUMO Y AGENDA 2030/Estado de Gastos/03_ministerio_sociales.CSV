@@ -1,4 +1,4 @@
-Económica;Explicación;29.05 (K€);Total (K€);Total (€)
+Económica;Explicación;29.05 ;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;721;721;721.000,00
 12;Funcionarios;530,92;530,92;530.920,00
 16;Cuotas, prestaciones y gastos sociales a cargo del empleador;190,08;190,08;190.080,00
@@ -8,13 +8,3 @@ Económica;Explicación;29.05 (K€);Total (K€);Total (€)
 4;TRANSFERENCIAS CORRIENTES;1.083,93;1.083,93;1.083.930,00
 48;A familias e instituciones sin fines de lucro;1.083,93;1.083,93;1.083.930,00
 —;TOTAL PROGRAMA 231G;3.112,98;3.112,98;3.112.980,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

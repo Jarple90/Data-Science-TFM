@@ -1,19 +1,19 @@
-Económica;Explicación;23.301 (mil €);Total (mil €);Total (€)
-1;GASTOS DE PERSONAL;43.247,06;43.247,06;43.247.060
-10;Altos cargos;94,36;94,36;94.360
-12;Funcionarios;34.788,40;34.788,40;34.788.400
-13;Laborales;2.115,21;2.115,21;2.115.210
-14;Otro personal;1.389,43;1.389,43;1.389.430
-15;Incentivos al rendimiento;2.440,84;2.440,84;2.440.840
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;2.418,82;2.418,82;2.418.820
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;28.635,07;28.635,07;28.635.070
-20;Arrendamientos y cánones;2.088,27;2.088,27;2.088.270
-21;Reparaciones, mantenimiento y conservación;10.542;10.541,93;10.541.930
+Económica;Explicación;23.301;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;43.247,06;43.247,06;43.247.060,00
+10;Altos cargos;94,36;94,36;94.360,00
+12;Funcionarios;34.788,40;34.788,40;34.788.400,00
+13;Laborales;2.115,21;2.115,21;2.115.210,00
+14;Otro personal;1.389,43;1.389,43;1.389.430,00
+15;Incentivos al rendimiento;2.440,84;2.440,84;2.440.840,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;2.418,82;2.418,82;2.418.820,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;28.635,07;28.635,07;28.635.070,00
+20;Arrendamientos y cánones;2.088,27;2.088,27;2.088.270,00
+21;Reparaciones, mantenimiento y conservación;10.542;10.541,93;10.541.930,00
 22;Material, suministros y otros;14.594,69;14.594,69;14.594.690,00
-23;Indemnizaciones por razón del servicio;1.360,18;1.360,18;1.360.180
-24;Gastos de publicaciones;50,00;50;50.000,00
-3;GASTOS FINANCIEROS;50,00;50;50.000,00
-35;Intereses de demora y otros gastos financieros;50,00;50;50.000,00
+23;Indemnizaciones por razón del servicio;1.360,18;1.360,18;1.360.180,00
+24;Gastos de publicaciones;50;50;50.000,00
+3;GASTOS FINANCIEROS;50;50;50.000,00
+35;Intereses de demora y otros gastos financieros;50;50;50.000,00
 4;TRANSFERENCIAS CORRIENTES;9.786,57;9.786,57;9.786.570,00
 48;A familias e instituciones sin fines de lucro;497,58;497,58;497.580,00
 49;Al exterior;9.288,99;9.288,99;9.288.990,00
@@ -21,18 +21,8 @@ Económica;Explicación;23.301 (mil €);Total (mil €);Total (€)
 62;Nuevas para funcionamiento operativo;3.339,02;3.339,02;3.339.020,00
 63;Reposición para funcionamiento operativo;9.654,98;9.654,98;9.654.980,00
 64;Inversiones de carácter inmaterial;1.431,00;1.431,00;1.431.000,00
-7;TRANSFERENCIAS DE CAPITAL;35.014,44;35.014,44;35.014.440
-79;Al exterior;35.014,44;35.014,44;35.014.440
-8;ACTIVOS FINANCIEROS;100;100;100.000
-83;Préstamos fuera del sector público;100,00;100;100.000,00
-TOTAL PROGRAMA 495B;—;—;131.258,14;131.258.140
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+7;TRANSFERENCIAS DE CAPITAL;35.014,44;35.014,44;35.014.440,00
+79;Al exterior;35.014,44;35.014,44;35.014.440,00
+8;ACTIVOS FINANCIEROS;100;100;100.000,00
+83;Préstamos fuera del sector público;100;100;100.000,00
+TOTAL PROGRAMA 495B;—;—;131.258,14;131.258.140,00

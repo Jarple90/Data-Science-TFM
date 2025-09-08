@@ -1,17 +1,17 @@
-Orgánica;Económica;Explicación;Total (mil €);Total (€)
-23.301;1;GASTOS DE PERSONAL;43.247,06;43.247.060
-15;Incentivos al rendimiento;2.440,84;2.440,84;2.440.840
-150;Productividad;2.092,57;2.092,57;2.092.570
-151;Gratificaciones;348,27;348,27;348.270
-16200;Formación y perfeccionamiento del personal;198,47;198,47;198.470
-16204;Acción social;98,89;98,89;98.890
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+23.301;1;GASTOS DE PERSONAL;43.247,06;43.247.060,00
+15;Incentivos al rendimiento;2.440,84;2.440,84;2.440.840,00
+150;Productividad;2.092,57;2.092,57;2.092.570,00
+151;Gratificaciones;348,27;348,27;348.270,00
+16200;Formación y perfeccionamiento del personal;198,47;198,47;198.470,00
+16204;Acción social;98,89;98,89;98.890,00
 23.301;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;—;—
-202;Arrendamientos de edificios y otras construcciones;210;210;210.000
-22502;Locales;400;400;400.000
+202;Arrendamientos de edificios y otras construcciones;210;210;210.000,00
+22502;Locales;400;400;400.000,00
 23.301;7;TRANSFERENCIAS DE CAPITAL;—;—
-791;Contribución a EUMETSAT para satélites meteorológicos;35.014,44;35.014,44;35.014.440
-TOTAL AGENCIA ESTATAL DE METEOROLOGÍA;—;131.258,14;131.258,14;131.258.140
-TOTAL PROGRAMA 495B;—;131.258,14;131.258,14;131.258.140
+791;Contribución a EUMETSAT para satélites meteorológicos;35.014,44;35.014,44;35.014.440,00
+TOTAL AGENCIA ESTATAL DE METEOROLOGÍA;—;131.258,14;131.258,14;131.258.140,00
+TOTAL PROGRAMA 495B;—;131.258,14;131.258,14;131.258.140,00
 ;;;;
 ;;;;
 ;;;;
@@ -23,4 +23,3 @@ TOTAL PROGRAMA 495B;—;131.258,14;131.258,14;131.258.140
 ;;;;
  ;;;;
  ;;;;
-;;;;

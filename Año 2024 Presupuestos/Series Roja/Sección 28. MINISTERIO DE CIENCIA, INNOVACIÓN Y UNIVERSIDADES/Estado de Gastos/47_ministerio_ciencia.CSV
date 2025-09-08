@@ -1,4 +1,4 @@
-Económica;Explicación;28.103 (miles €);Total (miles €);Total (€)
+Económica;Explicación;28.103;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;59.677,91;59.677,91;59.677.910
 10;Altos cargos;61,02;61,02;61.020
 12;Funcionarios;30.625,06;30.625,06;30.625.060
@@ -13,28 +13,18 @@ Económica;Explicación;28.103 (miles €);Total (miles €);Total (€)
 24;Gastos de publicaciones;15;15;15.000
 3;GASTOS FINANCIEROS;1.139,36;1.139,36;1.139.360,00
 35;Intereses de demora y otros gastos financieros;1.139,36;1.139,36;1.139.360,00
-4;TRANSFERENCIAS CORRIENTES;554,20;554,2;554.200,00
-48;A familias e instituciones sin fines de lucro;124,50;124,5;124.500,00
-49;Al exterior;429,70;429,7;429.700,00
+4;TRANSFERENCIAS CORRIENTES;554,2;554,2;554.200,00
+48;A familias e instituciones sin fines de lucro;124,5;124,5;124.500,00
+49;Al exterior;429,7;429,7;429.700,00
 6;INVERSIONES REALES;24.572,25;24.572,25;24.572.250,00
 62;Inversión nueva asociada al funcionamiento;9.684,92;9.684,92;9.684.920,00
 63;Inversión de reposición asociada al funcionamiento;9.582,24;9.582,24;9.582.240,00
 64;Gastos de inversiones inmateriales;5.305,09;5.305,09;5.305.090,00
 7;TRANSFERENCIAS DE CAPITAL;2.197,00;2.197,00;2.197.000
 75;A Comunidades Autónomas;1.584,00;1.584,00;1.584.000,00
-78;A familias e instituciones sin fines de lucro;7,00;7;7.000,00
+78;A familias e instituciones sin fines de lucro;7;7;7.000,00
 79;Al exterior;606;606;606.000
 8;ACTIVOS FINANCIEROS;128;128;128.000
 83;Préstamos fuera del Sector Público;125;125;125.000
-86;Acciones y participaciones fuera del Sector Público;3,00;3;3.000,00
+86;Acciones y participaciones fuera del Sector Público;3;3;3.000,00
 —;TOTAL PROGRAMA 467H;—;115.294,23;115.294.230,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

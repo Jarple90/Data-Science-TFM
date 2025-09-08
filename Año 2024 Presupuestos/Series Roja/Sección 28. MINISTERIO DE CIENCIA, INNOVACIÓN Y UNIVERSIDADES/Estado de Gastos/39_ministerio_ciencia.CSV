@@ -1,4 +1,4 @@
-Económica;Explicación;28.01 (miles €);28.09 (miles €);28.301 (miles €);Total (miles €);Total (€)
+Económica;Explicación;28.01 ;28.09 ;28.301;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;—;—;506.196,27;506.196,27;506.196.270,00
 10;Altos cargos;—;—;92,25;92,25;92.250,00
 12;Funcionarios;—;—;292.683,29;292.683,29;292.683.290,00
@@ -23,20 +23,10 @@ Económica;Explicación;28.01 (miles €);28.09 (miles €);28.301 (miles €);Total (mi
 63;Inversión de reposición operativa;—;—;30.800,00;30.800,00;30.800.000,00
 64;Inversiones de carácter inmaterial;—;—;168.909,16;168.909,16;168.909.160,00
 7;TRANSFERENCIAS DE CAPITAL;5.016,85;127.522,34;3.885,79;136.424,98;136.424.980,00
-74;A entidades del Sector Público Estatal;100,00;425,00;—;525;525.000,00
+74;A entidades del Sector Público Estatal;100;425;—;525;525.000,00
 75;A Comunidades Autónomas;—;17.025,00;1.325,79;18.350,79;18.350.790,00
 78;A familias e instituciones sin fines de lucro;4.916,85;110.072,34;2.560,00;117.549,19;117.549.190,00
 8;ACTIVOS FINANCIEROS;—;—;328,27;328,27;328.270,00
-82;Préstamos al Sector Público;—;—;15,00;15;15.000,00
+82;Préstamos al Sector Público;—;—;15;15;15.000,00
 83;Préstamos fuera del Sector Público;—;—;313,27;313,27;313.270,00
 —;TOTAL PROGRAMA 463A: INVESTIGACIÓN CIENTÍFICA;24.137,64;131.458,94;1.060.096,29;1.215.692,87;1.215.692.870,00
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;

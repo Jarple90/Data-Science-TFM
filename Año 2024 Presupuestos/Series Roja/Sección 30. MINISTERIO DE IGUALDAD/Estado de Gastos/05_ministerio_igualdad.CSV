@@ -1,4 +1,4 @@
-Económica;Explicación;30.02 (K€);Total (K€);Total (€)
+Económica;Explicación;30.02 ;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;1.515,67;1.515,67;1.515.670,00
 10;Altos cargos;122,08;122,08;122.080,00
 12;Funcionarios;1.136,04;1.136,04;1.136.040,00
@@ -12,13 +12,3 @@ Económica;Explicación;30.02 (K€);Total (K€);Total (€)
 6;INVERSIONES REALES;2.510,00;2.510,00;2.510.000,00
 64;Gastos de inversiones de carácter inmaterial;2.510,00;2.510,00;2.510.000,00
 —;TOTAL PROGRAMA 232D;—;6.926,17;6.926.170,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

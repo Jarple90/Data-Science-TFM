@@ -1,109 +1,108 @@
-Económica;Explicación;Miles €;Euros reales;
-1;GASTOS DE PERSONAL;10.203,15;10.203.150 €;
-10;Altos cargos;208,56;208.560 €;
-11;Personal eventual;521,72;521.720 €;
-12;Funcionarios;6.443,18;6.443.180 €;
-13;Laborales;229,44;229.440 €;
-15;Incentivos al rendimiento;1.854,71;1.854.710 €;
-150;Productividad;1.847,32;1.847.320 €;
-151;Gratificaciones;7,39;7.390 €;
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;945,54;945.540 €;Total
-16000;Seguridad Social;637,04;637.040 €;
-16200;Formación y perfeccionamiento del personal;65;65.000 €;
-16201;Economatos y comedores;22,5;22.500 €;208,56
-16204;Acción social;200;200.000 €;521,72
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;8.297,23;8.297.230 €;6.443,18
-20;Arrendamientos y cánones;645;645.000 €;229,44
-202;Arrendamientos de edificios y otras construcciones;640;640.000 €;1.854,71
-21;Reparaciones, mantenimiento y conservación;342,62;342.620 €;1.847,32
-22;Material, suministros y otros;7.163,61;7.163.610 €;7,39
-22502;Locales;589,54;589.540 €;945,54
-22601;Atenciones protocolarias y representativas;10;10.000 €;
-23;Indemnizaciones por razón del servicio;146;146.000 €;
-6;INVERSIONES REALES;2.254,08;2.254.080 €;
-8;ACTIVOS FINANCIEROS;12,22;12.220 €;
-83;Concesión de préstamos fuera del Sector Público;12,22;12.220 €;10.203,15
-830;Préstamos a corto plazo;1,63;1.630 €;
-831;Préstamos a largo plazo;10,59;10.590 €;
-—;TOTAL 33.01;20.766,68;20.766.680 €;645
-1;GASTOS DE PERSONAL;1.760,34;1.760.340 €;640
-10;Altos cargos;61,04;61.040 €;342,62
-12;Funcionarios;1.451,53;1.451.530 €;7.163,61
-13;Laborales;46,28;46.280 €;
-16;Seguridad Social;201,49;201.490 €;
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;56;56.000 €;146
-22;Material, suministros y otros;28;28.000 €;8.297,23
-22601;Atenciones protocolarias y representativas;1;1.000 €;
-23;Indemnizaciones por razón del servicio;10;10.000 €;2.254,08
-24;Gastos de publicaciones;18;18.000 €;
-—;TOTAL 33.02;1.816,34;1.816.340 €;
-1;GASTOS DE PERSONAL;2.046,31;2.046.310 €;12,22
-10;Altos cargos;80,3;80.300 €;1,63
-11;Personal eventual;270,97;270.970 €;10,59
-12;Funcionarios;445,77;445.770 €;12,22
-15;Incentivos al rendimiento;1.090,65;1.090.650 €;
-150;Productividad;1.064,57;1.064.570 €;20.766,68
-151;Gratificaciones;26,08;26.080 €;
-16;Seguridad Social;158,62;158.620 €;
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.958,53;1.958.530 €;
-20;Arrendamientos y cánones;120;120.000 €;
-22;Material, suministros y otros;1.500,65;1.500.650 €;61,04
-22601;Atenciones protocolarias y representativas;3;3.000 €;1.451,53
-23;Indemnizaciones por razón del servicio;337,88;337.880 €;46,28
-—;TOTAL 33.03;4.004,84;4.004.840 €;201,49
-1;GASTOS DE PERSONAL;3.536,03;3.536.030 €;
-10;Altos cargos;141,34;141.340 €;1.760,34
-11;Personal eventual;262,18;262.180 €;
-12;Funcionarios;937,41;937.410 €;
-15;Productividad;2.042,18;2.042.180 €;28
-16;Seguridad Social;152,92;152.920 €;
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;924,08;924.080 €;10
-22;Material, suministros y otros;586,58;586.580 €;18
-22601;Atenciones protocolarias y representativas;5;5.000 €;56
-23;Indemnizaciones por razón del servicio;337,5;337.500 €;
-—;TOTAL 33.04;4.460,11;4.460.110 €;1.816,34
-;;TOTAL Dirección y Servicios Generales de Transformación Digital;31.047,97;31.047.970
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
- ; ;;;
- ; ;;;
-;;;;
+Económica;Explicación;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;10.203,15;10.203.150,00
+10;Altos cargos;208,56;208.560,00
+11;Personal eventual;521,72;521.720,00
+12;Funcionarios;6.443,18;6.443.180,00
+13;Laborales;229,44;229.440,00
+15;Incentivos al rendimiento;1.854,71;1.854.710,00
+150;Productividad;1.847,32;1.847.320,00
+151;Gratificaciones;7,39;7.390,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;945,54;945.540,00
+16000;Seguridad Social;637,04;637.040,00
+16200;Formación y perfeccionamiento del personal;65;65.000,00
+16201;Economatos y comedores;22,5;22.500,00
+16204;Acción social;200;200.000,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;8.297,23;8.297.230,00
+20;Arrendamientos y cánones;645;645.000,00
+202;Arrendamientos de edificios y otras construcciones;640;640.000,00
+21;Reparaciones, mantenimiento y conservación;342,62;342.620,00
+22;Material, suministros y otros;7.163,61;7.163.610,00
+22502;Locales;589,54;589.540,00
+22601;Atenciones protocolarias y representativas;10;10.000,00
+23;Indemnizaciones por razón del servicio;146;146.000,00
+6;INVERSIONES REALES;2.254,08;2.254.080,00
+8;ACTIVOS FINANCIEROS;12,22;12.220,00
+83;Concesión de préstamos fuera del Sector Público;12,22;12.220,00
+830;Préstamos a corto plazo;1,63;1.630,00
+831;Préstamos a largo plazo;10,59;10.590,00
+—;TOTAL 33.01;20.766,68;20.766.680,00
+1;GASTOS DE PERSONAL;1.760,34;1.760.340,00
+10;Altos cargos;61,04;61.040,00
+12;Funcionarios;1.451,53;1.451.530,00
+13;Laborales;46,28;46.280,00
+16;Seguridad Social;201,49;201.490,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;56;56.000,00
+22;Material, suministros y otros;28;28.000,00
+22601;Atenciones protocolarias y representativas;1;1.000,00
+23;Indemnizaciones por razón del servicio;10;10.000,00
+24;Gastos de publicaciones;18;18.000,00
+—;TOTAL 33.02;1.816,34;1.816.340,00
+1;GASTOS DE PERSONAL;2.046,31;2.046.310,00
+10;Altos cargos;80,3;80.300,00
+11;Personal eventual;270,97;270.970,00
+12;Funcionarios;445,77;445.770,00
+15;Incentivos al rendimiento;1.090,65;1.090.650,00
+150;Productividad;1.064,57;1.064.570,00
+151;Gratificaciones;26,08;26.080,00
+16;Seguridad Social;158,62;158.620,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.958,53;1.958.530,00
+20;Arrendamientos y cánones;120;120.000,00
+22;Material, suministros y otros;1.500,65;1.500.650,00
+22601;Atenciones protocolarias y representativas;3;3.000,00
+23;Indemnizaciones por razón del servicio;337,88;337.880,00
+—;TOTAL 33.03;4.004,84;4.004.840,00
+1;GASTOS DE PERSONAL;3.536,03;3.536.030,00
+10;Altos cargos;141,34;141.340,00
+11;Personal eventual;262,18;262.180,00
+12;Funcionarios;937,41;937.410,00
+15;Productividad;2.042,18;2.042.180,00
+16;Seguridad Social;152,92;152.920,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;924,08;924.080,00
+22;Material, suministros y otros;586,58;586.580,00
+22601;Atenciones protocolarias y representativas;5;5.000,00
+23;Indemnizaciones por razón del servicio;337,5;337.500,00
+—;TOTAL 33.04;4.460,11;4.460.110,00
+;TOTAL Dirección y Servicios Generales de Transformación Digital;31.047,97;31.047.970,00
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+ ; ;;
+ ; ;;

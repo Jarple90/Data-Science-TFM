@@ -1,4 +1,4 @@
-Económica;Explicación;26.105 (mil €);Total (mil €);Total (€)
+Económica;Explicación;26.105;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;2.930,47;2.930,47;2.930.470,00
 10;Altos cargos;61,04;61,04;61.040,00
 12;Funcionarios;2.076,79;2.076,79;2.076.790,00
@@ -14,16 +14,6 @@ Económica;Explicación;26.105 (mil €);Total (mil €);Total (€)
 6;INVERSIONES REALES;267,55;267,55;267.550,00
 62;Inversión nueva asociada al funcionamiento operativo de los servicios;248,23;248,23;248.230,00
 63;Inversión de reposición asociada al funcionamiento operativo de los servicios;19,32;19,32;19.320,00
-8;ACTIVOS FINANCIEROS;25,00;25;25.000,00
+8;ACTIVOS FINANCIEROS;25;25;25.000,00
 83;Concesión de préstamos fuera del Sector Público;25;25;25.000,00
 ;TOTAL PROGRAMA 313D – Donación y Trasplante de Órganos, Tejidos y Células;—;6.456,76;6.456.760,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

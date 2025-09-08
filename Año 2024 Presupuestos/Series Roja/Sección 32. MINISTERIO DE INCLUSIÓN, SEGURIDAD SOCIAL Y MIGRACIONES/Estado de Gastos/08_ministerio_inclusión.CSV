@@ -1,56 +1,32 @@
-Capítulo;Código Económico;Explicación;Total (miles €);Total (€ reales)
-1;10;Altos cargos;122,06;122.060 €
-;12;Funcionarios;7.206,90;7.206.900 €
-;13;Laborales;7.935,75;7.935.750 €
-;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;2.946,93;2.946.930 €
-;16000;Seguridad Social (detalle de la partida 16);2.946,93;2.946.930 €
-;—;TOTAL GASTOS DE PERSONAL;18.211,64;18.211.640 €
-2;20;Arrendamientos y cánones;75,18;75.180 €
-;202;Arrendamientos de edificios y otras construcciones;41,8;41.800 €
-;21;Reparaciones, mantenimiento y conservación;1.447,83;1.447.830 €
-;22;Material, suministros y otros;687.712,86;687.712.860 €
-;22502;Locales (detalle de la partida 22);26,2;26.200 €
-;23;Indemnizaciones por razón del servicio;425,34;425.340 €
+Capítulo;Económica;Explicación;Total (miles euros);Total (euros)
+1;10;Altos cargos;122,06;122.060,00
+;12;Funcionarios;7.206,90;7.206.900,00
+;13;Laborales;7.935,75;7.935.750,00
+;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;2.946,93;2.946.930,00
+;16000;Seguridad Social (detalle de la partida 16);2.946,93;2.946.930,00
+;—;TOTAL GASTOS DE PERSONAL;18.211,64;18.211.640,00
+2;20;Arrendamientos y cánones;75,18;75.180,00
+;202;Arrendamientos de edificios y otras construcciones;41,8;41.800,00
+;21;Reparaciones, mantenimiento y conservación;1.447,83;1.447.830,00
+;22;Material, suministros y otros;687.712,86;687.712.860,00
+;22502;Locales (detalle de la partida 22);26,2;26.200,00
+;23;Indemnizaciones por razón del servicio;425,34;425.340,00
 ;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;689.661,21;689.661.210,00
 3;35;Intereses de demora y otros gastos financieros;200;200.000,00
 ;352;Intereses de demora (detalle de la partida 35);200;200.000,00
-;—;TOTAL GASTOS FINANCIEROS;200,00;200.000 €
+;—;TOTAL GASTOS FINANCIEROS;200;200.000,00
 4;45;A Comunidades Autónomas;15;15.000,00
-;451;Atención a refugiados ucranianos fuera del sistema de acogida;10;10.000 €
-;452;Gastos sociales derivados de la crisis de Ucrania;5;5.000 €
-;48;A familias e instituciones sin fines de lucro;32.025,00;32.025.000 €
-;483;Acciones en el ámbito migratorio;2.000,00;2.000.000 €
+;451;Atención a refugiados ucranianos fuera del sistema de acogida;10;10.000,00
+;452;Gastos sociales derivados de la crisis de Ucrania;5;5.000,00
+;48;A familias e instituciones sin fines de lucro;32.025,00;32.025.000,00
+;483;Acciones en el ámbito migratorio;2.000,00;2.000.000,00
 ;484;Ayudas y subvenciones en favor de inmigrantes y refugiados;30.025,00;30.025.000,00
 ;48409;Subvenciones a ACNUR para programas de refugiados e inmigrantes;100;100.000,00
-;49;Al exterior;4.000,00;4.000.000 €
-;490;Transferencias corrientes al exterior para inmigración y protección internacional;4.000,00;4.000.000 €
+;49;Al exterior;4.000,00;4.000.000,00
+;490;Transferencias corrientes al exterior para inmigración y protección internacional;4.000,00;4.000.000,00
 ;—;TOTAL TRANSFERENCIAS CORRIENTES;36.040,00;36.040.000,00
-6;—;Inversiones reales;1.000,00;1.000.000 €
-7;78;A familias e instituciones sin fines de lucro;300;300.000 €
-;780;Transferencias de capital a familias e instituciones sin fines de lucro;300;300.000 €
-;—;TOTAL TRANSFERENCIAS DE CAPITAL;300;300.000 €
-—;—;TOTAL PROGRAMA 231H – Acciones en favor de los inmigrantes;745.412,85;745.412.850 €
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+6;—;Inversiones reales;1.000,00;1.000.000,00
+7;78;A familias e instituciones sin fines de lucro;300;300.000,00
+;780;Transferencias de capital a familias e instituciones sin fines de lucro;300;300.000,00
+;—;TOTAL TRANSFERENCIAS DE CAPITAL;300;300.000,00
+—;—;TOTAL PROGRAMA 231H – Acciones en favor de los inmigrantes;745.412,85;745.412.850,00

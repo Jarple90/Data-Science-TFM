@@ -1,4 +1,4 @@
-Orgánica;Económica;Explicación;Total (K€);Total (€)
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
 29.01;10;Altos cargos;208,56;208.560,00
 29.01;11;Personal eventual;517,75;517.750,00
 29.01;12;Funcionarios;9.640,93;9.640.930,00
@@ -15,7 +15,7 @@ Orgánica;Económica;Explicación;Total (K€);Total (€)
 29.01;202;Arrendamientos de edificios y otras construcciones;1.023,99;1.023.990,00
 29.01;21;Reparaciones, mantenimiento y conservación;465,86;465.860,00
 29.01;22;Material, suministros y otros;5.892,63;5.892.630,00
-29.01;22109;Labores Fábrica Nacional Moneda y Timbre;0,54;540,00
+29.01;22109;Labores Fábrica Nacional Moneda y Timbre;0,54;540
 29.01;22502;Locales;1.250,00;1.250.000,00
 29.01;22601;Atenciones protocolarias y representativas;63,06;63.060,00
 29.01;23;Indemnizaciones por razón del servicio;327,95;327.950,00
@@ -44,28 +44,3 @@ Orgánica;Económica;Explicación;Total (K€);Total (€)
  ; ;Secretaría General Técnica (29.02);2.291,27;2.291.270,00
 ;;Total General Programa 239N;29.585,96;29.585.960,00
  ; ;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

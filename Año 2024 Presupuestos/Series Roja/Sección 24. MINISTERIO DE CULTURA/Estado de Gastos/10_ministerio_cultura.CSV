@@ -1,101 +1,50 @@
-Orgánica;Económica;Explicación;Total (mil €);Total (€)
-24.03;12;Funcionarios;1.977,36;1.977.360
-24.03;13;Laborales;35,11;35.110
-24.03;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;370,89;370.890
-24.03;—;TOTAL GASTOS DE PERSONAL;2.383,36;2.383.360
-24.03;20;Arrendamientos y cánones;1;1.000
-24.03;21;Reparaciones, mantenimiento y conservación;235;235.000
-24.03;22;Material, suministros y otros;1.322,76;1.322.760
-24.03;22502;Locales;15;15.000
-24.03;23;Indemnizaciones por razón del servicio;14,75;14.750
-24.03;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.573,51;1.573.510
-24.03;45;A Comunidades Autónomas;450;450.000
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+24.03;12;Funcionarios;1.977,36;1.977.360,00
+24.03;13;Laborales;35,11;35.110,00
+24.03;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;370,89;370.890,00
+24.03;—;TOTAL GASTOS DE PERSONAL;2.383,36;2.383.360,00
+24.03;20;Arrendamientos y cánones;1;1.000,00
+24.03;21;Reparaciones, mantenimiento y conservación;235;235.000,00
+24.03;22;Material, suministros y otros;1.322,76;1.322.760,00
+24.03;22502;Locales;15;15.000,00
+24.03;23;Indemnizaciones por razón del servicio;14,75;14.750,00
+24.03;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.573,51;1.573.510,00
+24.03;45;A Comunidades Autónomas;450;450.000,00
 24.03;451;Catálogo Colectivo del Patrimonio Bibliográfico Español;95;95.000,00
-24.03;454;Patrimonio Bibliográfico Español y Digital;355;355.000
-24.03;46;A Entidades Locales;100;100.000
-24.03;463;Preservación del Patrimonio Digital;100;100.000
+24.03;454;Patrimonio Bibliográfico Español y Digital;355;355.000,00
+24.03;46;A Entidades Locales;100;100.000,00
+24.03;463;Preservación del Patrimonio Digital;100;100.000,00
 24.03;48;A familias e instituciones sin fines de lucro;239;239.000,00
-24.03;480;Ayudas a entidades privadas y reales academias;100;100.000
-24.03;484;Ayudas a instituciones y asociaciones profesionales;139;139.000
-24.03;48406–48408;FESABID, ANABAD, SEDIC;139;139.000
-24.03;49;Al exterior;51,45;51.450
+24.03;480;Ayudas a entidades privadas y reales academias;100;100.000,00
+24.03;484;Ayudas a instituciones y asociaciones profesionales;139;139.000,00
+24.03;48406–48408;FESABID, ANABAD, SEDIC;139;139.000,00
+24.03;49;Al exterior;51,45;51.450,00
 24.03;491;Cuotas a organismos internacionales;51,45;51.450,00
-24.03;—;TOTAL TRANSFERENCIAS CORRIENTES;840,45;840.450
-24.03;6;INVERSIONES REALES;2.286,15;2.286.150
+24.03;—;TOTAL TRANSFERENCIAS CORRIENTES;840,45;840.450,00
+24.03;6;INVERSIONES REALES;2.286,15;2.286.150,00
 24.03;—;TOTAL DIRECCIÓN GENERAL DEL LIBRO, DEL CÓMIC Y DE LA LECTURA;7.083,47;7.083.470,00
-24.104;15;Incentivos al rendimiento;1.186,20;1.186.200
-24.104;16000;Seguridad Social;1.884,27;1.884.270
-24.104;16200;Formación y perfeccionamiento del personal;45,73;45.730
-24.104;16204;Acción social;84;84.000
-24.104;—;TOTAL GASTOS DE PERSONAL;17.226,78;17.226.780
-24.104;22502;Locales;48;48.000
-24.104;22601;Atenciones protocolarias y representativas;1,87;1.870
-24.104;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;10.262,95;10.262.950
-24.104;48;A familias e instituciones sin fines de lucro;570,84;570.840
-24.104;480–48203;Premios, becas, cuotas nacionales;559;559.000
-24.104;489;Otras ayudas y subvenciones;12;12.000
-24.104;49;Al exterior;90,33;90.330
-24.104;492;Cuotas internacionales;90,33;90.330
-24.104;—;TOTAL TRANSFERENCIAS CORRIENTES;661,17;661.170
-24.104;6;INVERSIONES REALES;6.094,18;6.094.180
-24.104;83;Concesión de préstamos fuera del Sector Público;63;63.000
-24.104;830–831;Préstamos a corto y largo plazo;63;63.000
+24.104;15;Incentivos al rendimiento;1.186,20;1.186.200,00
+24.104;16000;Seguridad Social;1.884,27;1.884.270,00
+24.104;16200;Formación y perfeccionamiento del personal;45,73;45.730,00
+24.104;16204;Acción social;84;84.000,00
+24.104;—;TOTAL GASTOS DE PERSONAL;17.226,78;17.226.780,00
+24.104;22502;Locales;48;48.000,00
+24.104;22601;Atenciones protocolarias y representativas;1,87;1.870,00
+24.104;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;10.262,95;10.262.950,00
+24.104;48;A familias e instituciones sin fines de lucro;570,84;570.840,00
+24.104;480–48203;Premios, becas, cuotas nacionales;559;559.000,00
+24.104;489;Otras ayudas y subvenciones;12;12.000,00
+24.104;49;Al exterior;90,33;90.330,00
+24.104;492;Cuotas internacionales;90,33;90.330,00
+24.104;—;TOTAL TRANSFERENCIAS CORRIENTES;661,17;661.170,00
+24.104;6;INVERSIONES REALES;6.094,18;6.094.180,00
+24.104;83;Concesión de préstamos fuera del Sector Público;63;63.000,00
+24.104;830–831;Préstamos a corto y largo plazo;63;63.000,00
 24.104;—;TOTAL BIBLIOTECA NACIONAL DE ESPAÑA;34.308,08;34.308.080,00
-24.105;22502;Locales;5;5.000
+24.105;22502;Locales;5;5.000,00
 24.105;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;40;40.000,00
-24.105;352;Intereses de demora;1;1.000
-24.105;—;TOTAL GASTOS FINANCIEROS;1;1.000
-24.105;6;INVERSIONES REALES;23.685,00;23.685.000
-24.105;—;TOTAL GERENCIA DE INFRAESTRUCTURAS Y EQUIPAMIENTOS DE CULTURA;23.726,00;23.726.000
-—;—;TOTAL PROGRAMA 332B – Bibliotecas;65.117,55;65.117.550
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+24.105;352;Intereses de demora;1;1.000,00
+24.105;—;TOTAL GASTOS FINANCIEROS;1;1.000,00
+24.105;6;INVERSIONES REALES;23.685,00;23.685.000,00
+24.105;—;TOTAL GERENCIA DE INFRAESTRUCTURAS Y EQUIPAMIENTOS DE CULTURA;23.726,00;23.726.000,00
+—;—;TOTAL PROGRAMA 332B – Bibliotecas;65.117,55;65.117.550,00

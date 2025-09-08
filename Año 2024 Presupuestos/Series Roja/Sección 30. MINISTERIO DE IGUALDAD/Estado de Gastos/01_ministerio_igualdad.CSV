@@ -1,4 +1,4 @@
-Económica;Explicación;30.02 (K€);30.101 (K€);Total (K€);Total (€)
+Económica;Explicación;30.02 ;30.101;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;1.275,93;6.353,48;7.629,41;7.629.410,00
 10;Altos cargos;80,3;61,04;141,34;141.340,00
 11;Personal eventual;253,23;—;253,23;253.230,00
@@ -12,28 +12,18 @@ Económica;Explicación;30.02 (K€);30.101 (K€);Total (K€);Total (€)
 21;Reparaciones, mantenimiento y conservación;—;367,68;367,68;367.680,00
 22;Material, suministros y otros;4.730,00;8.282,29;13.012,29;13.012.290,00
 23;Indemnizaciones por razón del servicio;74,54;150,1;224,64;224.640,00
-24;Gastos de publicaciones;—;200,00;200,00;200.000,00
+24;Gastos de publicaciones;—;200;200;200.000,00
 4;TRANSFERENCIAS CORRIENTES;191.000,00;7.629,00;198.629,00;198.629.000,00
 44;A Sociedades, Entidades Públicas, Fundaciones, Sector Público Estatal;—;200;200;200.000,00
 45;A Comunidades Autónomas;190.000,00;1.100,00;191.100,00;191.100.000,00
 48;A familias e instituciones sin fines de lucro;1.000,00;6.325,00;7.325,00;7.325.000,00
-49;Al exterior;—;4,00;4,00;4.000,00
+49;Al exterior;—;4;4;4.000,00
 6;INVERSIONES REALES;7.000,00;3.154,75;10.154,75;10.154.750,00
 62;Inversión nueva asociada al funcionamiento operativo;—;344,75;344,75;344.750,00
-63;Inversión de reposición asociada al funcionamiento operativo;—;600,00;600,00;600.000,00
+63;Inversión de reposición asociada al funcionamiento operativo;—;600;600;600.000,00
 64;Gastos de inversiones de carácter inmaterial;7.000,00;2.210,00;9.210,00;9.210.000,00
 7;TRANSFERENCIAS DE CAPITAL;—;100;100;100.000,00
-76;A Entidades Locales;—;100,00;100,00;100.000,00
+76;A Entidades Locales;—;100;100;100.000,00
 8;ACTIVOS FINANCIEROS;—;23,71;23,71;23.710,00
 83;Concesión de préstamos fuera del Sector Público;—;23,71;23,71;23.710,00
 —;TOTAL GENERAL PROGRAMA 232B;204.080,47;27.511,01;231.591,48;231.591.480,00
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;

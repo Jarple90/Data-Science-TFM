@@ -1,19 +1,9 @@
-Económica;Explicación;28.50 (MRR);28.103 (CIEMAT);28.107 (ISCIII);28.301 (CSIC);28.303 (AEI);Total (€)
-2;Gastos corrientes en bienes y servicios;—;—;66,39;—;—;66.390,00
-29;Gastos corrientes – Mecanismo de Recuperación y Resiliencia;—;—;66,39;—;—;66.390,00
-6;Inversiones reales;—;91,32;—;978,17;—;1.069.490,00
-69;Inversiones reales – Mecanismo de Recuperación y Resiliencia;—;91,32;—;978,17;—;1.069.490,00
-7;Transferencias de capital;100.000,00;—;—;—;341.431,65;441.431.650,00
-74;A entidades públicas estatales (CDTI, fundaciones, etc.);100.000,00;—;—;—;—;100.000.000,00
-75;A Comunidades Autónomas;—;—;—;—;341.431,65;341.431.650,00
-—;TOTAL PROGRAMA C17.I03;100.000,00;91,32;66,39;978,17;341.431,65;442.567.530,00
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
-;;;;;;;
+Económica;Explicación;28.50 ;28.103;28.107;28.301;28.303;Total (miles euros);Total (euros)
+2;Gastos corrientes en bienes y servicios;—;—;66,39;—;—;66,39;66.390,00
+29;Gastos corrientes – Mecanismo de Recuperación y Resiliencia;—;—;66,39;—;—;66,39;66.390,00
+6;Inversiones reales;—;91,32;—;978,17;—;1.069,49;1.069.490,00
+69;Inversiones reales – Mecanismo de Recuperación y Resiliencia;—;91,32;—;978,17;—;1.069,49;1.069.490,00
+7;Transferencias de capital;100.000,00;—;—;—;341.431,65;441.431,65;441.431.650,00
+74;A entidades públicas estatales (CDTI, fundaciones, etc.);100.000,00;—;—;—;—;100.000,00;100.000.000,00
+75;A Comunidades Autónomas;—;—;—;—;341.431,65;341.431,65;341.431.650,00
+—;TOTAL PROGRAMA C17.I03;100.000,00;91,32;66,39;978,17;341.431,65;442.567,53;442.567.530,00

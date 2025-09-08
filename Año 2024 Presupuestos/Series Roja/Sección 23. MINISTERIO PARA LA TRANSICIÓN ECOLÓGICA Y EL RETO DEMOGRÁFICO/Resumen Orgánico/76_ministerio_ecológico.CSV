@@ -1,50 +1,40 @@
-Clasificación;Explicación;Estado (mil €);OO.AA. (mil €);R. Entidades (mil €);Total (mil €);Total (€)
-42AB;Incentivos electromovilidad e hidrógeno verde;455.000,00;–;–;455.000,00;455.000.000
-42BC;Rehabilitación energética de edificios (PREE);300.000,00;–;–;300.000,00;300.000.000
-42BD;Regeneración y reto demográfico;225.000,00;–;–;225.000,00;225.000.000
-42GA;Energías renovables innovadoras;780.000,00;–;–;780.000,00;780.000.000
-42GB;Energía sostenible en las islas;25.000,00;–;–;25.000,00;25.000.000
-42HA;Almacenamiento energético;93.747,41;–;–;93.747,41;93.747.410
-42HB;Digitalización de redes;150.000,00;–;–;150.000,00;150.000.000
-42HC;Nuevos modelos de negocio;56.000,00;–;–;56.000,00;56.000.000
-42IA;Hidrógeno renovable;672.817,00;–;–;672.817,00;672.817.000
-42JA;Inversiones en transición justa;–;169.252,59;–;169.252,59;169.252.590
-42KD;Transición energética AGE;1.346,60;–;–;1.346,60;1.346.600
-423N;Explotación minera;14.409,04;–;–;14.409,04;14.409.040
-424M;Seguridad nuclear;–;–;47.931,69;47.931,69;47.931.690
-425A;Normativa y desarrollo energético;825.966,42;–;–;825.966,42;825.966.420
-45DA;Digitalización patrimonio natural;48.339,06;1.489,35;–;49.828,41;49.828.410
-45DB;Conservación biodiversidad;72.680,61;81.634,07;–;154.314,68;154.314.680
-45DC;Restauración ecosistemas;82.610,10;12.069,11;–;94.679,21;94.679.210
-45DD;Gestión forestal sostenible;91.006,41;6.333,62;–;97.340,03;97.340.030
-45EA;Actuaciones DSEAR;187.000,00;–;–;187.000,00;187.000.000
-45EB;Restauración fluvial y acuíferos;492.980,19;5.000,00;–;497.980,19;497.980.190
-45EC;Transición digital agua;370.000,00;–;–;370.000,00;370.000.000
-45ED;Adaptación costa y estrategias marinas;136.733,33;–;–;136.733,33;136.733.330
-45LC;Normativa residuos y economía circular;250.000,00;–;–;250.000,00;250.000.000
-45SA;Competencias digitales transición ecológica;90.000,00;–;–;90.000,00;90.000.000
-451O;Dirección y servicios generales;113.240,45;–;–;113.240,45;113.240.450
-452A;Gestión e infraestructuras del agua;296.196,51;990.854,29;–;1.287.050,80;1.287.050.800
-452M;Normativa recursos hídricos;396.494,97;–;–;396.494,97;396.494.970
-456A;Calidad del agua;213.257,42;51.432,94;–;264.690,36;264.690.360
-456B;Mejora del medio ambiente;25.174,88;–;–;25.174,88;25.174.880
-456C;Mejora del medio natural;224.737,42;60.315,60;–;285.053,02;285.053.020
-456D;Actuación en la costa;96.655,45;–;–;96.655,45;96.655.450
-456E;Reto demográfico;71.645,08;–;–;71.645,08;71.645.080
-456M;Prevención contaminación y cambio climático;28.647,15;–;–;28.647,15;28.647.150
-456N;Transición justa;–;332.133,18;–;332.133,18;332.133.180
-49EC;Transición digital agua – otras actuaciones;83.457,32;–;2.500,00;85.957,32;85.957.320
-495B;Meteorología;–;–;131.258,14;131.258,14;131.258.140
-TOTAL CONSOLIDADO;—;6.970.142,82;1.710.514,75;181.689,83;8.862.347,40;8.862.347.400
-000X;Transferencias internas;4.331.979,07;5.898,10;968,31;4.338.845,48;4.338.845.480
-TOTAL GENERAL;—;11.302.121,89;1.716.412,85;182.658,14;13.201.192,88;13.201.192.880
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
+Clasificación por programas;Explicación;Estado ;OO.AA. ;Resto Entidades ;Total (miles euros);Total (euros)
+42AB;Incentivos electromovilidad e hidrógeno verde;455.000,00;–;–;455.000,00;455.000.000,00
+42BC;Rehabilitación energética de edificios (PREE);300.000,00;–;–;300.000,00;300.000.000,00
+42BD;Regeneración y reto demográfico;225.000,00;–;–;225.000,00;225.000.000,00
+42GA;Energías renovables innovadoras;780.000,00;–;–;780.000,00;780.000.000,00
+42GB;Energía sostenible en las islas;25.000,00;–;–;25.000,00;25.000.000,00
+42HA;Almacenamiento energético;93.747,41;–;–;93.747,41;93.747.410,00
+42HB;Digitalización de redes;150.000,00;–;–;150.000,00;150.000.000,00
+42HC;Nuevos modelos de negocio;56.000,00;–;–;56.000,00;56.000.000,00
+42IA;Hidrógeno renovable;672.817,00;–;–;672.817,00;672.817.000,00
+42JA;Inversiones en transición justa;–;169.252,59;–;169.252,59;169.252.590,00
+42KD;Transición energética AGE;1.346,60;–;–;1.346,60;1.346.600,00
+423N;Explotación minera;14.409,04;–;–;14.409,04;14.409.040,00
+424M;Seguridad nuclear;–;–;47.931,69;47.931,69;47.931.690,00
+425A;Normativa y desarrollo energético;825.966,42;–;–;825.966,42;825.966.420,00
+45DA;Digitalización patrimonio natural;48.339,06;1.489,35;–;49.828,41;49.828.410,00
+45DB;Conservación biodiversidad;72.680,61;81.634,07;–;154.314,68;154.314.680,00
+45DC;Restauración ecosistemas;82.610,10;12.069,11;–;94.679,21;94.679.210,00
+45DD;Gestión forestal sostenible;91.006,41;6.333,62;–;97.340,03;97.340.030,00
+45EA;Actuaciones DSEAR;187.000,00;–;–;187.000,00;187.000.000,00
+45EB;Restauración fluvial y acuíferos;492.980,19;5.000,00;–;497.980,19;497.980.190,00
+45EC;Transición digital agua;370.000,00;–;–;370.000,00;370.000.000,00
+45ED;Adaptación costa y estrategias marinas;136.733,33;–;–;136.733,33;136.733.330,00
+45LC;Normativa residuos y economía circular;250.000,00;–;–;250.000,00;250.000.000,00
+45SA;Competencias digitales transición ecológica;90.000,00;–;–;90.000,00;90.000.000,00
+451O;Dirección y servicios generales;113.240,45;–;–;113.240,45;113.240.450,00
+452A;Gestión e infraestructuras del agua;296.196,51;990.854,29;–;1.287.050,80;1.287.050.800,00
+452M;Normativa recursos hídricos;396.494,97;–;–;396.494,97;396.494.970,00
+456A;Calidad del agua;213.257,42;51.432,94;–;264.690,36;264.690.360,00
+456B;Mejora del medio ambiente;25.174,88;–;–;25.174,88;25.174.880,00
+456C;Mejora del medio natural;224.737,42;60.315,60;–;285.053,02;285.053.020,00
+456D;Actuación en la costa;96.655,45;–;–;96.655,45;96.655.450,00
+456E;Reto demográfico;71.645,08;–;–;71.645,08;71.645.080,00
+456M;Prevención contaminación y cambio climático;28.647,15;–;–;28.647,15;28.647.150,00
+456N;Transición justa;–;332.133,18;–;332.133,18;332.133.180,00
+49EC;Transición digital agua – otras actuaciones;83.457,32;–;2.500,00;85.957,32;85.957.320,00
+495B;Meteorología;–;–;131.258,14;131.258,14;131.258.140,00
+TOTAL CONSOLIDADO;—;6.970.142,82;1.710.514,75;181.689,83;8.862.347,40;8.862.347.400,00
+000X;Transferencias internas;4.331.979,07;5.898,10;968,31;4.338.845,48;4.338.845.480,00
+TOTAL GENERAL;—;11.302.121,89;1.716.412,85;182.658,14;13.201.192,88;13.201.192.880,00

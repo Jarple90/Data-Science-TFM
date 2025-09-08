@@ -1,4 +1,4 @@
-Orgánica;Económica;Explicación;Total (K€);Total (€)
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
 29.101;1;GASTOS DE PERSONAL;10.990,30;10.990.300,00
 29.101;12;Funcionarios;6.962,52;6.962.520,00
 29.101;13;Laborales;1.108,73;1.108.730,00
@@ -19,13 +19,3 @@ Orgánica;Económica;Explicación;Total (K€);Total (€)
 29.101;8;ACTIVOS FINANCIEROS;30;30.000,00
 29.101;83;Concesión de préstamos fuera del Sector Público;30;30.000,00
 ;;29.101;19.544,39;19.544.390,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

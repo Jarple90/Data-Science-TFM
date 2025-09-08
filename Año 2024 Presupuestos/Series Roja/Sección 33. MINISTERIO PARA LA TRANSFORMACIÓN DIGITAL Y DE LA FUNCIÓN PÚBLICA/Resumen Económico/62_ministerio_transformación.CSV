@@ -1,42 +1,34 @@
-Programa;Explicación;Cap. 1;Cap. 2;Cap. 3;Cap. 4;Cap. 6;Cap. 7;Cap. 8;Cap. 1 a 8;Total (€ reales)
-222M;Prestaciones económicas del Mutualismo Administrativo;31.536,02;6.455,30;137,03;278.889,32;3.290,86;—;180,3;320.488,83;320.488.830 €
-312E;Asistencia sanitaria del Mutualismo Administrativo;—;1.189.411,15;—;427.500,00;—;—;—;1.616.911,15;1.616.911.150 €
-46KA;Modernización AGE – I+D+i+Digitalización;—;—;—;—;—;233.393,17;—;233.393,17;233.393.170 €
-46LA;Espacios de datos sectoriales;—;—;—;—;—;400.000,00;—;400.000,00;400.000.000 €
-46MA;Emprendimiento – I+D+i+Digitalización;—;—;—;20.000,00;28.000,00;12.000,00;—;60.000,00;60.000.000 €
-46MC;Digitalización e Innovación I;—;—;—;31.000,00;1.291.000,00;—;—;1.322.000,00;1.322.000.000 €
-46NB;Digitalización turística;—;—;—;—;100.000,00;—;—;100.000,00;100.000.000 €
-46OA;Banda ancha ultrarrápida;—;—;—;—;256.000,00;—;—;256.000,00;256.000.000 €
-46OB;Refuerzo de conectividad;—;—;—;—;155.000,00;—;—;155.000,00;155.000.000 €
-46OC;Bonos de conectividad;—;—;—;—;10.000,00;—;—;10.000,00;10.000.000,00
-46OD;Renovación de infraestructuras;—;—;—;—;20.000,00;—;—;20.000,00;20.000.000,00
-46OE;Infraestructuras digitales transfronterizas;—;—;—;—;550.000,00;800.000,00;—;1.350.000,00;1.350.000.000,00
-46OG;Ciberseguridad;—;—;2.620,00;—;129.000,00;—;—;131.620,00;131.620.000,00
-46PR;Estrategia Nacional de IA;—;—;—;5.400,00;81.200,00;—;—;86.600,00;86.600.000,00
-46RF;Data lake sanitario;—;—;—;65.000,00;—;—;—;65.000,00;65.000.000,00
-46SA;Competencias digitales transversales;—;—;2.000,00;—;24.000,00;—;—;26.000,00;26.000.000,00
-46SD;Profesionales digitales;—;—;—;5.000,00;—;—;—;5.000,00;5.000.000,00
-46UE;Digitalización universitaria;—;—;—;—;10.000,00;—;—;10.000,00;10.000.000,00
-461N;Dirección y Servicios Generales de Transformación Digital;17.545,83;11.235,84;—;—;2.254,08;—;12,22;31.047,97;31.047.970,00
-467G;Investigación y desarrollo de la Sociedad de la Información;16.934,02;21.976,86;—;187,84;22.507,34;11.100,00;16.000,00;88.706,06;88.706.060,00
-467I;Innovación tecnológica de las telecomunicaciones;2.699,98;—;—;2.545,00;18.203,11;30.800,00;149.825,40;204.073,49;204.073.490,00
-49OF;Despliegue del 5G;—;—;—;15.000,00;555.000,00;—;—;570.000,00;570.000.000,00
-49OS;Hoja de ruta 5G;—;—;—;1.000,00;30.000,00;—;—;31.000,00;31.000.000,00
-491M;Ordenación y promoción de las telecomunicaciones;17.278,47;—;—;2.714,78;15.260,69;250;2.000,00;37.503,94;37.503.940,00
-92KC;Transformación Digital AGE – Servicios generales;—;1.869,99;—;60,00;3.669,57;—;—;5.599,56;5.599.560,00
-921N;Dirección y organización de la Administración Pública;16.691,83;1.405,72;—;1.344,69;1.076,00;—;—;20.518,24;20.518.240,00
-921O;Formación del personal de las Administraciones Públicas;23.166,33;27.070,46;0,82;63.616,43;3.394,49;—;50;117.298,53;117.298.530,00
-921X;Evaluación de la transparencia de la actividad pública;2.463,70;824,68;1;10;77,00;—;3;3.379,38;3.379.380,00
-94KC;Transformación Digital CCAA y EELL;—;—;—;—;221.300,00;—;—;221.300,00;221.300.000,00
-TOTAL CONSOLIDADO;128.316,18;1.260.250,00;138,85;781.488,06;445.526,31;3.902.650,00;980.070,92;7.498.440,32;7.498.440,32;7.498.440.320,00
-000X – Transferencias y libramientos internos;—;—;—;29.055,34;—;5.282,95;—;34.338,29;34.338,29;34.338.290,00
-TOTAL TRANSFERENCIAS ENTRE SUBSECTORES;—;—;—;29.055,34;—;5.282,95;—;34.338,29;34.338,29;34.338.290,00
-TOTAL GENERAL;128.316,18;1.260.250,00;138,85;810.543,40;445.526,31;3.907.932,95;980.070,92;7.532.778,61;7.532.778,61;7.532.778.610,00
-;;;;;;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
-;;;;;;;;;;
+Clasificación por programas;Explicación;Cap. 1;Cap. 2;Cap. 3;Cap. 4;Cap. 6;Cap. 7;Cap. 8;Cap. 1 a 8;Total (miles euros);Total (euros)
+222M;Prestaciones económicas del Mutualismo Administrativo;31.536,02;6.455,30;137,03;278.889,32;3.290,86;—;180,3;320.488,83;320.488,83;320.488.830,00
+312E;Asistencia sanitaria del Mutualismo Administrativo;—;1.189.411,15;—;427.500,00;—;—;—;1.616.911,15;1.616.911,15;1.616.911.150,00
+46KA;Modernización AGE – I+D+i+Digitalización;—;—;—;—;—;233.393,17;—;233.393,17;233.393,17;233.393.170,00
+46LA;Espacios de datos sectoriales;—;—;—;—;—;400.000,00;—;400.000,00;400.000,00;400.000.000,00
+46MA;Emprendimiento – I+D+i+Digitalización;—;—;—;20.000,00;28.000,00;12.000,00;—;60.000,00;60.000,00;60.000.000,00
+46MC;Digitalización e Innovación I;—;—;—;31.000,00;1.291.000,00;—;—;1.322.000,00;1.322.000,00;1.322.000.000,00
+46NB;Digitalización turística;—;—;—;—;100.000,00;—;—;100.000,00;100.000,00;100.000.000,00
+46OA;Banda ancha ultrarrápida;—;—;—;—;256.000,00;—;—;256.000,00;256.000,00;256.000.000,00
+46OB;Refuerzo de conectividad;—;—;—;—;155.000,00;—;—;155.000,00;155.000,00;155.000.000,00
+46OC;Bonos de conectividad;—;—;—;—;10.000,00;—;—;10.000,00;10.000,00;10.000.000,00
+46OD;Renovación de infraestructuras;—;—;—;—;20.000,00;—;—;20.000,00;20.000,00;20.000.000,00
+46OE;Infraestructuras digitales transfronterizas;—;—;—;—;550.000,00;800.000,00;—;1.350.000,00;1.350.000,00;1.350.000.000,00
+46OG;Ciberseguridad;—;—;2.620,00;—;129.000,00;—;—;131.620,00;131.620,00;131.620.000,00
+46PR;Estrategia Nacional de IA;—;—;—;5.400,00;81.200,00;—;—;86.600,00;86.600,00;86.600.000,00
+46RF;Data lake sanitario;—;—;—;65.000,00;—;—;—;65.000,00;65.000,00;65.000.000,00
+46SA;Competencias digitales transversales;—;—;2.000,00;—;24.000,00;—;—;26.000,00;26.000,00;26.000.000,00
+46SD;Profesionales digitales;—;—;—;5.000,00;—;—;—;5.000,00;5.000,00;5.000.000,00
+46UE;Digitalización universitaria;—;—;—;—;10.000,00;—;—;10.000,00;10.000,00;10.000.000,00
+461N;Dirección y Servicios Generales de Transformación Digital;17.545,83;11.235,84;—;—;2.254,08;—;12,22;31.047,97;31.047,97;31.047.970,00
+467G;Investigación y desarrollo de la Sociedad de la Información;16.934,02;21.976,86;—;187,84;22.507,34;11.100,00;16.000,00;88.706,06;88.706,06;88.706.060,00
+467I;Innovación tecnológica de las telecomunicaciones;2.699,98;—;—;2.545,00;18.203,11;30.800,00;149.825,40;204.073,49;204.073,49;204.073.490,00
+49OF;Despliegue del 5G;—;—;—;15.000,00;555.000,00;—;—;570.000,00;570.000,00;570.000.000,00
+49OS;Hoja de ruta 5G;—;—;—;1.000,00;30.000,00;—;—;31.000,00;31.000,00;31.000.000,00
+491M;Ordenación y promoción de las telecomunicaciones;17.278,47;—;—;2.714,78;15.260,69;250;2.000,00;37.503,94;37.503,94;37.503.940,00
+92KC;Transformación Digital AGE – Servicios generales;—;1.869,99;—;60;3.669,57;—;—;5.599,56;5.599,56;5.599.560,00
+921N;Dirección y organización de la Administración Pública;16.691,83;1.405,72;—;1.344,69;1.076,00;—;—;20.518,24;20.518,24;20.518.240,00
+921O;Formación del personal de las Administraciones Públicas;23.166,33;27.070,46;0,82;63.616,43;3.394,49;—;50;117.298,53;117.298,53;117.298.530,00
+921X;Evaluación de la transparencia de la actividad pública;2.463,70;824,68;1;10;77;—;3;3.379,38;3.379,38;3.379.380,00
+94KC;Transformación Digital CCAA y EELL;—;—;—;—;221.300,00;—;—;221.300,00;221.300,00;221.300.000,00
+TOTAL CONSOLIDADO;128.316,18;1.260.250,00;138,85;781.488,06;445.526,31;3.902.650,00;980.070,92;7.498.440,32;7.498.440,32;7.498.440,32;7.498.440.320,00
+000X – Transferencias y libramientos internos;—;—;—;29.055,34;—;5.282,95;—;34.338,29;34.338,29;34.338,29;34.338.290,00
+TOTAL TRANSFERENCIAS ENTRE SUBSECTORES;—;—;—;29.055,34;—;5.282,95;—;34.338,29;34.338,29;34.338,29;34.338.290,00
+TOTAL GENERAL;128.316,18;1.260.250,00;138,85;810.543,40;445.526,31;3.907.932,95;980.070,92;7.532.778,61;7.532.778,61;7.532.778,61;7.532.778.610,00

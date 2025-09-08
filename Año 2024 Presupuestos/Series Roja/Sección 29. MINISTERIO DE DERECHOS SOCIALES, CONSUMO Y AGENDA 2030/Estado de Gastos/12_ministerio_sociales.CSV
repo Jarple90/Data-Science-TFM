@@ -1,4 +1,4 @@
-Orgánica;Económica;Explicación;Total (K€);Total (€)
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
 29.10;10;Altos cargos;61,04;61.040,00
 29.10;12;Funcionarios;1.767,90;1.767.900,00
 29.10;13;Laborales;283,21;283.210,00
@@ -47,4 +47,3 @@ Orgánica;Económica;Explicación;Total (K€);Total (€)
 ;;;;
  ;;;;
  ;;;;
-;;;;

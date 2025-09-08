@@ -1,4 +1,4 @@
-Económica;Explicación;25.09 (mil €);25.10 (mil €);Total (mil €);Total (€)
+Económica;Explicación;25.09 ;25.10;Total (miles euros);Total (euros)
 1;Gastos de personal;341,85;492,39;834,24;834.240,00
 12;Funcionarios;299,35;437,39;736,74;736.740,00
 16;Cuotas, prestaciones y gastos sociales a cargo del empleador;42,5;55;97,5;97.500,00
@@ -15,13 +15,3 @@ Económica;Explicación;25.09 (mil €);25.10 (mil €);Total (mil €);Total (€)
 78;A familias e instituciones sin fines de lucro;225;190;415;415.000,00
 79;Al exterior;—;110;110;110.000,00
 —;TOTAL PROGRAMA 261P – Urbanismo y política del suelo;5.270,69;1.451,39;6.722,08;6.722.080,00
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;

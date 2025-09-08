@@ -1,4 +1,4 @@
-Económica;Explicación;26.01 (mil €);26.02 (mil €);Total (mil €);Total (€)
+Económica;Explicación;26.01 ;26.02 ;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;26.789,68;3.300,27;30.089,95;30.089.950,00
 10;Altos cargos;208,56;61,04;269,6;269.600,00
 11;Personal eventual;528;—;528;528.000,00
@@ -16,21 +16,11 @@ Económica;Explicación;26.01 (mil €);26.02 (mil €);Total (mil €);Total (€)
 44;A entidades del Sector Público Estatal;—;772,06;772,06;772.060,00
 49;Al exterior;—;1.581,00;1.581,00;1.581.000,00
 6;INVERSIONES REALES;2.027,74;6,8;2.034,54;2.034.540,00
-62;Inversión nueva asociada al funcionamiento operativo de los servicios;161,40;6,8;168,20;168.200,00
+62;Inversión nueva asociada al funcionamiento operativo de los servicios;161,4;6,8;168,2;168.200,00
 63;Inversión de reposición asociada al funcionamiento operativo de los servicios;1.666,34;—;1.666,34;1.666.340,00
 64;Gastos de inversiones de carácter inmaterial;200;—;200;200.000,00
 7;TRANSFERENCIAS DE CAPITAL;—;24,92;24,92;24.920,00
 74;A entidades del Sector Público Estatal;—;24,92;24,92;24.920,00
 8;ACTIVOS FINANCIEROS;40,5;—;40,5;40.500,00
-83;Concesión de préstamos fuera del Sector Público;40,5;—;40,50;40.500,00
+83;Concesión de préstamos fuera del Sector Público;40,5;—;40,5;40.500,00
 ;TOTAL PROGRAMA 311M – Dirección y Servicios Generales de Sanidad;33.564,55;6.474,38;40.038,93;40.038.930,00
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;

@@ -1,20 +1,11 @@
-Clasif. por programas;Explicación;Estado (mil €);OO.AA. (mil €);R.Entidades (mil €);Total (mil €);Total (€)
-231A;Plan Nacional sobre Drogas;15.111,84;0;0;15.111,84;15.111.840,00
-311M;Dirección y Servicios Generales de Sanidad;40.038,93;0;0;40.038,93;40.038.930,00
-311O;Políticas de Salud y Ordenación Profesional;7.805,72;0;0;7.805,72;7.805.720,00
-313A;Prestaciones sanitarias y farmacia;147.492,30;0;58.762,62;206.254,92;206.254.920,00
-313B;Salud pública, sanidad exterior y calidad;717.153,09;0;0;717.153,09;717.153.090,00
-313D;Donación y trasplante de órganos, tejidos y células;0;6.456,76;0;6.456,76;6.456.760,00
-313E;Salud Digital, Información e Innovación del Sistema Nacional de Salud;28.965,88;0;0;28.965,88;28.965.880,00
+Clasificación por programas;Explicación;Estado ;OO.AA.;Resto Entidades ;Total (miles euros);Total (euros)
+231A;Plan Nacional sobre Drogas;15.111,84;;;15.111,84;15.111.840,00
+311M;Dirección y Servicios Generales de Sanidad;40.038,93;;;40.038,93;40.038.930,00
+311O;Políticas de Salud y Ordenación Profesional;7.805,72;;;7.805,72;7.805.720,00
+313A;Prestaciones sanitarias y farmacia;147.492,30;;58.762,62;206.254,92;206.254.920,00
+313B;Salud pública, sanidad exterior y calidad;717.153,09;;;717.153,09;717.153.090,00
+313D;Donación y trasplante de órganos, tejidos y células;;6.456,76;;6.456,76;6.456.760,00
+313E;Salud Digital, Información e Innovación del Sistema Nacional de Salud;28.965,88;;;28.965,88;28.965.880,00
 TOTAL CONSOLIDADO;;956.567,76;6.456,76;58.762,62;1.021.787,14;1.021.787.140,00
-000X;Transferencias y libramientos internos;315.391,47;0;21.763,26;337.154,73;337.154.730,00
+000X;Transferencias y libramientos internos;315.391,47;;21.763,26;337.154,73;337.154.730,00
 TOTAL GENERAL;;1.271.959,23;6.456,76;80.525,88;1.358.941,87;1.358.941.870,00
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;

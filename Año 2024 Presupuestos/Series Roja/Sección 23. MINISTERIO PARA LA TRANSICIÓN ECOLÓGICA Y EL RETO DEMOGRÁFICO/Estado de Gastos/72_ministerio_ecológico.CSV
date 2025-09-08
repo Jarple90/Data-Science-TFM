@@ -1,27 +1,27 @@
-Orgánica;Económica;Explicación;Total (mil €);Total (€)
-23.03;4;Transferencias corrientes;165.959,34;165.959.340
-;41;A Organismos Autónomos;165.559,34;165.559.340
-;410;Al Ciemat – Grandes Instalaciones;100;100.000
-;412;Al Instituto para la Transición Justa;165.459,34;165.459.340
-;43;A otras entidades del SPAE;400;400.000
-;436;Al Consejo de Seguridad Nuclear;400;400.000
-;7;Transferencias de capital;3.576.113,56;3.576.113.560
-;71;A Organismos Autónomos;61.321,81;61.321.810
-;712;Al Instituto para la Transición Justa;61.321,81;61.321.810
-;73;A otras entidades del SPAE;3.514.791,75;3.514.791.750
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+23.03;4;Transferencias corrientes;165.959,34;165.959.340,00
+;41;A Organismos Autónomos;165.559,34;165.559.340,00
+;410;Al Ciemat – Grandes Instalaciones;100;100.000,00
+;412;Al Instituto para la Transición Justa;165.459,34;165.459.340,00
+;43;A otras entidades del SPAE;400;400.000,00
+;436;Al Consejo de Seguridad Nuclear;400;400.000,00
+;7;Transferencias de capital;3.576.113,56;3.576.113.560,00
+;71;A Organismos Autónomos;61.321,81;61.321.810,00
+;712;Al Instituto para la Transición Justa;61.321,81;61.321.810,00
+;73;A otras entidades del SPAE;3.514.791,75;3.514.791.750,00
 ;730–739;Detalle CNMC, CSIC, IGME;—;—
 ;;Total Secretaría de Estado de Energía;3.742.072,90;3.742.072.900,00
-23.04;4;Transferencias corrientes;40.521,99;40.521.990
+23.04;4;Transferencias corrientes;40.521,99;40.521.990,00
 ;41;A Parques Nacionales;11.681,35;11.681.350,00
-;43;AEMET;28.840,64;28.840.640
-;7;Transferencias de capital;60.587,32;60.587.320
+;43;AEMET;28.840,64;28.840.640,00
+;7;Transferencias de capital;60.587,32;60.587.320,00
 ;71;A Parques Nacionales;26.128,66;26.128.660,00
-;73;AEMET;34.458,66;34.458.660
-;;Total Secretaría de Estado de Medio Ambiente;101.109,31;101.109.310
+;73;AEMET;34.458,66;34.458.660,00
+;;Total Secretaría de Estado de Medio Ambiente;101.109,31;101.109.310,00
 23.05;4;Transferencias corrientes;83.311,80;83.311.800,00
 ;410;Confederaciones Hidrográficas;—;—
 ;417;CEDEX;3.000,00;3.000.000,00
-;7;Transferencias de capital;66.820,00;66.820.000
+;7;Transferencias de capital;66.820,00;66.820.000,00
 ;710;Confederaciones Hidrográficas;—;—
 ;711;Patrimonio Nacional;500;500.000,00
 ;730;CSIC;1.000,00;1.000.000,00
@@ -29,173 +29,18 @@ Orgánica;Económica;Explicación;Total (mil €);Total (€)
 23.08;7;Transferencias de capital;2.215,56;2.215.560,00
 ;710–732;CIEMAT, ISCIII, CSIC;—;—
 ;;Total Calidad y Evaluación Ambiental;2.215,56;2.215.560,00
-23.11;7;Transferencias de capital;2.453,36;2.453.360
+23.11;7;Transferencias de capital;2.453,36;2.453.360,00
 ;730–733;CSIC – biodiversidad;—;—
-;;Total Biodiversidad, Bosques y Desertificación;2.453,36;2.453.360
-23.14;4;Transferencias corrientes;193,87;193.870
+;;Total Biodiversidad, Bosques y Desertificación;2.453,36;2.453.360,00
+23.14;4;Transferencias corrientes;193,87;193.870,00
 ;410–412;UIMP – Campus Rural y otros;—;—
 ;;Total Políticas contra la Despoblación;193,87;193.870,00
 23.50;7;Transferencias de capital;333.802,27;333.802.270,00
 ;71201–73205;Mecanismo de Recuperación y Resiliencia;—;—
 ;;Total MRR;333.802,27;333.802.270,00
-23.103–23.302;4;Transferencias corrientes;5.366,41;5.366.410
-;7;Transferencias de capital;1.500,00;1.500.000
+23.103–23.302;4;Transferencias corrientes;5.366,41;5.366.410,00
+;7;Transferencias de capital;1.500,00;1.500.000,00
 ;;Total Entidades Hidrográficas y Consejo Nuclear;6.866,41;6.866.410,00
 ;;Transferencias Corrientes;295.968,41;295.968.410,00
 ;;Transferencias de Capital;4.042.877,07;4.042.877.070,00
 ;;Presupuesto Total;4.338.845,48;4.338.845.480,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

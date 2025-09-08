@@ -1,36 +1,27 @@
-Económica;Explicación;24.03 (mil €);24.104 (mil €);24.105 (mil €);Total (mil €);Total (€)
-1;GASTOS DE PERSONAL;2.383,36;17.226,78;—;19.610,14;19.610.140
-10;Altos cargos;—;61,04;—;61,04;61.040
-12;Funcionarios;1.977,36;9.800,26;—;11.777,62;11.777.620
-13;Laborales;35,11;4.127,83;—;4.162,94;4.162.940
-15;Incentivos al rendimiento;—;1.186,20;—;1.186,20;1.186.200
-16;Cuotas, prestaciones y gastos sociales;370,89;2.051,45;—;2.422,34;2.422.340
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.573,51;10.262,95;40;11.876,46;11.876.460
-20;Arrendamientos y cánones;1;87;—;88;88.000
-21;Reparaciones, mantenimiento y conservación;235;1.518;15;1.768,40;1.768.400
-22;Material, suministros y otros;1.322,76;8.491,71;25;9.839,47;9.839.470
-23;Indemnizaciones por razón del servicio;14,75;65,84;—;80,59;80.590
-24;Gastos de publicaciones;—;100,00;—;100;100.000
-3;GASTOS FINANCIEROS;—;—;1;1;1.000
-35;Intereses de demora y otros gastos financieros;—;—;1;1;1.000
-4;TRANSFERENCIAS CORRIENTES;840,45;661,17;—;1.501,62;1.501.620
-45;A Comunidades Autónomas;450,00;—;—;450;450.000
-46;A Entidades Locales;100;—;—;100;100.000
-48;A familias e instituciones sin fines de lucro;239;570,84;—;809,84;809.840
-49;Al exterior;51,45;90,33;—;141,78;141.780
-6;INVERSIONES REALES;2.286,15;6.094,18;23.685,00;32.065,33;32.065.330
-62;Inversión nueva asociada al funcionamiento operativo;1.166,15;2.462,18;6.955,00;10.583,33;10.583.330
-63;Inversión de reposición asociada al funcionamiento operativo;50;1.015,48;16.730,00;17.795,48;17.795.480
-64;Gastos de inversiones de carácter inmaterial;1.070,00;2.616,52;—;3.686,52;3.686.520
-8;ACTIVOS FINANCIEROS;—;63;—;63;63.000
-83;Concesión de préstamos fuera del Sector Público;—;63;—;63;63.000
-—;TOTAL PROGRAMA 332B – Bibliotecas;7.083,47;34.308,08;23.726,00;65.117,55;65.117.550
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
+Económica;Explicación;24.03 ;24.104;24.105;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;2.383,36;17.226,78;—;19.610,14;19.610.140,00
+10;Altos cargos;—;61,04;—;61,04;61.040,00
+12;Funcionarios;1.977,36;9.800,26;—;11.777,62;11.777.620,00
+13;Laborales;35,11;4.127,83;—;4.162,94;4.162.940,00
+15;Incentivos al rendimiento;—;1.186,20;—;1.186,20;1.186.200,00
+16;Cuotas, prestaciones y gastos sociales;370,89;2.051,45;—;2.422,34;2.422.340,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.573,51;10.262,95;40;11.876,46;11.876.460,00
+20;Arrendamientos y cánones;1;87;—;88;88.000,00
+21;Reparaciones, mantenimiento y conservación;235;1.518;15;1.768,40;1.768.400,00
+22;Material, suministros y otros;1.322,76;8.491,71;25;9.839,47;9.839.470,00
+23;Indemnizaciones por razón del servicio;14,75;65,84;—;80,59;80.590,00
+24;Gastos de publicaciones;—;100;—;100;100.000,00
+3;GASTOS FINANCIEROS;—;—;1;1;1.000,00
+35;Intereses de demora y otros gastos financieros;—;—;1;1;1.000,00
+4;TRANSFERENCIAS CORRIENTES;840,45;661,17;—;1.501,62;1.501.620,00
+45;A Comunidades Autónomas;450;—;—;450;450.000,00
+46;A Entidades Locales;100;—;—;100;100.000,00
+48;A familias e instituciones sin fines de lucro;239;570,84;—;809,84;809.840,00
+49;Al exterior;51,45;90,33;—;141,78;141.780,00
+6;INVERSIONES REALES;2.286,15;6.094,18;23.685,00;32.065,33;32.065.330,00
+62;Inversión nueva asociada al funcionamiento operativo;1.166,15;2.462,18;6.955,00;10.583,33;10.583.330,00
+63;Inversión de reposición asociada al funcionamiento operativo;50;1.015,48;16.730,00;17.795,48;17.795.480,00
+64;Gastos de inversiones de carácter inmaterial;1.070,00;2.616,52;—;3.686,52;3.686.520,00
+8;ACTIVOS FINANCIEROS;—;63;—;63;63.000,00
+83;Concesión de préstamos fuera del Sector Público;—;63;—;63;63.000,00
+—;TOTAL PROGRAMA 332B – Bibliotecas;7.083,47;34.308,08;23.726,00;65.117,55;65.117.550,00

@@ -1,4 +1,4 @@
-Económica;Explicación;26.07 (mil €);Total (mil €);Total (€)
+Económica;Explicación;26.07;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;8.648,49;8.648,49;8.648.490,00
 10;Altos cargos;61,04;61,04;61.040,00
 12;Funcionarios;7.010,01;7.010,01;7.010.010,00
@@ -11,20 +11,10 @@ Económica;Explicación;26.07 (mil €);Total (mil €);Total (€)
 4;TRANSFERENCIAS CORRIENTES;108.758,84;108.758,84;108.758.840,00
 45;A Comunidades Autónomas;106.069,07;106.069,07;106.069.070,00
 48;A familias e instituciones sin fines de lucro;2.163,77;2.163,77;2.163.770,00
-49;Al exterior;526,00;526;526.000,00
+49;Al exterior;526;526;526.000,00
 6;INVERSIONES REALES;469,15;469,15;469.150,00
-62;Inversión nueva asociada al funcionamiento operativo de los servicios;451,00;451;451.000,00
+62;Inversión nueva asociada al funcionamiento operativo de los servicios;451;451;451.000,00
 64;Gastos de inversiones de carácter inmaterial;18,15;18,15;18.150,00
 7;TRANSFERENCIAS DE CAPITAL;568.374,00;568.374,00;568.374.000,00
 75;A Comunidades Autónomas;568.374,00;568.374,00;568.374.000,00
 ;TOTAL PROGRAMA 313B – Salud Pública, Sanidad Exterior y Calidad;—;717.153,09;717.153.090,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

@@ -1,29 +1,19 @@
-Económica;Explicación;23.13 (mil €);23.14 (mil €);Total (mil €);Total (€)
-1;GASTOS DE PERSONAL;486,6;952,35;1.438,95;1.438.950
-10;Altos cargos;71,16;61,04;132,2;132.200
-12;Funcionarios;348,71;762,81;1.111,52;1.111.520
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;66,73;128,5;195,23;195.230
-4;TRANSFERENCIAS CORRIENTES;–;29.908,97;29.908,97;29.908.970
-44;A entidades públicas;–;63,87;63,87;63.870
-45;A Comunidades Autónomas;–;13.193,00;13.193,00;13.193.000
-46;A Entidades Locales;–;10.265,10;10.265,10;10.265.100
-47;A empresas privadas;–;3.000,00;3.000,00;3.000.000
-48;A familias e instituciones sin fines de lucro;–;3.387,00;3.387,00;3.387.000
-6;INVERSIONES REALES;–;500;500,00;500.000
-64;Gastos de inversiones de carácter inmaterial;–;500;500;500.000
-7;TRANSFERENCIAS DE CAPITAL;–;39.797,16;39.797,16;39.797.160
-75;A Comunidades Autónomas;–;11.176,86;11.176,86;11.176.860
-76;A Entidades Locales;–;22.620,30;22.620,30;22.620.300
-77;A empresas privadas;–;3.000,00;3.000,00;3.000.000
-78;A familias e instituciones sin fines de lucro;–;3.000,00;3.000,00;3.000.000
-TOTAL;—;486,6;71.158,48;71.645,08;71.645.080
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
+Económica;Explicación;23.13 ;23.14;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;486,6;952,35;1.438,95;1.438.950,00
+10;Altos cargos;71,16;61,04;132,2;132.200,00
+12;Funcionarios;348,71;762,81;1.111,52;1.111.520,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;66,73;128,5;195,23;195.230,00
+4;TRANSFERENCIAS CORRIENTES;–;29.908,97;29.908,97;29.908.970,00
+44;A entidades públicas;–;63,87;63,87;63.870,00
+45;A Comunidades Autónomas;–;13.193,00;13.193,00;13.193.000,00
+46;A Entidades Locales;–;10.265,10;10.265,10;10.265.100,00
+47;A empresas privadas;–;3.000,00;3.000,00;3.000.000,00
+48;A familias e instituciones sin fines de lucro;–;3.387,00;3.387,00;3.387.000,00
+6;INVERSIONES REALES;–;500;500;500.000,00
+64;Gastos de inversiones de carácter inmaterial;–;500;500;500.000,00
+7;TRANSFERENCIAS DE CAPITAL;–;39.797,16;39.797,16;39.797.160,00
+75;A Comunidades Autónomas;–;11.176,86;11.176,86;11.176.860,00
+76;A Entidades Locales;–;22.620,30;22.620,30;22.620.300,00
+77;A empresas privadas;–;3.000,00;3.000,00;3.000.000,00
+78;A familias e instituciones sin fines de lucro;–;3.000,00;3.000,00;3.000.000,00
+TOTAL;—;486,6;71.158,48;71.645,08;71.645.080,00

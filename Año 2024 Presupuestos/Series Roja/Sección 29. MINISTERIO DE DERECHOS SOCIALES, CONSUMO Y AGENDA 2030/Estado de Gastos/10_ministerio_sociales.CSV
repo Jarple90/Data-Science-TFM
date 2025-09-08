@@ -1,4 +1,4 @@
-Orgánica;Económica;Explicación;Total (K€);Total (€)
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
 29.09;10;Altos cargos;61,04;61.040,00
 29.09;12;Funcionarios;5.643,09;5.643.090,00
 29.09;13;Laborales;818,56;818.560,00
@@ -14,7 +14,7 @@ Orgánica;Económica;Explicación;Total (K€);Total (€)
 29.09;23;Indemnizaciones por razón del servicio;164,58;164.580,00
 29.09;24;Gastos de publicaciones;24,1;24.100,00
 —;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;2.584,19;2.584.190,00
-29.09;35;Intereses de demora y otros gastos financieros;5,00;5.000,00
+29.09;35;Intereses de demora y otros gastos financieros;5;5.000,00
 29.09;352;Intereses de demora;5;5.000,00
 —;—;TOTAL GASTOS FINANCIEROS;5;5.000,00
 29.09;45;A Comunidades Autónomas;1.230,18;1.230.180,00
@@ -28,25 +28,3 @@ Orgánica;Económica;Explicación;Total (K€);Total (€)
 —;—;TOTAL TRANSFERENCIAS CORRIENTES;5.585,46;5.585.460,00
 29.09;6;INVERSIONES REALES;980;980.000,00
  ; ;29.09;17.559,78;17.559.780,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

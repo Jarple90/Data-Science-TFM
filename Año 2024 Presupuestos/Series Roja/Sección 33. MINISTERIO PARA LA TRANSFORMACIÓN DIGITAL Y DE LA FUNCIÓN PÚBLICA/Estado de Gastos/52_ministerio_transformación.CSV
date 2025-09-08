@@ -1,29 +1,29 @@
-Económica;Explicación;33.06 (miles €);Total (€ reales)
-1;GASTOS DE PERSONAL;16.691,83;16.691.830 €
-10;Altos cargos;263,42;263.420 €
-11;Personal eventual;253,4;253.400 €
-12;Funcionarios;11.729,91;11.729.910 €
-13;Laborales;140;140.000 €
-15;Incentivos al rendimiento;3.079,44;3.079.440 €
-150;Productividad;2.235,40;2.235.400 €
-151;Gratificaciones;48,19;48.190 €
-155;Participación en programas de calidad (RD 951/2005);795,85;795.850 €
-16;Cuotas, prestaciones y gastos sociales a cargo del empleador;1.225,66;1.225.660 €
-16000;Seguridad Social;1.225,66;1.225.660 €
-2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.405,72;1.405.720 €
-20;Arrendamientos y cánones;180;180.000 €
-202;Arrendamientos de edificios y otras construcciones;180;180.000 €
-21;Reparaciones, mantenimiento y conservación;55,03;55.030 €
-22;Material, suministros y otros;897,94;897.940 €
-22601;Atenciones protocolarias y representativas;16,38;16.380 €
-23;Indemnizaciones por razón del servicio;272,75;272.750 €
-4;TRANSFERENCIAS CORRIENTES;1.344,69;1.344.690 €
-47;A empresas privadas;16,74;16.740 €
-470;Cuotas Nacionales;16,74;16.740,00
-48;A familias e instituciones sin fines de lucro;1.233,95;1.233.950 €
-482;Apoyo a negociación colectiva (RDL 5/2015);1.218,65;1.218.650 €
-486;Pensiones a funcionarios y protección familiar;15,3;15.300 €
-49;Al exterior;94;94.000 €
-491;Contribución a Open Government Partnership (OGP);94;94.000 €
-6;INVERSIONES REALES;1.076,00;1.076.000 €
-—;TOTAL PROGRAMA 921N;20.518,24;20.518.240 €
+Económica;Explicación;33.06 ;Total (miles euros);Total (euros)
+1;GASTOS DE PERSONAL;16.691,83;16.691,83;16.691.830,00
+10;Altos cargos;263,42;263,42;263.420,00
+11;Personal eventual;253,4;253,4;253.400,00
+12;Funcionarios;11.729,91;11.729,91;11.729.910,00
+13;Laborales;140;140;140.000,00
+15;Incentivos al rendimiento;3.079,44;3.079,44;3.079.440,00
+150;Productividad;2.235,40;2.235,40;2.235.400,00
+151;Gratificaciones;48,19;48,19;48.190,00
+155;Participación en programas de calidad (RD 951/2005);795,85;795,85;795.850,00
+16;Cuotas, prestaciones y gastos sociales a cargo del empleador;1.225,66;1.225,66;1.225.660,00
+16000;Seguridad Social;1.225,66;1.225,66;1.225.660,00
+2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;1.405,72;1.405,72;1.405.720,00
+20;Arrendamientos y cánones;180;180;180.000,00
+202;Arrendamientos de edificios y otras construcciones;180;180;180.000,00
+21;Reparaciones, mantenimiento y conservación;55,03;55,03;55.030,00
+22;Material, suministros y otros;897,94;897,94;897.940,00
+22601;Atenciones protocolarias y representativas;16,38;16,38;16.380,00
+23;Indemnizaciones por razón del servicio;272,75;272,75;272.750,00
+4;TRANSFERENCIAS CORRIENTES;1.344,69;1.344,69;1.344.690,00
+47;A empresas privadas;16,74;16,74;16.740,00
+470;Cuotas Nacionales;16,74;16,74;16.740,00
+48;A familias e instituciones sin fines de lucro;1.233,95;1.233,95;1.233.950,00
+482;Apoyo a negociación colectiva (RDL 5/2015);1.218,65;1.218,65;1.218.650,00
+486;Pensiones a funcionarios y protección familiar;15,3;15,3;15.300,00
+49;Al exterior;94;94;94.000,00
+491;Contribución a Open Government Partnership (OGP);94;94;94.000,00
+6;INVERSIONES REALES;1.076,00;1.076,00;1.076.000,00
+—;TOTAL PROGRAMA 921N;20.518,24;20.518,24;20.518.240,00

@@ -1,4 +1,4 @@
-Orgánica;Económica;Explicación;Total (K€);Total (€)
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
 29.01;1;GASTOS DE PERSONAL;17.581,07;17.581.070,00
 29.02;1;GASTOS DE PERSONAL;2.069,02;2.069.020,00
 —;10;Altos cargos;269,6;269.600,00
@@ -25,9 +25,3 @@ Orgánica;Económica;Explicación;Total (K€);Total (€)
 ;;29.01;27.294,69;27.294.690,00
 ;;29.02;2.291,27;2.291.270,00
 ;;Total;29.585,96;29.585.960,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;

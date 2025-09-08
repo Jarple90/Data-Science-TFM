@@ -1,15 +1,15 @@
-Orgánica;Económica;Explicación;Importe (mil €);Importe (€)
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
 24.01;4;TRANSFERENCIAS CORRIENTES;;
-24.01;41;A Organismos Autónomos;330.305,12;330.305.120
-24.01;412;A la Biblioteca Nacional de España;24.134,90;24.134.900
-24.01;413;Al ICAA: promoción cinematográfica en lenguas oficiales, salas, audiencias, guiones y desarrollo de proyectos;39.000,00;39.000.000
-24.01;414;Al Instituto de la Cinematografía y de las Artes Audiovisuales;9.927,34;9.927.340
-24.01;415;Al ICAA: Fondo de Protección a la Cinematografía;105.771,61;105.771.610
-24.01;416;Al INAEM – Instituto Nacional de las Artes Escénicas y de la Música;144.900,82;144.900.820
-24.01;417;A la Gerencia de Infraestructuras y Equipamientos de Cultura;6.570,45;6.570.450
-24.01;43;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;45.831,06;45.831.060
-24.01;437;Al Museo Nacional del Prado;20.948,90;20.948.900
-24.01;438;Al Museo Nacional Centro de Arte Reina Sofía;24.882,16;24.882.160
+24.01;41;A Organismos Autónomos;330.305,12;330.305.120,00
+24.01;412;A la Biblioteca Nacional de España;24.134,90;24.134.900,00
+24.01;413;Al ICAA: promoción cinematográfica en lenguas oficiales, salas, audiencias, guiones y desarrollo de proyectos;39.000,00;39.000.000,00
+24.01;414;Al Instituto de la Cinematografía y de las Artes Audiovisuales;9.927,34;9.927.340,00
+24.01;415;Al ICAA: Fondo de Protección a la Cinematografía;105.771,61;105.771.610,00
+24.01;416;Al INAEM – Instituto Nacional de las Artes Escénicas y de la Música;144.900,82;144.900.820,00
+24.01;417;A la Gerencia de Infraestructuras y Equipamientos de Cultura;6.570,45;6.570.450,00
+24.01;43;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;45.831,06;45.831.060,00
+24.01;437;Al Museo Nacional del Prado;20.948,90;20.948.900,00
+24.01;438;Al Museo Nacional Centro de Arte Reina Sofía;24.882,16;24.882.160,00
 ;;Total Transferencias Corrientes 24.01;376.136,18;376.136.180,00
 24.01;7;TRANSFERENCIAS DE CAPITAL;;
 24.01;71;A Organismos Autónomos;89.806,58;89.806.580,00
@@ -21,28 +21,9 @@ Orgánica;Económica;Explicación;Importe (mil €);Importe (€)
 24.01;737;Al Museo Nacional del Prado;27.082,25;27.082.250,00
 24.01;738;Al Museo Nacional Centro de Arte Reina Sofía;6.600,00;6.600.000,00
 ;;Total Transferencias de Capital 24.01;123.488,83;123.488.830,00
-;;Total Ministerio, Subsecretaría y Servicios Generales (24.01);499.625,01;499.625.010
+;;Total Ministerio, Subsecretaría y Servicios Generales (24.01);499.625,01;499.625.010,00
 24.04;4;DIRECCIÓN GENERAL DE INDUSTRIAS CULTURALES, PROPIEDAD INTELECTUAL Y COOPERACIÓN;;
 24.04;43;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;110;110.000,00
 24.04;430;AECID – Actividad cultural: 150 años de la Academia de España en Roma;110;110.000,00
-;;Total Dirección General de Industrias Culturales (24.04);110;110.000
+;;Total Dirección General de Industrias Culturales (24.04);110;110.000,00
 ;;TOTAL PROGRAMA 000X – Transferencias y Libramientos Internos;499.735,01;499.735.010,00
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
