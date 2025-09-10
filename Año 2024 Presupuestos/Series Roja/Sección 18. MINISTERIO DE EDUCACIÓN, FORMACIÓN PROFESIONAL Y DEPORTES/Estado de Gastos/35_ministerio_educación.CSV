@@ -1,18 +1,94 @@
-Económico;Detalle;Total (miles  euros);Total (euros)
-1;Altos cargos, funcionarios, laborales, cuotas sociales;35.828,18;35.828.180,00
-10;Altos cargos;61,04;61.040,00
-12;Funcionarios;17.335,98;17.335.980,00
-13;Laborales;13.430,38;13.430.380,00
-16;Cuotas y prestaciones sociales;5.000,78;5.000.780,00
-2;Material, suministros y otros;759,91;759.910,00
-22;Material, suministros y otros;759,91;759.910,00
-6;Infraestructura nueva, reposición, inversiones inmateriales;1.065.624,66;1.065.624.660,00
-60;Inversión nueva en infraestructuras;848.484,22;848.484.220,00
-61;Reposición de infraestructuras;215.809,00;215.809.000,00
-64;Inversiones de carácter inmaterial;1.331,44;1.331.440,00
-7;A Comunidades Autónomas y Entidades Locales;470.534,35;470.534.350,00
-75;A Comunidades Autónomas;453.735,00;453.735.000,00
-76;A Entidades Locales;16.799,35;16.799.350,00
-8;Préstamos fuera del sector público;20.800,00;20.800.000,00
-83;Concesión de préstamos fuera del sector público;20.800,00;20.800.000,00
-—;TOTAL PROGRAMA 453B;1.593.547,10;1.593.547.100,00
+Orgánica;Económica;Explicación;Total (miles euros);Total (euros)
+18.01;10;Altos cargos;208,56;208.560,00
+18.01;11;Personal eventual;510,99;510.990,00
+18.01;12;Funcionarios;34.431,84;34.431.840,00
+18.01;13;Laborales;7.166,08;7.166.080,00
+18.01;15;Incentivos al rendimiento;4.762,38;4.762.380,00
+18.01;150;Productividad;4.524,97;4.524.970,00
+18.01;151;Gratificaciones;237,41;237.410,00
+18.01;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;5.046,43;5.046.430,00
+18.01;16000;Seguridad Social;4.290,76;4.290.760,00
+18.01;16200;Formación y perfeccionamiento del personal;150,00;150.000,00
+18.01;16204;Acción social;302,85;302.850,00
+18.01;20;Arrendamientos y cánones;104,00;104.000,00
+18.01;21;Reparaciones, mantenimiento y conservación;1.519,86;1.519.860,00
+18.01;22;Material, suministros y otros;6.210,88;6.210.880,00
+18.01;22502;Locales;334,00;334.000,00
+18.01;22601;Atenciones protocolarias y representativas;29,33;29.330,00
+18.01;23;Indemnizaciones por razón del servicio;900,50;900.500,00
+18.01;35;Intereses de demora y otros gastos financieros;285,26;285.260,00
+18.01;352;Intereses de demora;18;18.000,00
+18.01;354;Liquidación de intereses por diferencias salariales;267,26;267.260,00
+18.01;6;Inversiones reales;4.583,05;4.583.050,00
+18.01;83;Concesión de préstamos fuera del Sector Público;86,06;86.060,00
+18.01;830;Préstamos a corto plazo;15;15.000,00
+18.01;831;Préstamos a largo plazo;71,06;71.060,00
+—;—;TOTAL PROGRAMA 321M – Dirección y Servicios Generales;65.815,89;65.815.890,00
+18.02;10;Altos cargos;61,04;61.040,00
+18.02;12;Funcionarios;4.163,05;4.163.050,00
+18.02;13;Laborales;530,9;530.900,00
+18.02;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;271,19;271.190,00
+18.02;16000;Seguridad Social;271,19;271.190,00
+—;—;TOTAL GASTOS DE PERSONAL;5.026,18;5.026.180,00
+18.02;22;Material, suministros y otros;733,1;733.100,00
+18.02;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+18.02;23;Indemnizaciones por razón del servicio;20,98;20.980,00
+18.02;24;Gastos de publicaciones;100;100.000,00
+—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;854,08;854.080,00
+18.02;48;A familias e instituciones sin fines de lucro;138;138.000,00
+18.02;483;Becas para formación y prácticas en el ámbito del Ministerio;18;18.000,00
+18.02;484;Becas para formación en documentación e informática educativa;120;120.000,00
+—;—;TOTAL TRANSFERENCIAS CORRIENTES;138;138.000,00
+18.02;6;Inversiones reales;101;101.000,00
+—;—;TOTAL SECRETARÍA GENERAL TÉCNICA;6.119,26;6.119.260,00
+18.03;10;Altos cargos;141,34;141.340,00
+18.03;11;Personal eventual;253,05;253.050,00
+18.03;12;Funcionarios;1.117,89;1.117.890,00
+18.03;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;43,31;43.310,00
+18.03;16000;Seguridad Social;43,31;43.310,00
+—;—;TOTAL GASTOS DE PERSONAL;1.555,59;1.555.590,00
+18.03;22;Material, suministros y otros;287,74;287.740,00
+18.03;22601;Atenciones protocolarias y representativas;11,7;11.700,00
+18.03;23;Indemnizaciones por razón del servicio;240,26;240.260,00
+—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;528;528.000,00
+18.03;44;A entidades del Sector Público Estatal;175;175.000,00
+18.03;440;Fundación Residencia de Estudiantes;175;175.000,00
+18.03;48;A familias e instituciones sin fines de lucro;161;161.000,00
+18.03;482;Fundación Francisco Giner de los Ríos;161;161.000,00
+18.03;49;Al exterior;3;3.000,00
+18.03;490;Cuota EUNEC;3;3.000,00
+—;—;TOTAL TRANSFERENCIAS CORRIENTES;339;339.000,00
+—;—;TOTAL SECRETARÍA DE ESTADO DE EDUCACIÓN;2.422,59;2.422.590,00
+18.04;10;Altos cargos;61,04;61.040,00
+18.04;12;Funcionarios;2.394,40;2.394.400,00
+18.04;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;145,41;145.410,00
+18.04;16000;Seguridad Social;141,54;141.540,00
+18.04;16200;Formación y perfeccionamiento del personal;3,87;3.870,00
+—;—;TOTAL GASTOS DE PERSONAL;2.600,85;2.600.850,00
+18.04;22;Material, suministros y otros;462,87;462.870,00
+18.04;22601;Atenciones protocolarias y representativas;2,34;2.340,00
+18.04;23;Indemnizaciones por razón del servicio;160,65;160.650,00
+—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;623,52;623.520,00
+—;—;TOTAL DIRECCIÓN GENERAL DE EVALUACIÓN Y COOPERACIÓN TERRITORIAL;3.224,37;3.224.370,00
+18.05;10;Altos cargos;71,16;71.160,00
+18.05;12;Funcionarios;372,23;372.230,00
+—;—;TOTAL GASTOS DE PERSONAL;443,39;443.390,00
+18.05;22;Material, suministros y otros;271,56;271.560,00
+18.05;22601;Atenciones protocolarias y representativas;11,7;11.700,00
+18.05;23;Indemnizaciones por razón del servicio;240,26;240.260,00
+—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;511,82;511.820,00
+—;—;TOTAL SECRETARÍA GENERAL DE FORMACIÓN PROFESIONAL;955,21;955.210,00
+18.08;10;Altos cargos;61,04;61.040,00
+18.08;12;Funcionarios;2.547,29;2.547.290,00
+18.08;13;Laborales;33,08;33.080,00
+18.08;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;45,66;45.660,00
+18.08;16000;Seguridad Social;45,66;45.660,00
+—;—;TOTAL GASTOS DE PERSONAL;2.687,07;2.687.070,00
+18.08;21;Reparaciones, mantenimiento y conservación;144,02;144.020,00
+18.08;22;Material, suministros y otros;2.769,67;2.769.670,00
+18.08;22502;Locales;8,67;8.670,00
+18.08;22601;Atenciones protocolarias y representativas;2,32;2.320,00
+18.08;23;Indemnizaciones por razón del servicio;537,63;537.630,00
+—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;3.451,32;3.451.320,00
+—;—;TOTAL DIRECCIÓN GENERAL DE PLANIFICACIÓN Y GESTIÓN EDUCATIVA;6.138,39;6.138.390,00
+;;TOTAL Dirección y Servicios Generales de Educación, Formación Profesional y Deportes;84.675,71;84.675.710,00
