@@ -1,0 +1,730 @@
+Servicio;Programa;Económica;Explicación;Total (miles euros);Total (euros);
+1;331M;10;Altos cargos;208,56;208.560,00;
+1;331M;100;Retribuciones básicas y otras remuneraciones;208,56;208.560,00;
+1;331M;10000;Retribuciones básicas;114,61;114.610,00;
+1;331M;10001;Retribuciones complementarias;93,95;93.950,00;
+1;331M;11;Personal eventual;533,77;533.770,00;
+1;331M;110;Retribuciones básicas y otras remuneraciones;533,77;533.770,00;
+1;331M;11000;Retribuciones básicas;200,08;200.080,00;
+1;331M;11001;Retribuciones complementarias;333,69;333.690,00;
+1;331M;12;Funcionarios;16.178,87;16.178.870,00;Total
+1;331M;120;Retribuciones básicas;3.038,90;3.038.900,00;
+1;331M;12000;Sueldos del grupo A1 y grupo A;507,82;507.820,00;
+1;331M;12001;Sueldos del grupo A2 y grupo B;503,78;503.780,00;
+1;331M;12002;Sueldos del grupo C1 y grupo C;592,69;592.690,00;208,56
+1;331M;12003;Sueldos del grupo C2 y grupo D;401,38;401.380,00;208,56
+1;331M;12005;Trienios;473,72;473.720,00;
+1;331M;12006;Pagas extraordinarias;559,51;559.510,00;
+1;331M;121;Retribuciones complementarias;13.139,97;13.139.970,00;533,77
+1;331M;12100;Complemento de destino;1.340,42;1.340.420,00;533,77
+1;331M;12101;Complemento específico;1.717,55;1.717.550,00;
+1;331M;12181;Necesidades adicionales;10.082,00;10.082.000,00;
+1;331M;13;Laborales;2.194,69;2.194.690,00;16.178,87
+1;331M;130;Laboral fijo;1.964,45;1.964.450,00;3.038,90
+1;331M;13000;Retribuciones básicas;1.800,68;1.800.680,00;
+1;331M;13001;Otras remuneraciones;163,77;163.770,00;
+1;331M;131;Laboral eventual;230,24;230.240,00;
+1;331M;15;Incentivos al rendimiento;4.165,08;4.165.080,00;
+1;331M;150;Productividad;4.077,83;4.077.830,00;
+1;331M;151;Gratificaciones;87,25;87.250,00;
+1;331M;16;Cuotas, prestaciones y gastos sociales;2.186,12;2.186.120,00;13.139,97
+1;331M;160;Cuotas sociales;1.453,81;1.453.810,00;
+1;331M;16000;Seguridad Social;1.453,81;1.453.810,00;
+1;331M;162;Gastos sociales del personal;732,31;732.310,00;
+1;331M;16200;Formación y perfeccionamiento del personal;210,38;210.380,00;2.194,69
+1;331M;16202;Transporte de personal;27,96;27.960,00;1.964,45
+1;331M;16204;Acción social;278,38;278.380,00;
+1;331M;16205;Seguros;4,1;4.100,00;
+1;331M;16209;Otros;211,49;211.490,00;230,24
+1;331M;20;Arrendamientos y cánones;104;104.000,00;4.165,08
+1;331M;202;Arrendamientos de edificios y otras construcciones;20;20.000,00;4.077,83
+1;331M;205;Arrendamientos de mobiliario y enseres;5;5.000,00;87,25
+1;331M;206;Arrendamientos de equipos para procesos de información;79;79.000,00;2.186,12
+1;331M;21;Reparaciones, mantenimiento y conservación;648;648.000,00;1.453,81
+1;331M;212;Edificios y otras construcciones;106,23;106.230,00;
+1;331M;213;Maquinaria, instalaciones y utillaje;133,23;133.230,00;732,31
+1;331M;215;Mobiliario y enseres;130,09;130.090,00;
+1;331M;216;Equipos para procesos de la información;278,45;278.450,00;
+1;331M;22;Material, suministros y otros;4.349,38;4.349.380,00;
+1;331M;220;Material de oficina;292,8;292.800,00;
+1;331M;22000;Ordinario no inventariable;45,5;45.500,00;
+1;331M;22001;Prensa, revistas, libros y otras publicaciones;77,3;77.300,00;25.467,09
+1;331M;22002;Material informático no inventariable;170;170.000,00;
+1;331M;221;Suministros;1.809,60;1.809.600,00;
+1;331M;22100;Energía eléctrica;1.491,15;1.491.150,00;104
+1;331M;22101;Agua;23,1;23.100,00;20
+1;331M;22102;Gas;6,99;6.990,00;5
+1;331M;22103;Combustible;128,72;128.720,00;79
+1;331M;22104;Vestuario;30;30.000,00;648
+1;331M;22106;Productos farmacéuticos y material sanitario;47,96;47.960,00;106,23
+1;331M;22111;Repuestos de maquinaria, utillaje y transporte;51,68;51.680,00;133,23
+1;331M;22112;Material electrónico, eléctrico y comunicaciones;20;20.000,00;130,09
+1;331M;22199;Otros suministros;10;10.000,00;278,45
+1;331M;222;Comunicaciones;88,5;88.500,00;4.349,38
+1;331M;22200;Servicios de telecomunicaciones;83,5;83.500,00;292,8
+1;331M;22201;Postales y mensajería;5;5.000,00;
+1;331M;223;Transportes;250;250.000,00;
+1;331M;224;Primas de seguros;3;3.000,00;
+1;331M;225;Tributos;235;235.000,00;1.809,60
+1;331M;22502;Locales;235;235.000,00;
+1;331M;226;Gastos diversos;319,54;319.540,00;
+1;331M;22601;Atenciones protocolarias y representativas;28,67;28.670,00;
+1;331M;22602;Publicidad y propaganda;30;30.000,00;
+1;331M;22603;Jurídicos, contenciosos;5;5.000,00;
+1;331M;22606;Reuniones, conferencias y cursos;170,87;170.870,00;
+1;331M;22607;Oposiciones y pruebas selectivas;85;85.000,00;
+1;331M;227;Trabajos realizados por otras empresas y profesionales;1.350,94;1.350.940,00;
+1;331M;22705;Procesos electorales y consultas populares;2,2;2.200,00;
+1;331M;22706;Estudios y trabajos técnicos;1.298,74;1.298.740,00;88,5
+1;331M;22799;Otros;50;50.000,00;
+1;331M;23;Indemnizaciones por razón del servicio;758;758.000,00;
+1;331M;230;Dietas;150;150.000,00;250
+1;331M;231;Locomoción;150;150.000,00;3
+1;331M;232;Traslado;3;3.000,00;235
+1;331M;233;Otras indemnizaciones;455;455.000,00;
+1;331M;35;Intereses de demora y otros gastos financieros;3,5;3.500,00;
+1;331M;352;Intereses de demora;3,5;3.500,00;
+1;331M;48;A familias e instituciones sin fines de lucro;36,5;36.500,00;
+1;331M;480;Pensiones complementarias del personal de MECSE;36,5;36.500,00;
+1;331M;62;Inversión nueva asociada al funcionamiento operativo de los servicios;150;150.000,00;1.350,94
+1;331M;620;Inversión nueva asociada al funcionamiento operativo de los servicios;150;150.000,00;
+1;331M;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;1.673,00;1.673.000,00;
+1;331M;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;1.673,00;1.673.000,00;
+1;331M;64;Gastos de inversiones de carácter inmaterial;1.724,00;1.724.000,00;758
+1;331M;640;Gastos en inversiones de carácter inmaterial;1.724,00;1.724.000,00;150
+1;331M;83;Concesión de préstamos fuera del Sector Público;133,94;133.940,00;150
+1;331M;830;Préstamos a corto plazo;10,37;10.370,00;3
+1;331M;83008;Familias e instituciones sin fines de lucro;10,37;10.370,00;455
+1;331M;831;Préstamos a largo plazo;123,57;123.570,00;5.859,38
+1;331M;83108;Familias e instituciones sin fines de lucro;123,57;123.570,00;
+1;331M;;Dirección y Servicios Generales de Cultura;35.047,41;35.047.410,00;3,5
+1;334A;48;A familias e instituciones sin fines de lucro;210.350,00;210.350.000,00;3,5
+1;334A;482;Bono cultural joven;210.000,00;210.000.000,00;
+1;334A;487;Fundaciones y asociaciones vinculadas a partidos políticos;350;350.000,00;
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;210.350,00;210.350.000,00;36,5
+1;000X;41;A Organismos Autónomos;330.305,12;330.305.120,00;36,5
+1;000X;412;A la Biblioteca Nacional de España;24.134,90;24.134.900,00;
+1;000X;413;Al ICAA – promoción cinematográfica en lenguas oficiales;39.000,00;39.000.000,00;
+1;000X;414;Al ICAA – funcionamiento general;9.927,34;9.927.340,00;150
+1;000X;415;Al ICAA – Fondo de Protección a la Cinematografía;105.771,61;105.771.610,00;150
+1;000X;416;Al INAEM – Artes Escénicas y Música;144.900,82;144.900.820,00;1.673,00
+1;000X;417;A la Gerencia de Infraestructuras y Equipamientos de Cultura;6.570,45;6.570.450,00;1.673,00
+1;000X;43;A otras entidades del Sector Público Administrativo Estatal;45.831,06;45.831.060,00;1.724,00
+1;000X;437;Al Museo Nacional del Prado;20.948,90;20.948.900,00;1.724,00
+1;000X;438;Al Museo Nacional Centro de Arte Reina Sofía;24.882,16;24.882.160,00;3.547,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;376.136,18;376.136.180,00;
+1;000X;71;A Organismos Autónomos;89.806,58;89.806.580,00;133,94
+1;000X;712;A la Biblioteca Nacional de España;5.094,18;5.094.180,00;10,37
+1;000X;714;Al ICAA – inversiones;585;585.000,00;
+1;000X;716;Al INAEM – inversiones;15.726,33;15.726.330,00;123,57
+1;000X;717;A la Gerencia de Infraestructuras y Equipamientos de Cultura;68.401,07;68.401.070,00;
+1;000X;73;A otras entidades del Sector Público Administrativo Estatal;33.682,25;33.682.250,00;133,94
+1;000X;737;Al Museo Nacional del Prado;27.082,25;27.082.250,00;
+1;000X;738;Al Museo Nacional Centro de Arte Reina Sofía;6.600,00;6.600.000,00;35.047,41
+—;—;—;TOTAL TRANSFERENCIAS DE CAPITAL;123.488,83;123.488.830,00;
+1;000X;;Transferencias y libramientos internos;499.625,01;499.625.010,00;
+1;;;Ministerio, Subsecretaría y Servicios Generales;745.022,42;745.022.420,00;
+2;331M;10;Altos cargos;61,04;61.040,00;
+2;331M;100;Retribuciones básicas y otras remuneraciones;61,04;61.040,00;
+2;331M;10000;Retribuciones básicas;18,91;18.910,00;
+2;331M;10001;Retribuciones complementarias;42,13;42.130,00;61,04
+2;331M;12;Funcionarios;3.002,78;3.002.780,00;61,04
+2;331M;120;Retribuciones básicas;1.474,40;1.474.400,00;
+2;331M;12000;Sueldos del grupo A1 y grupo A;343,44;343.440,00;
+2;331M;12001;Sueldos del grupo A2 y grupo B;283,52;283.520,00;3.002,78
+2;331M;12002;Sueldos del grupo C1 y grupo C;163,32;163.320,00;1.474,40
+2;331M;12003;Sueldos del grupo C2 y grupo D;155,91;155.910,00;
+2;331M;12005;Trienios;261,83;261.830,00;
+2;331M;12006;Pagas extraordinarias;266,38;266.380,00;
+2;331M;121;Retribuciones complementarias;1.528,38;1.528.380,00;
+2;331M;12100;Complemento de destino;657,8;657.800,00;
+2;331M;12101;Complemento específico;870,58;870.580,00;
+2;331M;13;Laborales;214,88;214.880,00;1.528,38
+2;331M;130;Laboral fijo;153,5;153.500,00;
+2;331M;13000;Retribuciones básicas;139,34;139.340,00;
+2;331M;13001;Otras remuneraciones;14,16;14.160,00;214,88
+2;331M;131;Laboral eventual;61,38;61.380,00;153,5
+2;331M;16;Cuotas, prestaciones y gastos sociales;272,08;272.080,00;
+2;331M;160;Cuotas sociales;272,08;272.080,00;
+2;331M;16000;Seguridad Social;272,08;272.080,00;61,38
+2;331M;22;Material, suministros y otros;423;423.000,00;272,08
+2;331M;220;Material de oficina;20;20.000,00;
+2;331M;22001;Prensa, revistas, libros y otras publicaciones;20;20.000,00;3.550,78
+2;331M;226;Gastos diversos;1,17;1.170,00;
+2;331M;22601;Atenciones protocolarias y representativas;1,17;1.170,00;
+2;331M;227;Trabajos realizados por otras empresas y profesionales;401,83;401.830,00;423
+2;331M;22706;Estudios y trabajos técnicos;401,83;401.830,00;20
+2;331M;23;Indemnizaciones por razón del servicio;14,02;14.020,00;
+2;331M;230;Dietas;8,66;8.660,00;1,17
+2;331M;231;Locomoción;5,36;5.360,00;
+2;331M;24;Gastos de publicaciones;155,88;155.880,00;401,83
+2;331M;240;Gastos de edición y distribución;155,88;155.880,00;
+2;331M;62;Inversión nueva asociada al funcionamiento operativo de los servicios;22;22.000,00;14,02
+2;331M;620;Inversión nueva asociada al funcionamiento operativo de los servicios;22;22.000,00;8,66
+2;331M;64;Gastos de inversiones de carácter inmaterial;22;22.000,00;5,36
+2;331M;640;Gastos en inversiones de carácter inmaterial;22;22.000,00;155,88
+2;331M;;Dirección y Servicios Generales de Cultura;4.187,68;4.187.680,00;155,88
+3;144A;22;Material, suministros y otros;359,81;359.810,00;592,9
+3;144A;220;Material de oficina;22,8;22.800,00;
+3;144A;22001;Prensa, revistas, libros y otras publicaciones;22,4;22.400,00;
+3;144A;22002;Material informático no inventariable;0,4;400;22
+3;144A;221;Suministros;0,8;800;22
+3;144A;22199;Otros suministros;0,8;800;22
+3;144A;222;Comunicaciones;0,4;400;22
+3;144A;22201;Postales y mensajería;0,4;400;44
+3;144A;223;Transportes;13,6;13.600,00;
+3;144A;226;Gastos diversos;189,27;189.270,00;4.187,68
+3;144A;22606;Reuniones, conferencias y cursos;170,27;170.270,00;
+3;144A;22615;Gastos diversos en el exterior;15;15.000,00;4.187,68
+3;144A;22699;Otros;4;4.000,00;
+3;144A;227;Trabajos realizados por otras empresas y profesionales;132,94;132.940,00;
+3;144A;22706;Estudios y trabajos técnicos;115,74;115.740,00;
+3;144A;22715;Trabajos realizados en el exterior;10;10.000,00;
+3;144A;22799;Otros;7,2;7.200,00;
+3;144A;23;Indemnizaciones por razón del servicio;100;100.000,00;359,81
+3;144A;230;Dietas;50;50.000,00;22,8
+3;144A;231;Locomoción;50;50.000,00;
+3;144A;48;A familias e instituciones sin fines de lucro;176,6;176.600,00;0,8
+3;144A;488;Ayudas relacionadas con el libro;176,6;176.600,00;
+3;144A;48801;A la OEPLI;5;5.000,00;0,4
+3;144A;48802;A la Federación de Gremios de Editores de España;171,6;171.600,00;
+3;144A;49;Al exterior;482;482.000,00;13,6
+3;144A;490;Cuotas y ayudas para difusión cultural exterior;482;482.000,00;189,27
+3;144A;49012;Cuotas al CERLALC;82;82.000,00;
+3;144A;49013;Ayudas para traducción de libros;400;400.000,00;
+3;144A;;Cooperación, promoción y difusión cultural;1.118,41;1.118.410,00;
+3;332B;12;Funcionarios;1.977,36;1.977.360,00;132,94
+3;332B;120;Retribuciones básicas;1.237,11;1.237.110,00;
+3;332B;12000;Sueldos del grupo A1 y grupo A;240,45;240.450,00;
+3;332B;12001;Sueldos del grupo A2 y grupo B;664,69;664.690,00;
+3;332B;12002;Sueldos del grupo C1 y grupo C;63,86;63.860,00;100
+3;332B;12003;Sueldos del grupo C2 y grupo D;15,75;15.750,00;50
+3;332B;12005;Trienios;63,45;63.450,00;50
+3;332B;12006;Pagas extraordinarias;188,91;188.910,00;459,81
+3;332B;121;Retribuciones complementarias;740,25;740.250,00;
+3;332B;12100;Complemento de destino;370,74;370.740,00;
+3;332B;12101;Complemento específico;369,51;369.510,00;176,6
+3;332B;13;Laborales;35,11;35.110,00;176,6
+3;332B;131;Laboral eventual;35,11;35.110,00;
+3;332B;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;370,89;370.890,00;
+3;332B;160;Cuotas sociales;370,89;370.890,00;482
+3;332B;16000;Seguridad Social;370,89;370.890,00;482
+3;332B;20;Arrendamientos y cánones;1;1.000,00;
+3;332B;205;Arrendamientos de mobiliario y enseres;1;1.000,00;
+3;332B;21;Reparaciones, mantenimiento y conservación;235;235.000,00;658,6
+3;332B;216;Equipos para procesos de la información;235;235.000,00;
+3;332B;22;Material, suministros y otros;1.322,76;1.322.760,00;1.118,41
+3;332B;220;Material de oficina;300;300.000,00;
+3;332B;22001;Prensa, revistas, libros y otras publicaciones;300;300.000,00;
+3;332B;221;Suministros;2,33;2.330,00;
+3;332B;22101;Agua;0,93;930;1.977,36
+3;332B;22199;Otros suministros;1,4;1.400,00;1.237,11
+3;332B;223;Transportes;1,23;1.230,00;
+3;332B;225;Tributos;15;15.000,00;
+3;332B;22502;Locales;15;15.000,00;
+3;332B;226;Gastos diversos;489;489.000,00;
+3;332B;22606;Reuniones, conferencias y cursos;410;410.000,00;
+3;332B;22616;Remuneración por préstamos bibliotecarios (Directiva 2006/115/CE);65;65.000,00;
+3;332B;22699;Otros;14;14.000,00;740,25
+3;332B;227;Trabajos realizados por otras empresas y profesionales;515,2;515.200,00;
+3;332B;22706;Estudios y trabajos técnicos;500;500.000,00;
+3;332B;22799;Otros;15,2;15.200,00;35,11
+3;332B;23;Indemnizaciones por razón del servicio;14,75;14.750,00;35,11
+3;332B;230;Dietas;7,4;7.400,00;370,89
+3;332B;231;Locomoción;7,35;7.350,00;370,89
+3;332B;45;A Comunidades Autónomas;450;450.000,00;
+3;332B;451;Ayudas al Catálogo Colectivo del Patrimonio Bibliográfico Español;95;95.000,00;2.383,36
+3;332B;454;Ayudas para el Patrimonio Bibliográfico Español y Patrimonio Digital;355;355.000,00;
+3;332B;45402;Ayudas a CCAA y universidades para la preservación del Patrimonio Digital;355;355.000,00;
+3;332B;46;A Entidades Locales;100;100.000,00;1
+3;332B;463;Ayudas para la preservación del Patrimonio Digital;100;100.000,00;1
+3;332B;48;A familias e instituciones sin fines de lucro;239;239.000,00;235
+3;332B;480;Ayudas a entidades privadas sin fines de lucro y reales academias;100;100.000,00;235
+3;332B;484;Ayudas a instituciones y asociaciones profesionales;139;139.000,00;1.322,76
+3;332B;48406;A FESABID para actividades relacionadas con bibliotecas;89;89.000,00;300
+3;332B;48407;A ANABAD para actividades relacionadas con bibliotecas;25;25.000,00;
+3;332B;48408;A SEDIC para actividades relacionadas con bibliotecas;25;25.000,00;2,33
+3;332B;49;Al exterior;51,45;51.450,00;
+3;332B;491;Cuotas a organismos internacionales y cooperación internacional;51,45;51.450,00;
+3;332B;49104;Cuota al CERLALC – Iberbibliotecas;50;50.000,00;1,23
+3;332B;49105;Cuota a IFLA;0,75;750;15
+3;332B;49106;Cuota a EBLIDA;0,7;700;
+3;332B;62;Inversión nueva asociada al funcionamiento operativo;1.166,15;1.166.150,00;489
+3;332B;620;Inversión nueva asociada al funcionamiento operativo;1.166,15;1.166.150,00;
+3;332B;63;Inversión de reposición asociada al funcionamiento operativo;50;50.000,00;
+3;332B;630;Inversión de reposición asociada al funcionamiento operativo;50;50.000,00;
+3;332B;64;Gastos de inversiones de carácter inmaterial;1.070,00;1.070.000,00;515,2
+3;332B;640;Gastos en inversiones de carácter inmaterial;1.070,00;1.070.000,00;
+3;332B;;Bibliotecas;7.083,47;7.083.470,00;
+3;334B;10;Altos cargos;61,04;61.040,00;14,75
+3;334B;100;Retribuciones básicas y otras remuneraciones;61,04;61.040,00;7,4
+3;334B;10000;Retribuciones básicas;18,91;18.910,00;7,35
+3;334B;10001;Retribuciones complementarias;42,13;42.130,00;1.573,51
+3;334B;12;Funcionarios;1.467,86;1.467.860,00;
+3;334B;120;Retribuciones básicas;752,06;752.060,00;
+3;334B;12000;Sueldos del grupo A1 y grupo A;161,77;161.770,00;450
+3;334B;12001;Sueldos del grupo A2 y grupo B;228,89;228.890,00;95
+3;334B;12002;Sueldos del grupo C1 y grupo C;91,5;91.500,00;355
+3;334B;12003;Sueldos del grupo C2 y grupo D;39,73;39.730,00;
+3;334B;12005;Trienios;93,94;93.940,00;100
+3;334B;12006;Pagas extraordinarias;136,23;136.230,00;100
+3;334B;121;Retribuciones complementarias;715,8;715.800,00;239
+3;334B;12100;Complemento de destino;348,06;348.060,00;100
+3;334B;12101;Complemento específico;367,74;367.740,00;139
+3;334B;13;Laborales;265,76;265.760,00;
+3;334B;130;Laboral fijo;185,28;185.280,00;
+3;334B;13000;Retribuciones básicas;175,84;175.840,00;
+3;334B;13001;Otras remuneraciones;9,44;9.440,00;51,45
+3;334B;131;Laboral eventual;80,48;80.480,00;51,45
+3;334B;16;Cuotas, prestaciones y gastos sociales;250,68;250.680,00;
+3;334B;160;Cuotas sociales;250,68;250.680,00;
+3;334B;16000;Seguridad Social;250,68;250.680,00;
+3;334B;21;Reparaciones, mantenimiento y conservación;156;156.000,00;840,45
+3;334B;212;Edificios y otras construcciones;54;54.000,00;
+3;334B;213;Maquinaria, instalaciones y utillaje;25;25.000,00;
+3;334B;215;Mobiliario y enseres;7;7.000,00;1.166,15
+3;334B;216;Equipos para procesos de la información;70;70.000,00;1.166,15
+3;334B;22;Material, suministros y otros;1.241,84;1.241.840,00;50
+3;334B;220;Material de oficina;77;77.000,00;50
+3;334B;22001;Prensa, revistas, libros y otras publicaciones;70;70.000,00;1.070,00
+3;334B;22002;Material informático no inventariable;7;7.000,00;1.070,00
+3;334B;221;Suministros;58,5;58.500,00;2.286,15
+3;334B;22101;Agua;6,5;6.500,00;
+3;334B;22111;Repuestos de maquinaria, utillaje y transporte;8;8.000,00;7.083,47
+3;334B;22112;Material electrónico, eléctrico y comunicaciones;14;14.000,00;
+3;334B;22199;Otros suministros;30;30.000,00;
+3;334B;223;Transportes;4;4.000,00;
+3;334B;226;Gastos diversos;852,34;852.340,00;61,04
+3;334B;22601;Atenciones protocolarias y representativas;2,34;2.340,00;61,04
+3;334B;22602;Publicidad y propaganda;150;150.000,00;
+3;334B;22606;Reuniones, conferencias y cursos;700;700.000,00;
+3;334B;227;Trabajos realizados por otras empresas y profesionales;250;250.000,00;1.467,86
+3;334B;22706;Estudios y trabajos técnicos;250;250.000,00;752,06
+3;334B;23;Indemnizaciones por razón del servicio;183;183.000,00;
+3;334B;230;Dietas;50;50.000,00;
+3;334B;231;Locomoción;38;38.000,00;
+3;334B;233;Otras indemnizaciones;95;95.000,00;
+3;334B;45;A Comunidades Autónomas;200;200.000,00;
+3;334B;450;A les Illes Balears para fomento del uso de la lengua catalana;200;200.000,00;
+3;334B;46;A Entidades Locales;1.580,00;1.580.000,00;715,8
+3;334B;460;Ayudas para actividades de Promoción de la Lectura;1.400,00;1.400.000,00;
+3;334B;461;Al Consell de Mallorca – producción editorial en lengua catalana;150;150.000,00;
+3;334B;462;Fundación Max Aub – proyectos de fomento de la lectura;30;30.000,00;265,76
+3;334B;47;A empresas privadas;1.900,00;1.900.000,00;185,28
+3;334B;477;Ayudas a editoras de revistas culturales;700;700.000,00;
+3;334B;478;Traducción de libros entre lenguas del Estado;200;200.000,00;
+3;334B;479;Promoción de la lectura y difusión de las letras españolas;1.000,00;1.000.000,00;80,48
+3;334B;48;A familias e instituciones sin fines de lucro;3.185,00;3.185.000,00;250,68
+3;334B;481;Ayudas para la acción y promoción cultural;3.060,00;3.060.000,00;250,68
+3;334B;48115;Promoción de la lectura y difusión de letras españolas;1.258,00;1.258.000,00;
+3;334B;48116;Ayudas a editoras sin fines de lucro de revistas culturales;300;300.000,00;2.045,34
+3;334B;48118;Premios literarios de ámbito nacional;652;652.000,00;
+3;334B;48119;Ayudas a entidades que fortalecen la industria editorial;350;350.000,00;
+3;334B;48120;Ayudas a la creación literaria;500;500.000,00;156
+3;334B;482;Reial Academia de Bones Lletres de Barcelona;15;15.000,00;54
+3;334B;483;Fundación Francisco Brines;30;30.000,00;25
+3;334B;485;Fundación María Zambrano;30;30.000,00;7
+3;334B;486;Fundación Ortega y Gasset-Gregorio Marañón;50;50.000,00;70
+3;334B;62;Inversión nueva asociada al funcionamiento operativo;10;10.000,00;1.241,84
+3;334B;620;Inversión nueva asociada al funcionamiento operativo;10;10.000,00;77
+3;334B;63;Inversión de reposición asociada al funcionamiento operativo;10;10.000,00;
+3;334B;630;Inversión de reposición asociada al funcionamiento operativo;10;10.000,00;
+3;334B;64;Gastos de inversiones de carácter inmaterial;25;25.000,00;58,5
+3;334B;640;Gastos en inversiones de carácter inmaterial;25;25.000,00;
+3;334B;76;A Entidades Locales;1.100,00;1.100.000,00;
+3;334B;763;Campaña “María Moliner” – animación lectora en municipios pequeños;1.100,00;1.100.000,00;
+3;334B;77;A empresas privadas;1.690,88;1.690.880,00;
+3;334B;772;Actividades del Plan de Fomento de la Lectura;40,88;40.880,00;4
+3;334B;775;Ayudas para la edición de libros;1.150,00;1.150.000,00;852,34
+3;334B;776;Revalorización cultural y modernización de librerías;500;500.000,00;
+3;334B;78;A familias e instituciones sin fines de lucro;565;565.000,00;
+3;334B;781;A CEGAL – desarrollo tecnológico de Todostuslibros.com;135;135.000,00;
+3;334B;782;Centre de Lectura de Reus – rehabilitación de sede;150;150.000,00;250
+3;334B;783;Concurso de lectura para jóvenes;30;30.000,00;
+3;334B;784;Programa de animación a la lectura en mundo rural;250;250.000,00;183
+3;334B;;Promoción del libro y publicaciones culturales;13.892,06;13.892.060,00;50
+3;;;Dirección General del Libro, del Cómic y de la Lectura;22093,94;22093940;95
+4;331M;12;Funcionarios;560,79;560.790,00;1.580,84
+4;331M;120;Retribuciones básicas;226,45;226.450,00;
+4;331M;12000;Sueldos grupo A1 y A;92,11;92.110,00;200
+4;331M;12001;Sueldos grupo A2 y B;82,96;82.960,00;200
+4;331M;12003;Sueldos grupo C2 y D;24,88;24.880,00;1.580,00
+4;331M;12005;Trienios;22,54;22.540,00;1.400,00
+4;331M;12006;Pagas extraordinarias;3,96;3.960,00;150
+4;331M;121;Retribuciones complementarias;334,34;334.340,00;30
+4;331M;12100;Complemento de destino;143,78;143.780,00;1.900,00
+4;331M;12101;Complemento específico;190,56;190.560,00;700
+4;331M;16;Cuotas, prestaciones y gastos sociales;86,78;86.780,00;200
+4;331M;160;Cuotas sociales;86,78;86.780,00;1.000,00
+4;331M;16000;Seguridad Social;86,78;86.780,00;3.185,00
+4;334A;10;Altos cargos;61,04;61.040,00;
+4;334A;100;Retribuciones básicas y otras remuneraciones;61,04;61.040,00;
+4;334A;10000;Retribuciones básicas;18,91;18.910,00;
+4;334A;10001;Retribuciones complementarias;42,13;42.130,00;
+4;334A;12;Funcionarios;1.306,38;1.306.380,00;
+4;334A;120;Retribuciones básicas;628,22;628.220,00;15
+4;334A;12000;Sueldos grupo A1 y A;160,64;160.640,00;30
+4;334A;12001;Sueldos grupo A2 y B;129,21;129.210,00;30
+4;334A;12002;Sueldos grupo C1 y C;29,1;29.100,00;50
+4;334A;12003;Sueldos grupo C2 y D;86,8;86.800,00;6.865,00
+4;334A;12005;Trienios;104,16;104.160,00;
+4;334A;12006;Pagas extraordinarias;118,31;118.310,00;
+4;334A;121;Retribuciones complementarias;678,16;678.160,00;10
+4;334A;12100;Complemento de destino;290,79;290.790,00;10
+4;334A;12101;Complemento específico;387,37;387.370,00;10
+4;334A;13;Laborales;193;193.000,00;10
+4;334A;131;Laboral eventual;193;193.000,00;25
+4;334A;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;222,11;222.110,00;25
+4;334A;160;Cuotas sociales;222,11;222.110,00;45
+4;334A;16000;Seguridad Social;222,11;222.110,00;
+4;334A;20;Arrendamientos y cánones;18;18.000,00;
+4;334A;205;Arrendamientos de mobiliario y enseres;2;2.000,00;1.100,00
+4;334A;209;Cánones;16;16.000,00;1.100,00
+4;334A;22;Material, suministros y otros;1.659,29;1.659.290,00;1.690,88
+4;334A;220;Material de oficina;11,59;11.590,00;40,88
+4;334A;22000;Ordinario no inventariable;1;1.000,00;1.150,00
+4;334A;22001;Prensa, revistas, libros y otras publicaciones;9,59;9.590,00;500
+4;334A;22002;Material informático no inventariable;1;1.000,00;565
+4;334A;221;Suministros;1;1.000,00;135
+4;334A;22199;Otros suministros;1;1.000,00;150
+4;334A;222;Comunicaciones;2;2.000,00;30
+4;334A;22201;Postales y mensajería;2;2.000,00;250
+4;334A;223;Transportes;7;7.000,00;3.355,88
+4;334A;226;Gastos diversos;702,06;702.060,00;
+4;334A;22601;Atenciones protocolarias y representativas;2;2.000,00;13.892,06
+4;334A;22602;Publicidad y propaganda;8,5;8.500,00;
+4;334A;22606;Reuniones, conferencias y cursos;662,06;662.060,00;22.093,94
+4;334A;22615;Gastos diversos en el exterior;5,5;5.500,00;
+4;334A;22699;Otros;24;24.000,00;
+4;334A;227;Trabajos realizados por otras empresas y profesionales;935,64;935.640,00;
+4;334A;22706;Estudios y trabajos técnicos;934,64;934.640,00;
+4;334A;22799;Otros;1;1.000,00;
+4;334A;23;Indemnizaciones por razón del servicio;65;65.000,00;560,79
+4;334A;230;Dietas;25;25.000,00;226,45
+4;334A;231;Locomoción;40;40.000,00;
+4;334A;44;A entidades del Sector Público Estatal;460;460.000,00;
+4;334A;445;Fundación Instituto de Cultura Gitana;350;350.000,00;
+4;334A;446;Fundación Residencia de Estudiantes;110;110.000,00;
+4;334A;45;A Comunidades Autónomas;100;100.000,00;334,34
+4;334A;455;Fundación Centro Cultural Internacional Oscar Niemeyer;100;100.000,00;
+4;334A;46;A Entidades Locales;15.600,00;15.600.000,00;
+4;334A;460–468;Ayuntamientos y consorcios culturales;15.600,00;15.600.000,00;86,78
+4;334A;48;A familias e instituciones sin fines de lucro;4.550,42;4.550.420,00;86,78
+4;334A;480;Instituciones culturales;1.665,00;1.665.000,00;
+4;334A;48001–48016;Fundaciones, patronatos, institutos y entidades culturales;—;—;647,57
+4;334A;489;Otras ayudas y subvenciones;2.885,42;2.885.420,00;
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;20.710,42;20.710.420,00;
+4;334A;62;Inversión nueva asociada al funcionamiento operativo;13;13.000,00;436,5
+4;334A;620;Inversión nueva asociada al funcionamiento operativo;13;13.000,00;306,5
+4;334A;64;Gastos de inversiones de carácter inmaterial;30;30.000,00;
+4;334A;640;Gastos en inversiones de carácter inmaterial;30;30.000,00;
+—;—;—;TOTAL INVERSIONES REALES;43;43.000,00;
+4;334A;75;A Comunidades Autónomas;31.947,50;31.947.500,00;
+4;334A;755;Apoyo a la cultura;31.947,50;31.947.500,00;182,6
+4;334A;76;A Entidades Locales;22.358,50;22.358.500,00;25
+4;334A;761–765;Ayuntamientos, diputaciones, asociaciones culturales;—;—;50
+4;334A;768;Ayuntamiento de Barcelona – capitalidad cultural;5.000,00;5.000.000,00;107,6
+4;334A;78;A familias e instituciones sin fines de lucro;90;90.000,00;619,1
+4;334A;780;Casal Catòlic de Sant Andreu de Palomar;90;90.000,00;
+—;—;—;TOTAL TRANSFERENCIAS DE CAPITAL;54.396,00;54.396.000,00;
+4;334A;;Promoción y cooperación cultural;78.674,24;78.674.240,00;146
+4;334C;12;Funcionarios;512,84;512.840,00;35
+4;334C;120;Retribuciones básicas;265,32;265.320,00;35
+4;334C;12000;Sueldos grupo A1 y A;53,07;53.070,00;254
+4;334C;12001;Sueldos grupo A2 y B;65,56;65.560,00;254
+4;334C;12002;Sueldos grupo C1 y C;51,87;51.870,00;435
+4;334C;12003;Sueldos grupo C2 y D;8,19;8.190,00;
+4;334C;12005;Trienios;41,69;41.690,00;1.701,67
+4;334C;12006;Pagas extraordinarias;44,94;44.940,00;
+4;334C;121;Retribuciones complementarias;247,52;247.520,00;
+4;334C;12100;Complemento de destino;113,54;113.540,00;
+4;334C;12101;Complemento específico;133,98;133.980,00;61,04
+4;334C;13;Laborales;141,14;141.140,00;61,04
+4;334C;130;Laboral fijo;96,01;96.010,00;
+4;334C;13000;Retribuciones básicas;94,89;94.890,00;
+4;334C;13001;Otras remuneraciones;1,12;1.120,00;1.306,38
+4;334C;131;Laboral eventual;45,13;45.130,00;628,22
+4;334C;16;Cuotas, prestaciones y gastos sociales;78,31;78.310,00;
+4;334C;160;Cuotas sociales;78,31;78.310,00;
+4;334C;16000;Seguridad Social;78,31;78.310,00;
+4;334C;47;A empresas privadas;1.500,00;1.500.000,00;
+4;334C;471;A Fianzas SGR – avales para entidades culturales;1.500,00;1.500.000,00;
+4;334C;77;A empresas privadas;3.940,00;3.940.000,00;
+4;334C;771;A Fianzas SGR – fondo de provisiones técnicas;1.000,00;1.000.000,00;678,16
+4;334C;772;Ayudas a inversión en contenidos digitales culturales;2.940,00;2.940.000,00;
+4;334C;82;Concesión de préstamos al Sector Público;11.000,00;11.000.000,00;
+4;334C;821;Préstamos a largo plazo;11.000,00;11.000.000,00;193
+4;334C;82111;A ENISA – apoyo a industrias creativas y culturales;11.000,00;11.000.000,00;193
+4;334C;;Fomento de las industrias culturales;17.172,29;17.172.290,00;222,11
+4;000X;43;A otras entidades del Sector Público Administrativo Estatal;110;110.000,00;
+4;000X;430;AECID – actividad cultural 150 años Academia de España en Roma;110;110.000,00;1.782,53
+4;000X;;Transferencias y libramientos internos;110;110.000,00;
+4;;;Dirección General de Industrias Culturales…;97.658,20;97.658.200,00;Arrendamientos y cánones
+5;144A;21;Reparaciones, mantenimiento y conservación;2,07;2.070,00;
+5;144A;212;Edificios y otras construcciones;0,75;750;
+5;144A;215;Mobiliario y enseres;1,32;1.320,00;
+5;144A;22;Material, suministros y otros;63,56;63.560,00;2,07
+5;144A;221;Suministros;7,25;7.250,00;0,75
+5;144A;22199;Otros suministros;7,25;7.250,00;1,32
+5;144A;223;Transportes;15,51;15.510,00;63,56
+5;144A;226;Gastos diversos;22,04;22.040,00;7,25
+5;144A;22606;Reuniones, conferencias y cursos;14,6;14.600,00;
+5;144A;22615;Gastos diversos en el exterior;7,44;7.440,00;15,51
+5;144A;227;Trabajos realizados por otras empresas y profesionales;18,76;18.760,00;22,04
+5;144A;22706;Estudios y trabajos técnicos;8,95;8.950,00;
+5;144A;22715;Trabajos realizados en el exterior;0,31;310;
+5;144A;22799;Otros;9,5;9.500,00;18,76
+5;144A;23;Indemnizaciones por razón del servicio;74,42;74.420,00;
+5;144A;230;Dietas;37,7;37.700,00;
+5;144A;231;Locomoción;36,72;36.720,00;
+5;332A;12;Funcionarios;8.554,48;8.554.480,00;37,7
+5;332A;120;Retribuciones básicas;5.023,72;5.023.720,00;36,72
+5;332A;12000;Sueldos grupo A1 y A;1.373,48;1.373.480,00;140,05
+5;332A;12001;Sueldos grupo A2 y B;1.250,57;1.250.570,00;
+5;332A;12002;Sueldos grupo C1 y C;815,86;815.860,00;
+5;332A;12003;Sueldos grupo C2 y D;239,8;239.800,00;100
+5;332A;12004;Agrupaciones profesionales y grupo E;21,62;21.620,00;100
+5;332A;12005;Trienios;533,32;533.320,00;100
+5;332A;12006;Pagas extraordinarias;789,07;789.070,00;
+5;332A;121;Retribuciones complementarias;3.530,76;3.530.760,00;
+5;332A;12100;Complemento de destino;1.806,95;1.806.950,00;2,77
+5;332A;12101;Complemento específico;1.723,81;1.723.810,00;2,77
+5;332A;13;Laborales;3.685,18;3.685.180,00;2,62
+5;332A;130;Laboral fijo;2.992,03;2.992.030,00;2,62
+5;332A;13000;Retribuciones básicas;2.946,93;2.946.930,00;5,39
+5;332A;13001;Otras remuneraciones;45,1;45.100,00;
+5;332A;131;Laboral eventual;693,15;693.150,00;
+5;332A;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;1.919,98;1.919.980,00;370
+5;332A;160;Cuotas sociales;1.919,98;1.919.980,00;370
+5;332A;16000;Seguridad Social;1.919,98;1.919.980,00;56
+5;332A;21;Reparaciones, mantenimiento y conservación;1.222,81;1.222.810,00;56
+5;332A;210;Infraestructura y bienes naturales;134;134.000,00;426
+5;332A;212;Edificios y otras construcciones;544,5;544.500,00;
+5;332A;213;Maquinaria, instalaciones y utillaje;221,52;221.520,00;671,44
+5;332A;215;Mobiliario y enseres;34,9;34.900,00;
+5;332A;216;Equipos para procesos de la información;287,28;287.280,00;
+5;332A;219;Otro inmovilizado material;0,61;610;
+5;332A;22;Material, suministros y otros;7.728,27;7.728.270,00;8.554,48
+5;332A;220;Material de oficina;118,37;118.370,00;5.023,72
+5;332A;22000;Ordinario no inventariable;41,61;41.610,00;
+5;332A;22001;Prensa, revistas, libros y otras publicaciones;7;7.000,00;
+5;332A;22002;Material informático no inventariable;69,76;69.760,00;
+5;332A;221;Suministros;1.671,04;1.671.040,00;
+5;332A;22100;Energía eléctrica;1.380,94;1.380.940,00;
+5;332A;22101;Agua;32;32.000,00;
+5;332A;22102;Gas;60;60.000,00;
+5;332A;22103;Combustible;37,8;37.800,00;3.530,76
+5;332A;22104;Vestuario;14,15;14.150,00;
+5;332A;22199;Otros suministros;146,15;146.150,00;
+5;332A;222;Comunicaciones;66,41;66.410,00;3.685,18
+5;332A;22200;Servicios de telecomunicaciones;57,54;57.540,00;2.992,03
+5;332A;22201;Postales y mensajería;8,87;8.870,00;
+5;332A;223;Transportes;70;70.000,00;
+5;332A;225;Tributos;18,5;18.500,00;693,15
+5;332A;22502;Locales;18,5;18.500,00;1.919,98
+5;332A;226;Gastos diversos;76,22;76.220,00;1.919,98
+5;332A;22606;Reuniones, conferencias y cursos;75;75.000,00;
+5;332A;22699;Otros;1,22;1.220,00;14.159,64
+5;332A;227;Trabajos realizados por otras empresas y profesionales;5.707,73;5.707.730,00;
+5;332A;22700;Limpieza y aseo;1.024,50;1.024.500,00;
+5;332A;22701;Seguridad;4.003,23;4.003.230,00;1.222,81
+5;332A;22706;Estudios y trabajos técnicos;665;665.000,00;134
+5;332A;22799;Otros;15;15.000,00;544,5
+5;332A;23;Indemnizaciones por razón del servicio;86;86.000,00;221,52
+5;332A;230;Dietas;37;37.000,00;34,9
+5;332A;231;Locomoción;37;37.000,00;287,28
+5;332A;233;Otras indemnizaciones;12;12.000,00;0,61
+5;332A;45;A Comunidades Autónomas;20;20.000,00;7.728,27
+5;332A;452;Actualización del Censo Guía de Archivos Españoles;20;20.000,00;118,37
+5;332A;48;A familias e instituciones sin fines de lucro;227,43;227.430,00;
+5;332A;484;Ayudas a instituciones y asociaciones profesionales;227,43;227.430,00;
+5;332A;48402–48407;Archiveros sin Fronteras, Fundación Medina Sidonia, UNE CTN, etc.;—;—;
+5;332A;49;Al exterior;53,88;53.880,00;1.671,04
+5;332A;491;Cuotas a organismos internacionales y cooperación;53,88;53.880,00;
+5;332A;62;Inversión nueva asociada al funcionamiento operativo;1.980,00;1.980.000,00;
+5;332A;620;Inversión nueva asociada al funcionamiento operativo;1.980,00;1.980.000,00;
+5;332A;63;Inversión de reposición asociada al funcionamiento operativo;100;100.000,00;
+5;332A;630;Inversión de reposición asociada al funcionamiento operativo;100;100.000,00;
+5;332A;64;Gastos de inversiones de carácter inmaterial;700;700.000,00;
+5;332A;640;Gastos en inversiones de carácter inmaterial;700;700.000,00;66,41
+5;332A;78;A familias e instituciones sin fines de lucro;75;75.000,00;
+5;332A;780;Ayudas para mejora de instalaciones y equipamiento de archivos;75;75.000,00;70
+5;332A;;Archivos;26.353,03;26.353.030,00;18,5
+5;333A;12;Funcionarios;11.271,61;11.271.610,00;
+5;333A;120;Retribuciones básicas;6.479,94;6.479.940,00;76,22
+5;333A;12000;Sueldos grupo A1 y A;2.213,83;2.213.830,00;
+5;333A;12001;Sueldos grupo A2 y B;1.652,79;1.652.790,00;
+5;333A;12002;Sueldos grupo C1 y C;914,7;914.700,00;5.707,73
+5;333A;12003;Sueldos grupo C2 y D;133,86;133.860,00;
+5;333A;12005;Trienios;558,08;558.080,00;
+5;333A;12006;Pagas extraordinarias;1.006,68;1.006.680,00;
+5;333A;121;Retribuciones complementarias;4.791,67;4.791.670,00;
+5;333A;12100;Complemento de destino;2.481,63;2.481.630,00;86
+5;333A;12101;Complemento específico;2.310,04;2.310.040,00;37
+5;333A;13;Laborales;13.332,06;13.332.060,00;37
+5;333A;130;Laboral fijo;10.082,06;10.082.060,00;12
+5;333A;13000;Retribuciones básicas;8.471,41;8.471.410,00;9.037,08
+5;333A;13001;Otras remuneraciones;1.610,65;1.610.650,00;
+5;333A;131;Laboral eventual;3.250,00;3.250.000,00;
+5;333A;16;Cuotas, prestaciones y gastos sociales;4.841,96;4.841.960,00;20
+5;333A;160;Cuotas sociales;4.765,74;4.765.740,00;20
+5;333A;16000;Seguridad Social;4.765,74;4.765.740,00;227,43
+5;333A;162;Gastos sociales del personal;76,22;76.220,00;227,43
+5;333A;16200;Formación y perfeccionamiento del personal;76,22;76.220,00;
+5;333A;20;Arrendamientos y cánones;442;442.000,00;
+5;333A;202–209;Edificios, maquinaria, mobiliario, cánones, etc.;—;—;
+5;333A;21;Reparaciones, mantenimiento y conservación;2.700,00;2.700.000,00;
+5;333A;210–219;Infraestructura, maquinaria, transporte, etc.;—;—;
+5;333A;22;Material, suministros y otros;18.522,61;18.522.610,00;53,88
+5;333A;220–22199;Oficina, energía, agua, vestuario, etc.;—;—;53,88
+5;333A;222;Comunicaciones;17,75;17.750,00;
+5;333A;223;Transportes;49,49;49.490,00;
+5;333A;224;Primas de seguros;146,63;146.630,00;
+5;333A;225;Tributos;136,11;136.110,00;
+5;333A;22502;Locales;121,57;121.570,00;
+5;333A;226;Gastos diversos;121,84;121.840,00;
+5;333A;22602;Publicidad y propaganda;19,77;19.770,00;
+5;333A;22606;Reuniones, conferencias y cursos;91,38;91.380,00;
+5;333A;22699;Otros;10,69;10.690,00;301,31
+5;333A;227;Trabajos realizados por otras empresas y profesionales;14.379,18;14.379.180,00;
+5;333A;22700;Limpieza y aseo;2.400,00;2.400.000,00;
+5;333A;22701;Seguridad;9.583,54;9.583.540,00;1.980,00
+5;333A;22706;Estudios y trabajos técnicos;2.354,03;2.354.030,00;1.980,00
+5;333A;22799;Otros;41,61;41.610,00;100
+5;333A;23;Indemnizaciones por razón del servicio;100;100.000,00;100
+5;333A;230;Dietas;55;55.000,00;700
+5;333A;231;Locomoción;45;45.000,00;700
+5;333A;35;Intereses de demora y otros gastos financieros;32;32.000,00;2.780,00
+5;333A;352;Intereses de demora;5;5.000,00;
+5;333A;359;Otros gastos financieros;27;27.000,00;
+5;333A;44;A entidades del Sector Público Estatal;18.706,85;18.706.850,00;75
+5;333A;45;A Comunidades Autónomas;3.185,05;3.185.050,00;75
+5;333A;46;A Entidades Locales;1.893,96;1.893.960,00;75
+5;333A;48;A familias e instituciones sin fines de lucro;1.641,02;1.641.020,00;
+5;333A;49;Al exterior;59,75;59.750,00;26.353,03
+5;333A;62;Inversión nueva asociada al funcionamiento operativo;586,4;586.400,00;
+5;333A;63;Inversión de reposición asociada al funcionamiento operativo;1.275,00;1.275.000,00;
+5;333A;64;Gastos de inversiones de carácter inmaterial;568,09;568.090,00;
+5;333A;76;A Entidades Locales;7.157,00;7.157.000,00;11.271,61
+5;333A;78;A familias e instituciones sin fines de lucro;251;251.000,00;6.479,94
+5;333A;;Museos;86.566,36;86.566.360,00;
+5;336B;10;Altos cargos;61,04;61.040,00;
+5;336B;100;Retribuciones básicas y otras remuneraciones;61,04;61.040,00;288,54
+5;336B;10000;Retribuciones básicas;18,91;18.910,00;148,31
+5;336B;10001;Retribuciones complementarias;42,13;42.130,00;
+5;336B;12;Funcionarios;2.053,39;2.053.390,00;
+5;336B;120;Retribuciones básicas;1.010,73;1.010.730,00;
+5;336B;12000;Sueldos grupo A1 y A;311,49;311.490,00;
+5;336B;12001;Sueldos grupo A2 y B;304,2;304.200,00;
+5;336B;12002;Sueldos grupo C1 y C;59,48;59.480,00;
+5;336B;12003;Sueldos grupo C2 y D;61,31;61.310,00;140,23
+5;336B;12005;Trienios;84,82;84.820,00;
+5;336B;12006;Pagas extraordinarias;189,43;189.430,00;
+5;336B;121;Retribuciones complementarias;1.042,66;1.042.660,00;24,14
+5;336B;12100;Complemento de destino;495,82;495.820,00;24,14
+5;336B;12101;Complemento específico;546,84;546.840,00;
+5;336B;13;Laborales;157,55;157.550,00;15,08
+5;336B;130;Laboral fijo;157,55;157.550,00;15,08
+5;336B;13000;Retribuciones básicas;149,03;149.030,00;
+5;336B;13001;Otras remuneraciones;8,52;8.520,00;327,76
+5;336B;16;Cuotas, prestaciones y gastos sociales;297,66;297.660,00;
+5;336B;160;Cuotas sociales;297,66;297.660,00;
+5;336B;16000;Seguridad Social;297,66;297.660,00;17
+5;336B;20;Arrendamientos y cánones;15;15.000,00;17
+5;336B;209;Cánones;15;15.000,00;14
+5;336B;22;Material, suministros y otros;1.745,64;1.745.640,00;14
+5;336B;220;Material de oficina;14,35;14.350,00;748,29
+5;336B;22000;Ordinario no inventariable;6,65;6.650,00;7,95
+5;336B;22001;Prensa, revistas, libros y otras publicaciones;3,9;3.900,00;
+5;336B;22002;Material informático no inventariable;3,8;3.800,00;
+5;336B;223;Transportes;110;110.000,00;
+5;336B;224;Primas de seguros;2;2.000,00;3
+5;336B;226;Gastos diversos;469,69;469.690,00;
+5;336B;22601;Atenciones protocolarias y representativas;2,34;2.340,00;7
+5;336B;22603;Jurídicos, contenciosos;209;209.000,00;
+5;336B;22606;Reuniones, conferencias y cursos;240;240.000,00;95
+5;336B;22699;Otros;18,35;18.350,00;2
+5;336B;227;Trabajos realizados por otras empresas y profesionales;1.149,60;1.149.600,00;
+5;336B;22706;Estudios y trabajos técnicos;1.149,60;1.149.600,00;96,02
+5;336B;23;Indemnizaciones por razón del servicio;290;290.000,00;
+5;336B;230;Dietas;155;155.000,00;
+5;336B;231;Locomoción;55;55.000,00;
+5;336B;233;Otras indemnizaciones;80;80.000,00;537,32
+5;336B;35;Intereses de demora y otros gastos financieros;5;5.000,00;
+5;336B;352;Intereses de demora;5;5.000,00;779,29
+5;336B;44;A entidades del Sector Público Estatal;450;450.000,00;
+5;336B;45;A Comunidades Autónomas;640;640.000,00;
+5;336B;48;A familias e instituciones sin fines de lucro;425;425.000,00;100
+5;336B;49;Al exterior;58,83;58.830,00;100
+5;336B;62;Inversión nueva asociada al funcionamiento operativo;6.724,50;6.724.500,00;300
+5;336B;63;Inversión de reposición asociada al funcionamiento operativo;63;63.000,00;60
+5;336B;64;Gastos de inversiones de carácter inmaterial;150;150.000,00;60
+5;336B;76;A Entidades Locales;660;660.000,00;
+5;336B;;Protección del Patrimonio Histórico;13.796,61;13.796.610,00;
+5;337B;12;Funcionarios;1.466,44;1.466.440,00;
+5;337B;120;Retribuciones básicas;746,89;746.890,00;27,24
+5;337B;12000;Sueldos grupo A1 y A;284,17;284.170,00;27,24
+5;337B;12001;Sueldos grupo A2 y B;144,91;144.910,00;27,24
+5;337B;12002;Sueldos grupo C1 y C;85,15;85.150,00;
+5;337B;12003;Sueldos grupo C2 y D;21,65;21.650,00;1.594,29
+5;337B;12005;Trienios;76,74;76.740,00;
+5;337B;12006;Pagas extraordinarias;134,27;134.270,00;
+5;337B;121;Retribuciones complementarias;719,55;719.550,00;
+5;337B;12100;Complemento de destino;346,25;346.250,00;1.466,44
+5;337B;12101;Complemento específico;373,3;373.300,00;746,89
+5;337B;13;Laborales;2.340,18;2.340.180,00;
+5;337B;130;Laboral fijo;2.233,59;2.233.590,00;
+5;337B;13000;Retribuciones básicas;2.210,48;2.210.480,00;
+5;337B;13001;Otras remuneraciones;23,11;23.110,00;
+5;337B;131;Laboral eventual;106,59;106.590,00;
+5;337B;16;Cuotas, prestaciones y gastos sociales;858,88;858.880,00;
+5;337B;160;Cuotas sociales;858,88;858.880,00;719,55
+5;337B;16000;Seguridad Social;858,88;858.880,00;
+5;337B;20;Arrendamientos y cánones;24;24.000,00;
+5;337B;21;Reparaciones, mantenimiento y conservación;548;548.000,00;2.340,18
+5;337B;22;Material, suministros y otros;921,5;921.500,00;2.233,59
+5;337B;23;Indemnizaciones por razón del servicio;350;350.000,00;
+5;337B;48;A familias e instituciones sin fines de lucro;70;70.000,00;
+5;337B;49;Al exterior;60;60.000,00;106,59
+5;337B;60;Inversión nueva en infraestructuras;4.000,00;4.000.000,00;858,88
+5;337B;62;Inversión nueva asociada al funcionamiento;791,93;791.930,00;
+5;337B;63;Inversión de reposición asociada al funcionamiento;13.141,00;13.141.000,00;4.665,50
+5;337B;64;Gastos de inversiones de carácter inmaterial;700;700.000,00;
+5;337B;75;A Comunidades Autónomas;78;78.000,00;
+5;337B;76;A Entidades Locales;12.943,00;12.943.000,00;24
+5;337B;78;A familias e instituciones sin fines de lucro;499;499.000,00;22
+5;337B;;Conservación y restauración de bienes culturales;38.791,93;38.791.930,00;1
+5;337C;10;Altos cargos;61,04;61.040,00;1
+5;337C;100;Retribuciones básicas y otras remuneraciones;61,04;61.040,00;548
+5;337C;10000;Retribuciones básicas;18,91;18.910,00;300
+5;337C;10001;Retribuciones complementarias;42,13;42.130,00;154
+5;337C;12;Funcionarios;2.053,39;2.053.390,00;1
+5;337C;120;Retribuciones básicas;1.010,73;1.010.730,00;23
+5;337C;121;Retribuciones complementarias;1.042,66;1.042.660,00;70
+5;337C;13;Laborales;157,55;157.550,00;921,5
+5;337C;16;Cuotas, prestaciones y gastos sociales;297,66;297.660,00;28,4
+5;337C;20;Arrendamientos y cánones;15;15.000,00;
+5;337C;22;Material, suministros y otros;1.745,64;1.745.640,00;
+5;337C;23;Indemnizaciones por razón del servicio;290;290.000,00;
+5;337C;35;Intereses de demora y otros gastos financieros;5;5.000,00;
+5;337C;44–49;A entidades públicas, privadas y al exterior;1.573,83;1.573.830,00;
+5;337C;62–64;Inversiones nuevas, reposición e inmateriales;6.937,50;6.937.500,00;
+5;337C;76;A Entidades Locales;660;660.000,00;
+5;337C;;Protección del Patrimonio Histórico;13.796,61;13.796.610,00;10,1
+5;;;Dirección General de Patrimonio Cultural y Bellas Artes;167.773,66;167.773.660,00;
+6;144A;12;Funcionarios;315,39;315.390,00;
+6;144A;120;Retribuciones básicas;152,49;152.490,00;
+6;144A;121;Retribuciones complementarias;162,9;162.900,00;
+6;144A;16;Cuotas, prestaciones y gastos sociales;18,28;18.280,00;315,39
+6;144A;20–23;Arrendamientos, suministros, transportes, etc.;816,55;816.550,00;152,49
+6;144A;48–49;A familias, instituciones sin fines de lucro y al exterior;1.032,49;1.032.490,00;
+6;144A;;Cooperación, promoción y difusión cultural;2.182,71;2.182.710,00;
+6;331M;10;Altos cargos;71,16;71.160,00;
+6;331M;12;Funcionarios;500,89;500.890,00;162,9
+6;331M;16;Cuotas, prestaciones y gastos sociales;52,03;52.030,00;
+6;331M;22–23;Material, suministros, estudios, dietas, etc.;3.840,85;3.840.850,00;
+6;331M;48;A familias e instituciones sin fines de lucro;45;45.000,00;18,28
+6;331M;62;Inversión nueva asociada al funcionamiento operativo;27,32;27.320,00;
+6;331M;;Dirección y Servicios Generales de Cultura;4.537,25;4.537.250,00;333,67
+6;;;Secretaría de Estado de Cultura;6.719,96;6.719.960,00;
+v;;;Ministerio de Cultura;1.043.455,86;1.043.455.860,00;

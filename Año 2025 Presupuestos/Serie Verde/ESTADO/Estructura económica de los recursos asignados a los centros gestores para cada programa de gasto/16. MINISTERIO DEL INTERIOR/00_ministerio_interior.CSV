@@ -1,0 +1,1294 @@
+Servicio;Programa;Económica;Explicación;Total (miles €);Total (€)
+1;131M;10;Altos cargos;407,2;407.200,00 €
+1;131M;100;Retribuciones básicas y otras remuneraciones;407,2;407.200,00 €
+1;131M;10000;Retribuciones básicas;171,34;171.340,00 €
+1;131M;10001;Retribuciones complementarias;235,86;235.860,00 €
+1;131M;11;Personal eventual;577,33;577.330,00 €
+1;131M;110;Retribuciones básicas y otras remuneraciones;577,33;577.330,00 €
+1;131M;11000;Retribuciones básicas;210,21;210.210,00 €
+1;131M;11001;Retribuciones complementarias;367,12;367.120,00 €
+1;131M;12;Funcionarios;384.809,00;384.809.000,00 €
+1;131M;120;Retribuciones básicas;7.445,28;7.445.280,00 €
+1;131M;12000;Sueldos grupo A1 y A;1.397,23;1.397.230,00 €
+1;131M;12001;Sueldos grupo A2 y B;1.118,19;1.118.190,00 €
+1;131M;12002;Sueldos grupo C1 y C;1.003,63;1.003.630,00 €
+1;131M;12003;Sueldos grupo C2 y D;1.036,08;1.036.080,00 €
+1;131M;12005;Trienios;1.614,85;1.614.850,00 €
+1;131M;12006;Pagas extraordinarias;1.275,30;1.275.300,00 €
+1;131M;121;Retribuciones complementarias;377.363,72;377.363.720,00 €
+1;131M;12100;Complemento de destino;3.102,81;3.102.810,00 €
+1;131M;12101;Complemento específico;4.019,10;4.019.100,00 €
+1;131M;12103;Otros complementos;25,78;25.780,00 €
+1;131M;12104;Complemento destino FCS;65,87;65.870,00 €
+1;131M;12105;Complemento específico general FCS;85,73;85.730,00 €
+1;131M;12106;Complemento específico singular FCS;85,43;85.430,00
+1;131M;12181;Necesidades adicionales;369.979,00;369.979.000,00
+1;131M;20;Arrendamientos y cánones;1.163,39;1.163.390,00
+1;131M;202;Arrendamientos de edificios y otras construcciones;1.157,68;1.157.680,00
+1;131M;205;Arrendamientos de mobiliario y enseres;5,71;5.710,00
+1;131M;21;Reparaciones, mantenimiento y conservación;2.047,03;2.047.030,00
+1;131M;212;Edificios y otras construcciones;707,83;707.830,00 €
+1;131M;213;Maquinaria, instalaciones y utillaje;399,87;399.870,00
+1;131M;215;Mobiliario y enseres;137,51;137.510,00
+1;131M;216;Equipos para procesos de la información;801,82;801.820,00 €
+1;131M;22;Material, suministros y otros;14.851,52;14.851.520,00 €
+1;131M;220;Material de oficina;280,87;280.870,00 €
+1;131M;22000;Ordinario no inventariable;108,93;108.930,00 €
+1;131M;22001;Prensa, revistas, libros y otras publicaciones;92,04;92.040,00
+1;131M;22002;Material informático no inventariable;79,9;79.900,00 €
+1;131M;221;Suministros;1.450,97;1.450.970,00 €
+1;131M;22100;Energía eléctrica;1.025,00;1.025.000,00
+1;131M;22101;Agua;15,83;15.830,00 €
+1;131M;22103;Combustible;91,75;91.750,00 €
+1;131M;22104;Vestuario;56,05;56.050,00 €
+1;131M;22106;Productos farmacéuticos y material sanitario;0,74;740,00 €
+1;131M;22109;Labores Fábrica Nacional Moneda y Timbre;11,5;11.500,00 €
+1;131M;22111;Repuestos de maquinaria, utillaje y transporte;60,1;60.100,00 €
+1;131M;22112;Material electrónico, eléctrico y comunicaciones;65;65.000,00 €
+1;131M;22199;Otros suministros;125;125.000,00
+1;131M;222;Comunicaciones;296,05;296.050,00 €
+1;131M;22200;Servicios de telecomunicaciones;186,44;186.440,00 €
+1;131M;22201;Postales y mensajería;85,57;85.570,00 €
+1;131M;22299;Otras comunicaciones;24,04;24.040,00 €
+1;131M;223;Transportes;387,6;387.600,00 €
+1;131M;225;Tributos;82,16;82.160,00 €
+1;131M;22502;Locales;82,16;82.160,00 €
+1;131M;226;Gastos diversos;7.906,70;7.906.700,00 €
+1;131M;22601;Atenciones protocolarias y representativas;165,97;165.970,00 €
+1;131M;22602;Publicidad y propaganda;111,93;111.930,00 €
+1;131M;22603;Jurídicos, contenciosos;35,13;35.130,00 €
+1;131M;22606;Reuniones, conferencias y cursos;126,53;126.530,00 €
+1;131M;22608;Gastos reservados;7.374,61;7.374.610,00 €
+1;131M;22611;Gastos protocolarios actos institucionales;66,47;66.470,00 €
+1;131M;22699;Otros gastos diversos;26,06;26.060,00 €
+1;131M;227;Trabajos realizados por otras empresas y profesionales;4.447,17;4.447.170,00 €
+1;131M;22700;Limpieza y aseo;47,64;47.640,00 €
+1;131M;22706;Estudios y trabajos técnicos;4.236,42;4.236.420,00 €
+1;131M;22799;Otros trabajos externos;163,11;163.110,00 €
+1;131M;23;Indemnizaciones por razón del servicio;590,14;590.140,00 €
+1;131M;230;Dietas;262,19;262.190,00 €
+1;131M;231;Locomoción;294,3;294.300,00 €
+1;131M;232;Traslado;18,52;18.520,00
+1;131M;233;Otras indemnizaciones;15,13;15.130,00 €
+1;131M;24;Gastos de publicaciones;228,68;228.680,00 €
+1;131M;240;Gastos de edición y distribución;228,68;228.680,00 €
+1;131M;—;Total gastos corrientes en bienes y servicios;18.880,76;18.880.760,00 €
+1;131M;35;Intereses de demora y otros gastos financieros;2,37;2.370,00 €
+1;131M;352;Intereses de demora;2,37;2.370,00 €
+1;131M;—;Total gastos financieros;2,37;2.370,00 €
+1;131M;44;A entidades del Sector Público Estatal;2.035,00;2.035.000,00 €
+1;131M;440;Fundación Víctimas del Terrorismo;335;335.000,00 €
+1;131M;441;Centro para la Memoria de las Víctimas del Terrorismo;1.700,00;1.700.000,00 €
+1;131M;48;A familias e instituciones sin fines de lucro;16.067,70;16.067.700,00 €
+1;131M;480;Subvenciones según Ley 29/2011;1.000,00;1.000.000,00 €
+1;131M;483;Indemnizaciones y ayudas Ley 29/2011 y RD 671/2013;13.592,70;13.592.700,00 €
+1;131M;487;Indemnizaciones Ley 40/2015 y Ley 52/1984;1.475,00;1.475.000,00 €
+1;131M;—;Total transferencias corrientes;18.102,70;18.102.700,00 €
+1;131M;62;Inversión nueva asociada al funcionamiento operativo;13,35;13.350,00 €
+1;131M;620;Inversión nueva asociada al funcionamiento operativo;13,35;13.350,00 €
+1;131M;63;Inversión de reposición asociada al funcionamiento;4.469,03;4.469.030,00 €
+1;131M;630;Inversión de reposición asociada al funcionamiento;4.469,03;4.469.030,00 €
+1;131M;—;Total inversiones reales;4.482,38;4.482.380,00 €
+1;131M;83;Concesión de préstamos fuera del Sector Público;121,95;121.950,00
+1;131M;830;Préstamos a corto plazo;121,95;121.950,00 €
+1;131M;83008;A familias e instituciones sin fines de lucro;121,95;121.950,00 €
+1;131M;—;Total activos financieros;121,95;121.950,00 €
+1;131M;;Dirección y Servicios Generales de Seguridad y Protección Civil;442.583,55;442.583.550,00 €
+1;131P;12;Funcionarios;7.986,12;7.986.120,00 €
+1;131P;120;Retribuciones básicas;4.486,00;4.486.000,00 €
+1;131P;12000;Sueldos grupo A1 y A;163,51;163.510,00 €
+1;131P;12001;Sueldos grupo A2 y B;2.724,78;2.724.780,00 €
+1;131P;12002;Sueldos grupo C1 y C;511,46;511.460,00 €
+1;131P;12003;Sueldos grupo C2 y D;64,25;64.250,00 €
+1;131P;12005;Trienios;277,78;277.780,00 €
+1;131P;12006;Pagas extraordinarias;744,22;744.220,00 €
+1;131P;121;Retribuciones complementarias;3.500,12;3.500.120,00 €
+1;131P;12100;Complemento de destino;1.739,06;1.739.060,00 €
+1;131P;12101;Complemento específico;1.761,06;1.761.060,00 €
+1;131P;13;Laborales;179,84;179.840,00 €
+1;131P;130;Laboral fijo;179,84;179.840,00 €
+1;131P;13000;Retribuciones básicas;166,56;166.560,00 €
+1;131P;13001;Otras remuneraciones;13,28;13.280,00 €
+1;131P;16;Cuotas, prestaciones y gastos sociales;1.664,37;1.664.370,00 €
+1;131P;160;Cuotas sociales;1.664,37;1.664.370,00 €
+1;131P;16000;Seguridad Social;1.664,37;1.664.370,00 €
+1;131P;—;Total gastos de personal;9.830,33;9.830.330,00 €
+1;131P;21;Reparaciones, mantenimiento y conservación;860,5;860.500,00 €
+1;131P;212;Edificios y otras construcciones;51,75;51.750,00 €
+1;131P;213;Maquinaria, instalaciones y utillaje;8;8.000,00 €
+1;131P;215;Mobiliario y enseres;0,75;750,00 €
+1;131P;216;Equipos para procesos de la información;800;800.000,00 €
+1;131P;22;Material, suministros y otros;4.989,80;4.989.800,00 €
+1;131P;220;Material de oficina;19,6;19.600,00 €
+1;131P;22000;Ordinario no inventariable;15;15.000,00 €
+1;131P;22001;Prensa, revistas, libros y otras publicaciones;3;3.000,00 €
+1;131P;22002;Material informático no inventariable;1,6;1.600,00 €
+1;131P;221;Suministros;78,62;78.620,00 €
+1;131P;22100;Energía eléctrica;57,62;57.620,00 €
+1;131P;22101;Agua;5;5.000,00 €
+1;131P;22111;Repuestos de maquinaria, utillaje y transporte;6;6.000,00 €
+1;131P;22112;Material electrónico, eléctrico y comunicaciones;5;5.000,00 €
+1;131P;22199;Otros suministros;5;5.000,00 €
+1;131P;222;Comunicaciones;3,04;3.040,00 €
+1;131P;22200;Servicios de telecomunicaciones;3,04;3.040,00 €
+1;131P;226;Gastos diversos;187,92;187.920,00 €
+1;131P;22602;Publicidad y propaganda;9,17;9.170,00 €
+1;131P;22603;Jurídicos, contenciosos;50;50.000,00 €
+1;131P;22606;Reuniones, conferencias y cursos;128,75;128.750,00 €
+1;131P;227;Trabajos realizados por otras empresas y profesionales;4.700,62;4.700.620,00 €
+1;131P;22700;Limpieza y aseo;0,62;620,00 €
+1;131P;22706;Estudios y trabajos técnicos;4.700,00;4.700.000,00 €
+1;131P;23;Indemnizaciones por razón del servicio;131;131.000,00 €
+1;131P;230;Dietas;50;50.000,00
+1;131P;231;Locomoción;76;76.000,00 €
+1;131P;233;Otras indemnizaciones;5;5.000,00 €
+1;131P;—;Total gastos corrientes en bienes y servicios;5.981,30;5.981.300,00 €
+1;131P;49;Al exterior;290,85;290.850,00 €
+1;131P;490;Contribuciones al Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR);290,85;290.850,00 €
+1;131P;—;Total transferencias corrientes;290,85;290.850,00
+1;131P;62;Inversión nueva asociada al funcionamiento operativo de los servicios;100;100.000,00
+1;131P;620;Inversión nueva asociada al funcionamiento operativo de los servicios;100;100.000,00 €
+1;131P;—;Total inversiones reales;100;100.000,00 €
+1;131P;;Derecho de Asilo y Apátridas;16.202,48;16.202.480,00 €
+1;134M;10;Altos cargos;64,01;64.010,00 €
+1;134M;12;Funcionarios;3.229,00;3.229.000,00 €
+1;134M;13;Laborales;2.377,39;2.377.390,00
+1;134M;16;Cuotas, prestaciones y gastos sociales;1.183,95;1.183.950,00 €
+1;134M;—;Total gastos de personal;6.854,35;6.854.350,00 €
+1;134M;20;Arrendamientos y cánones;13,6;13.600,00 €
+1;134M;21;Reparaciones, mantenimiento y conservación;2.594,38;2.594.380,00 €
+1;134M;22;Material, suministros y otros;1.675,04;1.675.040,00 €
+1;134M;222;Comunicaciones;64,26;64.260,00 €
+1;134M;223;Transportes;10;10.000,00 €
+1;134M;224;Primas de seguros;60;60.000,00 €
+1;134M;225;Tributos;41,5;41.500,00 €
+1;134M;226;Gastos diversos;534,73;534.730,00 €
+1;134M;227;Trabajos realizados por otras empresas y profesionales;228,75;228.750,00 €
+1;134M;228;Fondo de prevención de emergencias;180;180.000,00 €
+1;134M;23;Indemnizaciones por razón del servicio;345;345.000,00 €
+1;134M;—;Total gastos corrientes en bienes y servicios;4.628,02;4.628.020,00 €
+1;134M;46;A Entidades Locales;240,4;240.400,00 €
+1;134M;461;Por siniestros, catástrofes u otros de urgencia reconocida;240,4;240.400,00 €
+1;134M;47;A empresas privadas;40,1;40.100,00 €
+1;134M;471;Por actividades en situaciones de emergencia;20,1;20.100,00 €
+1;134M;472;Por siniestros, catástrofes u otros de urgencia reconocida;20;20.000,00 €
+1;134M;48;A familias e instituciones sin fines de lucro;495,4;495.400,00 €
+1;134M;482;Por siniestros, catástrofes u otros de urgencia reconocida;154;154.000,00 €
+1;134M;489;A Cruz Roja Española por participación en planes y actividades de protección civil;341,4;341.400,00 €
+1;134M;—;Total transferencias corrientes;775,9;775.900,00 €
+1;134M;62;Inversión nueva asociada al funcionamiento operativo;71,02;71.020,00 €
+1;134M;63;Inversión de reposición asociada al funcionamiento operativo;861,23;861.230,00 €
+1;134M;64;Gastos de inversiones de carácter inmaterial;362,11;362.110,00 €
+1;134M;—;Total inversiones reales;1.294,36;1.294.360,00 €
+1;134M;76;A Entidades Locales;3.066,93;3.066.930,00
+1;134M;761;Por siniestros, catástrofes u otros de urgencia reconocida;60,1;60.100,00 €
+1;134M;762;Equipamiento e infraestructuras por Planes de Emergencia Nuclear;3.006,83;3.006.830,00 €
+1;134M;77;A empresas privadas;40;40.000,00 €
+1;134M;771;Por siniestros, catástrofes u otros de urgencia reconocida;40;40.000,00 €
+1;134M;78;A familias e instituciones sin fines de lucro;90,15;90.150,00 €
+1;134M;782;Por siniestros, catástrofes u otros de urgencia reconocida;90,15;90.150,00 €
+1;134M;—;Total transferencias de capital;3.197,08;3.197.080,00 €
+1;134M;;Protección Civil;16.749,71;16.749.710,00 €
+1;924M;12;Funcionarios;1.121,07;1.121.070,00 €
+1;924M;120;Retribuciones básicas;540,95;540.950,00 €
+1;924M;121;Retribuciones complementarias;580,12;580.120,00 €
+1;924M;16;Cuotas, prestaciones y gastos sociales;108,18;108.180,00 €
+1;924M;—;Total gastos de personal;1.229,25;1.229.250,00 €
+1;924M;21;Reparaciones, mantenimiento y conservación;15;15.000,00 €
+1;924M;22;Material, suministros y otros;347.100,00;347.100.000,00 €
+1;924M;226;Gastos diversos;30;30.000,00 €
+1;924M;227;Trabajos realizados por otras empresas y profesionales;347.070,00;347.070.000,00 €
+1;924M;—;Total gastos corrientes en bienes y servicios;347.115,00;347.115.000,00 €
+1;924M;48;A familias e instituciones sin fines de lucro;111.473,73;111.473.730,00 €
+1;924M;—;Total transferencias corrientes;111.473,73;111.473.730,00 €
+1;924M;64;Gastos de inversiones de carácter inmaterial;1.750,00;1.750.000,00 €
+1;924M;—;Total inversiones reales;1.750,00;1.750.000,00 €
+1;924M;;Elecciones y Partidos Políticos;461.567,98;461.567.980,00 €
+1;000X;43;A otras entidades del Sector Público Administrativo Estatal con presupuesto limitativo;107,6;107.600,00 €
+1;000X;435;A la Agencia Estatal de Administración Tributaria por gastos comunes del edificio en Madrid;107,6;107.600,00 €
+1;000X;—;Total transferencias corrientes;107,6;107.600,00 €
+1;000X;;Transferencias y Libramientos Internos;107,6;107.600,00 €
+1;;;Ministerio, Subsecretaría y Servicios Generales;937.211,32;937.211.320,00 €
+2;132A;10;Altos cargos;212,41;212.410,00 €
+2;132A;11;Personal eventual;250,13;250.130,00 €
+2;132A;12;Funcionarios;25.830,33;25.830.330,00 €
+2;132A;13;Laborales;366,57;366.570,00 €
+2;132A;16;Cuotas, prestaciones y gastos sociales;1.205,66;1.205.660,00 €
+2;132A;—;Total gastos de personal;27.865,10;27.865.100,00 €
+2;132A;20;Arrendamientos y cánones;40;40.000,00 €
+2;132A;21;Reparaciones, mantenimiento y conservación;11.815,00;11.815.000,00 €
+2;132A;22;Material, suministros y otros;164.842,78;164.842.780,00 €
+2;132A;222;Comunicaciones;79.220,00;79.220.000,00 €
+2;132A;223;Transportes;12.533,95;12.533.950,00
+2;132A;226;Gastos diversos;537,06;537.060,00 €
+2;132A;227;Trabajos realizados por otras empresas y profesionales;70.725,58;70.725.580,00 €
+2;132A;23;Indemnizaciones por razón del servicio;950;950.000,00 €
+2;132A;—;Total gastos corrientes en bienes y servicios;177.647,78;177.647.780,00 €
+2;132A;35;Intereses de demora y otros gastos financieros;0,76;760,00
+2;132A;352;Intereses de demora;0,76;760,00 €
+2;132A;—;Total gastos financieros;0,76;760,00 €
+2;132A;48;A familias e instituciones sin fines de lucro;1.285,00;1.285.000,00 €
+2;132A;481;Para todo tipo de atenciones derivadas de la inmigración;10;10.000,00 €
+2;132A;482;A la Cruz Roja Española para programas asistenciales en CIES;1.125,00;1.125.000,00 €
+2;132A;483;A Fundación ANAR para ayuda a niños y adolescentes en riesgo;150;150.000,00 €
+2;132A;49;Al exterior;45.395,63;45.395.630,00 €
+2;132A;491;Contribución a Organismos Internacionales;630;630.000,00 €
+2;132A;49103;A EUCARIS;25;25.000,00 €
+2;132A;49104;Al MAOC-N;95;95.000,00 €
+2;132A;49105;A la Organización Internacional para las Migraciones;500;500.000,00 €
+2;132A;49106;A la Red Europea de Prevención de la Delincuencia;10;10.000,00 €
+2;132A;494;Cooperación Internacional;44.765,63;44.765.630,00 €
+2;132A;49401;Ayudas directas;43.763,00;43.763.000,00 €
+2;132A;49402;Formación;1.002,63;1.002.630,00 €
+2;132A;—;Total transferencias corrientes;46.680,63;46.680.630,00 €
+2;132A;62;Inversión nueva asociada al funcionamiento operativo;89.253,77;89.253.770,00 €
+2;132A;63;Inversión de reposición asociada al funcionamiento operativo;19.910,00;19.910.000,00 €
+2;132A;64;Gastos de inversiones de carácter inmaterial;100;100.000,00 €
+2;132A;—;Total inversiones reales;109.263,77;109.263.770,00 €
+2;132A;79;Al exterior;2.425,00;2.425.000,00 €
+2;132A;792;Contribución a Organismos Internacionales;10;10.000,00 €
+2;132A;794;Ayudas y subvenciones en cooperación policial internacional;2.415,00;2.415.000,00 €
+2;132A;—;Total transferencias de capital;2.425,00;2.425.000,00 €
+2;132A;;Seguridad Ciudadana;363.883,04;363.883.040,00 €
+2;132C;12;Funcionarios;3.633,74;3.633.740,00 €
+2;132C;13;Laborales;128,55;128.550,00 €
+2;132C;16;Cuotas, prestaciones y gastos sociales;103,78;103.780,00 €
+2;132C;—;Total gastos de personal;3.866,07;3.866.070,00 €
+2;132C;21;Reparaciones, mantenimiento y conservación;182,13;182.130,00 €
+2;132C;22;Material, suministros y otros;932,1;932.100,00 €
+2;132C;222;Comunicaciones;60,8;60.800,00 €
+2;132C;223;Transportes;250;250.000,00 €
+2;132C;226;Gastos diversos;95;95.000,00 €
+2;132C;227;Trabajos realizados por otras empresas y profesionales;472,75;472.750,00 €
+2;132C;23;Indemnizaciones por razón del servicio;91,95;91.950,00 €
+2;132C;—;Total gastos corrientes en bienes y servicios;2.084,73;2.084.730,00 €
+2;132C;62;Inversión nueva asociada al funcionamiento operativo;689,27;689.270,00 €
+2;132C;63;Inversión de reposición asociada al funcionamiento;91;91.000,00 €
+2;132C;—;Total inversiones reales;780,27;780.270,00 €
+2;132C;;Actuaciones Policiales en Materia de Droga;6.731,07;6.731.070,00 €
+2;000X;41;A Organismos Autónomos;2.038,70;2.038.700,00 €
+2;000X;410;A la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado;2.038,70;2.038.700,00 €
+2;000X;—;Total transferencias corrientes;2.038,70;2.038.700,00 €
+2;000X;;Transferencias y Libramientos Internos;2.038,70;2.038.700,00 €
+2;;;Secretaría de Estado de Seguridad;372.652,74;372.652.740,00 €
+3;131N;12;Funcionarios;53.349,20;53.349.200,00 €
+3;131N;13;Laborales;1.281,92;1.281.920,00 €
+3;131N;16;Cuotas, prestaciones y gastos sociales;13.883,23;13.883.230,00 €
+3;131N;—;Total gastos de personal;68.514,35;68.514.350,00 €
+3;131N;21;Reparaciones, mantenimiento y conservación;355,01;355.010,00 €
+3;131N;22;Material, suministros y otros;2.097,39;2.097.390,00 €
+3;131N;222;Comunicaciones;4,18;4.180,00 €
+3;131N;223;Transportes;50;50.000,00 €
+3;131N;225;Tributos;2,94;2.940,00 €
+3;131N;226;Gastos diversos;720;720.000,00 €
+3;131N;227;Trabajos realizados por otras empresas y profesionales;257,27;257.270,00 €
+3;131N;23;Indemnizaciones por razón del servicio;10.370,00;10.370.000,00 €
+3;131N;—;Total gastos corrientes en bienes y servicios;12.822,40;12.822.400,00 €
+3;131N;;Formación de Fuerzas y Cuerpos de Seguridad del Estado;81.336,75;81.336.750,00 €
+3;131O;12;Funcionarios;93.424,68;93.424.680,00 €
+3;131O;—;Total gastos de personal;93.424,68;93.424.680,00 €
+3;131O;;Fuerzas y Cuerpos en Reserva;93.424,68;93.424.680,00 €
+3;132A;10;Altos cargos;74,81;74.810,00 €
+3;132A;11;Personal eventual;56,47;56.470,00 €
+3;132A;12;Funcionarios;2.539.243,83;2.539.243.830,00 €
+3;132A;13;Laborales;5.651,33;5.651.330,00 €
+3;132A;15;Incentivos al rendimiento;221.608,46;221.608.460,00 €
+3;132A;16;Cuotas, prestaciones y gastos sociales;119.647,88;119.647.880,00 €
+3;132A;—;Total gastos de personal;2.886.282,78;2.886.282.780,00 €
+3;132A;20–23;Arrendamientos, reparaciones, suministros, indemnizaciones;349.855,50;349.855.500,00 €
+3;132A;—;Total gastos corrientes en bienes y servicios;349.855,50;349.855.500,00 €
+3;132A;35;Intereses de demora;200;200.000,00 €
+3;132A;—;Total gastos financieros;200;200.000,00 €
+3;132A;44–49;A familias, asociaciones, cooperación internacional;1.268,30;1.268.300,00 €
+3;132A;—;Total transferencias corrientes;1.268,30;1.268.300,00 €
+3;132A;62–63;Inversión nueva y reposición;98.071,04;98.071.040,00 €
+3;132A;—;Total inversiones reales;98.071,04;98.071.040,00 €
+3;132A;83;Préstamos fuera del sector público;47,12;47.120,00 €
+3;132A;—;Total activos financieros;47,12;47.120,00 €
+3;132A;91–94;Amortización de préstamos y devolución de fianzas;4,87;4.870,00 €
+3;132A;—;Total pasivos financieros;4,87;4.870,00 €
+3;132A;;Seguridad Ciudadana;3.335.729,61;3.335.729.610,00 €
+3;132C;12;Funcionarios;29.705,47;29.705.470,00 €
+3;132C;13;Laborales;5.651,33;5.651.330,00 €
+3;132C;16;Cuotas, prestaciones y gastos sociales;4.263,24;4.263.240,00 €
+3;132C;—;Total gastos de personal;39.620,04;39.620.040,00 €
+3;132C;21;Reparaciones, mantenimiento y conservación;15;15.000,00 €
+3;132C;22;Material, suministros y otros;292;292.000,00 €
+3;132C;23;Indemnizaciones por razón del servicio;202;202.000,00 €
+3;132C;—;Total gastos corrientes en bienes y servicios;509;509.000,00 €
+3;132C;62;Inversión nueva asociada al funcionamiento operativo;100;100.000,00 €
+3;132C;—;Total inversiones reales;100;100.000,00 €
+3;132C;;Actuaciones Policiales en Materia de Droga;40.229,04;40.229.040,00 €
+3;000X;41;A Organismos Autónomos;3.750,00;3.750.000,00 €
+3;000X;410;Al Centro Universitario de Formación de la Policía Nacional;3.750,00;3.750.000,00 €
+3;000X;—;Total transferencias corrientes;3.750,00;3.750.000,00 €
+3;000X;71;A Organismos Autónomos;250;250.000,00 €
+3;000X;710;Al Centro Universitario de Formación de la Policía Nacional;250;250.000,00 €
+3;000X;—;Total transferencias de capital;250;250.000,00 €
+3;000X;;Transferencias y Libramientos Internos;4.000,00;4.000.000,00 €
+3;;;Dirección General de la Policía;3.953.093,11;3.953.093.110,00 €
+4;131N;12;Funcionarios;59.266,35;59.266.350,00 €
+4;131N;16;Cuotas, prestaciones y gastos sociales;10.467,45;10.467.450,00 €
+4;131N;—;Total gastos de personal;69.733,80;69.733.800,00 €
+4;131N;21;Reparaciones, mantenimiento y conservación;1.029,00;1.029.000,00 €
+4;131N;22;Material, suministros y otros;8.256,84;8.256.840,00 €
+4;131N;224;Primas de seguros;1;1.000,00 €
+4;131N;225;Tributos;46;46.000,00 €
+4;131N;226;Gastos diversos;696,84;696.840,00 €
+4;131N;227;Trabajos realizados por otras empresas y profesionales;280;280.000,00 €
+4;131N;23;Indemnizaciones por razón del servicio;11.100,00;11.100.000,00 €
+4;131N;—;Total gastos corrientes en bienes y servicios;21.409,68;21.409.680,00 €
+4;131N;44;A entidades del sector público estatal;3.420,75;3.420.750,00 €
+4;131N;—;Total transferencias corrientes;3.420,75;3.420.750,00
+4;131N;74;A entidades del sector público estatal;31,53;31.530,00 €
+4;131N;—;Total transferencias de capital;31,53;31.530,00 €
+4;131N;;Formación de Fuerzas y Cuerpos de Seguridad del Estado;94.595,76;94.595.760,00 €
+4;131O;12;Funcionarios;211.295,47;211.295.470,00 €
+4;131O;—;Total gastos de personal;211.295,47;211.295.470,00 €
+4;131O;;Fuerzas y Cuerpos en Reserva;211.295,47;211.295.470,00 €
+4;132A;10;Altos cargos;74,81;74.810,00 €
+4;132A;11;Personal eventual;56,47;56.470,00
+4;132A;12;Funcionarios;2.539.243,83;2.539.243.830,00
+4;132A;13;Laborales;5.651,33;5.651.330,00 €
+4;132A;15;Incentivos al rendimiento;221.608,46;221.608.460,00 €
+4;132A;16;Cuotas, prestaciones y gastos sociales;119.647,88;119.647.880,00 €
+4;132A;—;Total gastos de personal;2.886.282,78;2.886.282.780,00 €
+4;132A;20–23;Arrendamientos, reparaciones, suministros, indemnizaciones;349.855,50;349.855.500,00 €
+4;132A;—;Total gastos corrientes en bienes y servicios;349.855,50;349.855.500,00 €
+4;132A;35;Intereses de demora;200;200.000,00 €
+4;132A;—;Total gastos financieros;200;200.000,00 €
+4;132A;44–49;A familias, asociaciones, cooperación internacional;1.268,30;1.268.300,00 €
+4;132A;—;Total transferencias corrientes;1.268,30;1.268.300,00 €
+4;132A;62–63;Inversión nueva y reposición;98.071,04;98.071.040,00 €
+4;132A;—;Total inversiones reales;98.071,04;98.071.040,00 €
+4;132A;83;Préstamos fuera del sector público;47,12;47.120,00 €
+4;132A;—;Total activos financieros;47,12;47.120,00 €
+4;132A;91–94;Amortización de préstamos y devolución de fianzas;4,87;4.870,00 €
+4;132A;—;Total pasivos financieros;4,87;4.870,00 €
+4;132A;;Seguridad Ciudadana;3.335.729,61;3.335.729.610,00 €
+4;132C;12;Funcionarios;29.705,47;29.705.470,00 €
+4;132C;—;Total gastos de personal;29.705,47;29.705.470,00 €
+4;132C;21;Reparaciones, mantenimiento y conservación;15;15.000,00 €
+4;132C;22;Material, suministros y otros;292;292.000,00 €
+4;132C;23;Indemnizaciones por razón del servicio;202;202.000,00 €
+4;132C;—;Total gastos corrientes en bienes y servicios;509;509.000,00 €
+4;132C;62;Inversión nueva asociada al funcionamiento operativo;100;100.000,00 €
+4;132C;—;Total inversiones reales;100;100.000,00 €
+4;132C;;Actuaciones Policiales en Materia de Droga;30.314,47;30.314.470,00 €
+5;131M;10;Altos cargos;212,41;212.410,00 €
+5;131M;11;Personal eventual;250,13;250.130,00 €
+5;131M;12;Funcionarios;25.830,33;25.830.330,00 €
+5;131M;13;Laborales;366,57;366.570,00 €
+5;131M;16;Cuotas, prestaciones y gastos sociales;1.205,66;1.205.660,00 €
+5;131M;20;Arrendamientos y cánones;40;40.000,00 €
+5;131M;21;Reparaciones, mantenimiento y conservación;11.815,00;11.815.000,00 €
+5;131M;22;Material, suministros y otros;164.842,78;164.842.780,00 €
+5;131M;222;Comunicaciones;79.220,00;79.220.000,00 €
+5;131M;223;Transportes;12.533,95;12.533.950,00 €
+5;131M;226;Gastos diversos;537,06;537.060,00 €
+5;131M;227;Trabajos realizados por otras empresas;70.725,58;70.725.580,00 €
+5;131M;23;Indemnizaciones por razón del servicio;950;950.000,00 €
+5;131M;35;Intereses de demora;0,76;760,00 €
+5;131M;48;A familias e instituciones sin fines de lucro;1.285,00;1.285.000,00 €
+5;131M;49;Al exterior;45.395,63;45.395.630,00 €
+5;131M;62;Inversión nueva asociada al funcionamiento operativo;89.253,77;89.253.770,00 €
+5;131M;63;Inversión de reposición asociada al funcionamiento operativo;19.910,00;19.910.000,00 €
+5;131M;64;Gastos de inversiones de carácter inmaterial;100;100.000,00 €
+5;131M;79;Al exterior;2.425,00;2.425.000,00 €
+5;133A;10;Altos cargos;138,82;138.820,00
+5;133A;100;Retribuciones básicas y otras remuneraciones;138,82;138.820,00 €
+5;133A;10000;Retribuciones básicas;38,25;38.250,00 €
+5;133A;10001;Retribuciones complementarias;100,57;100.570,00 €
+5;133A;12;Funcionarios;787.727,86;787.727.860,00 €
+5;133A;120;Retribuciones básicas;364.327,94;364.327.940,00 €
+5;133A;12000;Sueldos grupo A1 y A;20.557,13;20.557.130,00 €
+5;133A;12001;Sueldos grupo A2 y B;18.803,53;18.803.530,00 €
+5;133A;12002;Sueldos grupo C1 y C;204.522,79;204.522.790,00 €
+5;133A;12003;Sueldos grupo C2 y D;160,63;160.630,00
+5;133A;12005;Trienios;56.221,22;56.221.220,00 €
+5;133A;12006;Pagas extraordinarias;64.062,64;64.062.640,00 €
+5;133A;121;Retribuciones complementarias;423.398,67;423.398.670,00 €
+5;133A;12100;Complemento de destino;125.505,47;125.505.470,00 €
+5;133A;12101;Complemento específico;285.340,95;285.340.950,00 €
+5;133A;12102;Indemnización por residencia;8.117,73;8.117.730,00 €
+5;133A;12103;Otros complementos;3.904,19;3.904.190,00 €
+5;133A;12104;Complemento destino FCSE;114,34;114.340,00 €
+5;133A;12105;Complemento específico general FCSE;150,96;150.960,00 €
+5;133A;12106;Complemento específico singular FCSE;265,03;265.030,00
+5;133A;122;Retribuciones en especie;1,25;1.250,00
+5;133A;12201;Vestuario;1,25;1.250,00 €
+5;133A;13;Laborales;68.183,10;68.183.100,00 €
+5;133A;130;Laboral fijo;61.768,28;61.768.280,00 €
+5;133A;13000;Retribuciones básicas;45.567,62;45.567.620,00 €
+5;133A;13001;Otras remuneraciones;16.200,66;16.200.660,00 €
+5;133A;131;Laboral eventual;6.414,82;6.414.820,00 €
+5;133A;15;Incentivos al rendimiento;48.549,01;48.549.010,00 €
+5;133A;150;Productividad;48.452,78;48.452.780,00 €
+5;133A;151;Gratificaciones;96,23;96.230,00 €
+5;133A;16;Cuotas, prestaciones y gastos sociales;77.071,87;77.071.870,00 €
+5;133A;160;Cuotas sociales;64.448,86;64.448.860,00 €
+5;133A;16000;Seguridad Social;64.448,86;64.448.860,00 €
+5;133A;162;Gastos sociales del personal;12.623,01;12.623.010,00 €
+5;133A;16200;Formación y perfeccionamiento del personal;162,78;162.780,00 €
+5;133A;16202;Transporte de personal;8.816,83;8.816.830,00 €
+5;133A;16204;Acción social;1.964,15;1.964.150,00 €
+5;133A;16205;Seguros;1.036,12;1.036.120,00 €
+5;133A;16209;Otros;643,13;643.130,00
+5;133A;20;Arrendamientos y cánones;3.405,00;3.405.000,00 €
+5;133A;202;Arrendamientos de edificios y otras construcciones;3.375,00;3.375.000,00 €
+5;133A;203;Arrendamientos de maquinaria, instalaciones y utillaje;30;30.000,00 €
+5;133A;21;Reparaciones, mantenimiento y conservación;33.641,94;33.641.940,00 €
+5;133A;212;Edificios y otras construcciones;28.366,67;28.366.670,00
+5;133A;213;Maquinaria, instalaciones y utillaje;2.290,96;2.290.960,00
+5;133A;214;Elementos de transporte;26,05;26.050,00 €
+5;133A;215;Mobiliario y enseres;438,48;438.480,00 €
+5;133A;216;Equipos para procesos de la información;2.519,78;2.519.780,00 €
+5;133A;22;Material, suministros y otros;261.335,95;261.335.950,00 €
+5;133A;220;Material de oficina;3.793,12;3.793.120,00 €
+5;133A;22000;Ordinario no inventariable;2.230,92;2.230.920,00 €
+5;133A;22001;Prensa, revistas, libros y otras publicaciones;214,15;214.150,00 €
+5;133A;22002;Material informático no inventariable;1.348,05;1.348.050,00 €
+5;133A;221;Suministros;228.595,83;228.595.830,00 €
+5;133A;22100;Energía eléctrica;44.245,88;44.245.880,00 €
+5;133A;22101;Agua;7.047,41;7.047.410,00 €
+5;133A;22102;Gas;17.326,76;17.326.760,00 €
+5;133A;22103;Combustible;14.463,92;14.463.920,00 €
+5;133A;22104;Vestuario;7.737,92;7.737.920,00 €
+5;133A;22105;Alimentación;72.572,17;72.572.170,00 €
+5;133A;22106;Productos farmacéuticos y material sanitario;38.861,40;38.861.400,00 €
+5;133A;22108;Material deportivo, didáctico y cultural;1.145,49;1.145.490,00 €
+5;133A;22109;Labores Fábrica Nacional Moneda y Timbre;50;50.000,00 €
+5;133A;22111;Repuestos maquinaria, utillaje y transporte;7.748,12;7.748.120,00 €
+5;133A;22112;Material electrónico, eléctrico y comunicaciones;4.039,46;4.039.460,00 €
+5;133A;22199;Otros suministros;13.357,30;13.357.300,00 €
+5;133A;222;Comunicaciones;60,6;60.600,00 €
+5;133A;22200;Servicios de telecomunicaciones;30;30.000,00 €
+5;133A;22201;Postales y mensajería;30,6;30.600,00 €
+5;133A;223;Transportes;3.184,57;3.184.570,00 €
+5;133A;224;Primas de seguros;7,36;7.360,00 €
+5;133A;225;Tributos;2.153,16;2.153.160,00 €
+5;133A;22500;Estatales;80,76;80.760,00 €
+5;133A;22501;Autonómicos;494,62;494.620,00 €
+5;133A;22502;Locales;1.577,78;1.577.780,00 €
+5;133A;226;Gastos diversos;2.557,87;2.557.870,00 €
+5;133A;22601;Atenciones protocolarias y representativas;2,08;2.080,00 €
+5;133A;22602;Publicidad y propaganda;69,67;69.670,00 €
+5;133A;22603;Jurídicos, contenciosos;1.722,35;1.722.350,00 €
+5;133A;22606;Reuniones, conferencias y cursos;219,85;219.850,00 €
+5;133A;22607;Oposiciones y pruebas selectivas;200,87;200.870,00 €
+5;133A;22609;Actividades culturales y deportivas;264,28;264.280,00 €
+5;133A;22611;Gastos protocolarios actos institucionales;8,32;8.320,00 €
+5;133A;44;A entidades del sector público estatal;12.862,34;12.862.340,00 €
+5;133A;441;A la UNED para estudios universitarios de reclusos;632,7;632.700,00 €
+5;133A;442;A Trabajo Penitenciario y Formación para el Empleo;12.229,64;12.229.640,00 €
+5;133A;46;A entidades locales;511;511.000,00 €
+5;133A;464;Depósitos municipales;511;511.000,00 €
+5;133A;48;A familias e instituciones sin fines de lucro;3.922,62;3.922.620,00 €
+5;133A;481–489;Diversas transferencias sociales y religiosas;3.922,62;3.922.620,00 €
+5;133A;49;Al exterior;8;8.000,00 €
+5;133A;491;A EUROPRIS;8;8.000,00 €
+5;133A;63;Inversión de reposición asociada al funcionamiento operativo;12.213,67;12.213.670,00 €
+5;133A;630;Inversión de reposición asociada al funcionamiento operativo;12.213,67;12.213.670,00 €
+5;133A;35;Intereses de demora y otros gastos financieros;15,62;15.620,00 €
+5;133A;352;Intereses de demora;15,62;15.620,00 €
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;

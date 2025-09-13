@@ -1,0 +1,835 @@
+;PRESUPUESTOS GENERALES DEL ESTADO;;;;;
+;ESTADO;;;;;
+;;;;;;
+;;;;;;
+;Sección: 21 MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN;;;;;
+;PRESUPUESTO 2023-P;;;;;
+;;;;;;
+;(Miles de euros);;;;;
+;;;;;;
+;Servicio;Programa;Económica;Explicación;;Total
+v;01;;;MINISTERIO, SUBSECRETARÍA Y SERVICIOS GENERALES;;
+v;;411M;;Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;208,53
+;;;100;Retribuciones básicas y otras remuneraciones;;208,53
+;;;10000; Retribuciones básicas;114,59;
+;;;10001; Retribuciones complementarias;93,94;
+v;;;11;Personal eventual;;519,82
+;;;110;Retribuciones básicas y otras remuneraciones;;519,82
+;;;11000; Retribuciones básicas;199,18;
+;;;11001; Retribuciones complementarias;320,64;
+v;;;12;Funcionarios;;14.827,27
+;;;120;Retribuciones básicas;;2.695,30
+;;;12000; Sueldos del grupo A1 y grupo A;1.040,49;
+;;;12001; Sueldos del grupo A2 y grupo B;257,05;
+;;;12002; Sueldos del grupo C1 y grupo C;183,36;
+;;;12003; Sueldos del grupo C2 y grupo D;160,63;
+;;;12005; Trienios;482,17;
+;;;12006; Pagas extraordinarias;571,6;
+;;;121;Retribuciones complementarias;;7.119,82
+;;;12100; Complemento de destino;1.441,62;
+;;;12101; Complemento específico;1.714,20;
+;;;12181; Necesidades adicionales;3.964,00;
+;;;123;Indemnizaciones percibidas por destino en el extranjero;;4.521,90
+;;;12300; Indemnización por destino en el extranjero;4.481,90;
+;;;12301; Indemnización por educación;40;
+;;;124;Retribuciones de funcionarios en prácticas;;490,25
+;;;12400; Sueldos del grupo A1 y grupo A;303,52;
+;;;12401; Sueldos del grupo A2 y grupo B;102,06;
+;;;12406; Pagas extraordinarias;84,67;
+v;;;13;Laborales;;702,04
+;;;130;Laboral fijo;;702,04
+;;;13000; Retribuciones básicas;702,04;
+v;;;15;Incentivos al rendimiento;;7.398,21
+v;;;150;Productividad;;6.774,05
+v;;;151;Gratificaciones;;624,16
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;2.250,42
+;;;160;Cuotas sociales;;1.085,78
+v;;;16000; Seguridad Social;920,78;
+;;;16009; Otras;165;
+;;;162;Gastos sociales del personal;;1.164,64
+v;;;16200; Formación y perfeccionamiento del personal;323,27;
+v;;;16201; Economatos y comedores;8,04;
+;;;16202; Transporte de personal;62;
+v;;;16204; Acción social;231,53;
+;;;16205; Seguros;167,8;
+;;;16209; Otros;372;
+;;;;TOTAL GASTOS DE PERSONAL;;25.906,29
+ ; ;;;;;
+v;;;2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;;
+v;;;20;Arrendamientos y cánones;;1.570,00
+v;;;202;Arrendamientos de edificios y otras construcciones;;1.110,00
+;;;203;Arrendamientos de maquinaria, instalaciones y utillaje;;15
+;;;204;Arrendamientos de medios de transporte;;400
+;;;205;Arrendamientos de mobiliario y enseres;;20
+;;;209;Cánones;;25
+v;;;21;Reparaciones, mantenimiento y conservación;;4.083,71
+;;;210;Infraestructura y bienes naturales;;190
+;;;212;Edificios y otras construcciones;;365
+;;;213;Maquinaria, instalaciones y utillaje;;2.700,00
+;;;214;Elementos de transporte;;15
+;;;215;Mobiliario y enseres;;15
+;;;216;Equipos para procesos de la información;;756,71
+;;;218;Bienes situados en el exterior;;27
+;;;219;Otro inmovilizado material;;15
+v;;;22;Material, suministros y otros;;12.462,38
+;;;220;Material de oficina;;265
+;;;22000; Ordinario no inventariable;85;
+;;;22001; Prensa, revistas, libros y otras publicaciones;50;
+;;;22002; Material informático no inventariable;80;
+;;;22015; Material de oficina en el exterior;50;
+;;;221;Suministros;;5.281,50
+;;;22100; Energía eléctrica;2.100,00;
+;;;22101; Agua;15;
+;;;22102; Gas;110;
+;;;22103; Combustible;200;
+;;;22104; Vestuario;25;
+;;;22105; Alimentación;15;
+;;;22106; Productos farmacéuticos y material sanitario;2.250,00;
+v;;;22109; Labores Fábrica Nacional Moneda y Timbre;110;
+;;;22111; Suministros de repuestos de maquinaria, utillaje y elementos de transporte;75;
+;;;22112; Suministros de material electrónico, eléctrico y de comunicaciones;65;
+;;;22115; Suministros en el exterior;26,5;
+;;;22199; Otros suministros;290;
+;;;222;Comunicaciones;;170
+;;;22200; Servicios de telecomunicaciones;8;
+;;;22201; Postales y mensajería;64;
+;;;22215; Comunicaciones en el exterior;92;
+;;;22299; Otras;6;
+;;;223;Transportes;;700
+;;;224;Primas de seguros;;25
+;;;225;Tributos;;716
+;;;22500; Estatales;10;
+;;;22501; Autonómicos;5;
+v;;;22502; Locales;700;
+;;;22515; Tributos en el exterior;1;
+;;;226;Gastos diversos;;427,39
+v;;;22601; Atenciones protocolarias y representativas;35;
+;;;22602; Publicidad y propaganda;15;
+;;;22603; Jurídicos, contenciosos;112,39;
+;;;22606; Reuniones, conferencias y cursos;200;
+;;;22607; Oposiciones y pruebas selectivas;8;
+;;;22615; Gastos diversos en el exterior;18;
+;;;22699; Otros;39;
+;;;227;Trabajos realizados por otras empresas y profesionales;;4.877,49
+;;;22700; Limpieza y aseo;365;
+;;;22701; Seguridad;625;
+;;;22705; Procesos electorales y consultas populares;230,14;
+;;;22706; Estudios y trabajos técnicos;3.400,00;
+;;;22715; Trabajos realizados por otras empresas y profesionales en el exterior;17,35;
+;;;22799; Otros;240;
+v;;;23;Indemnizaciones por razón del servicio;;2.425,83
+;;;230;Dietas;;1.005,00
+;;;231;Locomoción;;1.150,00
+;;;232;Traslado;;80
+;;;233;Otras indemnizaciones;;190,83
+v;;;24;Gastos de publicaciones;;320
+;;;240;Gastos de edición y distribución;;320
+;;;;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;;20.861,92
+ ; ;;;;;
+v;;;3;GASTOS FINANCIEROS;;
+v;;;35;Intereses de demora y otros gastos financieros;;23,17
+v;;;352;Intereses de demora;;13,67
+v;;;359;Otros gastos financieros;;9,5
+;;;;TOTAL GASTOS FINANCIEROS;;23,17
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;47;A empresas privadas;;10.073,32
+v;;;471;Cumplimiento de sentencias de los Tribunales de Justicia;;73,32
+v;;;472;Apoyo a gastos consecuencia de situaciones extraordinarias;;10.000,00
+v;;;48;A familias e instituciones sin fines de lucro;;7.208,99
+v;;;480;Subvención a la Comisión Gestora de la extinta CONCA;;188
+v;;;482;Organizaciones Profesionales Agrarias y otras Entidades Asociativas;;1.776,06
+v;;;483;Organizaciones Profesionales Agrarias y otras Entidades Asociativas para su participación y presencia internacional;;753,19
+v;;;484;Sindicatos de Trabajadores de los sectores agroalimentario y medioambiental para la realización de actividades y proyectos de especial interés para el desarrollo de dichos sectores;;376,04
+v;;;485;Subvenciones a organizaciones colaboradoras tramitación ayudas PAC;;4.000,00
+v;;;487;Pensiones a familias de carácter civil;;4
+v;;;488;Protección familiar;;7
+v;;;489;Becas de Formación;;104,7
+v;;;49;Al exterior;;2.219,94
+v;;;490;A Organizaciones Internacionales;;2.219,94
+;;;49001; Contribución obligatoria a la Organización Internacional para el Desarrollo de la Pesca en Europa Oriental y Central (EUROFISH);61,3;
+;;;49002; Contribución obligatoria a la Organización Internacional de la Viña y el Vino (OIV);222,52;
+;;;49003; Contribución obligatoria a la Organización Mundial de Sanidad Animal (OMSA);256,54;
+;;;49004; Contribución obligatoria al Consejo Consultivo del Mar Mediterráneo (CC MED);10;
+;;;49007; Contribución obligatoria al Consejo Consultivo de las Poblaciones Pelágicas (CC POB PELÁGICAS);3,5;
+;;;49009; Contribución obligatoria al Instituto Interamericano de Cooperación para la Agricultura (IICA);58;
+;;;49010; Contribución obligatoria a la Unión Internacional para la Protección de las Obtenciones Vegetales (UPOV);112;
+;;;49013; Contribución obligatoria al Consejo Consultivo de las Aguas Suroccidentales (CC SUROCCIDENTALES);6;
+;;;49015; Contribución obligatoria a los códigos y sistemas agrarios de la OCDE/Tractores (OCDE TRACTORES);13;
+;;;49016; Contribución obligatoria a los códigos y sistemas agrarios de la OCDE/Semillas (OCDE SEMILLAS);12;
+;;;49017; Contribución obligatoria a los códigos y sistemas agrarios de la OCDE/Materiales de reproducción forestal (OCDE BOSQUES);6,67;
+;;;49020; Consejo Consultivo de Flotas de Gran Altura/Larga Distancia (CIDAC);139,81;
+;;;49021; Comisión Europea para la lucha contra la Fiebre Aftosa (EuFMD);23,5;
+;;;49022; Contribución a la Unidad Globefish sobre Información y Análisis del Comercio Mundial del Pescado de la FAO (GLOBEFISH);31;
+;;;49024; Contribución obligatoria al Consejo Consultivo de las Aguas Noroccidentales (CC NOROCCIDENTALES);4,4;
+;;;49026; Contribución obligatoria a la Comisión General de Pesca del Mediterráneo de la FAO (CGPM);93,61;
+;;;49027; Consejo Consultivo de Regiones Ultraperiféricas (CCRUP);10;
+;;;49028; Contribución al Programa Cooperativo de Recursos Fitogenéticos (ECPGR);28,75;
+;;;49032; Contribución al Consejo Internacional de la Caza y Conservación de la Fauna Silvestre (CIC);68,4;
+;;;49033; Contribución a la Asociación Europea de Ciencia Animal (EAAP);30;
+;;;49034; Contribución al Punto Focal Europeo de Recursos Genéticos Animales (ERFP);5;
+;;;49035; Contribución al Programa de FAO de Profesionales Asociados (APO);323,9;
+;;;49044; Programa de la Organización Mundial de la Sanidad Animal: la Buena Gobernanza como medio de prevención y control de las Enfermedades Animales Emergentes y Reemergentes (OMSA-BG);208,46;
+;;;49045; Contribución a la Sociedad Internacional de Genética Animal (ISAG);0,93;
+;;;49047; Contribución al Consejo Consultivo de Acuicultura. (CC ACUICULTURA);6;
+;;;49048; Consejo Consultivo de Mercados (MAC);6;
+;;;49055; Contribución a las estrategias de la Comisión General de Pesca del Mediterráneo de la FAO (CGPM-ESTRATEGIAS);99;
+;;;49057; Instituto Agronómico Mediterráneo de Zaragoza (CIHEAM-Zaragoza);75;
+;;;49058; Contribución a los Sistemas Importantes del Patrimonio Agrícola Mundial de la FAO (SIPAM);75;
+;;;49059; Contribución al Tratado Internacional sobre los Recursos Fitogenéticos para la Alimentación y la Agricultura de la FAO (TIRFAA);82,45;
+;;;49061; Comisión Internacional de Riegos y Drenajes (ICID);7;
+;;;49062; Contribución para Actividades de Formación para la Prevención y el Control de Enfermedades Animales (AFEA-PPA);10;
+;;;49064; Contribución a la Iniciativa de Puertos Azules (IPA);20;
+;;;49068; Contribución a la Iniciativa Internacional 4 por 1000. (INICIATIVA 4 POR 1000);20,2;
+;;;49069; Contribución al Sistema de Información de Mercados Agrícolas (AMIS);40;
+;;;49070; Fondo para variaciones de cuotas y cambio de moneda;50;
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;19.502,25
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;62;Inversión nueva asociada al funcionamiento operativo de los servicios;;216,46
+;;;620;Inversión nueva asociada al funcionamiento operativo de los servicios;;216,46
+;;;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;;2.981,98
+;;;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;;2.981,98
+;;;64;Gastos de inversiones de carácter inmaterial;;6.699,00
+;;;640;Gastos en inversiones de carácter inmaterial;;6.699,00
+;;;;TOTAL INVERSIONES REALES;;9.897,44
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;75;A Comunidades Autónomas;;101
+v;;;750;Subvenciones, indemnizaciones y ayudas;;1
+v;;;752;Al gobierno de Aragón para financiar el Consejo Regulador de la Trufa y del Panel de Cata de la Trufa en Sarrión;;100
+v;;;77;A empresas privadas;;4.100,00
+v;;;770;Apoyo financiero por daños ocasionados por la sequía y otras causas extraordinarias;;4.100,00
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;4.201,00
+ ; ;;;;;
+v;;;8;ACTIVOS FINANCIEROS;;
+v;;;82;Concesión de préstamos al Sector Público;;25.000,00
+v;;;821;Préstamos a largo plazo;;25.000,00
+v;;;82104; Financiación del Sector Agrario. SAECA;25.000,00;
+v;;;83;Concesión de préstamos fuera del Sector Público;;124,2
+v;;;830;Préstamos a corto plazo;;4,83
+;;;83008; Familias e instituciones sin fines de lucro;4,83;
+v;;;831;Préstamos a largo plazo;;119,37
+;;;83108; Familias e instituciones sin fines de lucro;119,37;
+v;;;84;Constitución de depósitos y fianzas;;10
+v;;;841;Fianzas;;10
+;;;84101; A largo plazo;10;
+;;;;TOTAL ACTIVOS FINANCIEROS;;25.134,20
+ ; ;;;;;
+;;;;TOTAL Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;105.526,27
+ ; ;;;;;
+v;;416A;;Previsión de riesgos en las producciones agrarias y pesqueras;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;;1,5
+v;;;440;Consorcio de Compensación de Seguros. Cobertura de pérdidas del Seguro Agrario Combinado;;1,5
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;1,5
+ ; ;;;;;
+;;;;TOTAL Previsión de riesgos en las producciones agrarias y pesqueras;;1,5
+ ; ;;;;;
+v;;000X;;Transferencias y libramientos internos;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;41;A Organismos Autónomos;;280.163,40
+v;;;414;Entidad Estatal de Seguros Agrarios (ENESA);;280.163,40
+v;;;41400; Para subvenciones del Plan Anual de Seguros Agrarios y liquidación de planes anteriores;275.735,35;
+;;;41401; Para gastos de funcionamiento y otras subvenciones;4.428,05;
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;280.163,40
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;71;A Organismos Autónomos;;571,24
+v;;;714;Entidad Estatal de Seguros Agrarios (ENESA);;571,24
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;571,24
+ ; ;;;;;
+;;;;TOTAL Transferencias y libramientos internos;;280.734,64
+ ; ;;;;;
+;;;;TOTAL MINISTERIO, SUBSECRETARÍA Y SERVICIOS GENERALES;;386.262,41
+ ; ;;;;;
+ ; ;;;;;
+v;02;;;SECRETARÍA GENERAL TÉCNICA;;
+v;;411M;;Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;61,02
+;;;100;Retribuciones básicas y otras remuneraciones;;61,02
+;;;10000; Retribuciones básicas;18,9;
+;;;10001; Retribuciones complementarias;42,12;
+v;;;12;Funcionarios;;2.573,03
+;;;120;Retribuciones básicas;;1.212,87
+;;;12000; Sueldos del grupo A1 y grupo A;282,42;
+;;;12001; Sueldos del grupo A2 y grupo B;179,94;
+;;;12002; Sueldos del grupo C1 y grupo C;154,4;
+;;;12003; Sueldos del grupo C2 y grupo D;136,54;
+;;;12005; Trienios;202,77;
+;;;12006; Pagas extraordinarias;256,8;
+;;;121;Retribuciones complementarias;;1.360,16
+;;;12100; Complemento de destino;630,26;
+;;;12101; Complemento específico;729,9;
+v;;;13;Laborales;;248,16
+;;;130;Laboral fijo;;216,26
+;;;13000; Retribuciones básicas;210,73;
+;;;13001; Otras remuneraciones;5,53;
+;;;131;Laboral eventual;;31,9
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;354,18
+;;;160;Cuotas sociales;;354,18
+v;;;16000; Seguridad Social;354,18;
+;;;;TOTAL GASTOS DE PERSONAL;;3.236,39
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;48;A familias e instituciones sin fines de lucro;;33
+v;;;480;Becas de formación;;33
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;33
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;62;Inversión nueva asociada al funcionamiento operativo de los servicios;;65
+;;;620;Inversión nueva asociada al funcionamiento operativo de los servicios;;65
+;;;64;Gastos de inversiones de carácter inmaterial;;90
+;;;640;Gastos en inversiones de carácter inmaterial;;90
+;;;;TOTAL INVERSIONES REALES;;155
+ ; ;;;;;
+;;;;TOTAL Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;3.424,39
+ ; ;;;;;
+;;;;TOTAL SECRETARÍA GENERAL TÉCNICA;;3.424,39
+ ; ;;;;;
+ ; ;;;;;
+v;03;;;DIRECCIÓN GENERAL DE SERVICIOS E INSPECCIÓN;;
+v;;411M;;Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;61,02
+;;;100;Retribuciones básicas y otras remuneraciones;;61,02
+;;;10000; Retribuciones básicas;18,9;
+;;;10001; Retribuciones complementarias;42,12;
+v;;;12;Funcionarios;;6.677,38
+;;;120;Retribuciones básicas;;3.185,74
+;;;12000; Sueldos del grupo A1 y grupo A;624,29;
+;;;12001; Sueldos del grupo A2 y grupo B;552,67;
+;;;12002; Sueldos del grupo C1 y grupo C;501,81;
+;;;12003; Sueldos del grupo C2 y grupo D;313,23;
+;;;12005; Trienios;520,4;
+;;;12006; Pagas extraordinarias;673,34;
+;;;121;Retribuciones complementarias;;3.491,64
+;;;12100; Complemento de destino;1.629,07;
+;;;12101; Complemento específico;1.862,57;
+v;;;13;Laborales;;1.952,39
+;;;130;Laboral fijo;;1.923,24
+;;;13000; Retribuciones básicas;1.874,30;
+;;;13001; Otras remuneraciones;48,94;
+;;;131;Laboral eventual;;29,15
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;1.226,79
+;;;160;Cuotas sociales;;1.226,79
+v;;;16000; Seguridad Social;1.226,79;
+;;;;TOTAL GASTOS DE PERSONAL;;9.917,58
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;;3.595,00
+;;;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;;3.595,00
+;;;64;Gastos de inversiones de carácter inmaterial;;5.196,36
+;;;640;Gastos en inversiones de carácter inmaterial;;5.196,36
+;;;;TOTAL INVERSIONES REALES;;8.791,36
+ ; ;;;;;
+;;;;TOTAL Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;18.708,94
+ ; ;;;;;
+;;;;TOTAL DIRECCIÓN GENERAL DE SERVICIOS E INSPECCIÓN;;18.708,94
+ ; ;;;;;
+ ; ;;;;;
+v;04;;;SECRETARÍA GENERAL DE RECURSOS AGRARIOS Y SEGURIDAD ALIMENTARIA;;
+v;;411M;;Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;71,15
+;;;100;Retribuciones básicas y otras remuneraciones;;71,15
+;;;10000; Retribuciones básicas;19,33;
+;;;10001; Retribuciones complementarias;51,82;
+v;;;12;Funcionarios;;1.584,77
+;;;120;Retribuciones básicas;;728,57
+;;;12000; Sueldos del grupo A1 y grupo A;312,15;
+;;;12001; Sueldos del grupo A2 y grupo B;38,56;
+;;;12002; Sueldos del grupo C1 y grupo C;48,25;
+;;;12003; Sueldos del grupo C2 y grupo D;56,22;
+;;;12005; Trienios;118,49;
+;;;12006; Pagas extraordinarias;154,9;
+;;;121;Retribuciones complementarias;;856,2
+;;;12100; Complemento de destino;388,03;
+;;;12101; Complemento específico;468,17;
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;189,55
+;;;160;Cuotas sociales;;189,55
+v;;;16000; Seguridad Social;189,55;
+;;;;TOTAL GASTOS DE PERSONAL;;1.845,47
+ ; ;;;;;
+v;;;3;GASTOS FINANCIEROS;;
+v;;;35;Intereses de demora y otros gastos financieros;;16,18
+v;;;352;Intereses de demora;;16,18
+;;;;TOTAL GASTOS FINANCIEROS;;16,18
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;48;A familias e instituciones sin fines de lucro;;70
+v;;;480;Becas de formación en general;;70
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;70
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;64;Gastos de inversiones de carácter inmaterial;;4.474,35
+;;;640;Gastos en inversiones de carácter inmaterial;;4.474,35
+;;;;TOTAL INVERSIONES REALES;;4.474,35
+ ; ;;;;;
+;;;;TOTAL Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;6.406,00
+ ; ;;;;;
+v;;412M;;Regulación de los mercados agrarios;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;49;Al exterior;;30.408,84
+v;;;490;Abono al Tesoro Público, por cuenta del Organismo Autónomo Fondo Español de Garantía Agraria (FEGA) de las diferencias puestas de manifiesto en las liquidaciones con la Unión Europea correspondientes al FEAGA;;30.408,84
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;30.408,84
+ ; ;;;;;
+;;;;TOTAL Regulación de los mercados agrarios;;30.408,84
+ ; ;;;;;
+v;;000X;;Transferencias y libramientos internos;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;41;A Organismos Autónomos;;20.675,22
+v;;;412;Agencia de Información y Control Alimentarios (AICA);;5.679,65
+v;;;413;Fondo Español de Garantía Agraria (FEGA);;14.845,57
+v;;;415;MAPA. Financiación Nacional subvenciones producción agraria;;150
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;20.675,22
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;71;A Organismos Autónomos;;39.628,45
+v;;;712;Agencia de Información y Control Alimentarios (AICA);;1.540,00
+v;;;713;Fondo Español de Garantía Agraria (FEGA);;25.039,60
+v;;;714;Fondo Español de Garantía Agraria (FEGA). Programa Nacional de Desarrollo Rural 2015-2020;;13.048,85
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;39.628,45
+ ; ;;;;;
+;;;;TOTAL Transferencias y libramientos internos;;60.303,67
+ ; ;;;;;
+;;;;TOTAL SECRETARÍA GENERAL DE RECURSOS AGRARIOS Y SEGURIDAD ALIMENTARIA;;97.118,51
+ ; ;;;;;
+ ; ;;;;;
+v;05;;;DIRECCIÓN GENERAL DE PRODUCCIONES Y MERCADOS AGRARIOS;;
+v;;412C;;Competitividad y calidad de la producción y los mercados agrarios;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;61,02
+;;;100;Retribuciones básicas y otras remuneraciones;;61,02
+;;;10000; Retribuciones básicas;18,9;
+;;;10001; Retribuciones complementarias;42,12;
+v;;;12;Funcionarios;;4.546,44
+;;;120;Retribuciones básicas;;2.119,14
+;;;12000; Sueldos del grupo A1 y grupo A;1.055,36;
+;;;12001; Sueldos del grupo A2 y grupo B;128,53;
+;;;12002; Sueldos del grupo C1 y grupo C;125,45;
+;;;12003; Sueldos del grupo C2 y grupo D;80,32;
+;;;12005; Trienios;278,32;
+;;;12006; Pagas extraordinarias;451,16;
+;;;121;Retribuciones complementarias;;2.427,30
+;;;12100; Complemento de destino;1.123,61;
+;;;12101; Complemento específico;1.303,69;
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;409,5
+;;;160;Cuotas sociales;;409,5
+v;;;16000; Seguridad Social;409,5;
+;;;;TOTAL GASTOS DE PERSONAL;;5.016,96
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;;500
+v;;;442;A la Sociedad Mercantil Estatal: EXPASA AGRICULTURA Y GANADERIA, S.A.;;500
+v;;;47;A empresas privadas;;445,6
+v;;;470;Asociación de Sociedades Organizadoras de Carreras de Caballos, para apoyar la cría de caballos y yeguas nacidos en España con el fin de impulsar el sector equino nacional;;400
+v;;;471;Normalización de la maquinaria agrícola;;45,6
+v;;;48;A familias e instituciones sin fines de lucro;;150
+v;;;480;Programa técnico formativo en producciones y mercados agrarios;;150
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;1.095,60
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;;100
+;;;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;;100
+;;;64;Gastos de inversiones de carácter inmaterial;;7.354,71
+;;;640;Gastos en inversiones de carácter inmaterial;;7.354,71
+;;;;TOTAL INVERSIONES REALES;;7.454,71
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;75;A Comunidades Autónomas;;30.302,00
+v;;;750;Fomento de la innovación tecnológica;;4.652,00
+;;;75001; Ordenación y fomento de la mejora ganadera. Conservación de la biodiversidad;2.900,00;
+;;;75002; Calidad de las variedades vegetales y certificación de los materiales de reproducción;1.752,00;
+v;;;755;Mejora de la organización de la producción y reordenación de los sectores productivos;;4.650,00
+;;;75502; Fomento de la apicultura;4.650,00;
+v;;;756;Apoyo a la producción agrícola en el marco del Programa de Opciones Específicas por la Lejanía y la Insularidad (POSEI);;21.000,00
+v;;;77;A empresas privadas;;9.550,00
+v;;;771;Fomento de la modernización de maquinaria y tecnología agrícola;;9.550,00
+v;;;78;A familias e instituciones sin fines de lucro;;5.035,00
+v;;;781;Impulso a la sostenibilidad y competitividad de la biodiversidad ganadera;;5.035,00
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;44.887,00
+ ; ;;;;;
+;;;;TOTAL Competitividad y calidad de la producción y los mercados agrarios;;58.454,27
+ ; ;;;;;
+;;;;TOTAL DIRECCIÓN GENERAL DE PRODUCCIONES Y MERCADOS AGRARIOS;;58.454,27
+ ; ;;;;;
+ ; ;;;;;
+v;06;;;DIRECCIÓN GENERAL DE SANIDAD DE LA PRODUCCIÓN AGROALIMENTARIA Y BIENESTAR ANIMAL;;
+v;;412D;;Competitividad y calidad de la sanidad agraria;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;61,02
+;;;100;Retribuciones básicas y otras remuneraciones;;61,02
+;;;10000; Retribuciones básicas;18,9;
+;;;10001; Retribuciones complementarias;42,12;
+v;;;12;Funcionarios;;5.053,66
+;;;120;Retribuciones básicas;;2.492,36
+;;;12000; Sueldos del grupo A1 y grupo A;1.204,00;
+;;;12001; Sueldos del grupo A2 y grupo B;218,5;
+;;;12002; Sueldos del grupo C1 y grupo C;125,45;
+;;;12003; Sueldos del grupo C2 y grupo D;96,38;
+;;;12005; Trienios;330,19;
+;;;12006; Pagas extraordinarias;517,84;
+;;;121;Retribuciones complementarias;;2.561,30
+;;;12100; Complemento de destino;1.234,18;
+;;;12101; Complemento específico;1.327,12;
+v;;;13;Laborales;;179,46
+;;;130;Laboral fijo;;179,46
+;;;13000; Retribuciones básicas;175,42;
+;;;13001; Otras remuneraciones;4,04;
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;793,09
+;;;160;Cuotas sociales;;793,09
+v;;;16000; Seguridad Social;793,09;
+;;;;TOTAL GASTOS DE PERSONAL;;6.087,23
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;48;A familias e instituciones sin fines de lucro;;140
+v;;;480;Becas de formación en general;;140
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;140
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;62;Inversión nueva asociada al funcionamiento operativo de los servicios;;525
+;;;620;Inversión nueva asociada al funcionamiento operativo de los servicios;;525
+;;;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;;125
+;;;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;;125
+;;;64;Gastos de inversiones de carácter inmaterial;;18.231,80
+;;;640;Gastos en inversiones de carácter inmaterial;;18.231,80
+;;;;TOTAL INVERSIONES REALES;;18.881,80
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;75;A Comunidades Autónomas;;21.581,47
+v;;;752;Sanidad de la producción agraria;;21.581,47
+;;;75202; Fomento de agrupaciones fitosanitarias y de producción integrada;1;
+;;;75203; Prevención y lucha contra plagas;10.572,19;
+;;;75204; Programas estatales de erradicación de enfermedades de los animales;11.007,28;
+;;;75205; Fomento de asociacionismo para la defensa sanitaria ganadera;1;
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;21.581,47
+ ; ;;;;;
+;;;;TOTAL Competitividad y calidad de la sanidad agraria;;46.690,50
+ ; ;;;;;
+;;;;TOTAL DIRECCIÓN GENERAL DE SANIDAD DE LA PRODUCCIÓN AGROALIMENTARIA Y BIENESTAR ANIMAL;;46.690,50
+ ; ;;;;;
+ ; ;;;;;
+v;07;;;DIRECCIÓN GENERAL DE ALIMENTACIÓN;;
+v;;413A;;Competitividad industria agroalimentaria y calidad alimentaria;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;61,02
+;;;100;Retribuciones básicas y otras remuneraciones;;61,02
+;;;10000; Retribuciones básicas;18,9;
+;;;10001; Retribuciones complementarias;42,12;
+v;;;12;Funcionarios;;5.551,26
+;;;120;Retribuciones básicas;;2.769,90
+;;;12000; Sueldos del grupo A1 y grupo A;1.025,63;
+;;;12001; Sueldos del grupo A2 y grupo B;398,43;
+;;;12002; Sueldos del grupo C1 y grupo C;202,66;
+;;;12003; Sueldos del grupo C2 y grupo D;136,54;
+;;;12005; Trienios;430,63;
+;;;12006; Pagas extraordinarias;576,01;
+;;;121;Retribuciones complementarias;;2.781,36
+;;;12100; Complemento de destino;1.378,76;
+;;;12101; Complemento específico;1.402,60;
+v;;;13;Laborales;;34,05
+;;;130;Laboral fijo;;34,05
+;;;13000; Retribuciones básicas;34,05;
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;831,68
+;;;160;Cuotas sociales;;831,68
+v;;;16000; Seguridad Social;831,68;
+;;;;TOTAL GASTOS DE PERSONAL;;6.478,01
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;47;A empresas privadas;;180
+v;;;472;"Convenio de colaboración con la Fundación Dieta Mediterránea, para promocionar las características de la ""dieta mediterránea"" y los productos que la componen";;80
+v;;;473;"Subvención para ""Premios Alimentos de España""";;100
+v;;;48;A familias e instituciones sin fines de lucro;;250
+v;;;480;Becas de formación;;250
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;430
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;62;Inversión nueva asociada al funcionamiento operativo de los servicios;;500
+;;;620;Inversión nueva asociada al funcionamiento operativo de los servicios;;500
+;;;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;;950
+;;;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;;950
+;;;64;Gastos de inversiones de carácter inmaterial;;23.213,51
+;;;640;Gastos en inversiones de carácter inmaterial;;23.213,51
+;;;;TOTAL INVERSIONES REALES;;24.663,51
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;75;A Comunidades Autónomas;;200
+v;;;751;Subvención nominativa al Gobierno Vasco para apoyo a la Fundación Basque Culinary Center;;200
+v;;;77;A empresas privadas;;600
+v;;;771;Fomento del cooperativismo agrario para la estructuración de la oferta;;600
+v;;;78;A familias e instituciones sin fines de lucro;;2.015,73
+v;;;785;Convenios de colaboración con Entidades sin ánimo de lucro.;;2.015,73
+v;;;78500; Convenio de colaboración con la Federación Española de Industrias de la Alimentación y Bebidas (FIAB), para la ejecución de actuaciones de fomento, innovación y fortalecimiento del sector industrial agroalimentario;754,48;
+v;;;78501; Convenio Marco de colaboración con Cooperativas Agroalimentarias de España;1.261,25;
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;2.815,73
+ ; ;;;;;
+;;;;TOTAL Competitividad industria agroalimentaria y calidad alimentaria;;34.387,25
+ ; ;;;;;
+;;;;TOTAL DIRECCIÓN GENERAL DE ALIMENTACIÓN;;34.387,25
+ ; ;;;;;
+ ; ;;;;;
+v;08;;;DIRECCIÓN GENERAL DE DESARROLLO RURAL, INNOVACIÓN Y FORMACIÓN AGROALIMENTARIA;;
+v;;414A;;Gestión de recursos hídricos para el regadío, caminos naturales y otras infraestructuras rurales;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;12;Funcionarios;;1.420,62
+;;;120;Retribuciones básicas;;655,1
+;;;12000; Sueldos del grupo A1 y grupo A;267,55;
+;;;12001; Sueldos del grupo A2 y grupo B;102,82;
+;;;12002; Sueldos del grupo C1 y grupo C;28,95;
+;;;12003; Sueldos del grupo C2 y grupo D;32,13;
+;;;12005; Trienios;82,14;
+;;;12006; Pagas extraordinarias;141,51;
+;;;121;Retribuciones complementarias;;765,52
+;;;12100; Complemento de destino;358;
+;;;12101; Complemento específico;407,52;
+v;;;13;Laborales;;185,21
+;;;130;Laboral fijo;;155,7
+;;;13000; Retribuciones básicas;142,27;
+;;;13001; Otras remuneraciones;13,43;
+;;;131;Laboral eventual;;29,51
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;224,7
+;;;160;Cuotas sociales;;224,7
+v;;;16000; Seguridad Social;224,7;
+;;;;TOTAL GASTOS DE PERSONAL;;1.830,53
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;48;A familias e instituciones sin fines de lucro;;100
+v;;;484;Federación Nacional de Comunidades de Regantes de España (FENACORE) para gastos de formación, asesoramiento y apoyo a las Comunidades de Regantes de España;;100
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;100
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;60;Inversión nueva en infraestructuras y bienes destinados al uso general;;43.532,47
+;;;601;Otras;;43.532,47
+;;;61;Inversión de reposición en infraestructuras y bienes destinados al uso general;;9.859,00
+;;;611;Otras;;9.859,00
+;;;64;Gastos de inversiones de carácter inmaterial;;4.630,47
+;;;640;Gastos en inversiones de carácter inmaterial;;2.500,47
+;;;641;Inversiones inmateriales relacionadas con las inversiones en infraestructuras rurales;;2.130,00
+;;;;TOTAL INVERSIONES REALES;;58.021,94
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;76;A Entidades Locales;;198
+v;;;760;A ayuntamientos, diputaciones y otros entes locales;;198
+v;;;76002; Ayuntamiento de Castellar de la Ribera para asfaltar y adecuar varios caminos del municipio;108;
+v;;;76003; Entidad Municipal Descentralizada de San Martín de Torruella (Municipio de San Juan de Torruella). Mantenimiento camino rural Vilaclara;90;
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;198
+ ; ;;;;;
+v;;;8;ACTIVOS FINANCIEROS;;
+v;;;85;Adquisición de acciones y participaciones del Sector Público;;96.872,10
+v;;;851;Sociedad Estatal de Infraestructuras Agrarias, S.A. (SEIASA);;96.872,10
+;;;;TOTAL ACTIVOS FINANCIEROS;;96.872,10
+ ; ;;;;;
+;;;;TOTAL Gestión de recursos hídricos para el regadío, caminos naturales y otras infraestructuras rurales;;157.022,57
+ ; ;;;;;
+v;;414B;;Desarrollo del medio rural;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;61,02
+;;;100;Retribuciones básicas y otras remuneraciones;;61,02
+;;;10000; Retribuciones básicas;18,9;
+;;;10001; Retribuciones complementarias;42,12;
+v;;;12;Funcionarios;;3.435,68
+;;;120;Retribuciones básicas;;1.580,74
+;;;12000; Sueldos del grupo A1 y grupo A;639,16;
+;;;12001; Sueldos del grupo A2 y grupo B;179,94;
+;;;12002; Sueldos del grupo C1 y grupo C;125,45;
+;;;12003; Sueldos del grupo C2 y grupo D;88,35;
+;;;12005; Trienios;205,52;
+;;;12006; Pagas extraordinarias;342,32;
+;;;121;Retribuciones complementarias;;1.854,94
+;;;12100; Complemento de destino;865,95;
+;;;12101; Complemento específico;988,99;
+v;;;13;Laborales;;18,08
+;;;130;Laboral fijo;;18,08
+;;;13000; Retribuciones básicas;17,21;
+;;;13001; Otras remuneraciones;0,87;
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;420,65
+;;;160;Cuotas sociales;;420,65
+v;;;16000; Seguridad Social;420,65;
+;;;;TOTAL GASTOS DE PERSONAL;;3.935,43
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;48;A familias e instituciones sin fines de lucro;;6.341,40
+v;;;480;Becas de formación en materia de desarrollo rural;;211,6
+v;;;481;Fomento de asociacionismo;;200
+v;;;48100; Red Estatal de Desarrollo Rural para acciones de promoción del desarrollo rural integral y sostenible;70;
+v;;;48101; Red Española de Desarrollo Rural para acciones de promoción del desarrollo rural integral y sostenible;130;
+v;;;482;Centro Nacional de Tecnología y Seguridad Alimentaria (CNTA);;300
+v;;;485;Promoción de actuaciones de la mujer rural;;2.450,00
+;;;48501; Ayudas a entidades de mujeres rurales de ámbito nacional;500;
+;;;48502; Premios de excelencia para mujeres del medio rural;150;
+;;;48504; Ayudas a explotaciones en titularidad compartida;1.800,00;
+v;;;488;Ayudas a la formación profesional agraria en cursos y estancias;;1.979,80
+v;;;489;Ayudas Programa Cultiva;;1.200,00
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;6.341,40
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;64;Gastos de inversiones de carácter inmaterial;;4.660,10
+;;;640;Gastos en inversiones de carácter inmaterial;;4.660,10
+;;;;TOTAL INVERSIONES REALES;;4.660,10
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;75;A Comunidades Autónomas;;158.710,01
+v;;;758;A la Fundación Ciudad del Envase y el Embalaje;;500
+v;;;759;Aportación AGE a intervenciones y medidas FEADER;;158.210,01
+v;;;78;A familias e instituciones sin fines de lucro;;591,15
+v;;;783;Programas de formación y asesoramiento;;591,15
+;;;78301; Establecimiento de programas de formación y asesoramiento en digitalización por entidades sin ánimo de lucro;591,15;
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;159.301,16
+ ; ;;;;;
+v;;;8;ACTIVOS FINANCIEROS;;
+v;;;82;Concesión de préstamos al Sector Público;;15.000,00
+v;;;821;Préstamos a largo plazo;;15.000,00
+v;;;82106; A ENISA. Disposición adicional sexagésima segunda de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para el año 2021;15.000,00;
+;;;;TOTAL ACTIVOS FINANCIEROS;;15.000,00
+ ; ;;;;;
+;;;;TOTAL Desarrollo del medio rural;;189.238,09
+ ; ;;;;;
+;;;;TOTAL DIRECCIÓN GENERAL DE DESARROLLO RURAL, INNOVACIÓN Y FORMACIÓN AGROALIMENTARIA;;346.260,66
+ ; ;;;;;
+ ; ;;;;;
+v;09;;;SECRETARÍA GENERAL DE PESCA;;
+v;;411M;;Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;71,15
+;;;100;Retribuciones básicas y otras remuneraciones;;71,15
+;;;10000; Retribuciones básicas;19,33;
+;;;10001; Retribuciones complementarias;51,82;
+v;;;12;Funcionarios;;1.483,12
+;;;120;Retribuciones básicas;;681,17
+;;;12000; Sueldos del grupo A1 y grupo A;193,23;
+;;;12001; Sueldos del grupo A2 y grupo B;115,67;
+;;;12002; Sueldos del grupo C1 y grupo C;77,2;
+;;;12003; Sueldos del grupo C2 y grupo D;48,19;
+;;;12005; Trienios;101,45;
+;;;12006; Pagas extraordinarias;145,43;
+;;;121;Retribuciones complementarias;;801,95
+;;;12100; Complemento de destino;361,91;
+;;;12101; Complemento específico;440,04;
+v;;;13;Laborales;;65,96
+;;;130;Laboral fijo;;65,96
+;;;13000; Retribuciones básicas;65,06;
+;;;13001; Otras remuneraciones;0,9;
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;210,5
+;;;160;Cuotas sociales;;210,5
+v;;;16000; Seguridad Social;210,5;
+;;;;TOTAL GASTOS DE PERSONAL;;1.830,73
+ ; ;;;;;
+;;;;TOTAL Dirección y Servicios Generales de Agricultura, Pesca y Alimentación;;1.830,73
+ ; ;;;;;
+;;;;TOTAL SECRETARÍA GENERAL DE PESCA;;1.830,73
+ ; ;;;;;
+ ; ;;;;;
+v;10;;;DIRECCIÓN GENERAL DE PESCA SOSTENIBLE;;
+v;;415A;;Protección de los recursos pesqueros y desarrollo sostenible;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;61,02
+;;;100;Retribuciones básicas y otras remuneraciones;;61,02
+;;;10000; Retribuciones básicas;18,9;
+;;;10001; Retribuciones complementarias;42,12;
+v;;;12;Funcionarios;;2.002,09
+;;;120;Retribuciones básicas;;918,28
+;;;12000; Sueldos del grupo A1 y grupo A;445,92;
+;;;12001; Sueldos del grupo A2 y grupo B;77,12;
+;;;12002; Sueldos del grupo C1 y grupo C;48,25;
+;;;12003; Sueldos del grupo C2 y grupo D;32,13;
+;;;12005; Trienios;118,51;
+;;;12006; Pagas extraordinarias;196,35;
+;;;121;Retribuciones complementarias;;1.083,81
+;;;12100; Complemento de destino;493,13;
+;;;12101; Complemento específico;590,68;
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;249,97
+;;;160;Cuotas sociales;;249,97
+v;;;16000; Seguridad Social;249,97;
+;;;;TOTAL GASTOS DE PERSONAL;;2.313,08
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;48;A familias e instituciones sin fines de lucro;;119,56
+v;;;485;Becas de formación técnica y práctica en el área de pesca marítima;;119,56
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;119,56
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;62;Inversión nueva asociada al funcionamiento operativo de los servicios;;6
+;;;620;Inversión nueva asociada al funcionamiento operativo de los servicios;;6
+;;;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;;822
+;;;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;;822
+;;;64;Gastos de inversiones de carácter inmaterial;;20.810,00
+;;;640;Gastos en inversiones de carácter inmaterial;;20.810,00
+;;;;TOTAL INVERSIONES REALES;;21.638,00
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;78;A familias e instituciones sin fines de lucro;;300
+v;;;781;Fundación AZTI. Desarrollo de actividades de investigación en áreas relacionadas con la alimentación, la pesca y la oceanografía;;300
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;300
+ ; ;;;;;
+;;;;TOTAL Protección de los recursos pesqueros y desarrollo sostenible;;24.370,64
+ ; ;;;;;
+;;;;TOTAL DIRECCIÓN GENERAL DE PESCA SOSTENIBLE;;24.370,64
+ ; ;;;;;
+ ; ;;;;;
+v;11;;;DIRECCIÓN GENERAL DE ORDENACIÓN PESQUERA Y ACUICULTURA;;
+v;;415B;;Mejora de estructuras y mercados pesqueros;;
+v;;;1;GASTOS DE PERSONAL;;
+v;;;10;Altos cargos;;61,02
+;;;100;Retribuciones básicas y otras remuneraciones;;61,02
+;;;10000; Retribuciones básicas;18,9;
+;;;10001; Retribuciones complementarias;42,12;
+v;;;12;Funcionarios;;4.212,99
+;;;120;Retribuciones básicas;;2.033,74
+;;;12000; Sueldos del grupo A1 y grupo A;401,33;
+;;;12001; Sueldos del grupo A2 y grupo B;784,02;
+;;;12002; Sueldos del grupo C1 y grupo C;164,05;
+;;;12003; Sueldos del grupo C2 y grupo D;48,19;
+;;;12005; Trienios;201,9;
+;;;12006; Pagas extraordinarias;434,25;
+;;;121;Retribuciones complementarias;;2.179,25
+;;;12100; Complemento de destino;1.057,95;
+;;;12101; Complemento específico;1.121,30;
+v;;;13;Laborales;;37,58
+;;;130;Laboral fijo;;37,58
+;;;13000; Retribuciones básicas;36,71;
+;;;13001; Otras remuneraciones;0,87;
+v;;;16;Cuotas, prestaciones y gastos sociales a cargo del empleador;;830,5
+;;;160;Cuotas sociales;;830,5
+v;;;16000; Seguridad Social;830,5;
+;;;;TOTAL GASTOS DE PERSONAL;;5.142,09
+ ; ;;;;;
+v;;;4;TRANSFERENCIAS CORRIENTES;;
+v;;;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;;300
+v;;;441;Ayudas a la Fundación Biodiversidad para el mantenimiento de las actividades del Observatorio Español de Acuicultura (OESA);;300
+v;;;48;A familias e instituciones sin fines de lucro;;698,24
+v;;;483;Ayudas al fomento y apoyo del asociacionismo pesquero;;550
+v;;;484;Ayudas a la acuicultura;;20
+v;;;487;Becas formación en el área de ordenación pesquera;;100
+v;;;488;Becas de perfeccionamiento en comercialización pesquera;;28,24
+;;;;TOTAL TRANSFERENCIAS CORRIENTES;;998,24
+ ; ;;;;;
+v;;;6;INVERSIONES REALES;;
+;;;62;Inversión nueva asociada al funcionamiento operativo de los servicios;;5
+;;;620;Inversión nueva asociada al funcionamiento operativo de los servicios;;5
+;;;63;Inversión de reposición asociada al funcionamiento operativo de los servicios;;150
+;;;630;Inversión de reposición asociada al funcionamiento operativo de los servicios;;150
+;;;64;Gastos de inversiones de carácter inmaterial;;22.424,00
+;;;640;Gastos en inversiones de carácter inmaterial;;22.424,00
+;;;;TOTAL INVERSIONES REALES;;22.579,00
+ ; ;;;;;
+v;;;7;TRANSFERENCIAS DE CAPITAL;;
+v;;;74;A Sociedades, Entidades Públicas Empresariales, Fundaciones y resto de entidades del Sector Público Estatal;;514
+v;;;742;Planes Nacionales de cultivos;;514
+v;;;75;A Comunidades Autónomas;;13.100,00
+v;;;755;Programa Operativo FEMP (Fondo Europeo Marítimo y de la Pesca) a CC.AA.;;13.100,00
+v;;;77;A empresas privadas;;20.010,83
+v;;;772;Ayudas desarrollo nueva OCM, productos pesqueros;;18.635,83
+v;;;774;Ayudas a programas operativos de la Unión Europea;;375
+v;;;777;Ayudas para compensar los efectos del Covid-19;;1.000,00
+;;;;TOTAL TRANSFERENCIAS DE CAPITAL;;33.624,83
+ ; ;;;;;
+;;;;TOTAL Mejora de estructuras y mercados pesqueros;;62.344,16
+ ; ;;;;;
+;;;;TOTAL DIRECCIÓN GENERAL DE ORDENACIÓN PESQUERA Y ACUICULTURA;;62.344,16
+ ; ;;;;;
+ ; ;;;;;
+;;;;TOTAL MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN;;1.079.852,46

@@ -1,0 +1,111 @@
+Servicio;Programa;Económica;Explicación;Total (miles €);Total (€)
+1;291M;10;Altos cargos;269,56;269.560,00
+1;291M;100;Retribuciones básicas y otras remuneraciones;269,56;269.560,00
+1;291M;10000;Retribuciones básicas;133,49;133.490,00
+1;291M;10001;Retribuciones complementarias;136,07;136.070,00
+1;291M;11;Personal eventual;539,57;539.570,00
+1;291M;11000;Retribuciones básicas;196,26;196.260,00
+1;291M;11001;Retribuciones complementarias;343,31;343.310,00
+1;291M;12;Funcionarios;13.383,77;13.383.770,00
+1;291M;120;Retribuciones básicas;4.283,28;4.283.280,00
+1;291M;121;Retribuciones complementarias;9.100,49;9.100.490,00
+1;291M;13;Laborales;1.437,60;1.437.600,00
+1;291M;130;Laboral fijo;1.369,86;1.369.860,00
+1;291M;131;Laboral eventual;67,74;67.740,00
+1;291M;15;Incentivos al rendimiento;3.857,08;3.857.080,00
+1;291M;150;Productividad;3.647,66;3.647.660,00
+1;291M;151;Gratificaciones;209,42;209.420,00
+1;291M;16;Cuotas, prestaciones y gastos sociales;3.933,01;3.933.010,00
+1;291M;16000;Seguridad Social;2.894,45;2.894.450,00
+1;291M;162;Gastos sociales del personal;1.038,56;1.038.560,00
+—;—;—;TOTAL GASTOS DE PERSONAL;23.420,59;23.420.590,00
+1;291M;20;Arrendamientos y cánones;1.254,49;1.254.490,00
+1;291M;21;Reparaciones, mantenimiento y conservación;2.329,03;2.329.030,00
+1;291M;22;Material, suministros y otros;15.463,08;15.463.080,00
+1;291M;23;Indemnizaciones por razón del servicio;1.232,50;1.232.500,00
+1;291M;24;Gastos de publicaciones;230;230.000,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;20.509,10;20.509.100,00
+1;291M;35;Intereses de demora y otros gastos financieros;70;70.000,00
+—;—;—;TOTAL GASTOS FINANCIEROS;70;70.000,00
+1;291M;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones;90;90.000,00
+1;291M;45;A Comunidades Autónomas;90;90.000,00
+1;291M;49;Al exterior;201,24;201.240,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;381,24;381.240,00
+1;291M;62;Inversión nueva operativa;1.060,00;1.060.000,00
+1;291M;63;Inversión de reposición operativa;11.721,00;11.721.000,00
+1;291M;64;Gastos de inversiones de carácter inmaterial;500;500.000,00
+—;—;—;TOTAL INVERSIONES REALES;13.281,00;13.281.000,00
+1;291M;83;Concesión de préstamos fuera del Sector Público;50;50.000,00
+1;291M;84;Constitución de depósitos y fianzas;5;5.000,00
+—;—;—;TOTAL ACTIVOS FINANCIEROS;55;55.000,00
+—;—;—;TOTAL Dirección y Servicios Generales de la Inclusión, Seguridad Social y Migración;57.716,93;57.716.930,00
+—;—;—;TOTAL MINISTERIO, SUBSECRETARÍA Y SERVICIOS GENERALES;57.716,93;57.716.930,00
+2;212A;48;A familias e instituciones sin fines de lucro;4.100,00;4.100.000,00
+2;212A;481;Prestaciones asistenciales;4.100,00;4.100.000,00
+2;212A;48100;A ancianos y enfermos incapacitados para el trabajo;4.100,00;4.100.000,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;4.100,00;4.100.000,00
+—;—;—;TOTAL Pensiones no contributivas y prestaciones asistenciales;4.100,00;4.100.000,00
+2;219N;12;Funcionarios;4.047,84;4.047.840,00
+2;219N;13;Laborales;443,55;443.550,00
+2;219N;16;Cuotas sociales;475,65;475.650,00
+—;—;—;TOTAL GASTOS DE PERSONAL;4.967,04;4.967.040,00
+—;—;—;TOTAL Gestión de pensiones de Clases Pasivas;4.967,04;4.967.040,00
+2;231G;87;Aportaciones patrimoniales;1.800,00;1.800.000,00
+2;231G;875;Fondo de Garantía del Pago de Alimentos;1.800,00;1.800.000,00
+—;—;—;TOTAL ACTIVOS FINANCIEROS;1.800,00;1.800.000,00
+—;—;—;TOTAL Atención a la infancia y a las familias;1.800,00;1.800.000,00
+2;291M;10–16;Altos cargos, eventual, funcionarios, laborales, cuotas sociales;6.001,61;6.001.610,00
+—;—;—;TOTAL GASTOS DE PERSONAL;6.001,61;6.001.610,00
+—;—;—;TOTAL Dirección y Servicios Generales de la Inclusión, Seguridad Social y Migración;6.001,61;6.001.610,00
+2;000X;42;A la Seguridad Social;34.721.929,32;34.721.929.320,00
+2;000X;72;A la Seguridad Social (capital);1.240,20;1.240.200,00
+2;000X;82;Préstamos al Sector Público;10.003.806,15;10.003.806.150,00
+—;—;—;TOTAL Transferencias y libramientos internos;44.726.975,67;44.726.975.670,00
+—;—;—;TOTAL SECRETARÍA DE ESTADO DE SEGURIDAD SOCIAL Y PENSIONES;44.743.844,32;44.743.844.320,00
+3;231B;12;Funcionarios;1.385,56;1.385.560,00
+3;231B;16;Seguridad Social;150,63;150.630,00
+—;—;—;TOTAL GASTOS DE PERSONAL;1.536,19;1.536.190,00
+3;231B;22;Reuniones, conferencias y otros trabajos;622,21;622.210,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;622,21;622.210,00
+3;231B;48;Pensión asistencial y otras ayudas;8.780,00;8.780.000,00
+3;231B;49;Prestaciones por razón de necesidad y ayudas al exterior;49.557,79;49.557.790,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;58.337,79;58.337.790,00
+—;—;—;TOTAL Acciones en favor de los emigrantes;60.496,19;60.496.190,00
+3;231H;10–16;Altos cargos, funcionarios, laborales, cuotas sociales;16.128,93;16.128.930,00
+—;—;—;TOTAL GASTOS DE PERSONAL;16.128,93;16.128.930,00
+3;231H;20–23;Arrendamientos, suministros, comunicaciones, tributos, concierto social;692.213,89;692.213.890,00
+—;—;—;TOTAL GASTOS CORRIENTES EN BIENES Y SERVICIOS;692.213,89;692.213.890,00
+3;231H;45–49;Ayudas y subvenciones en favor de inmigrantes y refugiados;62.050,00;62.050.000,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;62.050,00;62.050.000,00
+3;231H;62–63;Inversión nueva y reposición operativa;250;250.000,00
+—;—;—;TOTAL INVERSIONES REALES;250;250.000,00
+3;231H;78;Proyectos de atención a inmigrantes;300;300.000,00
+—;—;—;TOTAL TRANSFERENCIAS DE CAPITAL;300;300.000,00
+—;—;—;TOTAL Acciones en favor de los inmigrantes;771.942,82;771.942.820,00
+3;291M;10–16;Altos cargos, eventual, funcionarios, laborales, cuotas sociales;4.018,78;4.018.780,00
+—;—;—;TOTAL GASTOS DE PERSONAL;4.018,78;4.018.780,00
+—;—;—;TOTAL Dirección y Servicios Generales de la Inclusión, Seguridad Social y Migración;4.018,78;4.018.780,00
+4;232E;10;Altos cargos;71,16;71.160,00
+4;232E;10000;Retribuciones básicas;19,34;19.340,00
+4;232E;10001;Retribuciones complementarias;51,82;51.820,00
+4;232E;12;Funcionarios;1.824,42;1.824.420,00
+4;232E;12000;Sueldos grupo A1 y A;203,67;203.670,00
+4;232E;12001;Sueldos grupo A2 y B;205;205.000,00
+4;232E;12002;Sueldos grupo C1 y C;52,3;52.300,00
+4;232E;12003;Sueldos grupo C2 y D;75;75.000,00
+4;232E;12005;Trienios;185,45;185.450,00
+4;232E;12006;Pagas extraordinarias;123;123.000,00
+4;232E;12100;Complemento de destino;412;412.000,00
+4;232E;12101;Complemento específico;563;563.000,00
+4;232E;13;Laborales;146,59;146.590,00
+4;232E;13000;Retribuciones básicas;103,59;103.590,00
+4;232E;13001;Otras remuneraciones;43;43.000,00
+4;232E;16;Seguridad Social;296,66;296.660,00
+4;232E;16000;Cuotas sociales;296,66;296.660,00
+—;—;—;TOTAL GASTOS DE PERSONAL;2.338,83;2.338.830,00
+4;232E;44;A Sociedades, Entidades Públicas Empresariales, Fundaciones;90;90.000,00
+4;232E;440;Subvenciones a universidades públicas para prácticas;90;90.000,00
+—;—;—;TOTAL TRANSFERENCIAS CORRIENTES;90;90.000,00
+—;—;—;TOTAL Análisis y definición de objetivos y políticas de Inclusión;2.428,83;2.428.830,00
+—;—;—;TOTAL SECRETARÍA GENERAL DE INCLUSIÓN;2.428,83;2.428.830,00
+;;;;109.989.034,05;109.989.034.050,00
