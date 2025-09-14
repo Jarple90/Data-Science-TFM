@@ -1,6 +1,6 @@
 import pandas as pd
 
-ruta = r"R:\Data Science TFM\Año 2024 Presupuestos\Series Roja\Sección 24. MINISTERIO DE CULTURA\Estado de Gastos\18_ministerio_cultura.CSV"
+ruta = r"R:\Data Science TFM\Año 2025 Presupuestos\Serie Roja\Sección 24. MINISTERIO DE CULTURA\Estado de Gastos\18_ministerio_cultura.CSV"
 # Leer el CSV con punto y coma como separador
 df = pd.read_csv(ruta, encoding="latin1", sep=";")
 

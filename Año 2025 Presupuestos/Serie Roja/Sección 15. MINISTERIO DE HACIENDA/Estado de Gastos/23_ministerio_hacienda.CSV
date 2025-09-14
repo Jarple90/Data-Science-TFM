@@ -1,14 +1,9 @@
-;PRESUPUESTOS GENERALES DEL ESTADO;;;;;;
-;ESTADO, OO.AA., RESTO DE ENTIDADES DE DERECHO PÚBLICO DEL SECTOR PÚBLICO ADMINISTRATIVO ESTATAL CON PRESUPUESTO LIMITATIVO Y S.SOCIAL;;;;;;
-;Resumen orgánico económico del presupuesto de gastos;;;;;;
-;;;;;;;
-;Sección: 15 MINISTERIO DE HACIENDA;;;;;;
 Económica;Explicación;15.01;15.02;15.05;15.06;Total (miles euros);Total (euros)
 1;GASTOS DE PERSONAL;130.217,17;9.414,25;11.006,66;3.693,95;154.332,03;154.332.030,00
 10;Altos cargos;269,6;61,05;80,31;61,05;472,01;472.010,00
 11;Personal eventual;321,42;;235,54;;556,96;556.960,00
 12;Funcionarios;101.715,79;8.242,47;2.436,73;3.280,00;115.674,99;115.674.990,00
-13;Laborales;5.330,49;430,73;52,12;27,90;5.841,24;5.841.240,00
+13;Laborales;5.330,49;430,73;52,12;27,9;5.841,24;5.841.240,00
 15;Incentivos al rendimiento;16.742,12;;8.071,96;;24.814,08;24.814.080,00
 16;Cuotas, prestaciones y gastos sociales a cargo del empleador;5.837,75;680;130;325;6.972,75;6.972.750,00
 2;GASTOS CORRIENTES EN BIENES Y SERVICIOS;66.770,44;904,27;213,82;372,71;68.261,24;68.261.240,00
@@ -25,7 +20,7 @@ Económica;Explicación;15.01;15.02;15.05;15.06;Total (miles euros);Total (euros)
 48;A familias e instituciones sin fines de lucro;30.533,73;;;;30.533,73;30.533.730,00
 49;Al exterior;;;363,74;;363,74;363.740,00
 6;INVERSIONES REALES;10.931,80;575,72;;;11.507,52;11.507.520,00
-62;Inversión nueva asociada al funcionamiento operativo;20,00;42,34;;;62,34;62.340,00
+62;Inversión nueva asociada al funcionamiento operativo;20;42,34;;;62,34;62.340,00
 63;Inversión de reposición asociada al funcionamiento operativo;10.911,80;47,5;;;10.959,30;10.959.300,00
 64;Gastos de inversiones de carácter inmaterial;;485,88;;;485,88;485.880,00
 8;ACTIVOS FINANCIEROS;3.604,35;;;;3.604,35;3.604.350,00
