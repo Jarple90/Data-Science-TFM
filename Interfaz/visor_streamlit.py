@@ -1,29 +1,34 @@
+### Para activar el proyecto, siga estas indicaciones y disfrute del programa en el localhost ###
 # cd "R:\Data Science TFM\Interfaz"
 # python -m streamlit run visor_streamlit.py
-import streamlit as st
-import pandas as pd
-import os
-import importlib.util
-import plotly.express as px
 
-from PIL import Image
+### Importamos librería ###
 
-# Configuración general
+import streamlit as st  # para crear la interfaz web interactiva del dashboard
+import pandas as pd  # para manipulación y análisis de datos tabulares
+import os # para operaciones con rutas, archivos y carpetas del sistema
+import importlib.util # para cargar módulos dinámicamente desde rutas especicifas 
+import plotly.express as px # para generar gráficos interactivos y visualizaciones avanzadas
+
+from PIL import Image  # para cargar y mostrar imágenes (por ejemplo, logos)
+
+# Configuración general del dashboard: título de la pestaña y diseño ancho
 st.set_page_config(page_title="TFM · Presupuestos Generales del Estado", layout="wide")
 
-# Logo institucional
-logo_ucm = Image.open("logo_ucm.png")
-st.image(logo_ucm, width=120)
+# Carga del logo institucional desde archivo local
+logo_ucm = Image.open("logo_ucm.png")  # Asegúrate de que el archivo esté en la misma carpeta o ruta correcta
+st.image(logo_ucm, width=120)          # Muestra el logo con ancho fijo en píxeles
 
-# Encabezado tipo dashboard
+# Encabezado principal del dashboard con estilo HTML personalizado
 st.markdown("""
 <div style='text-align:center; padding:10px;'>
-    <h1 style='color:#00BFFF;'>📊 Presupuestos Generales del Estado</h1>
-    <h3 style='color:gray;'>TFM · Data Science, Big Data & Business Analytics</h3>
-    <p style='font-size:16px;'>Autor: <strong>José Antonio Romero Pérez</strong> · 📍 Málaga · 🗓️ Septiembre 2025</p>
+    <h1 style='color:#00BFFF;'>📊 Presupuestos Generales del Estado</h1>  <!-- Título principal -->
+    <h3 style='color:gray;'>TFM · Data Science, Big Data & Business Analytics</h3>  <!-- Subtítulo académico -->
+    <p style='font-size:16px;'>Autor: <strong>José Antonio Romero Pérez</strong> · 📍 Málaga · 🗓️ Septiembre 2025</p>  <!-- Datos del autor -->
 </div>
 """, unsafe_allow_html=True)
 
+# Descripción institucional del proyecto con fondo claro y borde
 st.markdown("""
 <div style='background-color:#F9F9F9; padding:15px; border-radius:8px; border:1px solid #DDD;'>
     <p style='color:#333333; font-size:16px;'>
@@ -37,11 +42,11 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Ruta raíz
-ruta_tfm = r"R:\Data Science TFM"
+# Ruta raíz del proyecto
+ruta_tfm = r"R:\Data Science TFM"  # Ruta donde se almacenan los presupuestos por año y serie
 
 # Función para cargar archivo
-def cargar_archivo(ruta_archivo):
+def cargar_archivo(ruta_archivo): # Carga archivos .py (buscando un DataFrame dentro del módulo) o .csv con codificación latina
     df = None
     if ruta_archivo.endswith(".py"):
         try:
@@ -63,8 +68,8 @@ def cargar_archivo(ruta_archivo):
             st.error(f"Error al leer el archivo CSV: {e}")
     return df
 
-# Limpieza de columnas numéricas
-def limpiar_columnas_numericas(df):
+# Limpieza de columnas numéricas 
+def limpiar_columnas_numericas(df): # Convierte columnas con nombres como "importe", "total", "euros", etc. a formato numérico estándar
     df_limpio = df.copy()
     for col in df.columns:
         if any(palabra in col.lower() for palabra in ["importe", "total", "euros", "gasto", "presupuesto"]):
@@ -91,7 +96,10 @@ nivel_base = None
 if serie_base == "Serie Verde":
     nivel_base = st.selectbox("🏛️ Nivel institucional", ["ESTADO", "ORGANISMOS AUTÓNOMOS", "RESTO DE ENTIDADES"])
 
-# Navegación por carpetas
+# Navegación por carpetas 
+# Permite seleccionar año, serie (Roja o Verde), nivel institucional (si aplica), sección y documento
+# Construye la ruta final al archivo presupuestario
+
 if serie_base == "Serie Roja":
     ruta_base = os.path.join(ruta_tfm, año_base, serie_base)
     secciones = [d for d in os.listdir(ruta_base) if os.path.isdir(os.path.join(ruta_base, d))]
@@ -107,6 +115,8 @@ else:
     ruta_documento = os.path.join(ruta_base, carpeta)
 
 # Cargar archivo
+# Carga el archivo seleccionado y lo limpia si es válido
+# Muestra mensaje de éxito o error según el resultado
 archivos = [f for f in os.listdir(ruta_documento) if f.endswith(".csv") or f.endswith(".py")]
 if not archivos:
     st.error(f"No hay archivos válidos en {ruta_documento}")
@@ -146,16 +156,16 @@ if df_base is not None and not df_base.empty:
     else:
         st.markdown("<div style='color:orange;'>⚠️ Este documento no contiene columnas numéricas agrupables.</div>", unsafe_allow_html=True)
 
-    # Guardar en session_state para comparación
+    # Guardar en session_state para comparación, y poder comparar los datos bases y el año
     st.session_state["df_base"] = df_base.copy()
     st.session_state["año_base"] = año_base
 else:
     st.markdown("<div style='color:red;'>❌ El archivo está vacío o no se pudo cargar correctamente.</div>", unsafe_allow_html=True)
-# 📊 Comparación con otro presupuesto
+# 📊 Comparación con otro presupuesto, para comparar los distintos años
 st.markdown("---")
 st.markdown("## 🔄 Comparación entre presupuestos")
 
-# Verifica que el presupuesto base esté cargado
+# Verifica que el presupuesto base esté cargado, comprobación
 if "df_base" not in st.session_state or st.session_state["df_base"] is None:
     st.markdown("<div style='color:orange;'>⚠️ Primero debes cargar un presupuesto base en la sección superior.</div>", unsafe_allow_html=True)
     st.stop()
